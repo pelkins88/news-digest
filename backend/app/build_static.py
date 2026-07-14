@@ -10,7 +10,7 @@ from .fetch import Article, fetch_all, load_feeds
 
 logger = logging.getLogger(__name__)
 
-RAW_ITEM_LIMIT = 48  # up to 6 per feed across 8 configured feeds
+RAW_ITEM_LIMIT = 80  # up to 10 per feed across 8 configured feeds
 MAX_ARTICLE_AGE = timedelta(days=3)
 OUTPUT_PATH = BACKEND_DIR.parent / "docs" / "data" / "latest.json"
 

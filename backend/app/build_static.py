@@ -2,7 +2,7 @@ import hashlib
 import json
 import logging
 from dataclasses import asdict
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 from .config import BACKEND_DIR
@@ -10,7 +10,8 @@ from .fetch import Article, fetch_all, load_feeds
 
 logger = logging.getLogger(__name__)
 
-RAW_ITEM_LIMIT = 144  # up to 18 per feed across 8 configured feeds
+RAW_ITEM_LIMIT = 48  # up to 6 per feed across 8 configured feeds
+MAX_ARTICLE_AGE = timedelta(days=3)
 OUTPUT_PATH = BACKEND_DIR.parent / "docs" / "data" / "latest.json"
 
 
@@ -59,10 +60,34 @@ def article_to_dict(article: Article) -> dict:
     return d
 
 
+def is_recent(item: dict, now: datetime, max_age: timedelta) -> bool:
+    published_at = item.get("published_at")
+    if not published_at:
+        # A handful of feed entries omit a publish date. Rather than
+        # silently dropping otherwise-valid articles, give them the
+        # benefit of the doubt and keep them.
+        return True
+    try:
+        published = datetime.fromisoformat(published_at)
+    except ValueError:
+        return True
+    return (now - published) <= max_age
+
+
 def build(output_path: Path = OUTPUT_PATH) -> int:
     articles = fetch_all()
     items = [article_to_dict(a) for a in articles]
     items.sort(key=lambda i: i["published_at"] or "", reverse=True)
+
+    now = datetime.now(timezone.utc)
+    before_age_filter = len(items)
+    items = [i for i in items if is_recent(i, now, MAX_ARTICLE_AGE)]
+    logger.info(
+        "Age filter (<= %d days): kept %d of %d articles",
+        MAX_ARTICLE_AGE.days,
+        len(items),
+        before_age_filter,
+    )
 
     source_order = [feed["name"] for feed in load_feeds()]
     selected = round_robin(items, source_order, RAW_ITEM_LIMIT)

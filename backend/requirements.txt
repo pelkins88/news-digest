@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+feedparser
+anthropic
+python-dotenv
+apscheduler

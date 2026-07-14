@@ -1,0 +1,40 @@
+name: Update news data
+
+on:
+  schedule:
+    # Times are UTC and don't shift for daylight saving. These correspond to
+    # 7:00 AM / 4:00 PM Eastern during EDT (UTC-4, roughly mid-March to
+    # early November). During EST (UTC-5, winter) the actual local times
+    # drift an hour earlier (6:00 AM / 3:00 PM ET). Not adjusted for
+    # simplicity — a twice-daily personal news digest doesn't need
+    # minute-perfect timing.
+    - cron: "0 11 * * *"
+    - cron: "0 20 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r backend/requirements-static.txt
+
+      - name: Fetch articles and build static data
+        run: python backend/run_build_static.py
+
+      - name: Commit updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/data/latest.json
+          git diff --staged --quiet || git commit -m "Update articles $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push

@@ -1,0 +1,10 @@
+[
+  {"name": "WRAL Local", "url": "http://www.wral.com/news/rss/142/"},
+  {"name": "WRAL Weather", "url": "https://www.wral.com/news/rss/91/"},
+  {"name": "Wired", "url": "https://www.wired.com/feed/rss"},
+  {"name": "NPR Politics", "url": "https://feeds.npr.org/1014/rss.xml"},
+  {"name": "NPR National", "url": "https://www.npr.org/rss/rss.php?id=1003"},
+  {"name": "ESPN", "url": "https://www.espn.com/espn/rss/news"},
+  {"name": "BBC World", "url": "http://feeds.bbci.co.uk/news/world/rss.xml"},
+  {"name": "Science Daily", "url": "https://www.sciencedaily.com/rss/all.xml"}
+]

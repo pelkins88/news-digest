@@ -1,0 +1,700 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>News Digest</title>
+<link rel="manifest" href="./static/manifest.json">
+<link rel="icon" href="./static/icons/icon-192.png">
+<link rel="apple-touch-icon" href="./static/icons/icon-180.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="News">
+<meta name="theme-color" content="#1c1c1e">
+<style>
+  :root { color-scheme: light dark; }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+    background: #f5f5f7;
+    color: #1c1c1e;
+    -webkit-font-smoothing: antialiased;
+  }
+  header {
+    position: sticky;
+    top: 0;
+    background: #f5f5f7;
+    padding: 20px 16px 12px;
+    max-width: 640px;
+    margin: 0 auto;
+    z-index: 1;
+  }
+  header h1 {
+    font-size: 1.4rem;
+    margin: 0 0 4px;
+  }
+  header p {
+    margin: 0;
+    color: #6e6e73;
+    font-size: 0.85rem;
+  }
+  .toolbar {
+    max-width: 640px;
+    margin: 0 auto;
+    padding: 0 16px 10px;
+    display: flex;
+    gap: 8px;
+    flex-wrap: wrap;
+  }
+  .toolbar select,
+  .toolbar input[type="search"] {
+    flex: 1;
+    min-width: 0;
+    font-size: 0.85rem;
+    font-family: inherit;
+    padding: 8px 10px;
+    border-radius: 10px;
+    border: 1px solid rgba(120,120,128,0.3);
+    background: #fff;
+    color: #1c1c1e;
+  }
+  .toolbar button {
+    appearance: none;
+    border: none;
+    background: #1c1c1e;
+    color: #fff;
+    font-size: 0.85rem;
+    font-weight: 600;
+    padding: 8px 16px;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+  .toolbar button.secondary-btn {
+    flex: 1;
+    background: rgba(120,120,128,0.14);
+    color: #1c1c1e;
+  }
+  .toolbar button:disabled { opacity: 0.6; cursor: default; }
+  .mute-panel {
+    max-width: 640px;
+    margin: 0 auto;
+    padding: 0 16px 10px;
+  }
+  .mute-panel-inner {
+    background: #fff;
+    border-radius: 12px;
+    padding: 12px 14px;
+    box-shadow: 0 1px 2px rgba(0,0,0,0.06);
+  }
+  .mute-panel-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 0.85rem;
+    font-weight: 600;
+    margin-bottom: 8px;
+  }
+  .mute-panel-close {
+    appearance: none;
+    border: none;
+    background: none;
+    font-size: 1.1rem;
+    line-height: 1;
+    color: #6e6e73;
+    cursor: pointer;
+    padding: 2px 6px;
+  }
+  .mute-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 6px 0;
+    font-size: 0.85rem;
+    border-top: 1px solid rgba(120,120,128,0.14);
+  }
+  .mute-row:first-child { border-top: none; }
+  .mute-remove-btn {
+    appearance: none;
+    border: none;
+    background: rgba(209,68,68,0.12);
+    color: #c0392b;
+    font-size: 0.72rem;
+    font-weight: 600;
+    padding: 4px 10px;
+    border-radius: 999px;
+    cursor: pointer;
+  }
+  .banner {
+    max-width: 640px;
+    margin: 0 auto;
+    padding: 0 16px 4px;
+  }
+  .banner p {
+    margin: 0 0 12px;
+    padding: 10px 12px;
+    background: #fff4e5;
+    color: #8a5a00;
+    border-radius: 10px;
+    font-size: 0.82rem;
+    line-height: 1.4;
+  }
+  main {
+    max-width: 640px;
+    margin: 0 auto;
+    padding: 8px 16px 40px;
+  }
+  .card {
+    background: #fff;
+    border-left: 4px solid #ccc;
+    border-radius: 12px;
+    padding: 14px 16px;
+    margin-bottom: 12px;
+    box-shadow: 0 1px 2px rgba(0,0,0,0.06);
+    transition: opacity 0.2s ease;
+  }
+  .card.read { opacity: 0.55; }
+  .meta {
+    font-size: 0.78rem;
+    color: #6e6e73;
+    margin-bottom: 6px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    align-items: center;
+  }
+  .dot {
+    display: inline-block;
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background: currentColor;
+  }
+  .source { font-weight: 600; color: #444; }
+  .badge {
+    font-size: 0.7rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.02em;
+    padding: 2px 7px;
+    border-radius: 999px;
+    background: #e8f0fe;
+    color: #1a56db;
+  }
+  .card h2 {
+    font-size: 1.02rem;
+    line-height: 1.35;
+    margin: 0 0 6px;
+  }
+  .card h2 a {
+    color: #1c1c1e;
+    text-decoration: none;
+  }
+  .card h2 a:hover { text-decoration: underline; }
+  .snippet {
+    font-size: 0.88rem;
+    line-height: 1.4;
+    color: #48484a;
+    margin: 0 0 10px;
+  }
+  .actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+  .hide-btn, .mute-btn, .save-btn, .remove-saved-btn {
+    appearance: none;
+    border: none;
+    background: rgba(120,120,128,0.14);
+    color: #6e6e73;
+    font-size: 0.76rem;
+    font-weight: 600;
+    padding: 5px 12px;
+    border-radius: 999px;
+    cursor: pointer;
+  }
+  .hide-btn:hover, .mute-btn:hover, .save-btn:hover, .remove-saved-btn:hover {
+    background: rgba(120,120,128,0.24);
+  }
+  .hide-btn:disabled, .mute-btn:disabled, .save-btn:disabled, .remove-saved-btn:disabled {
+    opacity: 0.5; cursor: default;
+  }
+  .status {
+    text-align: center;
+    color: #6e6e73;
+    padding: 40px 16px;
+    font-size: 0.9rem;
+  }
+  @media (prefers-color-scheme: dark) {
+    body { background: #000; color: #f2f2f7; }
+    header { background: #000; }
+    .card { background: #1c1c1e; box-shadow: none; }
+    .card h2 a { color: #f2f2f7; }
+    .snippet { color: #c7c7cc; }
+    .banner p { background: #3a2e13; color: #f2c96b; }
+    .badge { background: #17335c; color: #a9c6ff; }
+    .hide-btn, .mute-btn, .save-btn, .remove-saved-btn { background: rgba(120,120,128,0.24); color: #c7c7cc; }
+    .hide-btn:hover, .mute-btn:hover, .save-btn:hover, .remove-saved-btn:hover { background: rgba(120,120,128,0.36); }
+    .toolbar select, .toolbar input[type="search"] { background: #1c1c1e; color: #f2f2f7; border-color: rgba(120,120,128,0.4); }
+    .toolbar button { background: #f2f2f7; color: #1c1c1e; }
+    .toolbar button.secondary-btn { background: rgba(120,120,128,0.24); color: #f2f2f7; }
+    .mute-panel-inner { background: #1c1c1e; box-shadow: none; }
+    .mute-panel-close { color: #c7c7cc; }
+    .mute-row { border-top-color: rgba(120,120,128,0.24); }
+    .mute-remove-btn { background: rgba(209,68,68,0.22); color: #ff8a75; }
+  }
+</style>
+</head>
+<body>
+<header>
+  <h1>News Digest</h1>
+  <p id="updated">Loading&hellip;</p>
+</header>
+<div class="toolbar">
+  <select id="feedSelect">
+    <option value="">All feeds</option>
+    <option value="__saved__">View Saved</option>
+  </select>
+  <button id="applyFilter">Apply</button>
+</div>
+<div class="toolbar">
+  <input type="search" id="searchInput" placeholder="Search articles…">
+</div>
+<div class="toolbar">
+  <button id="refreshBtn" class="secondary-btn">Refresh</button>
+  <button id="manageMutesBtn" class="secondary-btn">Manage Filters</button>
+</div>
+<div class="mute-panel" id="mutePanel" hidden>
+  <div class="mute-panel-inner">
+    <div class="mute-panel-header">
+      <span>Muted keywords</span>
+      <button class="mute-panel-close" id="closeMutePanel">&times;</button>
+    </div>
+    <div id="muteList"></div>
+  </div>
+</div>
+<div class="banner" id="banner"></div>
+<main id="main">
+  <div class="status">Loading latest articles&hellip;</div>
+</main>
+<script>
+  // This page is a static site (GitHub Pages) — there is no live backend.
+  // A scheduled job regenerates ./data/latest.json twice a day; everything
+  // interactive (Hide, Don't care, Save, read-tracking) lives entirely in
+  // this browser's localStorage. Nothing here syncs across devices.
+
+  // One accent color per feed so cards are easy to tell apart at a glance.
+  // dark/light are separate so both color schemes stay readable.
+  const SOURCE_COLORS = {
+    "ESPN":          { accent: "#e0654a", dark: "#2a1712", light: "#fdecec" },
+    "WRAL Local":    { accent: "#4a90d9", dark: "#12203a", light: "#eaf2fb" },
+    "WRAL Weather":  { accent: "#2fb8a6", dark: "#0f2a28", light: "#e7f8f5" },
+    "Wired":         { accent: "#a56de0", dark: "#22163a", light: "#f3ebfb" },
+    "NPR Politics":  { accent: "#5b7cd6", dark: "#101a30", light: "#eaeefc" },
+    "NPR National":  { accent: "#8a94a6", dark: "#1c1f26", light: "#eef0f3" },
+    "BBC World":     { accent: "#d1447a", dark: "#2a1220", light: "#fbeaf1" },
+    "Science Daily": { accent: "#4caf6e", dark: "#122a1c", light: "#eaf7ee" },
+  };
+  const DEFAULT_COLOR = { accent: "#8a94a6", dark: "#1c1f26", light: "#eef0f3" };
+  const isDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
+
+  const READ_KEY = "news_read_ids";
+  const HIDDEN_KEY = "news_hidden_ids";
+  const SAVED_KEY = "news_saved_ids";
+  const MUTED_KEY = "news_muted_keywords";
+
+  // ---- State ----
+  let currentData = null;   // last fetch of ./data/latest.json
+  let viewMode = "feed";    // "feed" | "saved"
+  let sourceFilter = "";    // active feed name filter, "" = all
+  let searchQuery = "";
+
+  let readIds = loadIdSet(READ_KEY);
+  let hiddenIds = loadIdSet(HIDDEN_KEY);
+  let savedIds = loadIdSet(SAVED_KEY);
+  let mutedKeywords = loadMutedKeywords();
+
+  function colorFor(source) {
+    return SOURCE_COLORS[source] || DEFAULT_COLOR;
+  }
+
+  function timeAgo(iso) {
+    if (!iso) return "";
+    const then = new Date(iso).getTime();
+    const diffMin = Math.round((Date.now() - then) / 60000);
+    if (diffMin < 1) return "just now";
+    if (diffMin < 60) return diffMin + " min ago";
+    const diffHr = Math.round(diffMin / 60);
+    if (diffHr < 24) return diffHr + " hr ago";
+    const diffDay = Math.round(diffHr / 24);
+    return diffDay + " day" + (diffDay === 1 ? "" : "s") + " ago";
+  }
+
+  function escapeHtml(s) {
+    return (s || "").replace(/[&<>"']/g, (c) => ({
+      "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;",
+    }[c]));
+  }
+
+  // Pull a likely topic word out of a title to pre-fill the "Don't care"
+  // prompt — catches acronyms like MMA, UFC, NBA, NFL, WNBA automatically.
+  function guessKeyword(title) {
+    const match = (title || "").match(/\b[A-Z]{2,}\b/);
+    return match ? match[0] : "";
+  }
+
+  // ---- localStorage-backed state (per-device, nothing syncs) ----
+  function loadIdSet(key) {
+    try {
+      const raw = localStorage.getItem(key);
+      return raw ? new Set(JSON.parse(raw)) : new Set();
+    } catch (err) {
+      return new Set();
+    }
+  }
+
+  function saveIdSet(key, set) {
+    try {
+      localStorage.setItem(key, JSON.stringify([...set]));
+    } catch (err) { /* localStorage unavailable — state just won't persist */ }
+  }
+
+  function loadMutedKeywords() {
+    try {
+      const raw = localStorage.getItem(MUTED_KEY);
+      return raw ? JSON.parse(raw) : [];
+    } catch (err) {
+      return [];
+    }
+  }
+
+  function saveMutedKeywords() {
+    try {
+      localStorage.setItem(MUTED_KEY, JSON.stringify(mutedKeywords));
+    } catch (err) { /* localStorage unavailable */ }
+  }
+
+  function isRead(id) { return readIds.has(String(id)); }
+
+  function markRead(card) {
+    const id = card.dataset.id;
+    if (!id || readIds.has(String(id))) return;
+    readIds.add(String(id));
+    saveIdSet(READ_KEY, readIds);
+    card.classList.add("read");
+  }
+
+  // ---- Rendering ----
+  function renderCard(item, mode, view) {
+    const title = escapeHtml(item.title);
+    const source = escapeHtml(item.source);
+    const link = escapeHtml(item.link);
+    const date = (item.published_at || "").slice(0, 10);
+    const rawSnippet = mode === "digest" ? item.summary : item.summary_raw;
+    const snippet = escapeHtml(rawSnippet);
+    const badge = mode === "digest" && item.category
+      ? `<span class="badge">${escapeHtml(item.category)}</span>`
+      : "";
+    const color = colorFor(item.source);
+    const bg = isDark ? color.dark : color.light;
+    const style = `border-left-color: ${color.accent}; background: ${bg};`;
+    const guess = escapeHtml(guessKeyword(item.title));
+    const readClass = isRead(item.id) ? " read" : "";
+
+    let actionsHtml;
+    if (view === "saved") {
+      actionsHtml = `
+        <div class="actions">
+          <button class="remove-saved-btn" data-id="${item.id}">Remove from Saved</button>
+        </div>
+      `;
+    } else {
+      // Saving removes the article from the main feed (baseItems() excludes
+      // anything in savedIds), so there's no "already saved" state to show
+      // here — the card is gone once you save it.
+      actionsHtml = `
+        <div class="actions">
+          <button class="hide-btn" data-id="${item.id}">Hide</button>
+          <button class="mute-btn" data-mute-guess="${guess}">Don't care</button>
+          <button class="save-btn" data-id="${item.id}">Save</button>
+        </div>
+      `;
+    }
+
+    return `
+      <article class="card${readClass}" data-id="${item.id}" style="${style}">
+        <div class="meta">
+          <span class="dot" style="color: ${color.accent};"></span>
+          <span class="source">${source}</span>
+          <span>&middot;</span>
+          <span>${date}</span>
+          ${badge}
+        </div>
+        <h2><a href="${link}" target="_blank" rel="noopener">${title}</a></h2>
+        <p class="snippet">${snippet ? snippet.slice(0, 220) : ""}</p>
+        ${actionsHtml}
+      </article>
+    `;
+  }
+
+  function fadeOutCard(card) {
+    card.style.opacity = "0";
+    setTimeout(() => {
+      card.remove();
+      // If that was the last visible card, show the proper empty-state
+      // message instead of leaving a blank area.
+      if (document.querySelectorAll("#main .card").length === 0) {
+        renderCurrentView();
+      }
+    }, 200);
+  }
+
+  function baseItems() {
+    if (!currentData || !currentData.items) return [];
+
+    if (viewMode === "saved") {
+      return currentData.items.filter((item) => savedIds.has(String(item.id)));
+    }
+
+    let items = currentData.items.filter(
+      (item) => !hiddenIds.has(String(item.id)) && !savedIds.has(String(item.id))
+    );
+    if (sourceFilter) {
+      items = items.filter((item) => item.source === sourceFilter);
+    }
+    if (mutedKeywords.length > 0) {
+      const patterns = mutedKeywords.map(
+        (kw) => new RegExp(`\\b${kw.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")}\\b`, "i")
+      );
+      items = items.filter((item) => {
+        const text = `${item.title || ""} ${item.summary || item.summary_raw || ""}`;
+        return !patterns.some((p) => p.test(text));
+      });
+    }
+    return items;
+  }
+
+  function applySearch(items) {
+    if (!searchQuery) return items;
+    const q = searchQuery.toLowerCase();
+    return items.filter((item) => {
+      const text = `${item.title || ""} ${item.summary || item.summary_raw || ""}`.toLowerCase();
+      return text.includes(q);
+    });
+  }
+
+  function renderCurrentView() {
+    const mainEl = document.getElementById("main");
+    const items = applySearch(baseItems());
+    const mode = currentData ? currentData.mode : "raw";
+
+    if (items.length === 0) {
+      let msg = "No articles from this feed right now.";
+      if (viewMode === "saved") msg = "No saved articles yet. Tap Save on an article to add it here.";
+      else if (searchQuery) msg = "No articles match your search.";
+      mainEl.innerHTML = `<div class="status">${msg}</div>`;
+      return;
+    }
+
+    mainEl.innerHTML = items.map((item) => renderCard(item, mode, viewMode)).join("");
+    wireCardButtons(mainEl);
+  }
+
+  function wireCardButtons(mainEl) {
+    mainEl.querySelectorAll(".hide-btn").forEach((btn) => {
+      btn.addEventListener("click", () => hideArticle(btn));
+    });
+    mainEl.querySelectorAll(".mute-btn").forEach((btn) => {
+      btn.addEventListener("click", () => dontCareAboutArticle(btn));
+    });
+    mainEl.querySelectorAll(".save-btn").forEach((btn) => {
+      btn.addEventListener("click", () => saveArticle(btn));
+    });
+    mainEl.querySelectorAll(".remove-saved-btn").forEach((btn) => {
+      btn.addEventListener("click", () => removeFromSaved(btn));
+    });
+    mainEl.querySelectorAll(".card h2 a").forEach((a) => {
+      a.addEventListener("click", () => markRead(a.closest(".card")));
+    });
+  }
+
+  function currentFilterValue() {
+    const select = document.getElementById("feedSelect");
+    return select ? select.value : "";
+  }
+
+  function populateFeedFilter() {
+    const select = document.getElementById("feedSelect");
+    if (!select || !currentData) return;
+    const seen = new Set();
+    const sources = [];
+    currentData.items.forEach((item) => {
+      if (!seen.has(item.source)) {
+        seen.add(item.source);
+        sources.push(item.source);
+      }
+    });
+    const previousValue = select.value;
+    select.innerHTML =
+      `<option value="">All feeds</option>` +
+      `<option value="__saved__">View Saved</option>` +
+      sources.map((s) => `<option value="${escapeHtml(s)}">${escapeHtml(s)}</option>`).join("");
+    if ([...select.options].some((o) => o.value === previousValue)) {
+      select.value = previousValue;
+    }
+  }
+
+  // ---- Actions (all localStorage, no network) ----
+  function hideArticle(button) {
+    const id = String(button.dataset.id);
+    hiddenIds.add(id);
+    saveIdSet(HIDDEN_KEY, hiddenIds);
+    const card = button.closest(".card");
+    if (card) fadeOutCard(card);
+  }
+
+  function dontCareAboutArticle(button) {
+    const guess = button.dataset.muteGuess || "";
+    const input = window.prompt(
+      "Hide articles like this from now on. What word or topic should we filter out?",
+      guess
+    );
+    if (input === null) return; // user cancelled
+    const keyword = input.trim().toLowerCase();
+    if (!keyword || mutedKeywords.includes(keyword)) return;
+
+    mutedKeywords.push(keyword);
+    saveMutedKeywords();
+    renderCurrentView();
+  }
+
+  function saveArticle(button) {
+    const id = String(button.dataset.id);
+    savedIds.add(id);
+    saveIdSet(SAVED_KEY, savedIds);
+    const card = button.closest(".card");
+    if (card) fadeOutCard(card);
+  }
+
+  function removeFromSaved(button) {
+    const id = String(button.dataset.id);
+    savedIds.delete(id);
+    saveIdSet(SAVED_KEY, savedIds);
+    const card = button.closest(".card");
+    if (card) fadeOutCard(card);
+  }
+
+  function applyCurrentFilter() {
+    const value = currentFilterValue();
+    if (value === "__saved__") {
+      viewMode = "saved";
+    } else {
+      viewMode = "feed";
+      sourceFilter = value;
+    }
+    renderCurrentView();
+  }
+
+  async function refreshNow() {
+    const btn = document.getElementById("refreshBtn");
+    btn.disabled = true;
+    btn.textContent = "Checking…";
+    try {
+      await load();
+      btn.textContent = "Up to date";
+    } catch (err) {
+      console.error(err);
+      btn.textContent = "Failed";
+    } finally {
+      setTimeout(() => {
+        btn.textContent = "Refresh";
+        btn.disabled = false;
+      }, 2000);
+    }
+  }
+
+  function refreshMuteList() {
+    const listEl = document.getElementById("muteList");
+    if (mutedKeywords.length === 0) {
+      listEl.innerHTML = `<div class="status">No muted keywords yet.</div>`;
+      return;
+    }
+    listEl.innerHTML = mutedKeywords
+      .map(
+        (kw) => `
+      <div class="mute-row">
+        <span>${escapeHtml(kw)}</span>
+        <button class="mute-remove-btn" data-keyword="${escapeHtml(kw)}">Remove</button>
+      </div>
+    `
+      )
+      .join("");
+    listEl.querySelectorAll(".mute-remove-btn").forEach((btn) => {
+      btn.addEventListener("click", () => removeMutedKeyword(btn.dataset.keyword));
+    });
+  }
+
+  function removeMutedKeyword(keyword) {
+    mutedKeywords = mutedKeywords.filter((kw) => kw !== keyword);
+    saveMutedKeywords();
+    refreshMuteList();
+    renderCurrentView(); // previously-filtered articles reappear immediately
+  }
+
+  async function load() {
+    const updatedEl = document.getElementById("updated");
+    const bannerEl = document.getElementById("banner");
+    const mainEl = document.getElementById("main");
+    try {
+      // Cache-bust so a re-check always sees the latest committed snapshot,
+      // not a stale cached copy from earlier in the day.
+      const res = await fetch(`./data/latest.json?t=${Date.now()}`, { cache: "no-store" });
+      if (!res.ok) throw new Error("Request failed: " + res.status);
+      currentData = await res.json();
+
+      updatedEl.textContent = currentData.generated_at
+        ? "Updated " + timeAgo(currentData.generated_at)
+        : "No articles yet";
+
+      if (currentData.mode === "raw") {
+        bannerEl.innerHTML = `<p>Showing raw fetched articles. AI-curated summaries aren't enabled yet.</p>`;
+      } else {
+        bannerEl.innerHTML = "";
+      }
+
+      populateFeedFilter();
+      renderCurrentView();
+    } catch (err) {
+      mainEl.innerHTML = `<div class="status">Couldn't load articles.</div>`;
+      updatedEl.textContent = "";
+      console.error(err);
+    }
+  }
+
+  document.getElementById("applyFilter").addEventListener("click", applyCurrentFilter);
+
+  document.getElementById("searchInput").addEventListener("input", (e) => {
+    searchQuery = e.target.value.trim();
+    renderCurrentView();
+  });
+
+  document.getElementById("refreshBtn").addEventListener("click", refreshNow);
+
+  document.getElementById("manageMutesBtn").addEventListener("click", () => {
+    const panel = document.getElementById("mutePanel");
+    if (panel.hidden) {
+      panel.hidden = false;
+      refreshMuteList();
+    } else {
+      panel.hidden = true;
+    }
+  });
+
+  document.getElementById("closeMutePanel").addEventListener("click", () => {
+    document.getElementById("mutePanel").hidden = true;
+  });
+
+  load();
+</script>
+</body>
+</html>

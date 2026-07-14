@@ -2,6 +2,7 @@ import html
 import json
 import logging
 import re
+import time
 from dataclasses import dataclass
 from datetime import datetime, timezone
 from time import struct_time
@@ -15,6 +16,14 @@ from .db import get_connection, init_db
 logger = logging.getLogger(__name__)
 
 TAG_RE = re.compile(r"<[^>]+>")
+
+# feedparser's default User-Agent honestly identifies itself as a feed
+# reader. Tried swapping in a spoofed browser UA to dodge suspected bot
+# blocking, but that backfired — ESPN's feed reliably returns zero entries
+# for the spoofed UA and reliably works with the honest one. Don't
+# reintroduce a custom agent without re-testing against all feeds first.
+FETCH_RETRIES = 3
+FETCH_RETRY_DELAY_SECONDS = 3
 
 
 @dataclass
@@ -47,9 +56,21 @@ def parsed_time_to_iso(t: Optional[struct_time]) -> Optional[str]:
 
 
 def fetch_feed(name: str, url: str) -> list[Article]:
-    parsed = feedparser.parse(url)
-    if parsed.bozo and not parsed.entries:
-        logger.warning("Failed to parse feed %s (%s): %s", name, url, parsed.get("bozo_exception"))
+    # Retry on *any* empty result, not just parse errors — a feed can return
+    # a well-formed but empty response (bozo=False, zero entries) during a
+    # transient block/rate-limit, which isn't a parse failure at all.
+    parsed = None
+    for attempt in range(1, FETCH_RETRIES + 1):
+        parsed = feedparser.parse(url)
+        if parsed.entries:
+            break
+        reason = f": {parsed.get('bozo_exception')}" if parsed.bozo else " (empty response)"
+        logger.warning("Attempt %d/%d for feed %s (%s) returned no entries%s", attempt, FETCH_RETRIES, name, url, reason)
+        if attempt < FETCH_RETRIES:
+            time.sleep(FETCH_RETRY_DELAY_SECONDS)
+
+    if not parsed.entries:
+        logger.warning("Giving up on feed %s (%s) after %d attempts", name, url, FETCH_RETRIES)
         return []
 
     articles = []

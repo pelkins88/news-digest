@@ -1,14 +1,126 @@
 {
   "mode": "raw",
-  "generated_at": "2026-07-20T23:34:36.802886+00:00",
+  "generated_at": "2026-07-21T16:07:36.187968+00:00",
   "items": [
     {
       "source": "WRAL Local",
-      "title": "Eight arrested after alleged plot to smuggle drugs, contraband into Halifax County Detention Center",
-      "link": "https://www.wral.com/news/local/eight-arrested-after-alleged-plot-to-smuggle-drugs-contraband-into-halifax-county-detention-center-july-20-2026/",
-      "published_at": "2026-07-20T21:57:10+00:00",
-      "summary_raw": "Ten identified, eight arrested after an alleged plot to smuggle drugs and contraband into the Halifax County Detention Center, according to the Halifax County Sheriff's Office.",
-      "id": "9955386bd688"
+      "title": "NC Patriot Guard to escort fallen Goldsboro Air Force officer killed in June bomber crash",
+      "link": "https://www.wral.com/news/local/air-force-major-alexander-davis-goldsboro-b-52-crash-memorial-july-2026/",
+      "published_at": "2026-07-21T15:02:22+00:00",
+      "summary_raw": "The NC Patriot Guard will escort the remains of Major Alexander Davis on Tuesday at 12:50 p.m. Davis was an NC State grad from Goldsboro, North Carolina, and was one of eight crewmembers killed after a B-52 crashed in June.",
+      "id": "82bbe872a773"
+    },
+    {
+      "source": "WRAL Weather",
+      "title": "Lightning topples tree, igniting natural gas line near Harnett County home",
+      "link": "https://www.wral.com/weather/lightning-ignites-gas-line-harnett-county-july-2026/",
+      "published_at": "2026-07-21T12:17:15+00:00",
+      "summary_raw": "Piedmont Natural Gas said crews were able to safely extinguish the line before any further damage was done.",
+      "id": "c7134b9e535d"
+    },
+    {
+      "source": "Wired",
+      "title": "Nvidia Wants to Own Every Chip Inside AI Data Centers",
+      "link": "https://www.wired.com/story/nvidia-wants-to-own-every-chip-inside-an-ai-data-center/",
+      "published_at": "2026-07-21T15:00:00+00:00",
+      "summary_raw": "Nvidia’s Vera Rubin platform combines CPUs and GPUs into a single system, reflecting the company’s growing ambition to power every layer of AI infrastructure.",
+      "id": "6b725b35d199"
+    },
+    {
+      "source": "NPR Politics",
+      "title": "Defense Secretary Pete Hegseth goes to the Hill with $350B funding request",
+      "link": "https://www.npr.org/2026/07/21/nx-s1-5900838/defense-secretary-pete-hegseth-goes-to-the-hill-with-350b-funding-request",
+      "published_at": "2026-07-21T10:41:41+00:00",
+      "summary_raw": "Defense secretary Pete Hegseth will appear on the Hill on Tuesday. He's looking for a $350 billion funding boost, as the war Iran once again flares up with no end in sight.",
+      "id": "97a2258070f3"
+    },
+    {
+      "source": "NPR National",
+      "title": "Man accused of setting a fire outside a federal building in New York City",
+      "link": "https://www.npr.org/2026/07/21/nx-s1-5900932/man-accused-of-setting-a-fire-outside-a-federal-building-in-new-york-city",
+      "published_at": "2026-07-21T10:41:33+00:00",
+      "summary_raw": "Authorities detained a former U.S. Army soldier who is accused of starting a fire and shooting a pellet gun outside of a federal building in New York City that houses an immigration court.",
+      "id": "54f5b82cc50a"
+    },
+    {
+      "source": "BBC World",
+      "title": "Lebanese army says troops deploying in 'pilot zone' after Israeli withdrawal",
+      "link": "https://www.bbc.co.uk/news/articles/cy8mynlmn55o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-21T16:03:22+00:00",
+      "summary_raw": "A US-brokered agreement should see Israeli troops pulling out of a small part of Lebanon occupied during their conflict with Hezbollah.",
+      "id": "1b030e9adb09"
+    },
+    {
+      "source": "Science Daily",
+      "title": "Watching too much TV in midlife may shrink the brain",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260721000822.htm",
+      "published_at": "2026-07-21T13:29:24+00:00",
+      "summary_raw": "Watching television very often in midlife may be linked to troubling brain changes decades later. In a study of about 1,700 adults, frequent TV viewers later showed smaller brain regions involved in memory, decision-making, and visual processing, along with more signs of damage in the brain’s white matter. Surprisingly, sitting itself did not appear to be the main issue, since people who spent long hours seated at mentally engaging jobs often showed healthier brain patterns.",
+      "id": "dd55122315d5"
+    },
+    {
+      "source": "WRAL Local",
+      "title": "Cyclospora in NC: State reports 561 cyclosporiasis cases since May",
+      "link": "https://www.wral.com/news/state/cyclospora-in-nc-state-reports-561-cyclosporiasis-july-2026/",
+      "published_at": "2026-07-21T14:59:21+00:00",
+      "summary_raw": "North Carolina has reported 561 cases of cyclosporiasis since May, according to state data. There have been 254 new cases reported since the last update on July 14.",
+      "id": "4cc4e1bd419b"
+    },
+    {
+      "source": "WRAL Weather",
+      "title": "Ask the Meteorologist: Why do storms sound louder at night?",
+      "link": "https://www.wral.com/weather/ask-the-meteorologist-storms-louder-night/",
+      "published_at": "2026-07-21T08:36:36+00:00",
+      "summary_raw": "It's partially our mind playing tricks, and it's partially atmospheric science. Storms can sound louder at night!",
+      "id": "67066bb3d9a1"
+    },
+    {
+      "source": "Wired",
+      "title": "The Light Flip Is the Stylish Dumb Flip Phone of Your Dreams",
+      "link": "https://www.wired.com/story/light-flip-is-the-modern-stylish-dumb-flip-phone-of-your-luddite-dreams/",
+      "published_at": "2026-07-21T15:00:00+00:00",
+      "summary_raw": "A flip phone with 5G, USB-C, a headphone jack, and a removable battery? Say it ain’t so.",
+      "id": "d090e689efbd"
+    },
+    {
+      "source": "NPR Politics",
+      "title": "Sen. Chris Murphy on the Iran war and Pete Hegseth's upcoming Senate testimony",
+      "link": "https://www.npr.org/2026/07/21/nx-s1-5900980/sen-chris-murphy-on-the-iran-war-and-pete-hegseths-upcoming-senate-testimony",
+      "published_at": "2026-07-21T10:41:37+00:00",
+      "summary_raw": "NPR's Michel Martin speaks with Sen. Chris Murphy, D-Conn., about the escalating war in the Middle East and the testimony of Defense Secretary Pete Hegseth in front of a Senate panel on Tuesday.",
+      "id": "f8c1b9392569"
+    },
+    {
+      "source": "NPR National",
+      "title": "Trump imposes 50% tariffs on Canadian goods",
+      "link": "https://www.npr.org/2026/07/21/nx-s1-5901905/trump-imposes-tariffs-canadian-goods",
+      "published_at": "2026-07-21T10:31:34+00:00",
+      "summary_raw": "President Donald Trump on Monday imposed 50% tariffs on most Canadian goods, declaring that Canada has unfairly discriminated against American autos, alcohol and dairy products.",
+      "id": "7e489ac3687c"
+    },
+    {
+      "source": "BBC World",
+      "title": "Brazil's Amazon sees sharp decline in size of area burned in 2025",
+      "link": "https://www.bbc.co.uk/news/articles/cqx78eplqqlo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-21T15:57:29+00:00",
+      "summary_raw": "The amount of land burned in the world's largest rainforest was the smallest since MapBiomas records began in 1985.",
+      "id": "0865dfdda955"
+    },
+    {
+      "source": "Science Daily",
+      "title": "Ancient mystery on K’gari as world’s largest sand island lakes dried up during rainy era",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260719231654.htm",
+      "published_at": "2026-07-21T12:55:59+00:00",
+      "summary_raw": "Ancient sediment reveals that some of K’gari’s deepest lakes vanished around 7,500 years ago, despite unusually heavy rainfall. The surprising discovery suggests changing winds and future climate shifts could threaten the sacred lakes known as the Eyes of K’gari.",
+      "id": "f70f3ed0362d"
+    },
+    {
+      "source": "WRAL Local",
+      "title": "Falls Lake rises another 1% as recent rainfall boosts water levels",
+      "link": "https://www.wral.com/news/local/falls-lake-rise-recent-rainfall-boosts-water-levels-july-2026/",
+      "published_at": "2026-07-21T14:53:39+00:00",
+      "summary_raw": "Falls Lake continues to recover as recent rainfall pushes the reservoir to 66% full. While the region remains in a drought, the lake has gained four percentage points over the past two weeks.",
+      "id": "fb82cdf5230b"
     },
     {
       "source": "WRAL Weather",
@@ -20,11 +132,155 @@
     },
     {
       "source": "Wired",
-      "title": "The Galaxy Card Is Samsung’s Answer to the Apple Card",
-      "link": "https://www.wired.com/story/galaxy-card-is-samsung-answer-to-the-apple-card/",
-      "published_at": "2026-07-20T21:00:00+00:00",
-      "summary_raw": "Directly added to your Samsung Wallet account, it’s yet another cash-back credit card, this time tailored for Samsung stans.",
-      "id": "9868bd402633"
+      "title": "The Great Peptide Cash Grab Has Begun",
+      "link": "https://www.wired.com/story/fda-peptide-decision-telehealth-companies-cashing-in/",
+      "published_at": "2026-07-21T13:45:49+00:00",
+      "summary_raw": "The FDA could decide whether to loosen rules around peptide production this week. Some telehealth players are already seeing dollar signs.",
+      "id": "40df855e5f54"
+    },
+    {
+      "source": "NPR Politics",
+      "title": "Trump imposes 50% tariffs on Canadian goods",
+      "link": "https://www.npr.org/2026/07/21/nx-s1-5901905/trump-imposes-tariffs-canadian-goods",
+      "published_at": "2026-07-21T10:31:34+00:00",
+      "summary_raw": "President Donald Trump on Monday imposed 50% tariffs on most Canadian goods, declaring that Canada has unfairly discriminated against American autos, alcohol and dairy products.",
+      "id": "7e489ac3687c"
+    },
+    {
+      "source": "NPR National",
+      "title": "How soccer brings a Bhutanese community together in Harrisburg, Pa.",
+      "link": "https://www.npr.org/sections/the-picture-show/2026/07/21/nx-s1-5897423/soccer-in-us-nepali-bhutanese-community",
+      "published_at": "2026-07-21T10:30:00+00:00",
+      "summary_raw": "Harrisburg is home to one of the nation's largest communities of Nepali-speaking Bhutanese refugees and their families. Through soccer, generations have found connection, belonging and a way to carry forward a shared history.",
+      "id": "1056b473a097"
+    },
+    {
+      "source": "BBC World",
+      "title": "Israeli air strike in Gaza City kills family of six, medics say",
+      "link": "https://www.bbc.co.uk/news/articles/c0qv0pdj18go?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-21T15:54:11+00:00",
+      "summary_raw": "Firas al-Masri, his wife and their four children died in the attack, which the Israeli military says targeted a Hamas operative.",
+      "id": "411fd214b0dc"
+    },
+    {
+      "source": "Science Daily",
+      "title": "China’s Chang’e-6 reveals why solar wind hits the Moon’s two sides differently",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260718010145.htm",
+      "published_at": "2026-07-21T12:39:35+00:00",
+      "summary_raw": "China’s Chang’e-6 samples have uncovered a surprising difference between the Moon’s two hemispheres. Solar wind particles penetrated deeper into the far-side soil because Earth’s magnetosphere slows the particles that reach the near side. Noble gases locked inside the lunar regolith preserved evidence of this uneven bombardment. These gases may even help scientists reconstruct the ancient history of Earth’s magnetic shield.",
+      "id": "729ed4f6e412"
+    },
+    {
+      "source": "WRAL Local",
+      "title": "Second Fort Bragg soldier killed in action in Iraq identified: 'He loved his wife and two children'",
+      "link": "https://www.wral.com/news/local/fort-bragg-fayetteville-soldier-killed-in-iraq-july-2026/",
+      "published_at": "2026-07-21T12:38:52+00:00",
+      "summary_raw": "Sgt. Michael Emmanuel Swinton, 30, of Fayetteville, North Carolina, was killed in action during a controlled detonation of ordinance from a downed Iranian drone.",
+      "id": "a8c2ad1f36a8"
+    },
+    {
+      "source": "Wired",
+      "title": "Halliday’s New Smart Glasses Skip the Camera",
+      "link": "https://www.wired.com/story/halliday-new-smart-glasses-skip-the-camera/",
+      "published_at": "2026-07-21T13:00:00+00:00",
+      "summary_raw": "Halliday’s G2 glasses can listen to and summarize your workplace meetings—with no video involved.",
+      "id": "1494a3ee262a"
+    },
+    {
+      "source": "NPR Politics",
+      "title": "Arizona primaries set the stage for contested fall races in a swing state",
+      "link": "https://www.npr.org/2026/07/21/nx-s1-5901065/midterms-primaries-arizona-elections",
+      "published_at": "2026-07-21T09:00:00+00:00",
+      "summary_raw": "Arizona Democrats choose who can try to flip a Republican-held House seat, and Republicans pick their nominee to try to unseat a Democratic governor.",
+      "id": "d8099dee4017"
+    },
+    {
+      "source": "NPR National",
+      "title": "Amid nurse shortage, a university rolls out the welcome mat for men",
+      "link": "https://www.npr.org/2026/07/21/nx-s1-5869813/nursing-men-jobs-male-nurses",
+      "published_at": "2026-07-21T10:00:00+00:00",
+      "summary_raw": "Only about 1 in 8 nurses are men, but their share is growing. A strong job market for nurses and sustained efforts to recruit men into the field have made a difference, including in the South.",
+      "id": "ecf4b3d4a8c8"
+    },
+    {
+      "source": "BBC World",
+      "title": "Watch Texas police officer pull man from burning car",
+      "link": "https://www.bbc.co.uk/news/videos/clyej920j5po?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-21T13:01:09+00:00",
+      "summary_raw": "Bodycam and dashcam footage shows a police officer rescue a man seconds before his car was engulfed in flames in Texas.",
+      "id": "7f11069f0023"
+    },
+    {
+      "source": "Science Daily",
+      "title": "Astronomers find the first atmosphere on a rocky world in the habitable zone",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260721000825.htm",
+      "published_at": "2026-07-21T10:57:41+00:00",
+      "summary_raw": "Astronomers have found the first confirmed atmosphere around a rocky planet in another star’s habitable zone. The planet, LHS 1140 b, revealed its atmosphere through helium slowly leaking into space. Located 48 light-years away, the world may have preserved its atmosphere for billions of years, making it a promising target in the search for potentially habitable planets.",
+      "id": "6ca398e2a92c"
+    },
+    {
+      "source": "WRAL Local",
+      "title": "Holly Springs officer honored for pulling 11-year-old boy from icy pond",
+      "link": "https://www.wral.com/news/local/holly-springs-officer-honored-pulling-boy-icy-pond-july-2026/",
+      "published_at": "2026-07-21T12:17:52+00:00",
+      "summary_raw": "A Holly Springs police officer will be honored on Tuesday for his heroic actions in January.",
+      "id": "0fc49401fabf"
+    },
+    {
+      "source": "Wired",
+      "title": "8 Best Smartwatches (2026): Apple, Google, and Hybrid Watches",
+      "link": "https://www.wired.com/gallery/best-smartwatches/",
+      "published_at": "2026-07-21T12:02:00+00:00",
+      "summary_raw": "These WIRED-tested wearables reduce your reliance on a phone while keeping you connected.",
+      "id": "f8a36f45fc9b"
+    },
+    {
+      "source": "NPR Politics",
+      "title": "New Air Force One going out of commission to get safety upgrades",
+      "link": "https://www.npr.org/2026/07/21/nx-s1-5901113/new-air-force-one-going-out-of-commission-to-get-safety-upgrades",
+      "published_at": "2026-07-21T08:44:35+00:00",
+      "summary_raw": "The new Air Force One is going out of commission to receive safety upgrades. What needs to be done and was it safe for President Trump to fly the plane to Turkey earlier this month?",
+      "id": "ce2cf903749f"
+    },
+    {
+      "source": "NPR National",
+      "title": "A homeless man was charged with a felony for camping. He's one of the first",
+      "link": "https://www.npr.org/2026/07/21/nx-s1-5887358/tennessee-homeless-arrest-felony-camping-ban",
+      "published_at": "2026-07-21T09:00:00+00:00",
+      "summary_raw": "When Joseph Lamont Williams refused to leave the public park where he has lived for years, he was charged with a felony. Camping bans are on the rise as states seek to crack down on homelessness.",
+      "id": "5a38d56271b2"
+    },
+    {
+      "source": "BBC World",
+      "title": "Dozens hurt in Bologna protests after man dies while being restrained by police",
+      "link": "https://www.bbc.co.uk/news/articles/c86nwgw148xo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-21T12:48:37+00:00",
+      "summary_raw": "Thousands of people took to the streets demanding justice for a Moroccan-born man who died on Sunday.",
+      "id": "e3368c8d2660"
+    },
+    {
+      "source": "Science Daily",
+      "title": "Ancient DNA reveals a chilling secret at China’s 4,000-year-old Shimao city",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260721000828.htm",
+      "published_at": "2026-07-21T08:59:24+00:00",
+      "summary_raw": "Ancient DNA from China’s vast 4,000-year-old Shimao settlement is revealing how one of East Asia’s earliest complex societies was organized. Researchers found that its people were largely descended from local Yellow River farming communities, but also had genetic ties to distant southern and steppe populations, pointing to extensive prehistoric contact.",
+      "id": "5d83bc23f0ef"
+    },
+    {
+      "source": "WRAL Local",
+      "title": "Special agents raid, shut down Triangle business tied to recent violence",
+      "link": "https://www.wral.com/news/local/durham-raid-illegal-alcohol-sales-ellis-road-july-2026/",
+      "published_at": "2026-07-21T11:57:45+00:00",
+      "summary_raw": "Agents say the raid was part of a larger operation cracking down on criminal activity associated with licensed and illegal alcohol outlets.",
+      "id": "d34e0d4b32de"
+    },
+    {
+      "source": "Wired",
+      "title": "The Best Smart Home Accessories to Boost Your Curb Appeal (2026)",
+      "link": "https://www.wired.com/story/smart-home-curb-appeal-looks/",
+      "published_at": "2026-07-21T11:02:00+00:00",
+      "summary_raw": "These locks, lights, and other smart home upgrades let you add automation without messing up your home’s vibe.",
+      "id": "48c8735b83ef"
     },
     {
       "source": "NPR Politics",
@@ -36,51 +292,43 @@
     },
     {
       "source": "NPR National",
-      "title": "At Mississippi funeral, civil rights leaders call for justice for Nolan Wells, 18",
-      "link": "https://www.npr.org/2026/07/20/nx-s1-5897559/at-mississippi-funeral-civil-rights-leaders-call-for-justice-for-nolan-wells-18",
-      "published_at": "2026-07-20T20:55:52+00:00",
-      "summary_raw": "The parents of Nolan Wells, who was found dead on Horn Island in Mississippi, will hold a funeral for the 19-year-old on Monday. Wells was with friends for the Fourth of July and did not return home.",
-      "id": "2b81b24ac010"
+      "title": "Arizona primaries set the stage for contested fall races in a swing state",
+      "link": "https://www.npr.org/2026/07/21/nx-s1-5901065/midterms-primaries-arizona-elections",
+      "published_at": "2026-07-21T09:00:00+00:00",
+      "summary_raw": "Arizona Democrats choose who can try to flip a Republican-held House seat, and Republicans pick their nominee to try to unseat a Democratic governor.",
+      "id": "d8099dee4017"
     },
     {
       "source": "BBC World",
-      "title": "Trump imposes 50% tariff on Canadian imports",
-      "link": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-20T22:26:34+00:00",
-      "summary_raw": "The duties mark a major escalation in trade tensions between the North American neighbours.",
-      "id": "1be920008e9c"
+      "title": "Row escalates in Ukraine over army chief's future",
+      "link": "https://www.bbc.co.uk/news/articles/c7vgel8374yo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-21T12:33:15+00:00",
+      "summary_raw": "Protesters are demanding Oleksandr Syrskyi be removed and former defence minister Mykhailo Fedorov reinstated by Friday.",
+      "id": "17759c8ba2b4"
     },
     {
       "source": "Science Daily",
-      "title": "Scientists detect hidden skin damage before it becomes visible",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260716023554.htm",
-      "published_at": "2026-07-20T13:38:56+00:00",
-      "summary_raw": "Scientists have discovered a hidden warning sign of skin damage that appears before collagen fibers visibly thin, break, or lose their connections. Using advanced light-based techniques, the team found that collagen’s carefully organized molecular “handedness” can collapse even while the tissue still appears structurally intact and contains the same amount of collagen. This suggests that skin may begin deteriorating at a much deeper level long before conventional imaging can detect a problem.",
-      "id": "92832c9649dd"
+      "title": "A hidden “switch-off” signal could predict solar storms seven years early",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260721000818.htm",
+      "published_at": "2026-07-21T08:08:25+00:00",
+      "summary_raw": "A newly discovered turning point in the Sun’s 11-year cycle could allow scientists to predict future solar activity years earlier than before. At this “switch-off” point, the most violent space weather abruptly ends, and the remaining number of sunspots offers clues about the next cycle’s strength. Early projections suggest Solar Cycle 26 may be moderate, but a clearer forecast is expected in about two years.",
+      "id": "b8586d1aaab7"
     },
     {
       "source": "WRAL Local",
-      "title": "Driver in deadly accident operated his tow truck for 14 months without a license",
-      "link": "https://www.wral.com/news/local/driver-in-deadly-accident-operated-his-tow-truck-for-14-months-without-a-license/",
-      "published_at": "2026-07-20T21:14:44+00:00",
-      "summary_raw": "WRAL Investigates has learned the man who investigators say caused a deadly accident has a history of driving while impaired, and was operating his tow truck company for 14 months without a valid license.",
-      "id": "389ff0638252"
-    },
-    {
-      "source": "WRAL Weather",
-      "title": "How congress’s latest push to end the twice-yearly clock change could succeed",
-      "link": "https://www.wral.com/weather/sunslight-savings-act-july-2026/",
-      "published_at": "2026-07-18T00:17:17+00:00",
-      "summary_raw": "Congress has tried and failed before to standardize on daylight saving time, but bi partisan support of the improved bill has sparked cautious optimism that falling back and springing forward might no longer be necessary.",
-      "id": "72223937d98b"
+      "title": "Woman hit by car, killed on South Saunders Street in Raleigh",
+      "link": "https://www.wral.com/news/local/south-saunders-street-closed-pedestrian-crash-raleigh-july-2026/",
+      "published_at": "2026-07-21T09:22:45+00:00",
+      "summary_raw": "A woman was hit and killed by a car while crossing South Saunders Street early Tuesday morning.",
+      "id": "1925ee06cdc1"
     },
     {
       "source": "Wired",
-      "title": "The FDA Says It Didn't Apologize to Supplier Linked to Diarrhea Outbreak, Actually",
-      "link": "https://www.wired.com/story/taylor-farms-fda-explosive-diarrhea-tweets/",
-      "published_at": "2026-07-20T20:57:39+00:00",
-      "summary_raw": "The agency stressed that the July 17 voluntary recall from Taylor Farms still stands. The supplier has been linked to the ongoing cyclospora outbreak.",
-      "id": "19cf02e63b59"
+      "title": "Abdul El-Sayed Is an Epidemiologist Running for Senate. His State Is a Public Health Disaster",
+      "link": "https://www.wired.com/story/abdul-el-sayed-michigan-is-public-health-disaster/",
+      "published_at": "2026-07-21T11:00:00+00:00",
+      "summary_raw": "Michigan has been at the epicenter of the wildfire smoke and explosive diarrhea outbreaks. The progressive Democrat talks to WIRED about how he would tackle the forces behind them if he’s elected.",
+      "id": "6d30c1a1e1c3"
     },
     {
       "source": "NPR Politics",
@@ -92,43 +340,43 @@
     },
     {
       "source": "NPR National",
-      "title": "What led to the arrests of Andrew and Tristan Tate",
-      "link": "https://www.npr.org/2026/07/20/nx-s1-5884854/what-led-to-the-arrests-of-andrew-and-tristan-tate",
-      "published_at": "2026-07-20T20:49:51+00:00",
-      "summary_raw": "Andrew Tate and his brother Tristan were arrested in Miami and now face extradition. New Yorker reporter Heidi Blake talks about the new rape and human trafficking charges from British prosecutors.",
-      "id": "7e43bdf0199c"
+      "title": "Colorado wildfire victims return to their homes for the first time",
+      "link": "https://www.npr.org/2026/07/21/nx-s1-5900943/colorado-wildfire-victims-return-to-their-homes-for-the-first-time",
+      "published_at": "2026-07-21T08:44:20+00:00",
+      "summary_raw": "Colorado's biggest wildfire this year has destroyed more than 300 homes. People who lost them are just now being allowed back to their properties.",
+      "id": "6fd66026ac0e"
     },
     {
       "source": "BBC World",
-      "title": "Yemen's Houthis announce 'maritime embargo' on Saudi Arabia",
-      "link": "https://www.bbc.co.uk/news/articles/cm2gmddx1ldo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-20T21:30:19+00:00",
-      "summary_raw": "The Houthis say the embargo begins immediately and is a response to a Saudi blockade of ports and airports in Yemen.",
-      "id": "b0162b7cb963"
+      "title": "Shock and anger after top Ghanaian politician sentenced to 20 years for illegal mining",
+      "link": "https://www.bbc.co.uk/news/articles/cpvwnjllwvwo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-21T12:02:47+00:00",
+      "summary_raw": "Bernard Antwi Boasiako, known as \"Chairman Wontumi\", was also fined more than $10,000 (£7,450).",
+      "id": "5d5b48126e61"
     },
     {
       "source": "Science Daily",
-      "title": "Some dinosaurs could rise like giants until they grew too big",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260719231758.htm",
-      "published_at": "2026-07-20T13:23:44+00:00",
-      "summary_raw": "Two elephant-sized South American sauropods were unusually well built for standing on their hind legs. Digital tests showed that their robust femurs handled the enormous forces better than those of larger species, especially while the dinosaurs were young. The upright pose may have helped them reach treetops, frighten predators, or impress potential mates.",
-      "id": "c6cfa398bf10"
+      "title": "Scientists found mystery bacteria inside one of the ocean’s most elusive whales",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260721000847.htm",
+      "published_at": "2026-07-21T05:10:08+00:00",
+      "summary_raw": "Scientists studying decades of pygmy sperm whale strandings have uncovered three previously unknown types of Helicobacter bacteria hiding in the animals’ stomachs. All four infected whales showed serious digestive damage, including inflammation, ulcers, scarring, and parasite infestations, although the bacteria were not confirmed as the cause of death.",
+      "id": "b4f3dfe8ac2f"
     },
     {
       "source": "WRAL Local",
-      "title": "Cary reviews town-issued credit card rules after auditor's report",
-      "link": "https://www.wral.com/news/local/cary-credit-card-town-audit-july-2026/",
-      "published_at": "2026-07-20T21:06:08+00:00",
-      "summary_raw": "A total of 828 Cary employees had a town-issued credit card, also known as a purchasing card or P-Card, as of November 2025. Employees charged more than $24 million to the cards over a two-year period.",
-      "id": "7ec44cc0f38f"
+      "title": "Two people killed in head-on collision on I-587 in Wilson County",
+      "link": "https://www.wral.com/news/local/fatal-head-on-collision-i-587-wilson-county-2026-july/",
+      "published_at": "2026-07-21T03:17:27+00:00",
+      "summary_raw": "The North Carolina State Highway Patrol said two people died in a crash Monday just after 7 p.m. on I-587 in Wilson County.",
+      "id": "927615f6bfe0"
     },
     {
       "source": "Wired",
-      "title": "Fans Flocked to World Cup Host Cities—Causing 80 Percent of the Tournament’s Emissions",
-      "link": "https://www.wired.com/story/new-research-estimates-most-emissions-came-from-fan-travel/",
-      "published_at": "2026-07-20T19:43:44+00:00",
-      "summary_raw": "The latest estimates reveal that the majority of greenhouse gas emissions from large-scale events such as the FIFA World Cup stem from spectators traveling to host cities.",
-      "id": "24f2516c259d"
+      "title": "‘It’s a Modern-Day Draft’: Why Stanford Students Walked Out on Sundar Pichai’s Commencement Speech",
+      "link": "https://www.wired.com/story/big-interview-stanford-students-booing-sundar-pichai/",
+      "published_at": "2026-07-21T10:30:00+00:00",
+      "summary_raw": "Last month, more than a hundred Stanford students left their own graduation to protest Google’s military contracts and deals with ICE. Two organizers, Amanda Campos and Eva Jones, tell us why.",
+      "id": "eac059d8e48c"
     },
     {
       "source": "NPR Politics",
@@ -140,43 +388,43 @@
     },
     {
       "source": "NPR National",
-      "title": "'Adams Parachute' couldn't save his son, but a grieving father hopes it will help others with addiction",
-      "link": "https://www.npr.org/2026/07/20/nx-s1-5887523/adams-parachute-couldnt-save-his-son-but-a-grieving-father-hopes-it-will-help-others-with-addiction",
-      "published_at": "2026-07-20T19:56:45+00:00",
-      "summary_raw": "A father who lost his son to addiction found healing through fly fishing's meditative nature, now he shares it with people recovering from addiction.",
-      "id": "23bd4f1e9ae0"
+      "title": "Civil rights leaders call for justice at funeral for Mississippi teen",
+      "link": "https://www.npr.org/2026/07/21/nx-s1-5897596/civil-rights-leaders-call-for-justice-at-funeral-for-mississippi-teen",
+      "published_at": "2026-07-21T08:43:10+00:00",
+      "summary_raw": "Civil rights leaders called for justice Monday at the funeral of Nolan Wells, the 18-year-old who was found dead on Horn Island, Miss. He was with friends for Independence Day and did not return home.",
+      "id": "e2ca52db85dc"
     },
     {
       "source": "BBC World",
-      "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
-      "link": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-20T21:09:31+00:00",
-      "summary_raw": "The US says the attacks were aimed at degrading Iran's capabilities to attack ships in the Strait of Hormuz.",
-      "id": "8c6a97168f3b"
+      "title": "Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks",
+      "link": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-21T11:42:41+00:00",
+      "summary_raw": "The duties mark a major escalation in trade tensions between the North American neighbours.",
+      "id": "1be920008e9c"
     },
     {
       "source": "Science Daily",
-      "title": "Earth’s waters are quietly running out of oxygen, scientists warn",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260719035939.htm",
-      "published_at": "2026-07-20T12:29:38+00:00",
-      "summary_raw": "Oxygen is disappearing from oceans, lakes, rivers, and coastal waters at an alarming rate, threatening aquatic life and weakening the natural processes that help regulate Earth’s climate. Scientists warn that this widespread deoxygenation is closely connected to other major planetary threats, including warming, pollution, biodiversity loss, and ocean acidification.",
-      "id": "82ca031d89b8"
+      "title": "New molecular map reveals how the flu virus hijacks human cells",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260721000816.htm",
+      "published_at": "2026-07-21T04:59:11+00:00",
+      "summary_raw": "Scientists uncovered how influenza A commandeers human cells, including a surprising strategy that dissolves tiny structures in the nucleus and releases proteins the virus may use to reproduce. The detailed molecular map could reveal new drug targets and help researchers study dangerous flu strains such as H5N1.",
+      "id": "9001174c7afb"
     },
     {
       "source": "WRAL Local",
-      "title": "Why one North Carolina county said yes to Amazon's $10 billion data center",
-      "link": "https://www.wral.com/news/local/why-one-north-carolina-county-said-yes-to-amazon-10-billion-dollar-data-center-july-2026/",
-      "published_at": "2026-07-20T20:57:02+00:00",
-      "summary_raw": "Water, power and jobs all factored into Richmond County's decision to welcome Amazon's $10 billion data center while other communities said no.",
-      "id": "f827181b2248"
+      "title": "Intense storms bring flooding and downed trees to the Triangle; more expected Tuesday",
+      "link": "https://www.wral.com/news/local/tree-into-home-cary-outages-flooding-triangle-july-2026/",
+      "published_at": "2026-07-21T02:35:50+00:00",
+      "summary_raw": "From a tree into a Cary home to flooding in Raleigh and outages in and around the Triangle, strong storms brought damage and dangerous conditions to central North Carolina on Monday.",
+      "id": "dc59db123275"
     },
     {
       "source": "Wired",
-      "title": "Even Mild Sleep Deprivation May Lead to Weight Gain",
-      "link": "https://www.wired.com/story/even-mild-sleep-deprivation-may-lead-to-weight-gain/",
-      "published_at": "2026-07-20T19:06:08+00:00",
-      "summary_raw": "A recent study suggests that not getting enough sleep increases the risk of weight gain, and thus of conditions like heart disease and type 2 diabetes.",
-      "id": "83a780181747"
+      "title": "Stop Saying Kids Can’t Read",
+      "link": "https://www.wired.com/story/mississippi-state-testing-reading-comprehension-literacy/",
+      "published_at": "2026-07-21T10:00:00+00:00",
+      "summary_raw": "Everyone is talking about the reading crisis. But inside the “Mississippi Miracle,” it’s all about comprehension.",
+      "id": "a52b0bff14e7"
     },
     {
       "source": "NPR Politics",
@@ -188,43 +436,43 @@
     },
     {
       "source": "NPR National",
-      "title": "10 things that wowed us at the 2026 World Cup",
-      "link": "https://www.npr.org/2026/07/20/nx-s1-5892511/2026-world-cup-fifa-spain-argentina-tournament",
-      "published_at": "2026-07-20T19:56:44+00:00",
-      "summary_raw": "The United States, Mexico, and Canada co-hosted the nearly six-week tournament. NPR's team of journalists who covered the World Cup reflects on the experience.",
-      "id": "50d148aa5b27"
+      "title": "FDA still focused on Taylor Farms lettuce as Cyclospora source despite retracted test",
+      "link": "https://www.npr.org/2026/07/20/nx-s1-5901356/fda-focused-taylor-farms-lettuce-cyclospora-source-despite-retracted-test",
+      "published_at": "2026-07-21T00:36:28+00:00",
+      "summary_raw": "The FDA says lettuce distributed by Taylor Fresh Foods and Taylor Farms de Mexico is still linked to the multistate outbreak of cyclosporiasis. But the source may be difficult to definitively trace.",
+      "id": "8b90b2901ffc"
     },
     {
       "source": "BBC World",
-      "title": "Notorious drug cartel leader Ismael Zambada sentenced to life in US prison",
-      "link": "https://www.bbc.co.uk/news/articles/ce3q1d1ed5do?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-20T21:03:24+00:00",
-      "summary_raw": "Known as \"El Mayo\", the co-founder the Sinaloa Cartel was also ordered to pay $15bn after he admitted to sending vast amounts of drugs to the US.",
-      "id": "48780bdcd591"
+      "title": "Police officers arrested for allegedly seeking roadside bribe from Nigeria's anti-corruption boss",
+      "link": "https://www.bbc.co.uk/news/articles/c9q97028ex5o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-21T11:40:53+00:00",
+      "summary_raw": "They are accused of stopping Musa Aliyu at a fake roadblock and telling him to drive to a cash machine.",
+      "id": "16ef41c1f783"
     },
     {
       "source": "Science Daily",
-      "title": "Alzheimer’s breakthrough: Scientists restore two hours of sleep without clearing brain plaques",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260719035931.htm",
-      "published_at": "2026-07-20T10:05:34+00:00",
-      "summary_raw": "Researchers have uncovered a surprising culprit behind sleep loss in Alzheimer’s disease: the brain’s own immune cells. In mice with amyloid plaques, overactive microglia triggered inflammation that kept the brain from getting enough deep, restorative sleep. Temporarily removing most of these cells restored more than two hours of sleep per day, even though the plaques remained unchanged.",
-      "id": "c383e67d2798"
+      "title": "This food compound may help vaccines work better in older adults",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260719035951.htm",
+      "published_at": "2026-07-21T03:51:43+00:00",
+      "summary_raw": "A naturally occurring compound found in foods such as wheat germ, mushrooms, and aged cheese may help older adults build stronger protection after vaccination. In a small pilot trial, researchers gave spermidine supplements to adults over 65 following their third COVID-19 vaccine dose. The biggest improvements appeared among people whose immune systems initially responded poorly, with higher antibody levels and stronger activity against several variants.",
+      "id": "d826941a00f9"
     },
     {
       "source": "WRAL Local",
-      "title": "Fact-check: Trump administration says 250,000 noncitizens are registered to vote in 4 states",
-      "link": "https://www.wral.com/news/state/fact-check-trump-250000-noncitizens-registered-vote-july20/",
-      "published_at": "2026-07-20T20:11:01+00:00",
-      "summary_raw": "In a release of documents alongside President Donald Trump’s July 16 address, the Department of Homeland Security said “over 250,000 non-citizens are illegally registered to vote in just the four states.\"",
-      "id": "184a4bf0c45b"
+      "title": "Cumberland County weighs eight new private armed security guards for courthouse",
+      "link": "https://www.wral.com/news/local/cumberland-county-private-security-courthouse-shootings-july-2026/",
+      "published_at": "2026-07-20T23:41:44+00:00",
+      "summary_raw": "On the heels of two disturbing shootings at local courthouses, including last week in Wilson, the county commissioners in Cumberland County are discussing the courthouse security expansion by hiring eight armed security guards through Allied Universal.",
+      "id": "61678c969586"
     },
     {
       "source": "Wired",
-      "title": "The 35 Best Board Games for Family Game Night",
-      "link": "https://www.wired.com/gallery/best-family-board-games/",
-      "published_at": "2026-07-20T11:00:00+00:00",
-      "summary_raw": "From monsters to kittens to strategy games, these sets will liven things up on nights when everyone is tired of screens.",
-      "id": "3859f8b6acf1"
+      "title": "A Device Hidden in Cars Across the US Leaves Them Vulnerable to Hacking and Paralysis. Patch It Now",
+      "link": "https://www.wired.com/story/a-device-hidden-in-cars-across-the-us-leaves-them-vulnerable-to-hacking-and-paralysis-patch-it-now/",
+      "published_at": "2026-07-21T10:00:00+00:00",
+      "summary_raw": "Dealerships installed alarms in millions of vehicles—and left them in even if the buyer didn’t want them. Now researchers warn they can be hacked to unlock, track, and disable cars.",
+      "id": "c8c529c97a51"
     },
     {
       "source": "NPR Politics",
@@ -236,411 +484,163 @@
     },
     {
       "source": "NPR National",
-      "title": "India's Gen Z 'Cockroach People's Party' started as satire but is serious about change",
-      "link": "https://www.npr.org/2026/07/20/nx-s1-5889515/india-gen-z-cockroach-party-protests",
-      "published_at": "2026-07-20T16:36:04+00:00",
-      "summary_raw": "They call themselves the \"cockroaches\" and they're on the march — demanding action against corruption, amid a shortage of opportunities for young people in India.",
-      "id": "a5ccb0491f0f"
+      "title": "At Mississippi funeral, civil rights leaders call for justice for Nolan Wells, 18",
+      "link": "https://www.npr.org/2026/07/20/nx-s1-5897559/nolan-wells-sharpton-crump-funeral",
+      "published_at": "2026-07-20T20:55:52+00:00",
+      "summary_raw": "The parents of Nolan Wells, who was found dead on Horn Island in Mississippi, held a funeral for the 18-year-old on Monday. Wells was with friends for the Fourth of July and did not return home.",
+      "id": "bf0c30740862"
     },
     {
       "source": "BBC World",
-      "title": "Merger deal between Paramount and Warner Bros paused by judge",
-      "link": "https://www.bbc.co.uk/news/articles/c5ywxy41vg6o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-20T19:48:13+00:00",
-      "summary_raw": "US court temporarily stops Paramount and Warner Bros merging after 12 states launched legal action.",
-      "id": "3113157a1e0e"
+      "title": "Watch: Flooded towns and evacuations as Chile hit by heavy rain",
+      "link": "https://www.bbc.co.uk/news/videos/cy9wq8j2p7qo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-21T11:21:47+00:00",
+      "summary_raw": "A \"state of catastrophe\" has been declared in Coquimbo and Huasco following the downpour.",
+      "id": "f8a2aeddc681"
     },
     {
       "source": "Science Daily",
-      "title": "An ordinary laptop solved a problem thought to require a quantum computer",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260719040000.htm",
-      "published_at": "2026-07-20T07:40:09+00:00",
-      "summary_raw": "A quantum problem once described as impossible for classical computers has now been solved using relatively modest hardware. Researchers used tensor networks to compress the overwhelming wave function created by hundreds of entangled qubits, allowing some calculations to run on a laptop. Their results matched both theoretical predictions and simulations performed with a quantum computer. The method could open new paths for exploring quantum dynamics and materials.",
-      "id": "6369bd536783"
+      "title": "Dying Sun-like stars may kick themselves through space",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260719035942.htm",
+      "published_at": "2026-07-21T03:36:16+00:00",
+      "summary_raw": "Dying Sun-like stars may not fade away quietly. As blobs of gas erupt unevenly from their swollen surfaces, each burst gives the star a tiny push in the opposite direction. Thousands of these random kicks could eventually break apart distant stellar pairs or, in rare cases, drive two stars into a violent collision.",
+      "id": "8bd7e4579a23"
     },
     {
       "source": "WRAL Local",
-      "title": "Rocky Mount resumes utility disconnections, fees after months of exceptions due to billing issue",
-      "link": "https://www.wral.com/news/local/rocky-mount-resumes-utility-disconnections-fees-after-months-of-exceptions-due-to-billing-issues-july-2026/",
-      "published_at": "2026-07-20T20:09:03+00:00",
-      "summary_raw": "The City of Rocky Mount has resumed shutting off utilities and charging late fees after months of exceptions due to a utility billing issue that led to back bills.",
-      "id": "2dd4eb96d604"
+      "title": "Eight arrested after alleged plot to smuggle drugs, contraband into Halifax County Detention Center",
+      "link": "https://www.wral.com/news/local/eight-arrested-after-alleged-plot-to-smuggle-drugs-contraband-into-halifax-county-detention-center-july-20-2026/",
+      "published_at": "2026-07-20T21:57:10+00:00",
+      "summary_raw": "Ten identified, eight arrested after an alleged plot to smuggle drugs and contraband into the Halifax County Detention Center, according to the Halifax County Sheriff's Office.",
+      "id": "9955386bd688"
     },
     {
       "source": "Wired",
-      "title": "A Beginner’s Guide to Growing Mushrooms at Home (2026)",
-      "link": "https://www.wired.com/story/mushroom-growing-methods/",
-      "published_at": "2026-07-20T10:31:00+00:00",
-      "summary_raw": "From countertop kits to a bathroom bucket full of straw and beyond, I spent a year testing popular mushroom-growing methods. Here’s what fruited—and what just grew mold.",
-      "id": "abeb4f72104c"
-    },
-    {
-      "source": "NPR Politics",
-      "title": "$600,000 for a presidential pardon? Inside the growing industry of clemency lobbying",
-      "link": "https://www.npr.org/2026/07/19/nx-s1-5896394/600-000-for-a-presidential-pardon-inside-the-growing-industry-of-clemency-lobbying",
-      "published_at": "2026-07-19T12:13:23+00:00",
-      "summary_raw": "NPR's Ayesha Rascoe talks with NOTUS reporter Jasmine Wright about the growing lobbying industry to get presidential pardons under the second Trump administration.",
-      "id": "8cf7fdaa81dd"
-    },
-    {
-      "source": "NPR National",
-      "title": "How the Trump administration's new rules could affect international students",
-      "link": "https://www.npr.org/2026/07/17/nx-s1-5896300/nadworny-lee-student-visa-final-rule",
-      "published_at": "2026-07-20T08:41:50+00:00",
-      "summary_raw": "International students could once stay as long as they needed to complete their college degrees, but that's changing, and the restrictions could cut into college budgets.",
-      "id": "a0fcc453b3f8"
+      "title": "The Army Is Burning Through Its AI Tokens",
+      "link": "https://www.wired.com/story/the-army-is-burning-through-its-ai-tokens/",
+      "published_at": "2026-07-21T09:30:00+00:00",
+      "summary_raw": "Members of the Army received an email informing them that they were rapidly depleting their AI tokens, and needed to limit use.",
+      "id": "a3b56b2a04a9"
     },
     {
       "source": "BBC World",
-      "title": "Tate brothers appear in US court for extradition proceedings",
-      "link": "https://www.bbc.co.uk/news/articles/c6294y87wk6o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-20T19:05:50+00:00",
-      "summary_raw": "They were arrested on Saturday after the UK announced dozens of new charges, including rape and sex trafficking, which they deny.",
-      "id": "86f19f3b2668"
-    },
-    {
-      "source": "Science Daily",
-      "title": "Scientists discover a protein that protects the brain from Alzheimer’s damage",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260718010140.htm",
-      "published_at": "2026-07-20T05:28:48+00:00",
-      "summary_raw": "A protein called SORLA may act as a powerful defense against the toxic tau tangles involved in Alzheimer’s disease. Mice with extra SORLA had less tau accumulation, less brain atrophy, and healthier connections between neurons, while mice without it experienced more severe damage. The findings also revealed a possible drug target that could help control harmful activity in supporting brain cells.",
-      "id": "d65a6a1a4921"
-    },
-    {
-      "source": "WRAL Local",
-      "title": "Audit: Zebulon lacked proper financial oversight, overspent from general fund",
-      "link": "https://www.wral.com/news/local/audit-zebulon-lacked-internal-controls-manage-finances-july-2026/",
-      "published_at": "2026-07-20T19:59:40+00:00",
-      "summary_raw": "The town of Zebulon lacked internal controls to effectively manage its finances, according to an audit released on Monday by the State Auditor's Office.",
-      "id": "a45d7af22ada"
-    },
-    {
-      "source": "Wired",
-      "title": "An Ebike Company Was Sued for Misleading Info on Safety. It Points to a Big Problem",
-      "link": "https://www.wired.com/story/an-ebike-company-was-sued-for-misleading-on-safety-it-points-to-a-big-problem/",
-      "published_at": "2026-07-20T10:15:00+00:00",
-      "summary_raw": "Several Chinese businesses associated with the ebike brand Aipas settled a lawsuit with Amazon and the safety certification company UL in July.",
-      "id": "c8b2793733e8"
-    },
-    {
-      "source": "NPR Politics",
-      "title": "Politics chat: How much faith can you have in the country's election systems?",
-      "link": "https://www.npr.org/2026/07/19/nx-s1-5890938/politics-chat-how-much-faith-can-you-have-in-the-countrys-election-systems",
-      "published_at": "2026-07-19T12:04:18+00:00",
-      "summary_raw": "President Trump and Secretary of Homeland Security Markwayne Mullin make claims about the vulnerability of election systems in the U.S., but how true are those claims?",
-      "id": "07c2b449589c"
-    },
-    {
-      "source": "NPR National",
-      "title": "New federal law could bring running water to tribal homes, but states have concerns",
-      "link": "https://www.npr.org/2026/07/20/nx-s1-5885047/new-federal-law-could-bring-running-water-to-tribal-homes-but-states-have-concerns",
-      "published_at": "2026-07-20T08:41:29+00:00",
-      "summary_raw": "More than 10,000 homes on Southwestern Indian reservations lack running water. This despite tribes substantial water rights. A new solution is being held up as states fight over the Colorado River.",
-      "id": "f7db5f3afec4"
-    },
-    {
-      "source": "BBC World",
-      "title": "'If only people knew what a tick could do' - the deadly meat allergy caused by tick bites",
-      "link": "https://www.bbc.co.uk/news/articles/cj6g03567edo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-20T18:01:00+00:00",
-      "summary_raw": "Mammalian meat allergy is a growing problem along Australia's east coast - and it's caused by tick bites.",
-      "id": "23674d7ad6c4"
-    },
-    {
-      "source": "Science Daily",
-      "title": "UCLA scientists develop mineral sunscreen without the chalky white cast",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260718010200.htm",
-      "published_at": "2026-07-20T03:32:12+00:00",
-      "summary_raw": "Scientists have redesigned zinc oxide particles to create a mineral sunscreen that protects against ultraviolet radiation without leaving such a noticeable white cast. The SPF 30 formula could make sunscreen easier and more appealing to use across a wider range of skin tones.",
-      "id": "07ac8c4a3c7e"
-    },
-    {
-      "source": "WRAL Local",
-      "title": "Small plane damaged during landing at RDU; no injuries reported",
-      "link": "https://www.wral.com/news/local/small-plane-damaged-during-landing-at-rdu-no-injuries-reported-july-20-2026/",
-      "published_at": "2026-07-20T19:40:31+00:00",
-      "summary_raw": "Small-engine plane was damaged when landing at RDU. Officials say one person was on board and uninjured.",
-      "id": "4a66ab12dd72"
-    },
-    {
-      "source": "Wired",
-      "title": "The ACLU Is Arming Lawyers to Expose State Surveillance Secrets",
-      "link": "https://www.wired.com/story/the-aclu-is-arming-lawyers-to-expose-state-surveillance-secrets/",
-      "published_at": "2026-07-20T10:00:00+00:00",
-      "summary_raw": "A new toolkit for attorneys in Massachusetts targets the technologies police use—and conceal—to build criminal cases, from facial recognition to AI-written police reports.",
-      "id": "509606b677d0"
-    },
-    {
-      "source": "NPR Politics",
-      "title": "Cuban artist and dissident exiled from country after 5 years in prison arrives in US",
-      "link": "https://www.npr.org/2026/07/19/nx-s1-5899494/cuban-artist-exile-us",
-      "published_at": "2026-07-19T07:27:59+00:00",
-      "summary_raw": "A famous Cuban dissident artist and musician, Luis Manuel Otero Alcántara, arrived in Miami on Saturday after being released from a five-year prison sentence on the condition that he leave his country.",
-      "id": "22a113a76a80"
-    },
-    {
-      "source": "NPR National",
-      "title": "America's 250th carries somber note for forcibly displaced Indigenous groups",
-      "link": "https://www.npr.org/2026/07/19/nx-s1-5897600/americas-250th-carries-somber-note-for-forcibly-displaced-indigenous-groups",
-      "published_at": "2026-07-19T21:54:37+00:00",
-      "summary_raw": "Every couple of years members of the Eastern Shawnee Tribe of Oklahoma travel back to visit ancestral and historic sites located in the Midwest. Members say it's especially poignant as the country celebrates the 250th year of American independence.",
-      "id": "f85217ff3e5e"
-    },
-    {
-      "source": "BBC World",
-      "title": "‘All I think about is her’: Families demand answers as Nigeria's boat disasters keep happening",
-      "link": "https://www.bbc.co.uk/news/articles/c309vzn676go?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-20T17:16:20+00:00",
-      "summary_raw": "Hundreds of lives are lost each year in Nigeria as a result of boat accidents yet nothing seems to change.",
-      "id": "1c50ed73f9de"
-    },
-    {
-      "source": "Science Daily",
-      "title": "Scientists found two powerful new ways to destroy forever chemicals",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260718010147.htm",
-      "published_at": "2026-07-20T02:31:21+00:00",
-      "summary_raw": "Scientists are testing two promising ways to destroy PFAS, the stubborn “forever chemicals” that can accumulate in water and resist normal treatment. One method uses collapsing vapor bubbles to generate extreme heat and reactive molecules, while the other uses cold plasma and rising gas bubbles to pull PFAS to the surface and break them apart.",
-      "id": "8f06d49215fd"
-    },
-    {
-      "source": "WRAL Local",
-      "title": "Rainbow Snake population declining; public asked to report sightings",
-      "link": "https://www.wral.com/news/local/rainbow-snake-population-declining-public-asked-to-report-sightings-7-20-2026/",
-      "published_at": "2026-07-20T17:28:05+00:00",
-      "summary_raw": "The NC Wildlife Resources Commission is asking the public to report Rainbow Snake sightings in an effort to protect the declining population in the state.",
-      "id": "f5777da7815d"
-    },
-    {
-      "source": "Wired",
-      "title": "Elite Young Runners Are Becoming Freakishly Fast. Welcome to ‘Trackflation’",
-      "link": "https://www.wired.com/story/teenagers-running-trackflation/",
-      "published_at": "2026-07-20T10:00:00+00:00",
-      "summary_raw": "Four-minute miles are almost routine. Middle schoolers are beating college runners. Inside the youth track boom that’s turning kids and teens into speed machines.",
-      "id": "7b0b38de2697"
-    },
-    {
-      "source": "NPR Politics",
-      "title": "Week in Politics: Trump's speech; midterm elections; Todd Blanche and Jay Clayton",
-      "link": "https://www.npr.org/2026/07/18/nx-s1-5894907/week-in-politics-trumps-speech-midterm-elections-todd-blanche-and-jay-clayton",
-      "published_at": "2026-07-18T11:42:09+00:00",
-      "summary_raw": "Three months from the November midterms, President Trump is drawing attention to issues that are not top priorities for voters.",
-      "id": "9cdb70b512ad"
-    },
-    {
-      "source": "NPR National",
-      "title": "A cavalcade of international stars headlined the World Cup's first-ever halftime final show",
-      "link": "https://www.npr.org/2026/07/19/nx-s1-5888626/world-cup-halftime-final-show-bts-madonna-shakira-burna-boy-chris-martin-muppets-bieber",
-      "published_at": "2026-07-19T21:29:52+00:00",
-      "summary_raw": "With President Trump in attendance, an all-superstar lineup that included Madonna, BTS, Justin Bieber and Burna Boy felt a little more political than it might have otherwise.",
-      "id": "e4f7cf4893fb"
-    },
-    {
-      "source": "BBC World",
-      "title": "Police block thousands of 'cockroach' protesters marching on India's parliament",
-      "link": "https://www.bbc.co.uk/news/articles/cvg9w9dxd7lo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-20T16:26:40+00:00",
-      "summary_raw": "Some protesters demanding education reforms said they were injured in clashes with police who banned the march.",
-      "id": "f4ef201ae07a"
-    },
-    {
-      "source": "Science Daily",
-      "title": "New AI blood test predicts heart disease 15 years early",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260716023603.htm",
-      "published_at": "2026-07-19T14:58:00+00:00",
-      "summary_raw": "A new AI-powered blood test could give people a remarkably early warning of serious heart and circulation problems. Developed by researchers at the University of Hong Kong, CardiOmicScore analyzes thousands of proteins and metabolites to estimate the risk of six major cardiovascular diseases, including heart attack, stroke, heart failure, and atrial fibrillation. Unlike genetic risk scores, which remain fixed throughout life, the system captures biological changes linked to a person’s current health, lifestyle, and environment.",
-      "id": "a00cabb22d2f"
-    },
-    {
-      "source": "WRAL Local",
-      "title": "Endangered Indiana bat captured in NC for first time since 2015",
-      "link": "https://www.wral.com/news/local/north-carolina-indiana-bats-endangered-july-2026/",
-      "published_at": "2026-07-20T15:41:47+00:00",
-      "summary_raw": "Biologists with the North Carolina Wildlife Resources Commission discovered an endangered bat species that had not been captured in the state since 2015.",
-      "id": "502cbea5e99e"
-    },
-    {
-      "source": "Wired",
-      "title": "Apps Marketed to US Troops Are Shipping Chinese and Russian Code",
-      "link": "https://www.wired.com/story/apps-marketed-to-us-troops-are-shipping-chinese-and-russian-code/",
-      "published_at": "2026-07-20T09:30:00+00:00",
-      "summary_raw": "A first-of-its-kind analysis found more than one in eight apps built for US service members carried foreign code—some from firms in nations the Pentagon designates as adversaries.",
-      "id": "eaaca16ec220"
-    },
-    {
-      "source": "NPR National",
-      "title": "MLS works to bring in a new generation of fans as the World Cup comes to an end",
-      "link": "https://www.npr.org/2026/07/19/nx-s1-5899020/2026-world-cup-fifa-mls-major-league-soccer",
-      "published_at": "2026-07-19T07:00:00+00:00",
-      "summary_raw": "In 1994, the last men's World Cup the U.S. hosted sparked soccer fever, from youth leagues to TV broadcasts to the formation of MLS. Now, can MLS harness this World Cup for a new generation of fans?",
-      "id": "96484ea92a17"
-    },
-    {
-      "source": "BBC World",
-      "title": "Ten killed as Russian attacks on merchant ships in Black Sea intensify",
-      "link": "https://www.bbc.co.uk/news/articles/c4gvpv3ewv2o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-20T16:10:38+00:00",
-      "summary_raw": "Russian strikes on the Odesa region have killed 28 people in July alone, local authorities say.",
-      "id": "14b526248286"
-    },
-    {
-      "source": "Science Daily",
-      "title": "A tiny universe in a bottle reveals clues to the origins of life",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260718010156.htm",
-      "published_at": "2026-07-19T13:10:21+00:00",
-      "summary_raw": "Researchers have created cosmic dust from scratch by recreating space-like conditions inside glass tubes. The dust contains complex carbon-rich molecules built from elements essential to life and produces infrared signals similar to real material found in space. By studying these laboratory samples, scientists can explore how organic chemistry unfolds around stars and how comets, asteroids and meteorites may have carried those ingredients to Earth.",
-      "id": "c8b8c1c2a065"
-    },
-    {
-      "source": "WRAL Local",
-      "title": "Durham schools remove produce from cafeterias amid cyclospora risk as year-round students return",
-      "link": "https://www.wral.com/news/local/durham-schools-remove-produce-cafeterias-cyclospora-risk-july-2026/",
-      "published_at": "2026-07-20T10:00:36+00:00",
-      "summary_raw": "Durham Public Schools will welcome back 4,000 year-round students on Monday with some big changes in place for school lunches amid the risk for cyclospora.",
-      "id": "10f74c4a6db7"
-    },
-    {
-      "source": "Wired",
-      "title": "Best Power Banks (2026): My Picks After Testing Over 100",
-      "link": "https://www.wired.com/gallery/best-portable-chargers-power-banks/",
-      "published_at": "2026-07-19T11:00:00+00:00",
-      "summary_raw": "Keep your phone, laptop, handheld gaming console, and other electronics running with these travel-friendly power banks.",
-      "id": "f883c4875878"
-    },
-    {
-      "source": "BBC World",
-      "title": "Newcastle, Liverpool and England legend Keegan dies",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c2lyl82n2e2o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-20T14:38:28+00:00",
-      "summary_raw": "Former England captain and manager Kevin Keegan dies at the age of 75, seven weeks after he revealed he had been diagnosed with stage four cancer.",
-      "id": "e3819320f881"
-    },
-    {
-      "source": "Science Daily",
-      "title": "The mysterious hum heard around the world may finally have an explanation",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260719040002.htm",
-      "published_at": "2026-07-19T12:07:13+00:00",
-      "summary_raw": "The mysterious sound known as The Hum has been reported worldwide for decades, yet its source often remains impossible to find. Researchers tested whether people who hear it have exceptional low-frequency hearing or measurable sounds produced inside their ears, but neither explanation fit most participants. The strongest possibility is that many cases involve low-frequency tinnitus, even though the sound seems completely external.",
-      "id": "1d02782b218a"
-    },
-    {
-      "source": "WRAL Local",
-      "title": "Tow truck driver charged with DWI in deadly motorcycle crash gets $2M bond",
-      "link": "https://www.wral.com/news/local/tow-truck-driver-dwi-motorcycle-crash-in-court-wake-county-july-2026/",
-      "published_at": "2026-07-20T08:59:33+00:00",
-      "summary_raw": "A tow truck driver charged with DWI in a crash that killed a motorcyclist and injured three others had his bond increased to $2 million.",
-      "id": "bf5781ed99e6"
-    },
-    {
-      "source": "Wired",
-      "title": "How to Disable Music Videos in Spotify",
-      "link": "https://www.wired.com/story/how-to-disable-all-the-music-videos-in-spotify/",
-      "published_at": "2026-07-19T11:00:00+00:00",
-      "summary_raw": "A recent update made video playback the default for songs and podcasts with a visual component. If you just want to listen to music—and save your data and battery—follow these tips.",
-      "id": "3e454bc55bc2"
-    },
-    {
-      "source": "BBC World",
-      "title": "Hamas names Khalil al-Hayya as new overall leader",
-      "link": "https://www.bbc.co.uk/news/articles/cx25nzkyj50o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-20T14:02:31+00:00",
-      "summary_raw": "The Palestinian armed group's Qatar-based chief negotiator replaces Yahya Sinwar, who was killed by Israeli forces in Gaza in 2024.",
-      "id": "f99ded88f150"
-    },
-    {
-      "source": "Science Daily",
-      "title": "Coffee may help the body fight stress and aging through a hidden cellular switch",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260719035927.htm",
-      "published_at": "2026-07-19T09:19:13+00:00",
-      "summary_raw": "Scientists may have uncovered one reason coffee is repeatedly associated with healthier aging and lower disease risk. Compounds in coffee appear to activate NR4A1, a receptor that helps protect cells from stress, inflammation, and damage. These protective effects disappeared when the receptor was removed, strengthening the connection. Surprisingly, plant-based compounds such as caffeic acid seemed far more active than caffeine itself.",
-      "id": "fe67961d7391"
-    },
-    {
-      "source": "Wired",
-      "title": "The 10 Best Electrolyte Powders (We Tested Over 20)",
-      "link": "https://www.wired.com/story/best-electrolyte-powders/",
-      "published_at": "2026-07-19T10:32:00+00:00",
-      "summary_raw": "Get those lost minerals back with the help of our top electrolyte powders, tablets, drops, and chews for athletes, partiers, and everyone in between.",
-      "id": "6a803a994300"
-    },
-    {
-      "source": "BBC World",
-      "title": "Lamine Yamal celebrates World Cup win with little brother who charmed fans",
-      "link": "https://www.bbc.co.uk/news/articles/c89nvnklkpdo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-20T13:13:29+00:00",
-      "summary_raw": "The three-year-old brother of Yamal has been hailed one of Spain's World Cup breakout stars by fans",
-      "id": "32b578095c90"
-    },
-    {
-      "source": "Science Daily",
-      "title": "Scientists just discovered a lost branch of Australia’s marsupials",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260715083546.htm",
-      "published_at": "2026-07-19T05:53:59+00:00",
-      "summary_raw": "Fossils from Queensland suggest a newly recognized marsupial order may have survived in Australia for around 35 million years, rewriting part of the story of how the continent's unique mammals evolved. The discovery challenges the idea that Australia's marsupials all came from a single straightforward ancestral lineage.",
-      "id": "31f46de51da5"
-    },
-    {
-      "source": "Wired",
-      "title": "The Search for Another Earth-Like Planet Just Took a Big Step Forward",
-      "link": "https://www.wired.com/story/search-for-earth-like-planet-step-forward/",
-      "published_at": "2026-07-19T10:00:00+00:00",
-      "summary_raw": "Astronomers have discovered a rocky exoplanet that has an atmosphere and sits within the habitable zone of a solar system.",
-      "id": "d9d25e7ca138"
-    },
-    {
-      "source": "BBC World",
-      "title": "Rare identical quadruplets born in Australia",
-      "link": "https://www.bbc.co.uk/news/articles/cx2jnj3428lo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-20T12:57:32+00:00",
-      "summary_raw": "The parents of the four naturally-conceived girls were taken by \"immense surprise\" with the pregnancy, the hospital said.",
-      "id": "6852025c871a"
-    },
-    {
-      "source": "Science Daily",
-      "title": "Scientists identify the rare meteorite that killed the dinosaurs 66 million years ago",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260718010142.htm",
-      "published_at": "2026-07-19T04:22:00+00:00",
-      "summary_raw": "The asteroid that wiped out the dinosaurs was likely an exceptionally rare CO chondrite from a distant region of the solar system. Its unusual chemistry suggests that planet-cooling dust and debris, rather than sulfur inside the asteroid, may have delivered the deadliest blow.",
-      "id": "9cc909a0a4b7"
-    },
-    {
-      "source": "Wired",
-      "title": "FIFA’s World Cup Halftime Show Puts American-Style Spectacle on the World Stage",
-      "link": "https://www.wired.com/story/fifa-world-cup-halftime-show-what-to-expect/",
-      "published_at": "2026-07-19T09:00:00+00:00",
-      "summary_raw": "Organizers want the show to be the most-viewed halftime show in history. Having Shakira, Justin Bieber, Coldplay, and BTS will surely help—but do soccer fans want it?",
-      "id": "15dd5d85cc52"
-    },
-    {
-      "source": "BBC World",
-      "title": "Why are thousands of people protesting in Delhi?",
+      "title": "Why are thousands protesting for education reform in India?",
       "link": "https://www.bbc.co.uk/news/articles/cedj9j911p8o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-20T12:33:01+00:00",
+      "published_at": "2026-07-21T10:01:59+00:00",
       "summary_raw": "Thousands of mostly young people tried to march on India's parliament to demand changes to how the education system is run.",
       "id": "b64c464b5539"
     },
     {
       "source": "Science Daily",
-      "title": "Common antidepressant may ease long COVID’s crushing fatigue",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260718010158.htm",
-      "published_at": "2026-07-19T01:55:33+00:00",
-      "summary_raw": "A low-cost antidepressant may offer new hope for people struggling with long COVID fatigue. In a randomized clinical trial involving 399 adults, fluvoxamine significantly reduced fatigue and improved quality of life compared with a placebo, making it one of the first medications to show meaningful benefits for this disabling condition.",
-      "id": "4df76be4a77f"
+      "title": "New quantum gravity theory links entropy, dark energy, and life",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260719035947.htm",
+      "published_at": "2026-07-21T02:40:55+00:00",
+      "summary_raw": "A new theoretical study offers a possible explanation for how the Universe can grow more complex without violating the second law of thermodynamics. Using a quantum gravity framework called Gravity from Entropy, mathematician Ginestra Bianconi found that the Universe’s total entropy may rise as space expands, even while entropy within each unit of volume falls. That decline could leave room for galaxies, stars, planets, and life to form locally amid an overall increase in cosmic entropy.",
+      "id": "a8310601171d"
+    },
+    {
+      "source": "WRAL Local",
+      "title": "Driver in deadly accident operated his tow truck for 14 months without a license",
+      "link": "https://www.wral.com/news/local/driver-in-deadly-accident-operated-his-tow-truck-for-14-months-without-a-license/",
+      "published_at": "2026-07-20T21:14:44+00:00",
+      "summary_raw": "WRAL Investigates has learned the man who investigators say caused a deadly accident has a history of driving while impaired, and was operating his tow truck company for 14 months without a valid license.",
+      "id": "389ff0638252"
     },
     {
       "source": "Wired",
-      "title": "How To Watch the 2026 FIFA World Cup Finals: Spain vs. Argentina",
-      "link": "https://www.wired.com/story/how-to-watch-the-fifa-2026-world-cup-07-19-2026/",
-      "published_at": "2026-07-19T09:00:00+00:00",
-      "summary_raw": "The end of the FIFA Men’s World Cup is nigh. Here’s how to watch the final games and the first ever World Cup halftime show.",
-      "id": "fcf9d57777e9"
+      "title": "Etsy Is In Its Flop Era, and Sellers Are Fleeing",
+      "link": "https://www.wired.com/story/etsy-is-in-its-flop-era-and-sellers-are-fleeing/",
+      "published_at": "2026-07-21T09:00:00+00:00",
+      "summary_raw": "Once a quirky bastion of amateur vulva jewelry and pet portraits, Etsy is now deluged with mass-produced goods and AI knockoffs. Some customers don’t seem to mind.",
+      "id": "68ed03e962ef"
     },
     {
       "source": "BBC World",
-      "title": "Utah firefighter and four family members killed in flash flooding",
-      "link": "https://www.bbc.co.uk/news/articles/c9d8l88jnwvo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-20T12:13:58+00:00",
-      "summary_raw": "A husband, wife and their three sons died - meaning that only a daughter who did not join the outing is still alive.",
-      "id": "a489b0ee4951"
+      "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
+      "link": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-21T09:48:20+00:00",
+      "summary_raw": "Iran says it has hit two ships in the Strait of Hormuz as well as targets in Bahrain and Jordan.",
+      "id": "8c6a97168f3b"
+    },
+    {
+      "source": "Science Daily",
+      "title": "New antibody drug stops aggressive prostate cancer from spreading",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260718010151.htm",
+      "published_at": "2026-07-21T02:23:59+00:00",
+      "summary_raw": "Scientists have developed a fully human antibody that halted the growth and spread of aggressive prostate cancer in preclinical research. Although more testing is needed, the drug’s unusual mechanism could open the door to a safer new treatment for advanced cancer.",
+      "id": "0c411bf12517"
+    },
+    {
+      "source": "Wired",
+      "title": "The Galaxy Card Is Samsung’s Answer to the Apple Card",
+      "link": "https://www.wired.com/story/galaxy-card-is-samsung-answer-to-the-apple-card/",
+      "published_at": "2026-07-20T21:00:00+00:00",
+      "summary_raw": "Directly added to your Samsung Wallet account, it’s yet another cash-back credit card, this time tailored for Samsung stans.",
+      "id": "9868bd402633"
+    },
+    {
+      "source": "BBC World",
+      "title": "India's 'cockroach' protest continues a day after police crackdown",
+      "link": "https://www.bbc.co.uk/news/articles/c98v349r9lro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-21T08:44:43+00:00",
+      "summary_raw": "Delhi witnessed overwhelming violence on Monday, with at least 60 protesters wounded. Police said 118 of their men were also injured.",
+      "id": "f821d2785e2b"
+    },
+    {
+      "source": "Science Daily",
+      "title": "Scientists detect hidden skin damage before it becomes visible",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260716023554.htm",
+      "published_at": "2026-07-20T13:38:56+00:00",
+      "summary_raw": "Scientists have discovered a hidden warning sign of skin damage that appears before collagen fibers visibly thin, break, or lose their connections. Using advanced light-based techniques, the team found that collagen’s carefully organized molecular “handedness” can collapse even while the tissue still appears structurally intact and contains the same amount of collagen. This suggests that skin may begin deteriorating at a much deeper level long before conventional imaging can detect a problem.",
+      "id": "92832c9649dd"
+    },
+    {
+      "source": "Wired",
+      "title": "The FDA Says It Didn't Apologize to Supplier Linked to Diarrhea Outbreak, Actually",
+      "link": "https://www.wired.com/story/taylor-farms-fda-explosive-diarrhea-tweets/",
+      "published_at": "2026-07-20T20:57:39+00:00",
+      "summary_raw": "The agency stressed that the July 17 voluntary recall from Taylor Farms still stands. The supplier has been linked to the ongoing cyclospora outbreak.",
+      "id": "19cf02e63b59"
+    },
+    {
+      "source": "BBC World",
+      "title": "'Anti-ICE' army veteran started fire outside Manhattan federal building, say officials",
+      "link": "https://www.bbc.co.uk/news/articles/c1m1rr90dzxo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-21T02:16:05+00:00",
+      "summary_raw": "Andrew Arrabaca, 43, was armed with two axes, a machete, three knives and fireworks, says the FBI.",
+      "id": "6503baabfa88"
+    },
+    {
+      "source": "Science Daily",
+      "title": "Some dinosaurs could rise like giants until they grew too big",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260719231758.htm",
+      "published_at": "2026-07-20T13:23:44+00:00",
+      "summary_raw": "Two elephant-sized South American sauropods were unusually well built for standing on their hind legs. Digital tests showed that their robust femurs handled the enormous forces better than those of larger species, especially while the dinosaurs were young. The upright pose may have helped them reach treetops, frighten predators, or impress potential mates.",
+      "id": "c6cfa398bf10"
+    },
+    {
+      "source": "Wired",
+      "title": "Fans Flocked to World Cup Host Cities—Causing 80 Percent of the Tournament’s Emissions",
+      "link": "https://www.wired.com/story/new-research-estimates-most-emissions-came-from-fan-travel/",
+      "published_at": "2026-07-20T19:43:44+00:00",
+      "summary_raw": "The latest estimates reveal that the majority of greenhouse gas emissions from large-scale events such as the FIFA World Cup stem from spectators traveling to host cities.",
+      "id": "24f2516c259d"
+    },
+    {
+      "source": "BBC World",
+      "title": "At least 27 dead and 83 missing after passenger ferry capsizes off Guyana",
+      "link": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-21T02:07:48+00:00",
+      "summary_raw": "An investigation into the tragedy has been launched, the island's prime minister says, adding he hopes more will be found alive.",
+      "id": "fe0ca9d61c3f"
+    },
+    {
+      "source": "Science Daily",
+      "title": "Earth’s waters are quietly running out of oxygen, scientists warn",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260719035939.htm",
+      "published_at": "2026-07-20T12:29:38+00:00",
+      "summary_raw": "Oxygen is disappearing from oceans, lakes, rivers, and coastal waters at an alarming rate, threatening aquatic life and weakening the natural processes that help regulate Earth’s climate. Scientists warn that this widespread deoxygenation is closely connected to other major planetary threats, including warming, pollution, biodiversity loss, and ocean acidification.",
+      "id": "82ca031d89b8"
     }
   ]
 }

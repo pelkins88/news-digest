@@ -1,14 +1,14 @@
 {
   "mode": "raw",
-  "generated_at": "2026-07-24T23:39:13.203943+00:00",
+  "generated_at": "2026-07-25T14:50:49.619746+00:00",
   "items": [
     {
       "source": "WRAL Local",
-      "title": "Golf cart involved in Wake County crash",
-      "link": "https://www.wral.com/news/local/wake-forest-crash-golf-cart-july-2026/",
-      "published_at": "2026-07-24T21:29:29+00:00",
-      "summary_raw": "Emergency teams responded to a crash in Wake County on Friday afternoon.",
-      "id": "2c7241530824"
+      "title": "Child hit near Morganton Road in Fayetteville",
+      "link": "https://www.wral.com/news/local/child-hit-near-morganton-road-fayetteville-july-2026/",
+      "published_at": "2026-07-25T14:04:11+00:00",
+      "summary_raw": "A child was hit by a vehicle around 9:15 p.m. Friday night in Fayetteville.",
+      "id": "52f1ef642d8e"
     },
     {
       "source": "WRAL Weather",
@@ -20,11 +20,163 @@
     },
     {
       "source": "Wired",
-      "title": "One of NASA’s Most Important Deep Space Observatories Hit by Spanish Wildfires",
-      "link": "https://www.wired.com/story/spanish-wildfires-nasa-deep-space-observatory/",
-      "published_at": "2026-07-24T22:30:26+00:00",
-      "summary_raw": "Flames burned through the Deep Space Communications Complex near Madrid, but NASA has been unable to assess the damage as a wildfire emergency grips the region.",
-      "id": "19eae35cd805"
+      "title": "Cricut Explore 5 vs. Siser Romeo: Choosing the Right Smart Cutting Machine (2026)",
+      "link": "https://www.wired.com/story/cricut-explore-5-vs-siser-romeo/",
+      "published_at": "2026-07-25T11:06:00+00:00",
+      "summary_raw": "Friendly hobby machine or serious production tool? Here’s how to know which one is for you.",
+      "id": "41a8974bf294"
+    },
+    {
+      "source": "NPR Politics",
+      "title": "Week in Politics: Iran War; Trump attends solemn ritual; nuclear deal with Saudi Arabia",
+      "link": "https://www.npr.org/2026/07/25/nx-s1-5903811/week-in-politics-iran-war-trump-attends-solemn-ritual-nuclear-deal-with-saudi-arabia",
+      "published_at": "2026-07-25T11:43:45+00:00",
+      "summary_raw": "The Trump administration is seeking tens of billions of dollars in supplemental appropriations for the Iran War, a war which the president and allies have repeatedly claimed is already won.",
+      "id": "18e6ba248f45"
+    },
+    {
+      "source": "NPR National",
+      "title": "WHCA dinner returns this weekend under heightened security after April shooting",
+      "link": "https://www.npr.org/2026/07/25/nx-s1-5906741/whca-dinner-returns-this-weekend-under-heightened-security-after-april-shooting",
+      "published_at": "2026-07-25T11:43:50+00:00",
+      "summary_raw": "The annual White House Correspondents' Association dinner, postponed after a shooting on April 25, took place Friday night.",
+      "id": "7cb80ae05489"
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump takes swipes at press during White House Correspondents' Dinner",
+      "link": "https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-25T13:51:07+00:00",
+      "summary_raw": "The event celebrated press freedom after the first dinner was cancelled by a shooting in April.",
+      "id": "36184261de91"
+    },
+    {
+      "source": "Science Daily",
+      "title": "AI helps Stanford scientists discover “natural Ozempic” without the usual side effects",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260719230608.htm",
+      "published_at": "2026-07-24T13:44:43+00:00",
+      "summary_raw": "Stanford Medicine researchers have discovered a naturally occurring molecule that may suppress appetite and reduce body weight much like Ozempic, but without several of its common side effects. The molecule, called BRP, acts on a more targeted region of the brain involved in hunger and metabolism rather than affecting tissues throughout the body.",
+      "id": "c98a9fa014ed"
+    },
+    {
+      "source": "WRAL Local",
+      "title": "Man dies from shooting on Marquette Street in Fayetteville",
+      "link": "https://www.wral.com/news/local/man-dies-from-shooting-marquette-street-fayetteville-july-2026/",
+      "published_at": "2026-07-25T12:18:12+00:00",
+      "summary_raw": "The Cumberland County Sheriff's Office is investigating a homicide that happened Saturday morning on Marquette Street in Fayetteville.",
+      "id": "17a80e57f01d"
+    },
+    {
+      "source": "WRAL Weather",
+      "title": "Ask the Meteorologist: How can we stay safe when traveling during flash flooding?",
+      "link": "https://www.wral.com/weather/ask-the-meteorologist-driving-during-flash-flooding-july-2026/",
+      "published_at": "2026-07-23T14:36:00+00:00",
+      "summary_raw": "With multiple flood alerts issued throughout the day Thursday, it's important that we use plenty of caution on the roads. Here are some things to remember before you drive!",
+      "id": "fcfb1b64b377"
+    },
+    {
+      "source": "Wired",
+      "title": "3 Clever Things You Can Do With an Old Amazon Kindle",
+      "link": "https://www.wired.com/story/3-clever-things-you-can-do-with-an-old-amazon-kindle/",
+      "published_at": "2026-07-25T11:00:00+00:00",
+      "summary_raw": "These e-readers are more useful in their old age than you might think.",
+      "id": "a041c731903b"
+    },
+    {
+      "source": "NPR Politics",
+      "title": "Democrats in Maine gather to replace Graham Platner in the race against Susan Collins",
+      "link": "https://www.npr.org/2026/07/25/nx-s1-5902982/democrats-maine-senate-race",
+      "published_at": "2026-07-25T09:00:00+00:00",
+      "summary_raw": "Democrats are hoping to move past Platner's scandal-plagued campaign as they look to unseat Republican incumbent Susan Collins. The apparent front-runner is former Maine Senate President Troy Jackson.",
+      "id": "6d8881461407"
+    },
+    {
+      "source": "NPR National",
+      "title": "The bridge is up but the party is off: U.S. and Canada skip joint ribbon-cutting",
+      "link": "https://www.npr.org/2026/07/25/nx-s1-5905711/the-bridge-is-up-but-the-party-is-off-u-s-and-canada-skip-joint-ribbon-cutting",
+      "published_at": "2026-07-25T11:43:49+00:00",
+      "summary_raw": "The U.S. and Canada are opening a bridge between Detroit and Windsor, Ontario, without celebration as wildfires and tariffs increase tensions.",
+      "id": "e34f9220579e"
+    },
+    {
+      "source": "BBC World",
+      "title": "Protesters celebrate resignation of India's education minister",
+      "link": "https://www.bbc.co.uk/news/videos/cly949k3g1do?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-25T13:44:01+00:00",
+      "summary_raw": "The youth-led Cockroach Janta Party (CJP) has called off its protest, hours after the resignation of India's education minister",
+      "id": "c3d4740d2766"
+    },
+    {
+      "source": "Science Daily",
+      "title": "Scientists discover a compound that could supercharge aging muscle repair",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260724061432.htm",
+      "published_at": "2026-07-24T13:37:50+00:00",
+      "summary_raw": "A sulfur-based compound called LASSS appears to protect and supercharge a key protein involved in repairing damaged muscle. The discovery could eventually lead to new ways to slow muscle loss and preserve strength as people age.",
+      "id": "510ca9326b2b"
+    },
+    {
+      "source": "WRAL Local",
+      "title": "Pedestrian hit, killed in Raleigh",
+      "link": "https://www.wral.com/news/local/pedestrian-death-raleigh-blue-ridge-road-july-2026/",
+      "published_at": "2026-07-25T10:35:40+00:00",
+      "summary_raw": "A pedestrian was hit by a car in a fatal collision on Blue Ridge Road in Raleigh on Friday night.",
+      "id": "ce27f5497d45"
+    },
+    {
+      "source": "Wired",
+      "title": "Why Leatherology Makes Some of the Best Totes for Work (2026)",
+      "link": "https://www.wired.com/story/leatherology-totes-for-carrying-tech/",
+      "published_at": "2026-07-25T10:38:00+00:00",
+      "summary_raw": "I packed these Leatherology totes with laptops, chargers, and everything else my workday demands. Months later, they’re still the bags I keep reaching for.",
+      "id": "1535e9c5b046"
+    },
+    {
+      "source": "NPR Politics",
+      "title": "Trump returns to correspondents' dinner 3 months after shooting",
+      "link": "https://www.npr.org/2026/07/25/nx-s1-5907805/white-house-correspondents-dinner",
+      "published_at": "2026-07-25T05:04:00+00:00",
+      "summary_raw": "President Donald Trump returned to the rescheduled White House Correspondents' Association dinner Friday night, delivering a rambling, hour-long speech.",
+      "id": "bf5ab3674155"
+    },
+    {
+      "source": "NPR National",
+      "title": "Trump returns to correspondents' dinner 3 months after shooting",
+      "link": "https://www.npr.org/2026/07/25/nx-s1-5907805/white-house-correspondents-dinner",
+      "published_at": "2026-07-25T05:04:00+00:00",
+      "summary_raw": "President Donald Trump returned to the rescheduled White House Correspondents' Association dinner Friday night, delivering a rambling, hour-long speech.",
+      "id": "bf5ab3674155"
+    },
+    {
+      "source": "BBC World",
+      "title": "CJP protest: The youth movement India's Modi didn't see coming",
+      "link": "https://www.bbc.co.uk/news/articles/c07rgpxe51no?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-25T13:26:04+00:00",
+      "summary_raw": "The CJP protest began with exam paper leaks. It became India's biggest student movement in years - why?",
+      "id": "0be100a16f81"
+    },
+    {
+      "source": "Science Daily",
+      "title": "A new antiviral could stop measles before an outbreak takes off",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260724061431.htm",
+      "published_at": "2026-07-24T13:27:10+00:00",
+      "summary_raw": "An experimental pill prevented a measles-like virus from spreading through the air or through close contact in ferrets. It worked when given shortly before or after exposure and also shortened illness and the period when infected animals remained contagious. Researchers say the drug could one day complement vaccination and make outbreaks easier to contain.",
+      "id": "788891596de2"
+    },
+    {
+      "source": "WRAL Local",
+      "title": "Complaint: Lee County judge accused of displaying gun carelessly in court",
+      "link": "https://www.wral.com/news/local/judge-gun-court-lee-county-july-2026/",
+      "published_at": "2026-07-25T00:51:54+00:00",
+      "summary_raw": "A source told WRAL that District Court Judge Brian Lewis was seen displaying a firearm in a Lee County courtroom and that the gun's laser was temporarily pointed at a court employee.",
+      "id": "37aee25d75f7"
+    },
+    {
+      "source": "Wired",
+      "title": "The OpenAI Models That Hacked Hugging Face Were ‘Active on the Internet’ for Days",
+      "link": "https://www.wired.com/story/security-news-this-week-the-openai-models-that-hacked-hugging-face-were-active-on-the-internet-for-days/",
+      "published_at": "2026-07-25T10:30:00+00:00",
+      "summary_raw": "Plus: Russian hackers are trying to steal US nuclear scientists’ emails, the State Department bans known scammers from entering the United States, and more.",
+      "id": "49c63d8c5978"
     },
     {
       "source": "NPR Politics",
@@ -46,41 +198,33 @@
       "source": "BBC World",
       "title": "Warning shot or publicity stunt - how worried should we be about the OpenAI hack?",
       "link": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-24T23:11:13+00:00",
+      "published_at": "2026-07-25T10:14:41+00:00",
       "summary_raw": "Hugging Face said the hack was done at superhuman speed by an AI with little or no human guidance.",
       "id": "bd0ba171616a"
     },
     {
       "source": "Science Daily",
-      "title": "AI helps Stanford scientists discover “natural Ozempic” without the usual side effects",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260719230608.htm",
-      "published_at": "2026-07-24T13:44:43+00:00",
-      "summary_raw": "Stanford Medicine researchers have discovered a naturally occurring molecule that may suppress appetite and reduce body weight much like Ozempic, but without several of its common side effects. The molecule, called BRP, acts on a more targeted region of the brain involved in hunger and metabolism rather than affecting tissues throughout the body.",
-      "id": "c98a9fa014ed"
+      "title": "The billion-dollar problem keeping Ozempic, Wegovy, and Zepbound from patients",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260723084854.htm",
+      "published_at": "2026-07-24T11:29:04+00:00",
+      "summary_raw": "Ozempic, Wegovy, and similar drugs may deliver excellent health value, but covering them for millions of eligible patients could overwhelm insurance budgets. Researchers say better long-term support is needed and warn that low-cost compounded versions may carry serious safety risks.",
+      "id": "ba40a4557442"
     },
     {
       "source": "WRAL Local",
-      "title": "Police respond to shooting at Durham home",
-      "link": "https://www.wral.com/news/local/durham-police-home-formosa-july-2026/",
-      "published_at": "2026-07-24T21:12:42+00:00",
-      "summary_raw": "Durham police responded to a shooting at a home on Formosa Avenue on Friday afternoon.",
-      "id": "8a65b342d4b8"
-    },
-    {
-      "source": "WRAL Weather",
-      "title": "Ask the Meteorologist: How can we stay safe when traveling during flash flooding?",
-      "link": "https://www.wral.com/weather/ask-the-meteorologist-driving-during-flash-flooding-july-2026/",
-      "published_at": "2026-07-23T14:36:00+00:00",
-      "summary_raw": "With multiple flood alerts issued throughout the day Thursday, it's important that we use plenty of caution on the roads. Here are some things to remember before you drive!",
-      "id": "fcfb1b64b377"
+      "title": "Two girls seriously hurt after van hits golf cart in Wake County",
+      "link": "https://www.wral.com/news/local/wake-forest-crash-golf-cart-july-2026/",
+      "published_at": "2026-07-24T21:29:29+00:00",
+      "summary_raw": "Emergency teams responded to a crash involving a golf cart in Wake County on Friday afternoon.",
+      "id": "2c7241530824"
     },
     {
       "source": "Wired",
-      "title": "Chinese Companies Are Selling Vapes With Chemicals Potentially More Potent Than Nicotine",
-      "link": "https://www.wired.com/story/made-in-china-chinas-vape-makers-have-a-new-way-around-flavor-bans/",
-      "published_at": "2026-07-24T20:42:11+00:00",
-      "summary_raw": "Big Tobacco studied nicotine analogs like 6-methyl-nicotine for decades but never marketed them. Now, Chinese vape makers are using them to sidestep US regulations.",
-      "id": "28d80539282b"
+      "title": "Best Laptops (2026): My Top Recommendations After Testing Hundreds",
+      "link": "https://www.wired.com/story/best-laptops/",
+      "published_at": "2026-07-25T10:00:00+00:00",
+      "summary_raw": "I’ve been reviewing laptops for over a decade, and here's my advice on how to find the right laptop for you.",
+      "id": "8016282b41cf"
     },
     {
       "source": "NPR Politics",
@@ -100,43 +244,35 @@
     },
     {
       "source": "BBC World",
-      "title": "'The dogs were getting upset': How LA band Muna survived their worst ever gig",
-      "link": "https://www.bbc.co.uk/news/articles/ce85j65r4l2o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-24T23:01:10+00:00",
-      "summary_raw": "The group discuss disastrous gigs, putting political action into music and the meaning of \"queer pop\".",
-      "id": "ea17d7cad7db"
+      "title": "Iran-backed Houthis claim missile attack on Saudi Arabia",
+      "link": "https://www.bbc.co.uk/news/articles/cj9d27v70j1o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-25T06:34:40+00:00",
+      "summary_raw": "US military says it disabled a tanker that was attempting to evade the American blockade on Iranian ports.",
+      "id": "81ab4d6f2756"
     },
     {
       "source": "Science Daily",
-      "title": "Scientists discover a compound that could supercharge aging muscle repair",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260724061432.htm",
-      "published_at": "2026-07-24T13:37:50+00:00",
-      "summary_raw": "A sulfur-based compound called LASSS appears to protect and supercharge a key protein involved in repairing damaged muscle. The discovery could eventually lead to new ways to slow muscle loss and preserve strength as people age.",
-      "id": "510ca9326b2b"
+      "title": "Sweden’s hidden rare earth deposits could help break China’s grip",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260723084055.htm",
+      "published_at": "2026-07-24T08:30:52+00:00",
+      "summary_raw": "Sweden could become an important source of rare earth elements needed for magnets and green technologies. Instead of extracting one target metal, researchers are cataloging everything contained in Swedish mineral deposits. They will then develop magnets using those naturally available combinations, potentially reducing pollution, waste, and reliance on China.",
+      "id": "496b229a2ea4"
     },
     {
       "source": "WRAL Local",
-      "title": "Bar owner has 3 suggestions to make Raleigh's Glenwood South safer",
-      "link": "https://www.wral.com/news/local/renewed-calls-glenwood-south-safety-changes-july-2026/",
-      "published_at": "2026-07-24T21:01:11+00:00",
-      "summary_raw": "A Glenwood South business owner is calling for three changes to increase safety and security on weekends.",
-      "id": "06bee79402b7"
-    },
-    {
-      "source": "WRAL Weather",
-      "title": "Ask the Meteorologist: How intense heat can lead to cracked car windshields",
-      "link": "https://www.wral.com/weather/ask-the-meteorologist-intense-heat-cracked-windshield/",
-      "published_at": "2026-07-22T08:42:54+00:00",
-      "summary_raw": "Intense heat followed by cool rains can lead to cracks in your car windshield.",
-      "id": "02fd48235f45"
+      "title": "Police respond to shooting at Durham home",
+      "link": "https://www.wral.com/news/local/durham-police-home-formosa-july-2026/",
+      "published_at": "2026-07-24T21:12:42+00:00",
+      "summary_raw": "Durham police responded to a shooting at a home on Formosa Avenue on Friday afternoon.",
+      "id": "8a65b342d4b8"
     },
     {
       "source": "Wired",
-      "title": "The 2026 El Niño Is on Track to Be the Strongest on Record",
-      "link": "https://www.wired.com/story/2026-el-nino-the-strongest-in-150-years/",
-      "published_at": "2026-07-24T18:50:02+00:00",
-      "summary_raw": "This climate phenomenon could cause a massive global temperature spike and cause economic losses of $10 trillion by 2032.",
-      "id": "db635195f72e"
+      "title": "‘The Odyssey’ Was Made for Imax 70mm. Good Luck Watching It That Way",
+      "link": "https://www.wired.com/story/the-odyssey-was-made-for-imax-70mm-good-luck-watching-it-that-way/",
+      "published_at": "2026-07-25T10:00:00+00:00",
+      "summary_raw": "Over the last several years, the Imax format has taken on a few different forms—but only a few dozen theaters are capable of screening it in its full glory.",
+      "id": "9d670ba551b4"
     },
     {
       "source": "NPR Politics",
@@ -156,35 +292,35 @@
     },
     {
       "source": "BBC World",
-      "title": "Zelensky tries to fix crisis over removal of defence minister and counts the cost",
-      "link": "https://www.bbc.co.uk/news/articles/c1d1gz3n99ro?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-24T23:01:06+00:00",
-      "summary_raw": "Protests have continued over Zelensky's decision to dismiss Mykhailo Fedorov, and some commentators believe he has been damaged politically.",
-      "id": "dc5dd714bd23"
+      "title": "Trump orders Smithsonian to post warnings about 'inaccurate' US history",
+      "link": "https://www.bbc.co.uk/news/articles/c1w10gwnj74o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-25T02:23:09+00:00",
+      "summary_raw": "The Trump administration has often accused the world's largest research museum of harbouring an anti-American bias.",
+      "id": "ade8a61b8eb4"
     },
     {
       "source": "Science Daily",
-      "title": "A new antiviral could stop measles before an outbreak takes off",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260724061431.htm",
-      "published_at": "2026-07-24T13:27:10+00:00",
-      "summary_raw": "An experimental pill prevented a measles-like virus from spreading through the air or through close contact in ferrets. It worked when given shortly before or after exposure and also shortened illness and the period when infected animals remained contagious. Researchers say the drug could one day complement vaccination and make outbreaks easier to contain.",
-      "id": "788891596de2"
+      "title": "China’s Tianwen-1 captures interstellar comet 3I/ATLAS near Mars",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260723084052.htm",
+      "published_at": "2026-07-24T07:47:42+00:00",
+      "summary_raw": "China’s Tianwen-1 orbiter captured a faint but remarkable view of 3I/ATLAS as the interstellar comet raced past Mars. The images reveal its tail and glowing coma, offering scientists a glimpse of material born beyond our solar system.",
+      "id": "e972a8b90393"
     },
     {
       "source": "WRAL Local",
-      "title": "Heavy rainfall triggers wastewater spill into Johnston County creek",
-      "link": "https://www.wral.com/news/local/heavy-rainfall-triggers-wastewater-spill-into-johnston-county-creek-july-24-2026/",
-      "published_at": "2026-07-24T20:29:37+00:00",
-      "summary_raw": "The Town of Clayton has announced a wastewater spill into Little Creek triggered by this week's heavy rainfall.",
-      "id": "b75c8a5e1bbb"
+      "title": "Bar owner has 3 suggestions to make Raleigh's Glenwood South safer",
+      "link": "https://www.wral.com/news/local/renewed-calls-glenwood-south-safety-changes-july-2026/",
+      "published_at": "2026-07-24T21:01:11+00:00",
+      "summary_raw": "A Glenwood South business owner is calling for three changes to increase safety and security on weekends.",
+      "id": "06bee79402b7"
     },
     {
       "source": "Wired",
-      "title": "Did Chinese AI Steal From Anthropic, and OpenAI Loses Control of Two Models",
-      "link": "https://www.wired.com/story/uncanny-valley-podcast/",
-      "published_at": "2026-07-24T17:53:01+00:00",
-      "summary_raw": "On this episode of Uncanny Valley, we dive into accusations that China’s Moonshot AI stole from Anthropic, and how the US Army needs to cut back on AI use.",
-      "id": "251b3c0313b5"
+      "title": "GoPro Mission 1 Pro Review: The Best Action Camera You Can Buy",
+      "link": "https://www.wired.com/review/gopro-mission-1-pro/",
+      "published_at": "2026-07-25T09:30:00+00:00",
+      "summary_raw": "GoPro’s New Mission 1 cameras bring action cameras to a higher level with a larger sensor and more cinematic footage.",
+      "id": "11fcc19663af"
     },
     {
       "source": "NPR Politics",
@@ -204,35 +340,35 @@
     },
     {
       "source": "BBC World",
-      "title": "Four Palestinians and two Israelis killed in West Bank shooting",
-      "link": "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-24T22:49:59+00:00",
-      "summary_raw": "Palestinians say villagers came under attack by settlers, while the Israeli military says a Palestinian stole a weapon and opened fire on hikers.",
-      "id": "5b5b8c1a8a2a"
+      "title": "Texts reveal 14-year-old allegedly murdered by singer D4vd had pregnancy and abortion",
+      "link": "https://www.bbc.co.uk/news/articles/cr592qdj1ldo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-25T02:14:50+00:00",
+      "summary_raw": "Prosecutors allege D4vd started abusing the girl when she was 13 and she had threatened to expose him.",
+      "id": "e99be8120e0e"
     },
     {
       "source": "Science Daily",
-      "title": "The billion-dollar problem keeping Ozempic, Wegovy, and Zepbound from patients",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260723084854.htm",
-      "published_at": "2026-07-24T11:29:04+00:00",
-      "summary_raw": "Ozempic, Wegovy, and similar drugs may deliver excellent health value, but covering them for millions of eligible patients could overwhelm insurance budgets. Researchers say better long-term support is needed and warn that low-cost compounded versions may carry serious safety risks.",
-      "id": "ba40a4557442"
+      "title": "Ancient ape fossil in Egypt challenges the story of human origins",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260723084852.htm",
+      "published_at": "2026-07-24T07:03:54+00:00",
+      "summary_raw": "A newly identified fossil ape from northern Egypt is reshaping ideas about where the ancestors of modern apes first emerged. Analyses place it closer to living apes than any known East African species of the same age, pointing to North Africa and the Middle East as a possible birthplace and crossroads for the ape lineage that eventually produced gibbons, orangutans, gorillas, chimpanzees, and humans.",
+      "id": "8630628b3d51"
     },
     {
       "source": "WRAL Local",
-      "title": "Fact-check: Can foreign adversaries access US voting machines?",
-      "link": "https://www.wral.com/news/state/fact-check-foreign-adversaries-us-voting-machines-july-24/",
-      "published_at": "2026-07-24T20:25:03+00:00",
-      "summary_raw": "Department of Homeland Security Secretary Markwayne Mullin recently said, in unequivocal terms, that foreign adversaries can access voting machines and flip votes, echoing President Donald Trump’s narrative about interference in the 2020 election.",
-      "id": "7f35b0ed1ff3"
+      "title": "Heavy rainfall triggers wastewater spill into Johnston County creek",
+      "link": "https://www.wral.com/news/local/heavy-rainfall-triggers-wastewater-spill-into-johnston-county-creek-july-24-2026/",
+      "published_at": "2026-07-24T20:29:37+00:00",
+      "summary_raw": "The Town of Clayton has announced a wastewater spill into Little Creek triggered by this week's heavy rainfall.",
+      "id": "b75c8a5e1bbb"
     },
     {
       "source": "Wired",
-      "title": "Silicon Valley Is Completely Divided Over Chinese AI",
-      "link": "https://www.wired.com/story/silicon-valley-is-completely-divided-over-chinese-ai/",
-      "published_at": "2026-07-24T15:00:00+00:00",
-      "summary_raw": "The AI “startups” worth billions of dollars are raising alarm bells about Chinese AI. The smaller players have a totally different take.",
-      "id": "13df78b78287"
+      "title": "Contagious Cancer Found in North American Catfish",
+      "link": "https://www.wired.com/story/contagious-cancer-found-in-north-american-catfish/",
+      "published_at": "2026-07-25T09:00:00+00:00",
+      "summary_raw": "Scientists identified the first known cancer transmissible among freshwater fish in a lake that spans the US and Canada.",
+      "id": "90345550f4e3"
     },
     {
       "source": "NPR Politics",
@@ -252,35 +388,35 @@
     },
     {
       "source": "BBC World",
-      "title": "Firefighters struggle to contain Madrid wildfires, as more than 140,000 evacuated in France and Spain",
-      "link": "https://www.bbc.co.uk/news/articles/czjlenp0xk8o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-24T21:47:16+00:00",
-      "summary_raw": "Authorities face the \"worst fire in the history of the region\", Madrid officials say, as French firefighters battle a blaze heading towards Bordeaux.",
-      "id": "d45cdcc60efe"
+      "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
+      "link": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-25T00:06:53+00:00",
+      "summary_raw": "The event, attended by prominent members of the Ukrainian defence industry, was hit by ballistic missiles in the middle of the day.",
+      "id": "2e56d2552ebb"
     },
     {
       "source": "Science Daily",
-      "title": "Sweden’s hidden rare earth deposits could help break China’s grip",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260723084055.htm",
-      "published_at": "2026-07-24T08:30:52+00:00",
-      "summary_raw": "Sweden could become an important source of rare earth elements needed for magnets and green technologies. Instead of extracting one target metal, researchers are cataloging everything contained in Swedish mineral deposits. They will then develop magnets using those naturally available combinations, potentially reducing pollution, waste, and reliance on China.",
-      "id": "496b229a2ea4"
+      "title": "APOE2 may protect the brain from Alzheimer’s and aging",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260723084856.htm",
+      "published_at": "2026-07-24T06:00:15+00:00",
+      "summary_raw": "The longevity-linked APOE2 gene appears to protect brain cells by reducing DNA damage and helping neurons recover from stress. The finding could open a new path toward treatments that mimic APOE2’s defenses in people at higher genetic risk for Alzheimer’s.",
+      "id": "4ab0fbc93349"
     },
     {
       "source": "WRAL Local",
-      "title": "8 charged in connection to July 4 violence around Raleigh. Here's what we know",
-      "link": "https://www.wral.com/news/local/two-teens-charged-as-adults-july-4-violence-around-raleigh-july-2026/",
-      "published_at": "2026-07-24T20:16:23+00:00",
-      "summary_raw": "Six people have been detained or arrested and charged as juveniles related to gatherings that turned violent on the Fourth of July. Two others were charged as adults.",
-      "id": "2797f35f4846"
+      "title": "Fact-check: Can foreign adversaries access US voting machines?",
+      "link": "https://www.wral.com/news/state/fact-check-foreign-adversaries-us-voting-machines-july-24/",
+      "published_at": "2026-07-24T20:25:03+00:00",
+      "summary_raw": "Department of Homeland Security Secretary Markwayne Mullin recently said, in unequivocal terms, that foreign adversaries can access voting machines and flip votes, echoing President Donald Trump’s narrative about interference in the 2020 election.",
+      "id": "7f35b0ed1ff3"
     },
     {
       "source": "Wired",
-      "title": "Best Window Air Conditioners of 2026: Midea, Zafro, GE",
-      "link": "https://www.wired.com/gallery/best-window-air-conditioners/",
-      "published_at": "2026-07-24T11:37:00+00:00",
-      "summary_raw": "These are the AC units we’ve trusted to cool our homes for months, if not years.",
-      "id": "c1d21a1a7d08"
+      "title": "How Many Electrolytes Should You Be Taking, and Can You Have Too Many?",
+      "link": "https://www.wired.com/story/how-many-electrolytes-should-you-be-taking-and-can-you-have-too-many/",
+      "published_at": "2026-07-25T09:00:00+00:00",
+      "summary_raw": "Electrolyte powders promise better hydration, energy, and recovery. But unless you’re losing serious fluid, water and food probably have you covered.",
+      "id": "9be379a8631e"
     },
     {
       "source": "NPR Politics",
@@ -300,35 +436,35 @@
     },
     {
       "source": "BBC World",
-      "title": "ICC top prosecutor removed over sexual misconduct allegations",
-      "link": "https://www.bbc.co.uk/news/articles/cqjxddx12qqo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-24T21:02:30+00:00",
-      "summary_raw": "Karim Khan denies allegations of engaging in an improper sexual relationship with a junior ICC staff member and seeking to stop her pursuing her complaint.",
-      "id": "18bf8ec5eafb"
+      "title": "The pop band who went from playing for rescue dogs to selling out arenas",
+      "link": "https://www.bbc.co.uk/news/articles/ce85j65r4l2o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-24T23:01:10+00:00",
+      "summary_raw": "The group discuss disastrous gigs, putting political action into music and the meaning of \"queer pop\".",
+      "id": "ea17d7cad7db"
     },
     {
       "source": "Science Daily",
-      "title": "China’s Tianwen-1 captures interstellar comet 3I/ATLAS near Mars",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260723084052.htm",
-      "published_at": "2026-07-24T07:47:42+00:00",
-      "summary_raw": "China’s Tianwen-1 orbiter captured a faint but remarkable view of 3I/ATLAS as the interstellar comet raced past Mars. The images reveal its tail and glowing coma, offering scientists a glimpse of material born beyond our solar system.",
-      "id": "e972a8b90393"
+      "title": "Ozempic and Mounjaro linked to a surprising hair loss risk",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260723084047.htm",
+      "published_at": "2026-07-24T03:31:13+00:00",
+      "summary_raw": "A large study suggests that GLP-1 drugs including Ozempic and Mounjaro may slightly increase the risk of hair loss in people with type 2 diabetes. Compared with two other common classes of diabetes medications, GLP-1 users had a significantly higher rate of alopecia, though the absolute risk was still low. The hair loss was mainly non-scarring, which means it may be reversible.",
+      "id": "b575d1d7f681"
     },
     {
       "source": "WRAL Local",
-      "title": "'Peace Street Peeler': What will it take to make a Raleigh bridge safer?",
-      "link": "https://www.wral.com/news/local/peace-street-peeler-what-will-it-take-to-make-a-raleigh-bridge-safer-july-24-2026/",
-      "published_at": "2026-07-24T19:52:17+00:00",
-      "summary_raw": "After three trucks got stuck under a bridge on Peace Street, questions on what safety measures could be put in place persist after years of issues and over a dozen crashes.",
-      "id": "be9cb2f7c0b9"
+      "title": "8 charged in connection to July 4 violence around Raleigh. Here's what we know",
+      "link": "https://www.wral.com/news/local/two-teens-charged-as-adults-july-4-violence-around-raleigh-july-2026/",
+      "published_at": "2026-07-24T20:16:23+00:00",
+      "summary_raw": "Six people have been detained or arrested and charged as juveniles related to gatherings that turned violent on the Fourth of July. Two others were charged as adults.",
+      "id": "2797f35f4846"
     },
     {
       "source": "Wired",
-      "title": "BenQ TK705STi 4K Projector Review: A Midrange Pick for Gamers",
-      "link": "https://www.wired.com/review/benq-tk705sti-4k-projector/",
-      "published_at": "2026-07-24T11:01:00+00:00",
-      "summary_raw": "The TK705STi’s highly responsive, low-latency performance makes gameplay ultra-realistic. For movies and TV? It’s a purely average home projector.",
-      "id": "bb3983036821"
+      "title": "One of NASA’s Most Important Deep Space Observatories Hit by Spanish Wildfires",
+      "link": "https://www.wired.com/story/spanish-wildfires-nasa-deep-space-observatory/",
+      "published_at": "2026-07-24T22:30:26+00:00",
+      "summary_raw": "Flames burned through the Deep Space Communications Complex near Madrid, but NASA has been unable to assess the damage as a wildfire emergency grips the region.",
+      "id": "19eae35cd805"
     },
     {
       "source": "NPR Politics",
@@ -348,155 +484,11 @@
     },
     {
       "source": "BBC World",
-      "title": "Trump vows to investigate EU over fining of US tech companies",
-      "link": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-24T20:23:58+00:00",
-      "summary_raw": "The US president says fines against Google, as well as Apple, Meta and Amazon, should be \"entirely reversed.\"",
-      "id": "70090ee86494"
-    },
-    {
-      "source": "Science Daily",
-      "title": "Ancient ape fossil in Egypt challenges the story of human origins",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260723084852.htm",
-      "published_at": "2026-07-24T07:03:54+00:00",
-      "summary_raw": "A newly identified fossil ape from northern Egypt is reshaping ideas about where the ancestors of modern apes first emerged. Analyses place it closer to living apes than any known East African species of the same age, pointing to North Africa and the Middle East as a possible birthplace and crossroads for the ape lineage that eventually produced gibbons, orangutans, gorillas, chimpanzees, and humans.",
-      "id": "8630628b3d51"
-    },
-    {
-      "source": "WRAL Local",
-      "title": "Cary official’s wife reported missing in Grenada",
-      "link": "https://www.wral.com/news/local/cary-officials-wife-reported-missing-in-grenada-july-24-2026/",
-      "published_at": "2026-07-24T18:30:21+00:00",
-      "summary_raw": "Authorities in Grenada are searching for the wife of a Town of Cary employee after she was reported missing while visiting the Caribbean island.",
-      "id": "90deb3b36861"
-    },
-    {
-      "source": "Wired",
-      "title": "What Is Entropy, Really?",
-      "link": "https://www.wired.com/story/what-is-entropy-really/",
-      "published_at": "2026-07-24T11:00:00+00:00",
-      "summary_raw": "Never mind the “heat death of the universe.” Entropy is just a bridge between two levels of reality.",
-      "id": "6e011436a0c8"
-    },
-    {
-      "source": "NPR Politics",
-      "title": "Trump allies vote to weaken protections for historic sites — not just in D.C.",
-      "link": "https://www.npr.org/2026/07/23/nx-s1-5904435/section-106-review-trump-historic-preservation-council",
-      "published_at": "2026-07-23T20:14:58+00:00",
-      "summary_raw": "A council packed with Trump appointees wants to rewrite historic preservation rules. Critics say that could help him build his D.C. arch faster — and endanger important sites across the country.",
-      "id": "92a26c7c153c"
-    },
-    {
-      "source": "NPR National",
-      "title": "He was falsely accused in the 1996 Atlanta Olympics bombing. How it changed his life",
-      "link": "https://www.npr.org/2026/07/24/nx-s1-5900837/he-was-falsely-accused-in-the-1996-atlanta-olympics-bombing-how-it-changed-his-life",
-      "published_at": "2026-07-24T08:42:45+00:00",
-      "summary_raw": "When a bomb exploded at the Summer Olympics in Atlanta 30 years ago, security guard Richard Jewell was named the primary suspect. His friend and attorney reflects on how that changed Jewell's life.",
-      "id": "da53e18a0262"
-    },
-    {
-      "source": "BBC World",
-      "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
-      "link": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-24T18:51:17+00:00",
-      "summary_raw": "The event, attended by prominent members of the Ukrainian defence industry, was hit by ballistic missiles in the middle of the day.",
-      "id": "2e56d2552ebb"
-    },
-    {
-      "source": "Science Daily",
-      "title": "APOE2 may protect the brain from Alzheimer’s and aging",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260723084856.htm",
-      "published_at": "2026-07-24T06:00:15+00:00",
-      "summary_raw": "The longevity-linked APOE2 gene appears to protect brain cells by reducing DNA damage and helping neurons recover from stress. The finding could open a new path toward treatments that mimic APOE2’s defenses in people at higher genetic risk for Alzheimer’s.",
-      "id": "4ab0fbc93349"
-    },
-    {
-      "source": "WRAL Local",
-      "title": "Roof collapses at gas station on Hillsborough Street in Raleigh",
-      "link": "https://www.wral.com/news/local/roof-collapses-gas-station-hillsborough-street-july-2026/",
-      "published_at": "2026-07-24T17:00:37+00:00",
-      "summary_raw": "The roof collapsed on the Handee Hugo gas station on Hillsborough Street in Raleigh.",
-      "id": "ce882054e358"
-    },
-    {
-      "source": "Wired",
-      "title": "Some of Our Favorite Brain-Boosting Toys for Kids of All Ages",
-      "link": "https://www.wired.com/story/these-are-some-of-our-favorite-brain-boosting-toys-for-kids-of-all-ages/",
-      "published_at": "2026-07-24T10:30:00+00:00",
-      "summary_raw": "From musical instruments and games to play pieces that encourage balance and dexterity, these toys will engage your child’s mind and body.",
-      "id": "b9c1111d42bc"
-    },
-    {
-      "source": "NPR Politics",
-      "title": "For a 2nd time, House approves resolution to end the war in Iran in a rebuke to Trump",
-      "link": "https://www.npr.org/2026/07/23/nx-s1-5904515/congress-iran-war-powers-vote",
-      "published_at": "2026-07-23T17:35:02+00:00",
-      "summary_raw": "Four Republicans joined Democrats to approve the measure. And while it is not legally binding, the resolution represents growing frustration inside Congress over the war.",
-      "id": "d83a7bc30111"
-    },
-    {
-      "source": "NPR National",
-      "title": "Community holds vigil for Wisconsin man killed by police",
-      "link": "https://www.npr.org/2026/07/24/nx-s1-5905691/community-holds-vigil-for-wisconsin-man-killed-by-police",
-      "published_at": "2026-07-24T08:42:31+00:00",
-      "summary_raw": "Hundreds of people gathered Thursday night for a vigil in Madison, Wisconsin, to remember 38-year-old Corey Ruiz. Ruiz was shot and killed by a Madison police officer in the middle of an intersection.",
-      "id": "abe1d926f18c"
-    },
-    {
-      "source": "BBC World",
-      "title": "US and Iran trade more strikes in Gulf as fears of escalation mount",
-      "link": "https://www.bbc.co.uk/news/articles/c05ql5llj4do?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-24T18:13:02+00:00",
-      "summary_raw": "It comes as Iran condemned the US plan to use frozen Iranian assets to pay for war damages.",
-      "id": "1603c5dc6501"
-    },
-    {
-      "source": "Science Daily",
-      "title": "Ozempic and Mounjaro linked to a surprising hair loss risk",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260723084047.htm",
-      "published_at": "2026-07-24T03:31:13+00:00",
-      "summary_raw": "A large study suggests that GLP-1 drugs including Ozempic and Mounjaro may slightly increase the risk of hair loss in people with type 2 diabetes. Compared with two other common classes of diabetes medications, GLP-1 users had a significantly higher rate of alopecia, though the absolute risk was still low. The hair loss was mainly non-scarring, which means it may be reversible.",
-      "id": "b575d1d7f681"
-    },
-    {
-      "source": "WRAL Local",
-      "title": "Cyclosporiasis cases jump again, now 402 confirmed cases in Wake County",
-      "link": "https://www.wral.com/news/local/cyclosporiasis-cases-jump-overnight-now-402-confirmed-cases-wake-county/",
-      "published_at": "2026-07-24T16:51:17+00:00",
-      "summary_raw": "Wake County has reported 402 cases of cyclosporiasis since May 1, 2026, with seven people hospitalized because of the diarrheal illness.",
-      "id": "ed157b250664"
-    },
-    {
-      "source": "Wired",
-      "title": "Some Kids Will Never Think AI Is Cool",
-      "link": "https://www.wired.com/story/some-kids-will-never-think-ai-is-cool/",
-      "published_at": "2026-07-24T10:00:00+00:00",
-      "summary_raw": "“I think it should stand for artificial idiot,” one 9-year-old says. Here’s why kids of all ages are calling AI “disgusting” and “creepy.”",
-      "id": "80c8c0332fdb"
-    },
-    {
-      "source": "NPR Politics",
-      "title": "Republicans urge Justice Department to investigate former prosecutor Jack Smith",
-      "link": "https://www.npr.org/2026/07/23/g-s1-135121/republicans-justice-department-jack-smith",
-      "published_at": "2026-07-23T14:12:45+00:00",
-      "summary_raw": "The former special counsel led two criminal investigations of President Trump and has been a frequent target of Trump's ire on social media.",
-      "id": "47c0645249f8"
-    },
-    {
-      "source": "NPR National",
-      "title": "How a Wisconsin community is reacting to a fatal police shooting",
-      "link": "https://www.npr.org/2026/07/24/nx-s1-5904550/how-a-wisconsin-community-is-reacting-to-a-fatal-police-shooting",
-      "published_at": "2026-07-24T08:42:10+00:00",
-      "summary_raw": "NPR's A Martinez talks with Brandi Grayson, founder and CEO of nonprofit Urban Triage, about the community response to the Madison, Wisconsin, police shooting.",
-      "id": "912177713a5f"
-    },
-    {
-      "source": "BBC World",
-      "title": "India cockroach protests: Videos show officers firing 'pellet guns'",
-      "link": "https://www.bbc.co.uk/news/videos/cgje5l292g2o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-24T16:12:34+00:00",
-      "summary_raw": "Thousands of people have taken to the streets in Delhi as part of the cockroach protests, calling for educational reforms.",
-      "id": "0533ea88d8f5"
+      "title": "Zelensky tries to fix crisis over removal of defence minister and counts the cost",
+      "link": "https://www.bbc.co.uk/news/articles/c1d1gz3n99ro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-24T23:01:06+00:00",
+      "summary_raw": "Protests have continued over Zelensky's decision to dismiss Mykhailo Fedorov, and some commentators believe he has been damaged politically.",
+      "id": "dc5dd714bd23"
     },
     {
       "source": "Science Daily",
@@ -508,27 +500,27 @@
     },
     {
       "source": "WRAL Local",
-      "title": "Cary residents call for Council resignations after state audit details questionable spending",
-      "link": "https://www.wral.com/news/local/cary-residents-call-for-council-resignations-after-state-audit-details-questionable-spending-july-24-2026/",
-      "published_at": "2026-07-24T16:12:26+00:00",
-      "summary_raw": "Calls for Cary Town Council members to resign grow louder after concerns over the town's financial oversight.",
-      "id": "3b24c63cb348"
+      "title": "'Peace Street Peeler': What will it take to make a Raleigh bridge safer?",
+      "link": "https://www.wral.com/news/local/peace-street-peeler-what-will-it-take-to-make-a-raleigh-bridge-safer-july-24-2026/",
+      "published_at": "2026-07-24T19:52:17+00:00",
+      "summary_raw": "After three trucks got stuck under a bridge on Peace Street, questions on what safety measures could be put in place persist after years of issues and over a dozen crashes.",
+      "id": "be9cb2f7c0b9"
     },
     {
       "source": "Wired",
-      "title": "Satellite Images Reveal How Suspected Scam Compounds Appear Out of Nowhere",
-      "link": "https://www.wired.com/story/satellite-images-reveal-how-giant-scam-compounds-keep-on-expanding/",
-      "published_at": "2026-07-24T10:00:00+00:00",
-      "summary_raw": "Analysis of satellite images of Myanmar shows dozens of alleged scam compounds have appeared in recent months, despite a purported crackdown on the criminal organizations.",
-      "id": "541a838c106d"
+      "title": "Chinese Companies Are Selling Vapes With Chemicals Potentially More Potent Than Nicotine",
+      "link": "https://www.wired.com/story/made-in-china-chinas-vape-makers-have-a-new-way-around-flavor-bans/",
+      "published_at": "2026-07-24T20:42:11+00:00",
+      "summary_raw": "Big Tobacco studied nicotine analogs like 6-methyl-nicotine for decades but never marketed them. Now, Chinese vape makers are using them to sidestep US regulations.",
+      "id": "28d80539282b"
     },
     {
       "source": "BBC World",
-      "title": "World chess chief faces endgame after EU announces Russia war sanctions",
-      "link": "https://www.bbc.co.uk/news/articles/cewrk58k2k4o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-24T16:08:51+00:00",
-      "summary_raw": "Arkady Dvorkovich, a former Russian deputy prime minister, now faces an EU travel ban and asset freeze.",
-      "id": "45e72b694e3c"
+      "title": "Four Palestinians and two Israelis killed in West Bank shooting",
+      "link": "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-24T22:49:59+00:00",
+      "summary_raw": "Palestinians say villagers came under attack by settlers, while the Israeli military says a Palestinian stole a weapon and opened fire on hikers.",
+      "id": "b124f5a83364"
     },
     {
       "source": "Science Daily",
@@ -540,27 +532,27 @@
     },
     {
       "source": "WRAL Local",
-      "title": "Cyclosporiasis outbreak reported in 41 states, CDC says",
-      "link": "https://www.wral.com/news/local/cyclosporiasis-outbreak-reported-in-41-states-cdc-july-2026/",
-      "published_at": "2026-07-24T14:38:50+00:00",
-      "summary_raw": "The CDC began tracking Cyclosporiasis in May. Since the first of the month, outbreaks have been reported in 41 states.",
-      "id": "dfed05e43e4d"
+      "title": "Cary official’s wife reported missing in Grenada",
+      "link": "https://www.wral.com/news/local/cary-officials-wife-reported-missing-in-grenada-july-24-2026/",
+      "published_at": "2026-07-24T18:30:21+00:00",
+      "summary_raw": "Authorities in Grenada are searching for Elizabeth Waddell, the wife of a Town of Cary employee after she was reported missing while visiting the Caribbean island.",
+      "id": "90deb3b36861"
     },
     {
       "source": "Wired",
-      "title": "Kagi Brings Back Old-School Search, One Human-Made Website at a Time",
-      "link": "https://www.wired.com/story/kagi-brings-back-old-school-search-one-human-made-website-at-a-time/",
-      "published_at": "2026-07-24T09:30:00+00:00",
-      "summary_raw": "If you’re tired of sponsored and AI-summarized search results, Kagi gives you a curated—and human-centric—way to find what you’re looking for.",
-      "id": "3f3f29c4a98c"
+      "title": "The 2026 El Niño Is on Track to Be the Strongest on Record",
+      "link": "https://www.wired.com/story/2026-el-nino-the-strongest-in-150-years/",
+      "published_at": "2026-07-24T18:50:02+00:00",
+      "summary_raw": "This climate phenomenon could cause a massive global temperature spike and cause economic losses of $10 trillion by 2032.",
+      "id": "db635195f72e"
     },
     {
       "source": "BBC World",
-      "title": "Nigeria's president approves largest military expansion in recent times",
-      "link": "https://www.bbc.co.uk/news/articles/cwymjx3nrxvo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-24T15:22:56+00:00",
-      "summary_raw": "The government is under intense pressure to tackle a slew of armed groups, many of whom attack civilians.",
-      "id": "e170cbc983b2"
+      "title": "ICC top prosecutor removed over sexual misconduct allegations",
+      "link": "https://www.bbc.co.uk/news/articles/cqjxddx12qqo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-24T21:02:30+00:00",
+      "summary_raw": "Karim Khan denies allegations of engaging in an improper sexual relationship with a junior ICC staff member and seeking to stop her pursuing her complaint.",
+      "id": "cf531c79e39e"
     },
     {
       "source": "Science Daily",
@@ -572,19 +564,19 @@
     },
     {
       "source": "Wired",
-      "title": "Trump Endorsed the MyPillow Guy as Minnesota Governor. The State GOP Isn’t Buying It",
-      "link": "https://www.wired.com/story/trump-endorsed-the-mypillow-guy-as-minnesota-governor-the-state-gop-isnt-buying-it/",
-      "published_at": "2026-07-24T09:00:00+00:00",
-      "summary_raw": "After Trump publicly backed pillow salesman turned election denier Mike Lindell for governor of Minnesota, the local GOP pushed back strongly.",
-      "id": "5afaa65c92b9"
+      "title": "China-US AI Race Escalates, OpenAI Models Break Free, and Why You Should Check Your Car Alarm",
+      "link": "https://www.wired.com/story/uncanny-valley-podcast/",
+      "published_at": "2026-07-24T17:53:01+00:00",
+      "summary_raw": "On this episode of Uncanny Valley, we dive into accusations that China’s Moonshot AI stole from Anthropic, and how the US Army needs to cut back on AI use.",
+      "id": "251b3c0313b5"
     },
     {
       "source": "BBC World",
-      "title": "Watch: Wildfires rage across Spain and France",
-      "link": "https://www.bbc.co.uk/news/videos/cz641jd4p4lo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-24T15:13:46+00:00",
-      "summary_raw": "Spain's government declares national emergency as French authorities order evacuations in tourist hot spot.",
-      "id": "70e2eafd774e"
+      "title": "PlayStation Network outage resolved after thousands of gamers unable to play",
+      "link": "https://www.bbc.co.uk/news/articles/cx2j0wy1gl5o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-24T20:37:21+00:00",
+      "summary_raw": "The outage affected gamers' ability to launch games, apps or network features on their PlayStation.",
+      "id": "d0d53d054c05"
     },
     {
       "source": "Science Daily",
@@ -596,19 +588,19 @@
     },
     {
       "source": "Wired",
-      "title": "European Researchers Say Big Tech Is Blocking Access to Their Data",
-      "link": "https://www.wired.com/story/european-researchers-want-to-study-social-medias-harms-but-cant-get-the-data/",
-      "published_at": "2026-07-24T08:49:52+00:00",
-      "summary_raw": "EU law gives researchers unprecedented rights to scrutinize social media data. Researchers say TikTok, X, and Meta impede their attempts to look inside.",
-      "id": "109e042aa082"
+      "title": "Silicon Valley Is Completely Divided Over Chinese AI",
+      "link": "https://www.wired.com/story/silicon-valley-is-completely-divided-over-chinese-ai/",
+      "published_at": "2026-07-24T15:00:00+00:00",
+      "summary_raw": "The AI “startups” worth billions of dollars are raising alarm bells about Chinese AI. The smaller players have a totally different take.",
+      "id": "13df78b78287"
     },
     {
       "source": "BBC World",
-      "title": "Indonesian babies were trafficked to Singapore. What happens to them now?",
-      "link": "https://www.bbc.co.uk/news/articles/c7vgeredvlgo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-24T13:33:06+00:00",
-      "summary_raw": "At least 12 babies have been trafficked from Indonesia to Singapore, but what will happen to them remains unclear.",
-      "id": "c906641634f6"
+      "title": "Trump vows to investigate EU over fining of US tech companies",
+      "link": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-24T20:23:58+00:00",
+      "summary_raw": "The US president says fines against Google, as well as Apple, Meta and Amazon, should be \"entirely reversed.\"",
+      "id": "7a4a07460c09"
     },
     {
       "source": "Science Daily",
@@ -620,19 +612,19 @@
     },
     {
       "source": "Wired",
-      "title": "An FDA Panel Just Endorsed These Unproven Peptides",
-      "link": "https://www.wired.com/story/fda-panel-endorses-unproven-peptides/",
-      "published_at": "2026-07-23T23:45:12+00:00",
-      "summary_raw": "Outside experts—some with a vested interest in peptides—recommended adding a number of the amino acids to the FDA’s bulks list, including the “Wolverine stack” touted by Joe Rogan and other influencers.",
-      "id": "3ed60136898c"
+      "title": "Best Window Air Conditioners of 2026: Midea, Zafro, GE",
+      "link": "https://www.wired.com/gallery/best-window-air-conditioners/",
+      "published_at": "2026-07-24T11:37:00+00:00",
+      "summary_raw": "These are the AC units we’ve trusted to cool our homes for months, if not years.",
+      "id": "c1d21a1a7d08"
     },
     {
       "source": "BBC World",
-      "title": "US hits dozens of countries with new wave of tariffs",
-      "link": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-24T12:40:44+00:00",
-      "summary_raw": "Imposed citing forced labour concerns, the levies replace a temporary global duty brought in after the US Supreme Court struck down tariffs in February.",
-      "id": "f79f22b57f24"
+      "title": "India cockroach protests: Videos show officers firing 'pellet guns'",
+      "link": "https://www.bbc.co.uk/news/videos/cgje5l292g2o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-24T16:12:34+00:00",
+      "summary_raw": "Thousands of people have taken to the streets in Delhi as part of the cockroach protests, calling for educational reforms.",
+      "id": "0533ea88d8f5"
     },
     {
       "source": "Science Daily",
@@ -641,6 +633,14 @@
       "published_at": "2026-07-23T05:58:04+00:00",
       "summary_raw": "A giant planet had been hiding inside one of astronomy’s most closely studied planetary systems, concealed by a bright disk of cosmic dust. Webb revealed Beta Pictoris d through atmospheric traces of carbon monoxide, water vapor, and methane, showcasing a promising new method for finding elusive exoplanets.",
       "id": "adb80f2995fd"
+    },
+    {
+      "source": "Wired",
+      "title": "BenQ TK705STi 4K Projector Review: A Midrange Pick for Gamers",
+      "link": "https://www.wired.com/review/benq-tk705sti-4k-projector/",
+      "published_at": "2026-07-24T11:01:00+00:00",
+      "summary_raw": "The TK705STi’s highly responsive, low-latency performance makes gameplay ultra-realistic. For movies and TV? It’s a purely average home projector.",
+      "id": "bb3983036821"
     }
   ]
 }

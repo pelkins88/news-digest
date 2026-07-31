@@ -1,14 +1,14 @@
 {
   "mode": "raw",
-  "generated_at": "2026-07-31T17:00:18.913089+00:00",
+  "generated_at": "2026-07-31T23:37:59.139582+00:00",
   "items": [
     {
       "source": "WRAL Local",
-      "title": "19-year-old arrested in strip mall shooting on New Bern Avenue Thursday",
-      "link": "https://www.wral.com/news/local/shooter-arrested-strip-mall-shooting-new-bern-ave-july-2026/",
-      "published_at": "2026-07-31T16:12:03+00:00",
-      "summary_raw": "Raleigh police arrested 19-year-old Maxwell Franks in association with a strip mall shooting on New Bern Ave.",
-      "id": "0da0e7abb9af"
+      "title": "Fire destroys empty home in Moore County, officials investigating",
+      "link": "https://www.wral.com/news/local/fire-destroys-empty-home-cameron-moore-county-july-2026/",
+      "published_at": "2026-07-31T23:30:55+00:00",
+      "summary_raw": "A house in Cameron was destroyed by fire Friday. Officials are investigating what caused the blaze.",
+      "id": "2519832e4283"
     },
     {
       "source": "WRAL Weather",
@@ -17,6 +17,54 @@
       "published_at": "2026-07-29T08:57:41+00:00",
       "summary_raw": "Raleigh has seen its second-wettest July on record, and we've seen all that without a landfalling tropical system. How?",
       "id": "bd2b418cf551"
+    },
+    {
+      "source": "Wired",
+      "title": "Chinese AI Researchers Are Finding Their Voice on X",
+      "link": "https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x/",
+      "published_at": "2026-07-31T18:14:43+00:00",
+      "summary_raw": "As OpenAI and Anthropic employees grow quieter online, researchers at Chinese AI labs are flocking to X to explain their work, recruit talent, and shape the global conversation on AI.",
+      "id": "17a2ed4ae158"
+    },
+    {
+      "source": "NPR Politics",
+      "title": "Prosecutors move to dismiss Reflecting Pool vandalism case, saying 'botched installation' to blame",
+      "link": "https://www.npr.org/2026/07/31/nx-s1-5915828/reflecting-pool-david-hearn-dismiss",
+      "published_at": "2026-07-31T23:24:36+00:00",
+      "summary_raw": "The government had accused David Hearn of ripping a piece of sealant after a $14 million renovation. Hearn has repeatedly said that he simply touched the water in the pool out of curiosity last month.",
+      "id": "4b7e3d269ea0"
+    },
+    {
+      "source": "NPR National",
+      "title": "Google pauses AI satellite images, after fears of deepfakes in the sky",
+      "link": "https://www.npr.org/2026/07/31/nx-s1-5914652/google-adds-ai-to-satellite-images-raising-fears-of-deepfakes-in-the-sky",
+      "published_at": "2026-07-31T17:48:26+00:00",
+      "summary_raw": "Journalists, human rights advocates and open source analysts recoiled in horror at the initial decision: \"The opportunities for abuse and disinfo are literally boundless,\" said one.",
+      "id": "982ae88045bd"
+    },
+    {
+      "source": "BBC World",
+      "title": "Body of US climber the latest recovered after Pakistan avalanche",
+      "link": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-31T20:22:46+00:00",
+      "summary_raw": "The bodies of two other climbers have already been recovered from the mountain, while others are still missing.",
+      "id": "0d943e9328d6"
+    },
+    {
+      "source": "Science Daily",
+      "title": "What if the brain does not create consciousness?",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260729043829.htm",
+      "published_at": "2026-07-30T13:23:33+00:00",
+      "summary_raw": "Christof Koch is taking on one of science’s deepest mysteries: how the brain creates conscious experience, or whether it creates it at all. He argues that materialism has yet to solve this “hard problem” and will explore puzzling phenomena such as near-death experiences and terminal lucidity. His work points toward the possibility that consciousness may be woven into reality itself.",
+      "id": "313c367b49c8"
+    },
+    {
+      "source": "WRAL Local",
+      "title": "Raleigh Water prepared after national cyberattacks on water utility facilities",
+      "link": "https://www.wral.com/news/local/raleigh-water-prepared-after-national-cyberattacks-on-water-utility-facilities-july-31-2026/",
+      "published_at": "2026-07-31T22:46:56+00:00",
+      "summary_raw": "Multiple states are dealing with a cyber-attack on their water systems. The FBI is investigating a potential link to Iran.",
+      "id": "e00024715d8c"
     },
     {
       "source": "Wired",
@@ -44,27 +92,27 @@
     },
     {
       "source": "BBC World",
-      "title": "Two bodies located and search ongoing after avalanche hits Nirmal Purja's team",
-      "link": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-31T16:41:59+00:00",
-      "summary_raw": "Two bodies have been recovered from Pakistan's Broad Peak and seven spotted by drones - though their condition remains unclear.",
-      "id": "0d943e9328d6"
+      "title": "What triggered the mass migrant crossings into Ceuta?",
+      "link": "https://www.bbc.co.uk/news/videos/c171nnql1j4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-31T18:29:04+00:00",
+      "summary_raw": "An estimated 60,000 migrants from Morocco have crossed into Ceuta, with dozens dying during the journey.",
+      "id": "a4be4f1630c7"
     },
     {
       "source": "Science Daily",
-      "title": "What if the brain does not create consciousness?",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260729043829.htm",
-      "published_at": "2026-07-30T13:23:33+00:00",
-      "summary_raw": "Christof Koch is taking on one of science’s deepest mysteries: how the brain creates conscious experience, or whether it creates it at all. He argues that materialism has yet to solve this “hard problem” and will explore puzzling phenomena such as near-death experiences and terminal lucidity. His work points toward the possibility that consciousness may be woven into reality itself.",
-      "id": "313c367b49c8"
+      "title": "This 4,000-year-old city defied the rules of history",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260729010730.htm",
+      "published_at": "2026-07-30T13:02:20+00:00",
+      "summary_raw": "As Mohenjo-daro prospered, the gap between its richest and poorest households actually shrank. Its shared infrastructure, fair trade systems, and lack of powerful royal elites suggest that equality may have helped fuel the ancient city’s success.",
+      "id": "ba8013846daa"
     },
     {
       "source": "WRAL Local",
-      "title": "Former Durham EMS supervisor sentenced to 18 years for child pornography",
-      "link": "https://www.wral.com/news/local/former-durham-ems-supervisor-sentenced-18-years-child-pornography-july-2026/",
-      "published_at": "2026-07-31T14:08:59+00:00",
-      "summary_raw": "Andrew Childs, a former Durham EMS district supervisor, was sentenced to 18 years in prison followed by 10 years of supervised probation after pleading guilty to distribution of child sexual abuse material and production of an \"animal crush video\".",
-      "id": "f3577adf5e2a"
+      "title": "Conflicting height measurements raise questions after Peace Street bridge crashes",
+      "link": "https://www.wral.com/news/local/peace-street-bridge-raleigh-crashes-height-july-2026/",
+      "published_at": "2026-07-31T22:26:53+00:00",
+      "summary_raw": "A recent string of trucks striking Raleigh’s low-clearance Peace Street railroad bridge is raising questions about whether driver error, conflicting height measurements and the road’s steep approach are contributing to the crashes.",
+      "id": "e095ada0375a"
     },
     {
       "source": "Wired",
@@ -92,27 +140,27 @@
     },
     {
       "source": "BBC World",
-      "title": "What's in the Gaza peace deal roadmap?",
-      "link": "https://www.bbc.co.uk/news/articles/c20e94k2ex5o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-31T16:00:56+00:00",
-      "summary_raw": "Hamas says it has accepted a disarmament plan for Gaza which will see it lay down its arms and Israeli troops withdraw from the territory.",
-      "id": "7be77609bba4"
+      "title": "Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco",
+      "link": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-31T17:03:47+00:00",
+      "summary_raw": "Spain said most had returned to Morocco by Friday evening, as Italy suspended its Schengen agreement on free movement with Madrid.",
+      "id": "3c4bcd6cf37d"
     },
     {
       "source": "Science Daily",
-      "title": "This 4,000-year-old city defied the rules of history",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260729010730.htm",
-      "published_at": "2026-07-30T13:02:20+00:00",
-      "summary_raw": "As Mohenjo-daro prospered, the gap between its richest and poorest households actually shrank. Its shared infrastructure, fair trade systems, and lack of powerful royal elites suggest that equality may have helped fuel the ancient city’s success.",
-      "id": "ba8013846daa"
+      "title": "Rice bran compound may help ease irritable bowel symptoms",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260729010742.htm",
+      "published_at": "2026-07-30T12:44:29+00:00",
+      "summary_raw": "A compound in rice bran may help calm an overactive gut by reducing the calcium signals that cause intestinal muscles to contract. Ferulic acid suppressed contractions triggered by several chemical messengers in laboratory experiments. The discovery could eventually support new dietary approaches for diarrhea-related digestive disorders, although it may make constipation worse.",
+      "id": "87ce44f52403"
     },
     {
       "source": "WRAL Local",
-      "title": "Parking rates in downtown Raleigh will increase August 1",
-      "link": "https://www.wral.com/news/local/parking-rates-increase-for-downtown-raleigh-july-2026/",
-      "published_at": "2026-07-31T13:37:54+00:00",
-      "summary_raw": "Parking across downtown Raleigh are set to increase between $0.25 for street parking and $1 for parking decks.",
-      "id": "9dcfcdbfb2da"
+      "title": "Former inmate files federal complaint against Harnett County Sheriff, deputies",
+      "link": "https://www.wral.com/news/local/harnett-sheriff-inmate-lawsuit-abuse-drugs-july-2026/",
+      "published_at": "2026-07-31T21:55:50+00:00",
+      "summary_raw": "Harnett County Sheriff Wayne Coats and several deputies were listed in the lawsuit, alleging a culture of sexual abuse and drug use at the Harnett County Jail.",
+      "id": "6b52c8831f71"
     },
     {
       "source": "Wired",
@@ -132,6 +180,54 @@
     },
     {
       "source": "NPR National",
+      "title": "Ahead of midterms, Republicans run ads after cutting healthcare funds",
+      "link": "https://www.npr.org/2026/07/31/nx-s1-5870960/republican-ads-healthcare-medicaid-2026-midterms",
+      "published_at": "2026-07-31T09:00:00+00:00",
+      "summary_raw": "Blanketing the airwaves with ads about healthcare, Republican candidates who voted to cut federal funding in the One Big Beautiful Bill Act are positioning themselves as advocates for lower costs.",
+      "id": "f79c31e9c80d"
+    },
+    {
+      "source": "BBC World",
+      "title": "What's in the Gaza peace deal roadmap?",
+      "link": "https://www.bbc.co.uk/news/articles/c20e94k2ex5o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-31T16:00:56+00:00",
+      "summary_raw": "Hamas says it has accepted a disarmament plan for Gaza which will see it lay down its arms and Israeli troops withdraw from the territory.",
+      "id": "7be77609bba4"
+    },
+    {
+      "source": "Science Daily",
+      "title": "Scientists found evolution repeating itself in the Galápagos Islands",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260729051537.htm",
+      "published_at": "2026-07-30T12:13:37+00:00",
+      "summary_raw": "More than 150 years after Darwin’s finches helped reshape biology, Galápagos plants are exposing another evolutionary surprise. Giant daisies repeatedly developed similar heat-tolerant leaf shapes, but each lineage used a different combination of genes. Researchers also found major genetic differences among isolated populations, suggesting new species may be forming right now.",
+      "id": "2c9ca2232d77"
+    },
+    {
+      "source": "WRAL Local",
+      "title": "Man sentenced to 15 years for 2024 robbery spree",
+      "link": "https://www.wral.com/news/local/man-sentenced-to-15-years-for-2024-robbery-spree-july-31-2026/",
+      "published_at": "2026-07-31T21:25:05+00:00",
+      "summary_raw": "The series of convenience store robberies happened in Nash and Edgecombe counties.",
+      "id": "372535a229be"
+    },
+    {
+      "source": "Wired",
+      "title": "This AI Assistant Wants to Make Up for Your Boyfriend’s Incompetence",
+      "link": "https://www.wired.com/story/this-ai-assistants-whole-pitch-is-making-up-for-your-boyfriends-incompetence/",
+      "published_at": "2026-07-31T14:47:26+00:00",
+      "summary_raw": "An ad for Orchid suggests the AI agent can fix relationship problems by simply doing everything for inconsiderate partners.",
+      "id": "44089e687a5a"
+    },
+    {
+      "source": "NPR Politics",
+      "title": "Trump's claims of 250,000 non-U.S. citizens on voter rolls leave some states baffled",
+      "link": "https://www.npr.org/2026/07/31/nx-s1-5906708/trump-claim-noncitizens-midterms-election-interference-voter-rolls",
+      "published_at": "2026-07-31T09:00:00+00:00",
+      "summary_raw": "Trump officials say they found 250,000 noncitizens on voter rolls in just four states. Those states don't know where the numbers came from, and some worry what the claims may portend for the midterms.",
+      "id": "eac1d7fd1c91"
+    },
+    {
+      "source": "NPR National",
       "title": "Democrats show divisions on Israel amid competitive midterm elections",
       "link": "https://www.npr.org/2026/07/31/nx-s1-5896216/democrats-israel-congress-2026-midterm-elections",
       "published_at": "2026-07-31T09:00:00+00:00",
@@ -148,27 +244,27 @@
     },
     {
       "source": "Science Daily",
-      "title": "Rice bran compound may help ease irritable bowel symptoms",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260729010742.htm",
-      "published_at": "2026-07-30T12:44:29+00:00",
-      "summary_raw": "A compound in rice bran may help calm an overactive gut by reducing the calcium signals that cause intestinal muscles to contract. Ferulic acid suppressed contractions triggered by several chemical messengers in laboratory experiments. The discovery could eventually support new dietary approaches for diarrhea-related digestive disorders, although it may make constipation worse.",
-      "id": "87ce44f52403"
+      "title": "A forgotten fossil just revealed a new Triassic predator from 210 million years ago",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260729010732.htm",
+      "published_at": "2026-07-30T06:34:21+00:00",
+      "summary_raw": "A fossil overlooked for nearly 80 years has revealed a previously unknown crocodile relative that lived 210 million years ago in what is now New Mexico. Named Eosphorosuchus lacrimosa, the jackal-sized predator had a reinforced skull, powerful jaw muscles, and a short snout built for tackling larger prey.",
+      "id": "543538c1e4fd"
     },
     {
       "source": "WRAL Local",
-      "title": "Nearly two years after Helene, Chimney Rock reaches major milestone",
-      "link": "https://www.wral.com/news/state/chimney-rock-rebuild-two-years-after-major-milestones-july-2026/",
-      "published_at": "2026-07-31T11:00:16+00:00",
-      "summary_raw": "More than 99% of storm-damaged roads have reopened, but permanent reconstruction along U.S. 64 is expected to continue through 2029.",
-      "id": "013bbbcbb012"
+      "title": "Nonprofit founder wanted after high-speed chase ends in crash",
+      "link": "https://www.wral.com/news/local/chase-crash-cjf-america-person-orange-county-august-2026/",
+      "published_at": "2026-07-31T20:14:25+00:00",
+      "summary_raw": "A nonprofit founder who has been the subject of multiple WRAL Investigates reports faces new charges after deputies say he and the organization’s CFO were involved in a three-county chase, crashed and left a hospital before officers arrived with felony warrants.",
+      "id": "a42b210f3fbf"
     },
     {
       "source": "Wired",
-      "title": "This AI Assistant Wants to Make Up for Your Boyfriend’s Incompetence",
-      "link": "https://www.wired.com/story/this-ai-assistants-whole-pitch-is-making-up-for-your-boyfriends-incompetence/",
-      "published_at": "2026-07-31T14:47:26+00:00",
-      "summary_raw": "An ad for Orchid suggests the AI agent can fix relationship problems by simply doing everything for inconsiderate partners.",
-      "id": "44089e687a5a"
+      "title": "Steelseries Arctis Nova Pro Omni Review: For Multisystem Gamers",
+      "link": "https://www.wired.com/review/steelseries-arctis-nova-pro-omni/",
+      "published_at": "2026-07-31T13:21:59+00:00",
+      "summary_raw": "Its latest Pro headset can mix between four inputs and has better wireless connectivity than the originals.",
+      "id": "7a00e0f72d37"
     },
     {
       "source": "NPR Politics",
@@ -180,11 +276,11 @@
     },
     {
       "source": "NPR National",
-      "title": "Ahead of midterms, Republicans run ads after cutting healthcare funds",
-      "link": "https://www.npr.org/2026/07/31/nx-s1-5870960/republican-ads-healthcare-medicaid-2026-midterms",
-      "published_at": "2026-07-31T09:00:00+00:00",
-      "summary_raw": "Blanketing the airwaves with ads about healthcare, Republican candidates who voted to cut federal funding in the One Big Beautiful Bill Act are positioning themselves as advocates for lower costs.",
-      "id": "f79c31e9c80d"
+      "title": "Family and friends remember U.S. soldier killed at air base in Jordan",
+      "link": "https://www.npr.org/2026/07/31/nx-s1-5910706/family-and-friends-remember-u-s-soldier-killed-at-air-base-in-jordan",
+      "published_at": "2026-07-31T08:49:09+00:00",
+      "summary_raw": "Family and friends remember 28-year-old Sergeant Angel Rampersad, who was killed at an air base in Jordan and is being laid to rest this week.",
+      "id": "494aa37979dc"
     },
     {
       "source": "BBC World",
@@ -196,67 +292,19 @@
     },
     {
       "source": "Science Daily",
-      "title": "Scientists found evolution repeating itself in the Galápagos Islands",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260729051537.htm",
-      "published_at": "2026-07-30T12:13:37+00:00",
-      "summary_raw": "More than 150 years after Darwin’s finches helped reshape biology, Galápagos plants are exposing another evolutionary surprise. Giant daisies repeatedly developed similar heat-tolerant leaf shapes, but each lineage used a different combination of genes. Researchers also found major genetic differences among isolated populations, suggesting new species may be forming right now.",
-      "id": "2c9ca2232d77"
+      "title": "Alien signals may be hiding where we rarely listen",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260726015239.htm",
+      "published_at": "2026-07-30T05:09:15+00:00",
+      "summary_raw": "Astronomers may have been listening for alien civilizations in only a small slice of the radio spectrum while overlooking a largely unexplored range of higher frequencies. Using archived data from the ALMA telescope in Chile, researchers conducted the observatory’s first SETI survey, searching for narrow signals that could indicate advanced technology. No possible alien transmissions were found, but the study revealed that even a handful of telescope observations may quietly include millions of stars.",
+      "id": "2f0dd6dd0601"
     },
     {
       "source": "WRAL Local",
-      "title": "Hundreds lose power, traffic blocked on Leesville Road in Raleigh after tree falls on power pole",
-      "link": "https://www.wral.com/news/local/tree-falls-on-power-pole-raleigh-leesville-road-closed-july-2026/",
-      "published_at": "2026-07-31T09:41:11+00:00",
-      "summary_raw": "Raleigh police said a tree began leaning on a power pole early Friday morning, causing power to go out as crews replace the pole.",
-      "id": "a5b0ba3f8c12"
-    },
-    {
-      "source": "Wired",
-      "title": "Steelseries Arctis Nova Pro Omni Review: For Multisystem Gamers",
-      "link": "https://www.wired.com/review/steelseries-arctis-nova-pro-omni/",
-      "published_at": "2026-07-31T13:21:59+00:00",
-      "summary_raw": "Its latest Pro headset can mix between four inputs and has improved wireless connectivity over the originals.",
-      "id": "7a00e0f72d37"
-    },
-    {
-      "source": "NPR Politics",
-      "title": "Ahead of midterms, Republicans run ads after cutting healthcare funds",
-      "link": "https://www.npr.org/2026/07/31/nx-s1-5870960/republican-ads-healthcare-medicaid-2026-midterms",
-      "published_at": "2026-07-31T09:00:00+00:00",
-      "summary_raw": "Blanketing the airwaves with ads about healthcare, Republican candidates who voted to cut federal funding in the One Big Beautiful Bill Act are positioning themselves as advocates for lower costs.",
-      "id": "f79c31e9c80d"
-    },
-    {
-      "source": "NPR National",
-      "title": "Family and friends remember U.S. soldier killed at air base in Jordan",
-      "link": "https://www.npr.org/2026/07/31/nx-s1-5910706/family-and-friends-remember-u-s-soldier-killed-at-air-base-in-jordan",
-      "published_at": "2026-07-31T08:49:09+00:00",
-      "summary_raw": "Family and friends remember 28-year-old Sergeant Angel Rampersad, who was killed at an air base in Jordan and is being laid to rest this week.",
-      "id": "494aa37979dc"
-    },
-    {
-      "source": "BBC World",
-      "title": "Hundreds escape Greek wildfire by sea as blazes continue across Europe",
-      "link": "https://www.bbc.co.uk/news/articles/c0kmzx8vpv4o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-31T14:26:07+00:00",
-      "summary_raw": "Around 500 people, mostly tourists, are evacuated by boat from Agios Vasileios after becoming trapped.",
-      "id": "179ff8505fc3"
-    },
-    {
-      "source": "Science Daily",
-      "title": "A forgotten fossil just revealed a new Triassic predator from 210 million years ago",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260729010732.htm",
-      "published_at": "2026-07-30T06:34:21+00:00",
-      "summary_raw": "A fossil overlooked for nearly 80 years has revealed a previously unknown crocodile relative that lived 210 million years ago in what is now New Mexico. Named Eosphorosuchus lacrimosa, the jackal-sized predator had a reinforced skull, powerful jaw muscles, and a short snout built for tackling larger prey.",
-      "id": "543538c1e4fd"
-    },
-    {
-      "source": "WRAL Local",
-      "title": "'False alarm' prompts large police presence in west Cary neighborhood",
-      "link": "https://www.wral.com/news/local/cary-police-presence-carpenter-fire-station-road-july-2026/",
-      "published_at": "2026-07-31T09:06:26+00:00",
-      "summary_raw": "Police have not said what exactly prompted a large first responder response, but said it was a \"false alarm.\"",
-      "id": "c589d81d0a50"
+      "title": "Woman charged with murdering husband in Creedmoor shooting",
+      "link": "https://www.wral.com/news/local/woman-charged-deadly-shooting-creedmoor-july-2026/",
+      "published_at": "2026-07-31T19:18:47+00:00",
+      "summary_raw": "38-year-old Kelly Marie Royster, of Creedmoor, was arrested and charged with murder following an investigation, police say. She is being held without bond at the Granville County Detention Center.",
+      "id": "1f96f09db2db"
     },
     {
       "source": "Wired",
@@ -268,11 +316,11 @@
     },
     {
       "source": "NPR Politics",
-      "title": "Trump's claims of 250,000 non-U.S. citizens on voter rolls leave some states baffled",
-      "link": "https://www.npr.org/2026/07/31/nx-s1-5906708/trump-claim-noncitizens-midterms-election-interference-voter-rolls",
+      "title": "Ahead of midterms, Republicans run ads after cutting healthcare funds",
+      "link": "https://www.npr.org/2026/07/31/nx-s1-5870960/republican-ads-healthcare-medicaid-2026-midterms",
       "published_at": "2026-07-31T09:00:00+00:00",
-      "summary_raw": "Trump officials say they found 250,000 noncitizens on voter rolls in just four states. Those states don't know where the numbers came from, and some worry what the claims may portend for the midterms.",
-      "id": "eac1d7fd1c91"
+      "summary_raw": "Blanketing the airwaves with ads about healthcare, Republican candidates who voted to cut federal funding in the One Big Beautiful Bill Act are positioning themselves as advocates for lower costs.",
+      "id": "f79c31e9c80d"
     },
     {
       "source": "NPR National",
@@ -284,27 +332,27 @@
     },
     {
       "source": "BBC World",
-      "title": "About 60,000 migrants arrive in Ceuta in 24 hours, Spanish territory's leader says",
-      "link": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-31T14:20:18+00:00",
-      "summary_raw": "Spain's prime minister described the situation as an \"attack\" on its North African territory and said all illegal migrants would be returned to Morocco.",
-      "id": "3c4bcd6cf37d"
+      "title": "Hundreds escape Greek wildfire by sea as blazes continue across Europe",
+      "link": "https://www.bbc.co.uk/news/articles/c0kmzx8vpv4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-31T14:26:07+00:00",
+      "summary_raw": "Around 500 people, mostly tourists, are evacuated by boat from Agios Vasileios after becoming trapped.",
+      "id": "179ff8505fc3"
     },
     {
       "source": "Science Daily",
-      "title": "Alien signals may be hiding where we rarely listen",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260726015239.htm",
-      "published_at": "2026-07-30T05:09:15+00:00",
-      "summary_raw": "Astronomers may have been listening for alien civilizations in only a small slice of the radio spectrum while overlooking a largely unexplored range of higher frequencies. Using archived data from the ALMA telescope in Chile, researchers conducted the observatory’s first SETI survey, searching for narrow signals that could indicate advanced technology. No possible alien transmissions were found, but the study revealed that even a handful of telescope observations may quietly include millions of stars.",
-      "id": "2f0dd6dd0601"
+      "title": "Ultrafast X-rays capture chemistry unfolding atom by atom",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260729010726.htm",
+      "published_at": "2026-07-30T02:18:28+00:00",
+      "summary_raw": "Ultrafast X-rays revealed how a molecule converts absorbed light into motion in just trillionths of a second. Individual atoms recorded different stages of the process, opening a powerful new window into light-driven chemistry.",
+      "id": "a383689362ef"
     },
     {
       "source": "WRAL Local",
-      "title": "Hit-and-run at Raleigh apartment building, passenger injured",
-      "link": "https://www.wral.com/news/local/car-crashes-into-raleigh-apartment-building-july-2026/",
-      "published_at": "2026-07-31T08:23:20+00:00",
-      "summary_raw": "One person was taken to the hospital with non-life-threatening injuries, according to Raleigh police. There is extensive damage to the building.",
-      "id": "344ef91f4e26"
+      "title": "Chatham County swears in new sheriff",
+      "link": "https://www.wral.com/news/local/new-chatham-county-sheriff-sworn-in-july-2026/",
+      "published_at": "2026-07-31T18:46:09+00:00",
+      "summary_raw": "Sheriff Steve Maynor was sworn in by the Chatham County Sheriff's Office on Thursday. His appointment comes following former Sheriff Mike Roberson's retirement.",
+      "id": "c3e226d3efa8"
     },
     {
       "source": "Wired",
@@ -340,19 +388,19 @@
     },
     {
       "source": "Science Daily",
-      "title": "Ultrafast X-rays capture chemistry unfolding atom by atom",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260729010726.htm",
-      "published_at": "2026-07-30T02:18:28+00:00",
-      "summary_raw": "Ultrafast X-rays revealed how a molecule converts absorbed light into motion in just trillionths of a second. Individual atoms recorded different stages of the process, opening a powerful new window into light-driven chemistry.",
-      "id": "a383689362ef"
+      "title": "AI reveals explosive bursts in bird evolution",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260729010709.htm",
+      "published_at": "2026-07-30T01:01:26+00:00",
+      "summary_raw": "Songbirds appear to have evolved through rare explosions of change separated by long periods of slower development. Many of those bursts lined up with major climate shifts, suggesting that environmental upheaval can reshape life in powerful ways.",
+      "id": "0db024fcb0f7"
     },
     {
       "source": "WRAL Local",
-      "title": "Woman was shot in drive-by shooting in Durham off Old Oxford Road",
-      "link": "https://www.wral.com/news/local/durham-old-oxford-investigation-july-2026/",
-      "published_at": "2026-07-31T07:55:12+00:00",
-      "summary_raw": "An investigation is underway after a reported shooting near Old Oxford Road early Friday morning in Durham.",
-      "id": "eed92527b4d7"
+      "title": "Troopers investigating crash in Harnett County",
+      "link": "https://www.wral.com/news/local/harnett-county-crash-ernest-brown-road-july-2026/",
+      "published_at": "2026-07-31T18:03:20+00:00",
+      "summary_raw": "SKY5 flew over the scene of a crash on N.C. Highway 27 in Harnett County. WRAL has reached out to North Carolina State Highway Patrol to learn what led up to the crash.",
+      "id": "f31e66aaaa86"
     },
     {
       "source": "Wired",
@@ -388,19 +436,19 @@
     },
     {
       "source": "Science Daily",
-      "title": "AI reveals explosive bursts in bird evolution",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260729010709.htm",
-      "published_at": "2026-07-30T01:01:26+00:00",
-      "summary_raw": "Songbirds appear to have evolved through rare explosions of change separated by long periods of slower development. Many of those bursts lined up with major climate shifts, suggesting that environmental upheaval can reshape life in powerful ways.",
-      "id": "0db024fcb0f7"
+      "title": "Daily multivitamin may help older adults stay independent",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260729010716.htm",
+      "published_at": "2026-07-29T23:44:16+00:00",
+      "summary_raw": "Taking a daily multivitamin may help older adults preserve the strength and stamina needed for everyday activities. After three years, users reported better functional health than those taking a placebo, although the preliminary findings still require peer review.",
+      "id": "dc0cbeb6e2eb"
     },
     {
       "source": "WRAL Local",
-      "title": "Friends unite to care for Wake County fire victim's surviving dog",
-      "link": "https://www.wral.com/news/local/surviving-dog-fire-wake-county-july-2026/",
-      "published_at": "2026-07-31T01:55:28+00:00",
-      "summary_raw": "Friends of a Wake County man killed in a house fire are raising money to care for his badly injured surviving dog, Bruce, who is being treated at N.C. State Veterinary Hospital.",
-      "id": "1311be4cb8c1"
+      "title": "19-year-old arrested in Raleigh shopping center shooting",
+      "link": "https://www.wral.com/news/local/shooter-arrested-strip-mall-shooting-new-bern-ave-july-2026/",
+      "published_at": "2026-07-31T16:12:03+00:00",
+      "summary_raw": "Raleigh police arrested 19-year-old Maxwell Franks in connection with a shooting at a shopping center on New Bern Avenue.",
+      "id": "0da0e7abb9af"
     },
     {
       "source": "Wired",
@@ -436,19 +484,19 @@
     },
     {
       "source": "Science Daily",
-      "title": "Daily multivitamin may help older adults stay independent",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260729010716.htm",
-      "published_at": "2026-07-29T23:44:16+00:00",
-      "summary_raw": "Taking a daily multivitamin may help older adults preserve the strength and stamina needed for everyday activities. After three years, users reported better functional health than those taking a placebo, although the preliminary findings still require peer review.",
-      "id": "dc0cbeb6e2eb"
+      "title": "Scientists find a simple way to stop cavities without drilling",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260729010719.htm",
+      "published_at": "2026-07-29T12:35:36+00:00",
+      "summary_raw": "A liquid brushed onto cavities in seconds may spare many young children from pain, infection, and surgery. A major U.S. trial found that silver diamine fluoride stopped decay in more than half of treated baby teeth. The treatment requires no drilling, shots, or sedation, although it does permanently darken the decayed area.",
+      "id": "40bbb20c22c5"
     },
     {
       "source": "WRAL Local",
-      "title": "Forensics investigate human remains found in Cumberland County",
-      "link": "https://www.wral.com/news/local/human-remains-found-cumberland-county-july-2026/",
-      "published_at": "2026-07-31T01:06:59+00:00",
-      "summary_raw": "The Cumberland County Sheriff's Office is investigating after human remains were found in a wooded area on Deep Creek Road in Fayetteville.",
-      "id": "fbec2bba696e"
+      "title": "Former Durham EMS supervisor sentenced to 18 years for child pornography",
+      "link": "https://www.wral.com/news/local/former-durham-ems-supervisor-sentenced-18-years-child-pornography-july-2026/",
+      "published_at": "2026-07-31T14:08:59+00:00",
+      "summary_raw": "Andrew Childs, a former Durham EMS district supervisor, was sentenced to 18 years in prison followed by 10 years of supervised probation after pleading guilty to distribution of child sexual abuse material and production of an \"animal crush video\".",
+      "id": "f3577adf5e2a"
     },
     {
       "source": "Wired",
@@ -457,22 +505,6 @@
       "published_at": "2026-07-31T10:00:00+00:00",
       "summary_raw": "Created by legendary hardware hacker Andrew “bunnie” Huang, the badges for this year’s famed security conference aim to push the boundaries of security and transparency.",
       "id": "bdbbb60c8634"
-    },
-    {
-      "source": "NPR Politics",
-      "title": "Trump says he 'may' pull Blanche AG nomination temporarily",
-      "link": "https://www.npr.org/2026/07/30/g-s1-135784/todd-blanche-attorney-general-trump",
-      "published_at": "2026-07-30T16:30:58+00:00",
-      "summary_raw": "The news comes as two key Republicans are withholding their support over concerns about the Justice Department's deal with President Trump.",
-      "id": "7987bd8f9feb"
-    },
-    {
-      "source": "NPR National",
-      "title": "Alien Terrorist Removal Court holds its first-ever hearing after 30 years",
-      "link": "https://www.npr.org/2026/07/30/g-s1-136289/alien-terrorist-removal-court-isis-terror-plot",
-      "published_at": "2026-07-30T13:10:45+00:00",
-      "summary_raw": "Congress created the Alien Terrorist Removal Court in 1996 to make it easier for the Justice Department to use classified evidence to deport people from U.S. soil.",
-      "id": "f6287ea7f33b"
     },
     {
       "source": "BBC World",
@@ -484,26 +516,26 @@
     },
     {
       "source": "Science Daily",
-      "title": "Scientists find a simple way to stop cavities without drilling",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260729010719.htm",
-      "published_at": "2026-07-29T12:35:36+00:00",
-      "summary_raw": "A liquid brushed onto cavities in seconds may spare many young children from pain, infection, and surgery. A major U.S. trial found that silver diamine fluoride stopped decay in more than half of treated baby teeth. The treatment requires no drilling, shots, or sedation, although it does permanently darken the decayed area.",
-      "id": "40bbb20c22c5"
+      "title": "Your gut may help your brain decide what to remember",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260729010713.htm",
+      "published_at": "2026-07-29T12:20:24+00:00",
+      "summary_raw": "Signals traveling from the gut to the brain may help turn meals into lasting memories. Rats showed stronger memory activity after consuming nutritious foods, but not after drinking sweet liquids with little or no nutritional value. Blocking the vagus nerve erased this effect and made it harder for the animals to remember where food had been located. Over time, diets high in fat and sugar also weakened this memory system.",
+      "id": "470f31ade610"
     },
     {
       "source": "WRAL Local",
-      "title": "Unanswered questions two weeks since release of state auditor's report on Cary spending",
-      "link": "https://www.wral.com/news/local/unanswered-questions-two-weeks-since-release-of-state-auditors-report-on-cary-spending-july-30-2026/",
-      "published_at": "2026-07-30T21:55:31+00:00",
-      "summary_raw": "Residents remain concerned after they say leaders ignored a responsibility to address Cary's financial troubles earlier.",
-      "id": "349eed542ec5"
+      "title": "Parking rates in downtown Raleigh will increase August 1",
+      "link": "https://www.wral.com/news/local/parking-rates-increase-for-downtown-raleigh-july-2026/",
+      "published_at": "2026-07-31T13:37:54+00:00",
+      "summary_raw": "Parking across downtown Raleigh are set to increase between $0.25 for street parking and $1 for parking decks.",
+      "id": "9dcfcdbfb2da"
     },
     {
       "source": "Wired",
-      "title": "The World Is Too Hot. El Niño Is Partly to Blame",
+      "title": "What’s Behind the Heat Wave Scorching Huge Parts of the World",
       "link": "https://www.wired.com/story/world-heat-wave-el-nino-to-blame/",
       "published_at": "2026-07-31T09:00:00+00:00",
-      "summary_raw": "Heat waves are simultaneously hitting Europe, North America, and Asia, driven in part by the hot waters in the tropical Pacific—and climate change.",
+      "summary_raw": "A combination of El Niño, unusually hot ocean waters, and jet stream changes is sending temperatures soaring in the US, Europe, and Asia.",
       "id": "d5ea0f4a624a"
     },
     {
@@ -516,19 +548,11 @@
     },
     {
       "source": "Science Daily",
-      "title": "Your gut may help your brain decide what to remember",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260729010713.htm",
-      "published_at": "2026-07-29T12:20:24+00:00",
-      "summary_raw": "Signals traveling from the gut to the brain may help turn meals into lasting memories. Rats showed stronger memory activity after consuming nutritious foods, but not after drinking sweet liquids with little or no nutritional value. Blocking the vagus nerve erased this effect and made it harder for the animals to remember where food had been located. Over time, diets high in fat and sugar also weakened this memory system.",
-      "id": "470f31ade610"
-    },
-    {
-      "source": "WRAL Local",
-      "title": "Publix recalls GreenWise organic frozen berries due to potential E. Coli",
-      "link": "https://www.wral.com/news/local/publix-recalls-berries-8-states-nc-july-2026/",
-      "published_at": "2026-07-30T20:53:55+00:00",
-      "summary_raw": "Publix recalls all frozen blueberries and mixed berries. If you have these in your freezer, throw them out.",
-      "id": "09de5e7e9a9d"
+      "title": "Why are so many dead bumblebees appearing on sidewalks?",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260727012134.htm",
+      "published_at": "2026-07-29T12:05:56+00:00",
+      "summary_raw": "Bumblebees naturally have short lives, but extreme heat and human activity are making survival harder. Pesticides can poison bees or destroy the flowers they depend on, while habitat loss leaves them with fewer safe places to live and feed. Protecting native plants and using fewer chemicals could help these vital pollinators recover.",
+      "id": "39882b75e321"
     },
     {
       "source": "Wired",
@@ -548,11 +572,11 @@
     },
     {
       "source": "Science Daily",
-      "title": "Why are so many dead bumblebees appearing on sidewalks?",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260727012134.htm",
-      "published_at": "2026-07-29T12:05:56+00:00",
-      "summary_raw": "Bumblebees naturally have short lives, but extreme heat and human activity are making survival harder. Pesticides can poison bees or destroy the flowers they depend on, while habitat loss leaves them with fewer safe places to live and feed. Protecting native plants and using fewer chemicals could help these vital pollinators recover.",
-      "id": "39882b75e321"
+      "title": "A tiny molecular basket unlocks a powerful new kind of chemistry",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260724061452.htm",
+      "published_at": "2026-07-29T11:47:05+00:00",
+      "summary_raw": "Rice University chemists have found a new way to make neodymium, a rare-earth metal, interact with oxygen. Using a specially designed molecular structure described as a “basket,” the team positioned the atoms so they could form a bond once thought unlikely. The breakthrough produced highly reactive compounds that could eventually give chemists alternatives to iron-based molecules used in biological reactions and chemical manufacturing.",
+      "id": "6ccef3975187"
     },
     {
       "source": "Wired",
@@ -572,11 +596,11 @@
     },
     {
       "source": "Science Daily",
-      "title": "A tiny molecular basket unlocks a powerful new kind of chemistry",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260724061452.htm",
-      "published_at": "2026-07-29T11:47:05+00:00",
-      "summary_raw": "Rice University chemists have found a new way to make neodymium, a rare-earth metal, interact with oxygen. Using a specially designed molecular structure described as a “basket,” the team positioned the atoms so they could form a bond once thought unlikely. The breakthrough produced highly reactive compounds that could eventually give chemists alternatives to iron-based molecules used in biological reactions and chemical manufacturing.",
-      "id": "6ccef3975187"
+      "title": "New microwave frying method could make french fries much healthier",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260729044048.htm",
+      "published_at": "2026-07-29T10:15:04+00:00",
+      "summary_raw": "A new cooking method could make French fries crispier in less time while significantly limiting how much oil they absorb. Researchers propose combining microwave heating, which keeps oil out, with conventional frying, which provides the crunch consumers expect.",
+      "id": "7f3c54471a35"
     },
     {
       "source": "Wired",
@@ -596,11 +620,11 @@
     },
     {
       "source": "Science Daily",
-      "title": "New microwave frying method could make french fries much healthier",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260729044048.htm",
-      "published_at": "2026-07-29T10:15:04+00:00",
-      "summary_raw": "A new cooking method could make French fries crispier in less time while significantly limiting how much oil they absorb. Researchers propose combining microwave heating, which keeps oil out, with conventional frying, which provides the crunch consumers expect.",
-      "id": "7f3c54471a35"
+      "title": "Can’t sleep in the heat? These 8 tricks could save your night",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260729010722.htm",
+      "published_at": "2026-07-29T05:35:45+00:00",
+      "summary_raw": "Sleeping well during a heatwave starts with stopping the home from overheating. Close blinds against strong sunlight, ventilate when the air outside becomes cooler, and avoid using heat-producing appliances during the hottest hours. Moving to a cooler room, choosing light bedding and using fans or ice packs safely can also make hot nights more manageable.",
+      "id": "4d035700bc9b"
     },
     {
       "source": "Wired",
@@ -617,30 +641,6 @@
       "published_at": "2026-07-30T17:33:41+00:00",
       "summary_raw": "\"It is clear you failed as a parent,\" the judge told Colin Gray, who was found guilty earlier this year on charges stemming from the deadly 2024 school attack.",
       "id": "e4416de30973"
-    },
-    {
-      "source": "Science Daily",
-      "title": "Can’t sleep in the heat? These 8 tricks could save your night",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260729010722.htm",
-      "published_at": "2026-07-29T05:35:45+00:00",
-      "summary_raw": "Sleeping well during a heatwave starts with stopping the home from overheating. Close blinds against strong sunlight, ventilate when the air outside becomes cooler, and avoid using heat-producing appliances during the hottest hours. Moving to a cooler room, choosing light bedding and using fans or ice packs safely can also make hot nights more manageable.",
-      "id": "4d035700bc9b"
-    },
-    {
-      "source": "Wired",
-      "title": "How the FCC’s New Rule Will Affect Robot Vacuums",
-      "link": "https://www.wired.com/story/the-fcc-is-coming-for-robot-vacuums/",
-      "published_at": "2026-07-30T23:17:46+00:00",
-      "summary_raw": "A new restriction on foreign-made mobile robots affects robotic vacuums, pool cleaners, and lawn mowers. Here’s what it means for the bots already in your home—and the ones you may never get to buy.",
-      "id": "3bb2587b12d1"
-    },
-    {
-      "source": "BBC World",
-      "title": "Why limited war with the US may suit Iran better than peace",
-      "link": "https://www.bbc.co.uk/news/articles/c78gnyq3wvdo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-30T17:26:01+00:00",
-      "summary_raw": "Iran may believe it can control its conflict carefully enough to keep pressure on the US while avoiding an all-out war.",
-      "id": "30e61fd60f9c"
     }
   ]
 }

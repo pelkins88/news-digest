@@ -1,14 +1,118 @@
 {
   "mode": "raw",
-  "generated_at": "2026-08-20T11:33:34.357787+00:00",
+  "generated_at": "2026-08-20T20:26:22.506787+00:00",
   "items": [
     {
       "source": "WRAL Local",
-      "title": "Durham mother takes insanity plea after accused of murdering her son",
-      "link": "https://www.wral.com/news/local/durham-mother-takes-insanity-plea-after-accused-of-murder-august-2026/",
-      "published_at": "2026-08-20T11:28:25+00:00",
-      "summary_raw": "A Durham mother accused of killing her 3-year-old son, and trying to kill her other child will plead not guilty, according to her lawyers.",
-      "id": "40af393fa0eb"
+      "title": "'We have made a lot of progress': Governor Stein says DMV wait times dropped by 90%",
+      "link": "https://www.wral.com/news/local/ncdmv-wait-times-down-august-2026/",
+      "published_at": "2026-08-20T20:19:32+00:00",
+      "summary_raw": "On Thursday, Governor Josh Stein provided updates on the wait times at the NCDMV after the summer rush.",
+      "id": "d8f30a291317"
+    },
+    {
+      "source": "WRAL Weather",
+      "title": "Ask the Meteorologist: How does the humidity make it feel so much hotter?",
+      "link": "https://www.wral.com/weather/ask-the-meteorologist-how-does-humidity-make-it-feel-hotter-august-2026/",
+      "published_at": "2026-08-20T12:42:00+00:00",
+      "summary_raw": "It has been a hotter-than-normal August so far, and it has also been very humid. That humidity makes it feel even hotter. Let's talk about why it makes us feel hotter and how we can stay safe during the heat.",
+      "id": "f329bd051d85"
+    },
+    {
+      "source": "Wired",
+      "title": "China Is Strapping ‘Digital Bombs’ to Civilian Infrastructure—Is the US Ready?",
+      "link": "https://www.wired.com/story/china-is-strapping-digital-bombs-to-civilian-infrastructure-is-the-us-ready/",
+      "published_at": "2026-08-20T20:03:13+00:00",
+      "summary_raw": "This week on “Uncanny Valley,” Andy Greenberg discusses sitting in on a war game simulating a cyberattack from the Chinese hacking group Volt Typhoon",
+      "id": "54630ddd29a4"
+    },
+    {
+      "source": "NPR Politics",
+      "title": "So-called 'blue state refugees' have helped turn Florida red",
+      "link": "https://www.npr.org/2026/08/20/nx-s1-5930693/so-called-blue-state-refugees-have-helped-turn-florida-red",
+      "published_at": "2026-08-20T20:05:47+00:00",
+      "summary_raw": "Conservatives who move from Democratic-run places to Republican-led states are often called blue state refugees. These conservatives have helped reshape the electorate in Florida.",
+      "id": "7671f3dca827"
+    },
+    {
+      "source": "NPR National",
+      "title": "What we know about the Penn State cocaine trafficking ring",
+      "link": "https://www.npr.org/2026/08/20/nx-s1-5939523/what-we-know-about-the-penn-state-cocaine-trafficking-ring",
+      "published_at": "2026-08-20T20:04:27+00:00",
+      "summary_raw": "One parent and 13 former students have been arrested in a drug trafficking ring at Penn State University. The defendants allegedly transported and distributed large amounts of cocaine.",
+      "id": "6c113d36de44"
+    },
+    {
+      "source": "BBC World",
+      "title": "Como mayor hit by electric bike and issues blanket ban in Italian city",
+      "link": "https://www.bbc.co.uk/news/articles/cn8n077vxd7o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-20T20:08:29+00:00",
+      "summary_raw": "Alessandro Rapinese said the prohibition was for public safety, adding \"I know what it's like to be hit by one of these beasts\".",
+      "id": "9ab3678545bd"
+    },
+    {
+      "source": "Science Daily",
+      "title": "Knee osteoarthritis isn’t inevitable — here’s what you can do",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260820002420.htm",
+      "published_at": "2026-08-20T11:38:19+00:00",
+      "summary_raw": "Knee osteoarthritis can seriously affect mobility and quality of life, but its progression isn’t completely out of your control. Exercise, stronger leg muscles, a healthier diet, and even modest weight loss can dramatically reduce stress on the knees and help keep pain in check.",
+      "id": "b5aaa4f0d7a4"
+    },
+    {
+      "source": "WRAL Local",
+      "title": "Durham mother plans insanity defense; attorney draws parallels to Lindsay Clancy case",
+      "link": "https://www.wral.com/news/local/durham-mother-murder-son-insanity-august-2026/",
+      "published_at": "2026-08-20T19:57:41+00:00",
+      "summary_raw": "A Durham woman charged with murdering her child plans to use not guilty by reason of insanity and diminished capacity as defenses after previously being found incapable of proceeding to trial.",
+      "id": "f8b1bf489bdc"
+    },
+    {
+      "source": "Wired",
+      "title": "Silicon Valley Doesn't Get Why You Hate AI",
+      "link": "https://www.wired.com/story/silicon-valley-doesnt-get-why-you-hate-ai/",
+      "published_at": "2026-08-20T18:49:07+00:00",
+      "summary_raw": "Technology leaders don’t seem to understand society’s gripes about AI, but boy, are they posting through it.",
+      "id": "7d207ef29b9f"
+    },
+    {
+      "source": "NPR Politics",
+      "title": "D.C.'s IndyCar race will zoom past museums. Some worry it could harm the art inside",
+      "link": "https://www.npr.org/2026/08/20/nx-s1-5939431/dc-indycar-race-museums-art-vibration",
+      "published_at": "2026-08-20T15:18:21+00:00",
+      "summary_raw": "Sunday's course takes high-speed cars right past the National Gallery of Art and three Smithsonian museums. Art experts worry about the works inside, but organizers say they don't expect damage.",
+      "id": "df49b69c4217"
+    },
+    {
+      "source": "NPR National",
+      "title": "The Navajo Nation wants to expand a coal mine. The plan could displace some families",
+      "link": "https://www.npr.org/2026/08/20/nx-s1-5936286-e1/the-navajo-nation-wants-to-expand-a-coal-mine-the-plan-could-displace-some-families",
+      "published_at": "2026-08-20T20:01:27+00:00",
+      "summary_raw": "Coal mining has been a big part of the Navajo Nation's economy for decades. As mines and power plants have been closing, the tribe is trying to expand one of its largest mines.",
+      "id": "1c6a4561619f"
+    },
+    {
+      "source": "BBC World",
+      "title": "US says sanctions will 'squash' Iran's economy and 'collapse' its regime",
+      "link": "https://www.bbc.co.uk/news/articles/c87n90eg0p2o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-20T19:52:48+00:00",
+      "summary_raw": "US Treasury Secretary Scott Bessent says allies will need to decide whether they \"are with us or against us\".",
+      "id": "e5f9b479c589"
+    },
+    {
+      "source": "Science Daily",
+      "title": "Schizophrenia’s lost brain connections follow a surprising pattern",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260820002443.htm",
+      "published_at": "2026-08-20T11:27:34+00:00",
+      "summary_raw": "Specialized brain scans reveal that schizophrenia is linked to widespread loss of the synapses that connect brain cells, with the left side of the brain hit especially hard. The damage follows a surprisingly organized pattern tied to the brain’s chemistry and wiring. Researchers also identified a left frontal region that may serve as a starting point for the loss.",
+      "id": "720ad79309eb"
+    },
+    {
+      "source": "WRAL Local",
+      "title": "What’s changing on school menus as Wake, Durham students return",
+      "link": "https://www.wral.com/news/local/whats-changing-on-school-menus-for-wake-durham-students-august-2026/",
+      "published_at": "2026-08-20T19:49:55+00:00",
+      "summary_raw": "Wake and Durham students will see changes to school meals this year, including new menu precautions, expanded access to free meals and higher prices for some Wake County families.",
+      "id": "80e049204968"
     },
     {
       "source": "Wired",
@@ -20,43 +124,43 @@
     },
     {
       "source": "NPR Politics",
-      "title": "Here's how the system to report problems in ICE detention has failed immigrants",
-      "link": "https://www.npr.org/2026/08/20/nx-s1-5850361/grievance-ice-detention-immigrants",
+      "title": "Privacy advocates call on Maryland to investigate data brokers",
+      "link": "https://www.npr.org/2026/08/20/nx-s1-5938822/maryland-privacy-data-brokers",
       "published_at": "2026-08-20T09:00:00+00:00",
-      "summary_raw": "Critics say it is the reason why more detainees are risking their lives to protest inhumane conditions and legal rights violations, in the form of widespread hunger strikes.",
-      "id": "287e23a016ef"
+      "summary_raw": "Maryland has one of the strictest data privacy laws in the country. But privacy advocates allege that data brokers are violating the law by selling data to police and federal immigration agencies.",
+      "id": "d0e6c2c0cd8b"
     },
     {
       "source": "NPR National",
-      "title": "Trump to nominate Dr. Heidi Overton to lead FDA",
-      "link": "https://www.npr.org/2026/08/20/nx-s1-5938124/trump-to-nominate-dr-heidi-overton-to-lead-fda",
-      "published_at": "2026-08-20T10:55:30+00:00",
-      "summary_raw": "The president said he would nominate Dr. Heidi Overton to lead the Food and Drug Administration. Some senators said they will not confirm her, saying she's unqualified and too conservative.",
-      "id": "a402c3a2110e"
+      "title": "The Iran war and tariffs are costing farmers. Will Republicans pay in November?",
+      "link": "https://www.npr.org/2026/08/20/nx-s1-5914684/farmers-trump-pennsylvania-midterms",
+      "published_at": "2026-08-20T19:22:20+00:00",
+      "summary_raw": "In some tight midterm races, how farmers frustrated with the war and rising costs vote could make a difference.",
+      "id": "5ae2df38af75"
     },
     {
       "source": "BBC World",
-      "title": "Former Liberian vice-president charged in drug-trafficking probe",
-      "link": "https://www.bbc.co.uk/news/articles/clyx028ryy6o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-20T11:08:19+00:00",
-      "summary_raw": "Jewel Howard-Taylor was arrested at Liberia's international airport and has not commented on the allegations.",
-      "id": "fa33ba17a911"
+      "title": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
+      "link": "https://www.bbc.co.uk/news/articles/c998evlgz8ko?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-20T18:55:14+00:00",
+      "summary_raw": "European countries and Canada pile on pressure over Israel's plans to expand settlements in a strategically vital part of the occupied West Bank.",
+      "id": "2d90f2a7327e"
     },
     {
       "source": "Science Daily",
-      "title": "AI-designed “intrabodies” could unlock new treatments for Alzheimer’s, Parkinson’s and MND",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260819041242.htm",
-      "published_at": "2026-08-20T02:01:27+00:00",
-      "summary_raw": "Researchers have developed a new way to turn ordinary antibodies into tiny disease-fighting molecules that can work inside human cells, potentially opening new paths for treating Alzheimer’s, Parkinson’s, Huntington’s disease, and motor neurone disease.",
-      "id": "c7a02a150046"
+      "title": "Scientists say the human family tree may need a major rewrite",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260820002413.htm",
+      "published_at": "2026-08-20T10:42:59+00:00",
+      "summary_raw": "The human family tree may be due for a major rewrite. Researchers argue that Australopithecus and Paranthropus should be folded into the genus Homo because new fossils have blurred many of the traits once used to separate them. The proposed shake-up could provide a simpler, more accurate picture of our surprisingly complicated evolutionary past.",
+      "id": "6d0ba941e330"
     },
     {
       "source": "WRAL Local",
-      "title": "Has the Charlotte Transit System kept their safety promises after Iryna Zarutska's death?",
-      "link": "https://www.wral.com/news/state/has-charlotte-transit-system-kept-security-promises-after-zarutska-death-august-2026/",
-      "published_at": "2026-08-20T11:03:11+00:00",
-      "summary_raw": "In September 2025, CATS promised more security personnel, stronger ticket verification, and expanded security technology. Where are they today?",
-      "id": "49a38f6700e8"
+      "title": "Cyclospora outbreak: Fact-checking claims about Taylor Farms’ donations to Trump-aligned groups",
+      "link": "https://www.wral.com/news/state/fact-check-taylor-farm-donations-trump-groups-cyclospora-outbreak-august-20/",
+      "published_at": "2026-08-20T19:46:52+00:00",
+      "summary_raw": "After Taylor Farms de Mexico’s lettuce was identified as a potential source for a multi-state cyclospora outbreak, the company’s political dealings and contributions came under scrutiny.",
+      "id": "b8f7732da844"
     },
     {
       "source": "Wired",
@@ -68,47 +172,47 @@
     },
     {
       "source": "NPR Politics",
-      "title": "Privacy advocates call on Maryland to investigate data brokers",
-      "link": "https://www.npr.org/2026/08/20/nx-s1-5938822/maryland-privacy-data-brokers",
+      "title": "The system meant to protect ICE detainees has collapsed",
+      "link": "https://www.npr.org/2026/08/20/nx-s1-5850361/grievance-ice-detention-immigrants",
       "published_at": "2026-08-20T09:00:00+00:00",
-      "summary_raw": "Maryland has one of the strictest data privacy laws in the country. But privacy advocates allege data brokers are violating the law by selling data to police and federal immigration agencies.",
-      "id": "d0e6c2c0cd8b"
+      "summary_raw": "Critics say it is the reason why more detainees are risking their lives to protest inhumane conditions and legal rights violations, in the form of widespread hunger strikes.",
+      "id": "287e23a016ef"
     },
     {
       "source": "NPR National",
-      "title": "Privacy advocates call on Maryland to investigate data brokers",
-      "link": "https://www.npr.org/2026/08/20/nx-s1-5938822/maryland-privacy-data-brokers",
-      "published_at": "2026-08-20T09:00:00+00:00",
-      "summary_raw": "Maryland has one of the strictest data privacy laws in the country. But privacy advocates allege data brokers are violating the law by selling data to police and federal immigration agencies.",
-      "id": "d0e6c2c0cd8b"
+      "title": "D.C.'s IndyCar race will zoom past museums. Some worry it could harm the art inside",
+      "link": "https://www.npr.org/2026/08/20/nx-s1-5939431/dc-indycar-race-museums-art-vibration",
+      "published_at": "2026-08-20T15:18:21+00:00",
+      "summary_raw": "Sunday's course takes high-speed cars right past the National Gallery of Art and three Smithsonian museums. Art experts worry about the works inside, but organizers say they don't expect damage.",
+      "id": "df49b69c4217"
     },
     {
       "source": "BBC World",
-      "title": "At least 15 killed in Kyiv as Ukraine grapples with air defence shortages",
+      "title": "Russia 'purposefully' hit critical infrastructure in latest strikes, Kyiv mayor says",
       "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-20T11:06:54+00:00",
-      "summary_raw": "Apartment blocks and warehouses were targeted in the \"massive attack\" on Thursday, officials say.",
+      "published_at": "2026-08-20T17:14:55+00:00",
+      "summary_raw": "At least 17 people were killed in the \"massive attack\" overnight on Ukraine's capital, as mayor Vitali Klitschko warns hot water supply has been disrupted.",
       "id": "80c896d5ad3d"
     },
     {
       "source": "Science Daily",
-      "title": "MIT physicists discover electrons rebuilding like ice inside a quantum material",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260819041231.htm",
-      "published_at": "2026-08-20T01:32:04+00:00",
-      "summary_raw": "MIT physicists found that two electronic phases inside the same quantum material emerge through surprisingly different mechanisms—one smoothly and the other in expanding pockets resembling growing ice crystals. The discovery could help explain how exotic properties such as superconductivity and magnetism develop and coexist.",
-      "id": "b72edc79cd01"
+      "title": "The “Asian water tower” is losing 24 billion tonnes of groundwater every year",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260820002454.htm",
+      "published_at": "2026-08-20T09:21:01+00:00",
+      "summary_raw": "The “Asian Water Tower” is losing roughly 24.2 billion tonnes of groundwater every year, with some of the worst declines hitting densely populated farming regions. Glacier melt may temporarily soften the crisis around the 2060s, but without changes in water use, researchers expect depletion to accelerate afterward.",
+      "id": "7d2b155577bd"
     },
     {
       "source": "WRAL Local",
-      "title": "Driver crashes into Raleigh Days Inn motel; DWI expected police say",
-      "link": "https://www.wral.com/news/local/driver-crashes-into-raleigh-days-inn-dwi-expected-august-2026/",
-      "published_at": "2026-08-20T09:39:30+00:00",
-      "summary_raw": "A man drove his vehicle into the Days Inn motel in Raleigh after police say he accidently pressed the gas pedal instead of the brake.",
-      "id": "734a8cd45d8a"
+      "title": "UNC can keep private a $1.2M report into faculty complaints about civics school, judge says",
+      "link": "https://www.wral.com/news/local/unc-court-case-report-school-of-civic-life-and-leadership-private-lawsuit-august-2026/",
+      "published_at": "2026-08-20T19:34:57+00:00",
+      "summary_raw": "Media outlets, including WRAL’s parent company, sued the University of North Carolina at Chapel Hill, seeking the release of a lengthy report into its School of Civic Life and Leadership.",
+      "id": "b90efa0d15dc"
     },
     {
       "source": "Wired",
-      "title": "The 3 Best USB Phone Chargers (2026): Anker, DeWalt",
+      "title": "The 3 Best USB Car Chargers for Phones (2026): Anker, DeWalt",
       "link": "https://www.wired.com/story/best-usb-car-chargers/",
       "published_at": "2026-08-20T10:33:00+00:00",
       "summary_raw": "I put top-rated USB car chargers to the test for fast charging, value, heat, and safety. These are the best I found.",
@@ -124,35 +228,35 @@
     },
     {
       "source": "NPR National",
-      "title": "Disabled adults learn and work in their communities. That right is under threat",
-      "link": "https://www.npr.org/2026/08/20/nx-s1-5891791/disability-rights-community-living-integration-trump",
-      "published_at": "2026-08-20T09:00:00+00:00",
-      "summary_raw": "Siblings Cody and Kaleigh Brendle have grown up with the right to community integration. Now, they worry those protections for people with disabilities like them are being eroded.",
-      "id": "35451a1e27bc"
+      "title": "Trump to nominate Dr. Heidi Overton to lead FDA",
+      "link": "https://www.npr.org/2026/08/20/nx-s1-5938124/trump-to-nominate-dr-heidi-overton-to-lead-fda",
+      "published_at": "2026-08-20T10:55:30+00:00",
+      "summary_raw": "The president said he would nominate Dr. Heidi Overton to lead the Food and Drug Administration. Some senators said they will not confirm her, saying she's unqualified and too conservative.",
+      "id": "a402c3a2110e"
     },
     {
       "source": "BBC World",
-      "title": "Ecuador intelligence chief and five Americans killed in Kenya helicopter crash",
-      "link": "https://www.bbc.co.uk/news/articles/clylkv4z59vo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-20T10:41:25+00:00",
-      "summary_raw": "Michele Sensi-Contugi and his wife Stephany Hollihan are among the seven people killed in the crash.",
-      "id": "ecc96e8e5d9c"
+      "title": "Togo charges two French journalists over incorrect documents, rights group says",
+      "link": "https://www.bbc.co.uk/news/articles/cj9dkmljmwvo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-20T16:00:27+00:00",
+      "summary_raw": "Gaël Mocaër and Sebastian Perez Pezzani's detention is \"unjustified and disproportionate\", Reporters Without Borders says.",
+      "id": "ef3e63458a04"
     },
     {
       "source": "Science Daily",
-      "title": "Researchers reveal deeper workings of brain’s information hub",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260819041224.htm",
-      "published_at": "2026-08-20T00:38:34+00:00",
-      "summary_raw": "The brain has a remarkably flexible system for handling uncertainty and changing situations. Researchers found that the frontoparietal cortex constantly shifts how it communicates with other brain regions depending on what information is needed to make a decision. Rather than simply becoming more active when things get difficult, this network appears to reorganize itself in real time.",
-      "id": "8c04fc40f09b"
+      "title": "Scientists crushed diamond beyond Neptune-like pressures—and solved a 20-year mystery",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260820002424.htm",
+      "published_at": "2026-08-20T08:55:15+00:00",
+      "summary_raw": "Extreme experiments have revealed how diamond behaves at crushing pressures beyond those inside Neptune and Uranus, resolving a decades-old conflict between theory and observation. The results could help scientists boost fusion energy output while revealing more about the exotic diamond rain hidden inside ice giant planets.",
+      "id": "2f62117329b5"
     },
     {
       "source": "WRAL Local",
-      "title": "NC school rooftops could generate enough solar power for 150,000 homes, report finds",
-      "link": "https://www.wral.com/news/local/nc-school-rooftops-generate-solar-power-for-150000-homes-august-2026/",
-      "published_at": "2026-08-20T09:07:01+00:00",
-      "summary_raw": "A new report finds North Carolina school rooftops could generate significant solar power, with Wake County offering more potential than any other county.",
-      "id": "939def41b47a"
+      "title": "House struck by lightning, catches fire in Willow Spring",
+      "link": "https://www.wral.com/news/local/house-struck-by-lightning-willow-springs-august-2026/",
+      "published_at": "2026-08-20T19:33:21+00:00",
+      "summary_raw": "It happened on the 1600 block of Kendall Hill Road. The Fuquay-Varina fire chief said someone was home at the time, but was not hurt.",
+      "id": "3fa7d10b7ae7"
     },
     {
       "source": "Wired",
@@ -172,40 +276,40 @@
     },
     {
       "source": "NPR National",
-      "title": "The Navajo Nation wants to expand a coal mine. The plan could displace some families",
-      "link": "https://www.npr.org/2026/08/20/nx-s1-5936286/the-navajo-nation-wants-to-expand-a-coal-mine-the-plan-could-displace-some-families",
-      "published_at": "2026-08-20T08:45:57+00:00",
-      "summary_raw": "Coal mining has been a big part of the Navajo Nation's economy for decades. As mines and power plants have been closing, the tribe is trying to expand one of its largest mines.",
-      "id": "511a7a693e63"
+      "title": "Privacy advocates call on Maryland to investigate data brokers",
+      "link": "https://www.npr.org/2026/08/20/nx-s1-5938822/maryland-privacy-data-brokers",
+      "published_at": "2026-08-20T09:00:00+00:00",
+      "summary_raw": "Maryland has one of the strictest data privacy laws in the country. But privacy advocates allege that data brokers are violating the law by selling data to police and federal immigration agencies.",
+      "id": "d0e6c2c0cd8b"
     },
     {
       "source": "BBC World",
-      "title": "Four workers dead after being hit by train in Japan",
-      "link": "https://www.bbc.co.uk/news/articles/c5yrnz24j22o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-20T10:32:31+00:00",
-      "summary_raw": "The train collided with the four men at Shin-Kanuma Station, north of Tokyo, authorities say.",
-      "id": "2f8e3d057afa"
+      "title": "Landslide at unlicensed Colombian gold mine kills 13",
+      "link": "https://www.bbc.co.uk/news/articles/czxel9lz3vqo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-20T15:07:57+00:00",
+      "summary_raw": "Four members of an indigenous family are among the dead, witnesses said.",
+      "id": "9cdde7dab964"
     },
     {
       "source": "Science Daily",
-      "title": "A mother’s age can shape her offspring without changing their DNA",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260819041220.htm",
-      "published_at": "2026-08-19T23:44:38+00:00",
-      "summary_raw": "Scientists have found evidence that the effects of a mother’s age on her offspring may be driven by reversible changes in gene activity rather than permanent DNA damage. The discovery raises the fascinating possibility that biological information from mothers, grandmothers, and even great-grandmothers can shape the health of future generations.",
-      "id": "818a4f06e3aa"
+      "title": "A SpaceX rocket smashed into the Moon — NASA just revealed the crater",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260820002429.htm",
+      "published_at": "2026-08-20T07:10:38+00:00",
+      "summary_raw": "A discarded SpaceX Falcon 9 stage crashed into the Moon on Aug. 5, leaving behind a newly formed crater about 60 feet wide. NASA’s Lunar Reconnaissance Orbiter captured detailed images showing bright and dark streaks of debris blasted across the surrounding surface. The impact even exposed fresh material buried beneath the Moon’s weathered exterior.",
+      "id": "7d682853335c"
     },
     {
       "source": "WRAL Local",
-      "title": "High school football season kicks off with safety and security measures in place",
-      "link": "https://www.wral.com/news/local/high-school-football-season-starts-new-safety-measures-august-2026/",
-      "published_at": "2026-08-20T08:45:07+00:00",
-      "summary_raw": "Thursday night kicks off the start of high school football season. School districts emphasize current policies to keep everyone safe this year.",
-      "id": "0e7d393a874f"
+      "title": "Wake schools has more than 98% of teaching positions filled",
+      "link": "https://www.wral.com/news/local/wake-schools-more-than-98-percent-teaching-positions-filled-august-2026/",
+      "published_at": "2026-08-20T17:16:18+00:00",
+      "summary_raw": "The district has more vacancies than it did last year in instructional assistants, most of those in special education.",
+      "id": "31d4ea16ef75"
     },
     {
       "source": "Wired",
       "title": "How Teen ‘After-Prom’ Kings in LA Monetized the High School Rager",
-      "link": "https://www.wired.com/myplots-jack-schwartz-zane-harwin-teen-parties-after-prom/",
+      "link": "https://www.wired.com/story/myplots-jack-schwartz-zane-harwin-teen-parties-after-prom/",
       "published_at": "2026-08-20T10:00:00+00:00",
       "summary_raw": "The West Coast house-party scene has long been iconic. For these young, tech-savvy entrepreneurs, it was also inspiration for MyPlots, a party-promotion empire.",
       "id": "052f59778e42"
@@ -220,35 +324,35 @@
     },
     {
       "source": "NPR National",
-      "title": "Tech billionaires push back against proposed wealth tax in California",
-      "link": "https://www.npr.org/2026/08/20/nx-s1-5935597/tech-billionaires-push-back-against-proposed-wealth-tax-in-california",
-      "published_at": "2026-08-20T08:45:47+00:00",
-      "summary_raw": "Tech billionaires in California are fighting a proposed one-time wealth tax. A Google co-founder is leading the charge against the tax, which would generate revenue for health-care services.",
-      "id": "fc18a0196086"
+      "title": "They grew up with disability rights. Now, they're fighting to keep them",
+      "link": "https://www.npr.org/2026/08/20/nx-s1-5891791/disability-rights-community-living-integration-trump",
+      "published_at": "2026-08-20T09:00:00+00:00",
+      "summary_raw": "Siblings Cody and Kaleigh Brendle have grown up with the right to community integration. Now, they worry those protections for people with disabilities like them are being eroded.",
+      "id": "35451a1e27bc"
     },
     {
       "source": "BBC World",
-      "title": "Israel opens up bids for highly sensitive West Bank settlement project",
-      "link": "https://www.bbc.co.uk/news/articles/cly50gn1e54o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-20T10:30:52+00:00",
-      "summary_raw": "The UK's foreign secretary condemned the move as \"an unacceptable and destructive act\".",
-      "id": "f5441f3e5c22"
+      "title": "German neo-Nazi suspected of deadly 1970 fire at Jewish retirement home",
+      "link": "https://www.bbc.co.uk/news/articles/c3r055g23qdo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-20T13:04:15+00:00",
+      "summary_raw": "Investigators believe they have identified an arsonist who attacked a Jewish community centre in Munich in 1970, killing seven people.",
+      "id": "f62aaf21c2aa"
     },
     {
       "source": "Science Daily",
-      "title": "Coffee drinkers have less fat, more muscle, and surprising hormone differences",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260819041228.htm",
-      "published_at": "2026-08-19T12:30:05+00:00",
-      "summary_raw": "Coffee drinkers may be getting more than an energy boost. A Finnish study found that people who drank more coffee tended to have less total and abdominal fat, more muscle, and healthier metabolic markers despite having similar BMIs. Higher coffee intake was also linked to lower levels of certain amino acids associated with insulin resistance and type 2 diabetes risk.",
-      "id": "187495a49b69"
+      "title": "This total solar eclipse looked strangely golden — here’s why",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260820002432.htm",
+      "published_at": "2026-08-20T06:59:00+00:00",
+      "summary_raw": "Spain’s total solar eclipse delivered an unexpected sight: a corona glowing gold instead of its usual pearly white. Because the Sun was setting, its light passed through more atmosphere, while smoke from nearby wildfires filtered out even more blue light. The result was a dramatic golden eclipse, punctuated by a bright pink solar prominence.",
+      "id": "f8ece27095f8"
     },
     {
       "source": "WRAL Local",
-      "title": "Buie Road near NC-27 closed due to structure fire",
-      "link": "https://www.wral.com/news/local/fire-buie-road-harnett-county-august-2026/",
-      "published_at": "2026-08-20T03:15:03+00:00",
-      "summary_raw": "Thursday evening Harnett County fire officials responded to a structure fire in the area of Buie Road near NC-27, one person was transported with minor injuries due to the fire.",
-      "id": "51bf70efd0c3"
+      "title": "Consumer Reports puts K-Beauty sunscreens to the test",
+      "link": "https://www.wral.com/news/local/consumer-reports-tests-k-beauty-products-august-2026/",
+      "published_at": "2026-08-20T17:13:04+00:00",
+      "summary_raw": "Consumer Reports tested six sunscreens from three popular K-Beauty brands.",
+      "id": "5d603e07798a"
     },
     {
       "source": "Wired",
@@ -268,35 +372,35 @@
     },
     {
       "source": "NPR National",
-      "title": "Drought and demand leaves water levels at two largest U.S. reservoirs at record lows",
-      "link": "https://www.npr.org/2026/08/20/nx-s1-5936459/drought-and-demand-leaves-water-levels-at-two-largest-u-s-reservoirs-at-record-lows",
-      "published_at": "2026-08-20T08:45:17+00:00",
-      "summary_raw": "America's two largest reservoirs are at their lowest levels as drought strangles the Colorado River. Their ability to supply water to cities, agriculture and hydroelectricity are in jeopardy.",
-      "id": "17d4355dd7ea"
+      "title": "The Navajo Nation wants to expand a coal mine. The plan could displace some families",
+      "link": "https://www.npr.org/2026/08/20/nx-s1-5936286/the-navajo-nation-wants-to-expand-a-coal-mine-the-plan-could-displace-some-families",
+      "published_at": "2026-08-20T08:45:57+00:00",
+      "summary_raw": "Coal mining has been a big part of the Navajo Nation's economy for decades. As mines and power plants have been closing, the tribe is trying to expand one of its largest mines.",
+      "id": "511a7a693e63"
     },
     {
       "source": "BBC World",
-      "title": "Ex-Zambian minister killed in security raid on opposition",
-      "link": "https://www.bbc.co.uk/news/articles/cg5ljlzedd5o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-20T10:07:48+00:00",
-      "summary_raw": "Police confirm Mutotwe Kafwaya's death after growing demands for information about his whereabouts.",
-      "id": "37ce11713b02"
+      "title": "Assad officer extradited to Syria on war crimes charges for first time",
+      "link": "https://www.bbc.co.uk/news/articles/cvgjdy8q766o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-20T12:38:35+00:00",
+      "summary_raw": "Lebanon handed over former General Adel Issa, as Syria steps up its pursuit of wanted members of the former regime.",
+      "id": "37e62284a471"
     },
     {
       "source": "Science Daily",
-      "title": "Scientists turn probiotic bacteria into tiny drug factories for pancreatic cancer",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260816044830.htm",
-      "published_at": "2026-08-19T12:10:13+00:00",
-      "summary_raw": "Engineered probiotic bacteria were able to infiltrate pancreatic tumors, stimulate cancer-fighting immune cells, and slow tumor growth in animal studies. Even more strikingly, the treatment worked better when combined with chemotherapy, radiation, or immunotherapy.",
-      "id": "bc468a754a5d"
+      "title": "More than 1,000 genetic switches reveal why female immunity is different",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260819041239.htm",
+      "published_at": "2026-08-20T04:06:29+00:00",
+      "summary_raw": "More than 1,000 genetic switches behave differently in male and female immune cells, helping explain why women are much more vulnerable to autoimmune diseases such as lupus. Female immune systems appear genetically tuned for stronger inflammatory responses—a powerful defense against infection that may also make dangerous immune misfires more likely.",
+      "id": "98c63e57a486"
     },
     {
       "source": "WRAL Local",
-      "title": "Rare 1517 copy of the Odyssey on display at UNC Chapel Hill",
-      "link": "https://www.wral.com/news/local/rare-1517-copy-of-odyssey-on-display-at-unc-august-2026/",
-      "published_at": "2026-08-19T21:00:31+00:00",
-      "summary_raw": "A copy of the Odyssey in ancient Greek that's over 500 years old is on display right now at UNC. You can see the 1517 edition at Wilson Library.",
-      "id": "e358fea123fc"
+      "title": "Crews contain 100-foot landfill fire in New Hanover County",
+      "link": "https://www.wral.com/news/state/crew-contains-100-foot-landfill-fire-in-new-hanover-county-august-2026/",
+      "published_at": "2026-08-20T15:55:24+00:00",
+      "summary_raw": "Firefighters battled a fire the size of a football field at the New Hanover County landfill",
+      "id": "d81282d6aadd"
     },
     {
       "source": "Wired",
@@ -316,35 +420,35 @@
     },
     {
       "source": "NPR National",
-      "title": "California passes toughest wildfire rules in the U.S. for home landscaping",
-      "link": "https://www.npr.org/2026/08/19/nx-s1-5937926/california-wildfire-rules-zone-zero-vegetation",
-      "published_at": "2026-08-19T23:19:12+00:00",
-      "summary_raw": "California has adopted the toughest new rules in the country that require homeowners to manage the plants around their houses. Fire experts say it helps protect houses from burning, but public pushback has been strong.",
-      "id": "4c4d73fd672e"
+      "title": "Tech billionaires push back against proposed wealth tax in California",
+      "link": "https://www.npr.org/2026/08/20/nx-s1-5935597/tech-billionaires-push-back-against-proposed-wealth-tax-in-california",
+      "published_at": "2026-08-20T08:45:47+00:00",
+      "summary_raw": "Tech billionaires in California are fighting a proposed one-time wealth tax. A Google co-founder is leading the charge against the tax, which would generate revenue for health-care services.",
+      "id": "fc18a0196086"
     },
     {
       "source": "BBC World",
-      "title": "Trump vows tougher economic measures on Iran and supporting countries",
-      "link": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-20T09:13:18+00:00",
-      "summary_raw": "It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict.",
-      "id": "cea696a1c2ff"
+      "title": "Former Liberian vice-president charged in drug-trafficking probe",
+      "link": "https://www.bbc.co.uk/news/articles/clyx028ryy6o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-20T11:08:19+00:00",
+      "summary_raw": "Jewel Howard-Taylor was arrested at Liberia's international airport and has not commented on the allegations.",
+      "id": "fa33ba17a911"
     },
     {
       "source": "Science Daily",
-      "title": "Tiny quantum engines reveal useful energy hiding in “waste heat”",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260819041222.htm",
-      "published_at": "2026-08-19T11:49:52+00:00",
-      "summary_raw": "A tiny machine made from just an atom and particles of light may sound impossibly simple, but it raises a surprisingly difficult question: what counts as heat, and what energy can still do useful work? University of Basel researchers have developed a theoretical framework that brings quantum physics and thermodynamics into better agreement for these microscopic “light engines.”",
-      "id": "fc999de6db61"
+      "title": "AI-designed “intrabodies” could unlock new treatments for Alzheimer’s, Parkinson’s and MND",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260819041242.htm",
+      "published_at": "2026-08-20T02:01:27+00:00",
+      "summary_raw": "Researchers have developed a new way to turn ordinary antibodies into tiny disease-fighting molecules that can work inside human cells, potentially opening new paths for treating Alzheimer’s, Parkinson’s, Huntington’s disease, and motor neurone disease.",
+      "id": "c7a02a150046"
     },
     {
       "source": "WRAL Local",
-      "title": "Dozens facing over 130 felony charges in summer operation at Raleigh's Moore Square",
-      "link": "https://www.wral.com/news/local/35-people-arrested-130-felonies-moore-square-summer-operation-raleigh-august-2026/",
-      "published_at": "2026-08-19T20:54:53+00:00",
-      "summary_raw": "35 people are facing more than 130 felony charges in what the North Carolina Alcohol Law Enforcement (ALE) called a joint operation with Raleigh police in Moore Square.",
-      "id": "c63a6e6f1ed5"
+      "title": "Greensboro police forensics division ranked among the world's best",
+      "link": "https://www.wral.com/news/state/greensboro-police-forensics-team-ranked-among-the-worlds-best-august-2026/",
+      "published_at": "2026-08-20T15:41:35+00:00",
+      "summary_raw": "The Greensboro Police Department's Forensic Services Division was ranked one of the best in the world, and was recognized with the 2025 Foresight Maximus Award.",
+      "id": "1c1fdbacff0b"
     },
     {
       "source": "Wired",
@@ -364,83 +468,35 @@
     },
     {
       "source": "NPR National",
-      "title": "On his 19th birthday, a vigil is planned for Mississippi teen Nolan Wells",
-      "link": "https://www.npr.org/2026/08/19/nx-s1-5937533/on-his-19th-birthday-a-vigil-is-planned-for-mississippi-teen-nolan-wells",
-      "published_at": "2026-08-19T20:53:13+00:00",
-      "summary_raw": "There's a vigil Wednesday night in Mississippi to mark the birthday of Nolan Wells. The teen who was found dead after being left on a island would have been 19 years old.",
-      "id": "272e57d682f2"
+      "title": "Drought and demand leaves water levels at two largest U.S. reservoirs at record lows",
+      "link": "https://www.npr.org/2026/08/20/nx-s1-5936459/drought-and-demand-leaves-water-levels-at-two-largest-u-s-reservoirs-at-record-lows",
+      "published_at": "2026-08-20T08:45:17+00:00",
+      "summary_raw": "America's two largest reservoirs are at their lowest levels as drought strangles the Colorado River. Their ability to supply water to cities, agriculture and hydroelectricity are in jeopardy.",
+      "id": "17d4355dd7ea"
     },
     {
       "source": "BBC World",
-      "title": "Australia 'outraged' after Israel decides not to open criminal investigation into killing of aid worker in Gaza",
-      "link": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-20T07:33:11+00:00",
-      "summary_raw": "Australia's foreign minister summoned the Israeli ambassador over \"insulting\" Zomi Frankcom decision.",
-      "id": "58730c4f8490"
+      "title": "Four workers dead after being hit by train in Japan",
+      "link": "https://www.bbc.co.uk/news/articles/c5yrnz24j22o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-20T10:32:31+00:00",
+      "summary_raw": "The train collided with the four men at Shin-Kanuma Station, north of Tokyo, authorities say.",
+      "id": "2f8e3d057afa"
     },
     {
       "source": "Science Daily",
-      "title": "Pollen has a surprising problem — and honeybees have found a way around it",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260819041237.htm",
-      "published_at": "2026-08-19T11:25:45+00:00",
-      "summary_raw": "Honeybees can apparently detect when their food has the wrong balance of essential nutrients and adjust how much they eat to avoid potentially harmful excesses. They also transform pollen into remarkably well-balanced “baby food” for their larvae, revealing a sophisticated nutritional strategy hidden inside the hive.",
-      "id": "384457ced110"
+      "title": "MIT physicists discover electrons rebuilding like ice inside a quantum material",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260819041231.htm",
+      "published_at": "2026-08-20T01:32:04+00:00",
+      "summary_raw": "MIT physicists found that two electronic phases inside the same quantum material emerge through surprisingly different mechanisms—one smoothly and the other in expanding pockets resembling growing ice crystals. The discovery could help explain how exotic properties such as superconductivity and magnetism develop and coexist.",
+      "id": "b72edc79cd01"
     },
     {
       "source": "WRAL Local",
-      "title": "Fact-check: Did Congress vote to ‘merge’ the US and Israeli militaries?",
-      "link": "https://www.wral.com/news/state/fact-check-congress-merge-us-israel-military-august-19/",
-      "published_at": "2026-08-19T20:24:35+00:00",
-      "summary_raw": "On July 22, the U.S. House passed the annual National Defense Authorization Act — which sets funding and policy for the U.S. Defense Department — for fiscal year 2027.",
-      "id": "1cc344208281"
-    },
-    {
-      "source": "Wired",
-      "title": "Dell Coupon Codes: 20% Off for August 2026",
-      "link": "https://www.wired.com/story/dell-coupon-code/",
-      "published_at": "2026-08-20T05:00:00+00:00",
-      "summary_raw": "Get 20% off with verified Dell promo code, plus today’s coupons for up to $600 off laptops, Alienware monitors, and all things tech.",
-      "id": "74c390ce56d4"
-    },
-    {
-      "source": "NPR Politics",
-      "title": "This crowded Republican primary in Florida has drawn a unique cast of candidates",
-      "link": "https://www.npr.org/2026/08/18/nx-s1-5930699/florida-republican-19th-district-carpetbaggers",
-      "published_at": "2026-08-18T09:00:00+00:00",
-      "summary_raw": "The GOP primary in Florida's 19th District includes candidates who are new to the state, candidates who've run for Congress before and two candidates who have received pardons from President Trump.",
-      "id": "f84b5e0712db"
-    },
-    {
-      "source": "NPR National",
-      "title": "In new filings, Kennedy Center says it won't try to put Trump's name on facade until Sept. 8",
-      "link": "https://www.npr.org/2026/08/19/nx-s1-5937912/kennedy-center-president-trump-name",
-      "published_at": "2026-08-19T18:01:03+00:00",
-      "summary_raw": "Lawyers for Rep. Joyce Beatty asked a judge to rule speedily on the complex's renovation and entrance tarp. The National Symphony Orchestra also announced its new season, away from the Kennedy Center.",
-      "id": "29028ab379ac"
-    },
-    {
-      "source": "BBC World",
-      "title": "Canadian marathon route was 674m too long",
-      "link": "https://www.bbc.co.uk/sport/athletics/articles/cvgw9wlky9zo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-20T07:15:48+00:00",
-      "summary_raw": "The organisers of the Edmonton Marathon admit the course for the 2026 edition was measured more than half a kilometre too long.",
-      "id": "e5f2e3b51100"
-    },
-    {
-      "source": "Science Daily",
-      "title": "This 23-foot crocodylian may have ruled South America’s food chain",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260819041226.htm",
-      "published_at": "2026-08-19T09:55:34+00:00",
-      "summary_raw": "Miocene South America was packed with giant prey—and the predators hunting them were just as spectacular. Fossil bite marks suggest crocodylians, especially the enormous Purussaurus neivensis, were more important predators than mammals in this ancient tropical ecosystem. At around seven meters long, Purussaurus may even have helped control populations of giant herbivores.",
-      "id": "b3bdb162daff"
-    },
-    {
-      "source": "WRAL Local",
-      "title": "Cary police ask residents to check cameras for 68-year-old man who disappeared on Sunday",
-      "link": "https://www.wral.com/news/local/cary-police-ask-residents-check-cameras-missing-man-august-2026/",
-      "published_at": "2026-08-19T19:33:08+00:00",
-      "summary_raw": "Cary police are asking residents in the View Drive area of Morrisville to check their doorbell and security cameras as they search for a missing 68-year-old man with a cognitive impairment.",
-      "id": "071c42f04f4c"
+      "title": "North Carolina woman picked to judge at 151st Westminster Kennel Club Dog Show",
+      "link": "https://www.wral.com/news/local/nc-woman-to-judge-westminster-dog-show-august-2026/",
+      "published_at": "2026-08-20T15:09:35+00:00",
+      "summary_raw": "Madeline Peterson of Seagrove, North Carolina, will judge the annual Westminster Dog Show at the Jacob K. Javits Convention Center and Madison Square Garden. The show will air live on Netflix on Feb. 1-2.",
+      "id": "d39b47a94774"
     },
     {
       "source": "Wired",
@@ -451,44 +507,28 @@
       "id": "677d9b729ff6"
     },
     {
-      "source": "NPR Politics",
-      "title": "Florida GOP race draws accusations of carpetbagging",
-      "link": "https://www.npr.org/2026/08/17/nx-s1-5913672/florida-gop-race-draws-accusations-of-carpetbagging",
-      "published_at": "2026-08-17T21:26:17+00:00",
-      "summary_raw": "\"Carpetbagger\" describes people who move somewhere to run for office. In Southwest Florida, six former congressional hopefuls from other states are taking their shot in this conservative stronghold.",
-      "id": "1c39ecd35517"
-    },
-    {
-      "source": "NPR National",
-      "title": "Why does the U.S. military seem stymied in the war with Iran?",
-      "link": "https://www.npr.org/2026/08/19/nx-s1-5937516/why-does-the-u-s-military-seem-stymied-in-the-war-with-iran",
-      "published_at": "2026-08-19T16:18:35+00:00",
-      "summary_raw": "Defense analyst Stacie Pettyjohn says while the U.S. military is facing long-range missile shortages, prolonged deployments and vacated regional bases, Iran is building cheaper weapons quickly.",
-      "id": "b8bc921bcfe7"
-    },
-    {
       "source": "BBC World",
-      "title": "Mushroom killer must stay in jail forever for 'truly dreadful' crime, appeal court told",
-      "link": "https://www.bbc.co.uk/news/articles/ckg3j3yn4exo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-20T07:08:35+00:00",
-      "summary_raw": "Prosecutors say Erin Patterson's sentence was \"manifestly inadequate\" as it allows for the possibility of parole.",
-      "id": "fa0de34e1af9"
+      "title": "Ex-Zambian minister killed in security raid on opposition",
+      "link": "https://www.bbc.co.uk/news/articles/cg5ljlzedd5o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-20T10:07:48+00:00",
+      "summary_raw": "Police confirm Mutotwe Kafwaya's death after growing demands for information about his whereabouts.",
+      "id": "37ce11713b02"
     },
     {
       "source": "Science Daily",
-      "title": "16 mummies and a dog reveal a hidden order inside an ancient Egyptian tomb",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260819041218.htm",
-      "published_at": "2026-08-19T08:57:10+00:00",
-      "summary_raw": "A tomb in Egypt’s Theban Necropolis reveals a surprisingly organized story of burial, reuse, and changing beliefs spanning hundreds of years. Researchers found 16 mummified people, the remains of at least four more, and a mummified dog, with burials ranging from wealthy individuals laid in coffins with amulets and imported goods to later bodies carefully stacked in increasingly crowded spaces.",
-      "id": "c680074162fc"
+      "title": "Researchers reveal deeper workings of brain’s information hub",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260819041224.htm",
+      "published_at": "2026-08-20T00:38:34+00:00",
+      "summary_raw": "The brain has a remarkably flexible system for handling uncertainty and changing situations. Researchers found that the frontoparietal cortex constantly shifts how it communicates with other brain regions depending on what information is needed to make a decision. Rather than simply becoming more active when things get difficult, this network appears to reorganize itself in real time.",
+      "id": "8c04fc40f09b"
     },
     {
       "source": "WRAL Local",
-      "title": "Raleigh to make safety changes for GoRaleigh buses and station",
-      "link": "https://www.wral.com/news/local/fencing-breezeway-goraleigh-downtown-busstation-safety-august-2026/",
-      "published_at": "2026-08-19T18:58:25+00:00",
-      "summary_raw": "The City of Raleigh is making changes to address safety concerns from commuters that take GoRaleigh transit.",
-      "id": "7f7b25de1e84"
+      "title": "Construction begins on Airport Boulevard Extension project",
+      "link": "https://www.wral.com/news/local/construction-begins-on-airport-boulevard-extension-project-august-2026/",
+      "published_at": "2026-08-20T14:39:45+00:00",
+      "summary_raw": "Phase One of the Airport Boulevard extension project is underway and the North Carolina Department of Transportation launched a tool to provide real-time traffic updates for the duration of the project.",
+      "id": "ce2f02db0b14"
     },
     {
       "source": "Wired",
@@ -500,27 +540,19 @@
     },
     {
       "source": "BBC World",
-      "title": "Founder of collapsed Chinese property giant Evergrande sentenced to life in prison",
-      "link": "https://www.bbc.co.uk/news/articles/cd0x9mjjmgjo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-20T06:08:02+00:00",
-      "summary_raw": "Hui's sentencing marks a key moment in the fallout from Evergrande's collapse, which shook China's property sector.",
-      "id": "89aa387118ea"
+      "title": "Australia 'outraged' after Israel decides not to open criminal investigation into killing of aid worker in Gaza",
+      "link": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-20T07:33:11+00:00",
+      "summary_raw": "Australia's foreign minister summoned the Israeli ambassador over \"insulting\" Zomi Frankcom decision.",
+      "id": "b36a8a67fdb8"
     },
     {
       "source": "Science Daily",
-      "title": "Breast cancer is surging among Asian American women — and scientists don’t know why",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260815064829.htm",
-      "published_at": "2026-08-19T08:13:02+00:00",
-      "summary_raw": "Breast cancer is rising rapidly among Asian American women, with some of the most alarming increases occurring in younger women and in aggressive or advanced cancers. Researchers say screening alone can't explain the surge, suggesting important risk factors may still be undiscovered.",
-      "id": "9867963e9421"
-    },
-    {
-      "source": "WRAL Local",
-      "title": "Hot days, hotter nights: Raleigh is losing its overnight relief",
-      "link": "https://www.wral.com/news/local/record-hot-nights-in-the-triangle-august-2026/",
-      "published_at": "2026-08-19T17:31:08+00:00",
-      "summary_raw": "Raleigh now experiences about 40 more unusually warm summer nights than it did in the 1970s. Scientists say climate change is reducing overnight relief from extreme heat, increasing health risks and cooling costs.",
-      "id": "a9a5ac518238"
+      "title": "A mother’s age can shape her offspring without changing their DNA",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260819041220.htm",
+      "published_at": "2026-08-19T23:44:38+00:00",
+      "summary_raw": "Scientists have found evidence that the effects of a mother’s age on her offspring may be driven by reversible changes in gene activity rather than permanent DNA damage. The discovery raises the fascinating possibility that biological information from mothers, grandmothers, and even great-grandmothers can shape the health of future generations.",
+      "id": "818a4f06e3aa"
     },
     {
       "source": "Wired",
@@ -532,19 +564,43 @@
     },
     {
       "source": "BBC World",
-      "title": "Missing teen hiker found dead in Australian bush after eight-day search",
-      "link": "https://www.bbc.co.uk/news/articles/c304e2dlv20o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-20T05:45:53+00:00",
-      "summary_raw": "The state premier initially said Lily Hooper had been found alive before police confirmed her death.",
-      "id": "4b05e406a689"
+      "title": "Canadian marathon route was 674m too long",
+      "link": "https://www.bbc.co.uk/sport/athletics/articles/cvgw9wlky9zo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-20T07:15:48+00:00",
+      "summary_raw": "Organisers of the Edmonton Marathon admit their course this year was more than half a kilometre too long.",
+      "id": "e5f2e3b51100"
     },
     {
       "source": "Science Daily",
-      "title": "Japanese scientists use tiny silver particles to make DNA assembly up to 5x more efficient",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260816044842.htm",
-      "published_at": "2026-08-19T07:46:13+00:00",
-      "summary_raw": "Silver nanoparticles can precisely slice DNA and create longer “sticky ends,” helping genetic fragments join up to five times more efficiently than conventional methods. The breakthrough could eventually simplify the construction of large DNA sequences for gene therapies, cancer vaccines, engineered drugs, and advanced crops.",
-      "id": "21593a2645a3"
+      "title": "Coffee drinkers have less fat, more muscle, and surprising hormone differences",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260819041228.htm",
+      "published_at": "2026-08-19T12:30:05+00:00",
+      "summary_raw": "Coffee drinkers may be getting more than an energy boost. A Finnish study found that people who drank more coffee tended to have less total and abdominal fat, more muscle, and healthier metabolic markers despite having similar BMIs. Higher coffee intake was also linked to lower levels of certain amino acids associated with insulin resistance and type 2 diabetes risk.",
+      "id": "187495a49b69"
+    },
+    {
+      "source": "Wired",
+      "title": "Dell Coupon Codes: 20% Off for August 2026",
+      "link": "https://www.wired.com/story/dell-coupon-code/",
+      "published_at": "2026-08-20T05:00:00+00:00",
+      "summary_raw": "Get 20% off with verified Dell promo code, plus today’s coupons for up to $600 off laptops, Alienware monitors, and all things tech.",
+      "id": "74c390ce56d4"
+    },
+    {
+      "source": "BBC World",
+      "title": "Mushroom killer must stay in jail forever for 'truly dreadful' crime, appeal court told",
+      "link": "https://www.bbc.co.uk/news/articles/ckg3j3yn4exo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-20T07:08:35+00:00",
+      "summary_raw": "Prosecutors say Erin Patterson's sentence was \"manifestly inadequate\" as it allows for the possibility of parole.",
+      "id": "2402aefe3936"
+    },
+    {
+      "source": "Science Daily",
+      "title": "Scientists turn probiotic bacteria into tiny drug factories for pancreatic cancer",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260816044830.htm",
+      "published_at": "2026-08-19T12:10:13+00:00",
+      "summary_raw": "Engineered probiotic bacteria were able to infiltrate pancreatic tumors, stimulate cancer-fighting immune cells, and slow tumor growth in animal studies. Even more strikingly, the treatment worked better when combined with chemotherapy, radiation, or immunotherapy.",
+      "id": "bc468a754a5d"
     },
     {
       "source": "Wired",
@@ -556,19 +612,19 @@
     },
     {
       "source": "BBC World",
-      "title": "Captured Ukrainian-born soldiers tell BBC why they fought for Russia",
-      "link": "https://www.bbc.co.uk/news/articles/cn9nr195drzo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-20T05:01:24+00:00",
-      "summary_raw": "Men born in Ukraine who fought for Russia are tried for treason, but at a prisoner of war camp in western Ukraine, many believe they were defending their homeland.",
-      "id": "ccffeb5395ef"
+      "title": "Founder of collapsed Chinese property giant Evergrande sentenced to life in prison",
+      "link": "https://www.bbc.co.uk/news/articles/cd0x9mjjmgjo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-20T06:08:02+00:00",
+      "summary_raw": "Hui's sentencing marks a key moment in the fallout from Evergrande's collapse, which shook China's property sector.",
+      "id": "89aa387118ea"
     },
     {
       "source": "Science Daily",
-      "title": "Widely prescribed blood pressure drugs linked to 33% higher kidney risk in type 2 diabetes",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260816044844.htm",
-      "published_at": "2026-08-18T22:45:38+00:00",
-      "summary_raw": "A widely prescribed blood pressure drug was associated with a 33% higher risk of serious kidney problems in people with type 2 diabetes, even when they were already taking kidney-protective medications. The surprising finding is prompting researchers to question whether DCCBs are always the safest second-line choice for diabetic kidney disease.",
-      "id": "58341045d484"
+      "title": "Tiny quantum engines reveal useful energy hiding in “waste heat”",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260819041222.htm",
+      "published_at": "2026-08-19T11:49:52+00:00",
+      "summary_raw": "A tiny machine made from just an atom and particles of light may sound impossibly simple, but it raises a surprisingly difficult question: what counts as heat, and what energy can still do useful work? University of Basel researchers have developed a theoretical framework that brings quantum physics and thermodynamics into better agreement for these microscopic “light engines.”",
+      "id": "fc999de6db61"
     },
     {
       "source": "Wired",
@@ -580,67 +636,11 @@
     },
     {
       "source": "BBC World",
-      "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
-      "link": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-20T04:17:53+00:00",
-      "summary_raw": "The five-year-old Palestinian girl initially survived the attack and pleaded for help but her body was recovered later with those of six of her relatives.",
-      "id": "576254eb2802"
-    },
-    {
-      "source": "Science Daily",
-      "title": "Tiny robots powered by light can hunt down and collect bacteria",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260816044850.htm",
-      "published_at": "2026-08-18T22:21:50+00:00",
-      "summary_raw": "Researchers have built microscopic, light-driven robots that can rapidly navigate through liquid, collect bacteria, and deposit them in chosen locations. These tiny “cleaners” could open new possibilities for manipulating cells and microbes with remarkable precision.",
-      "id": "25f1cfa39eb6"
-    },
-    {
-      "source": "Wired",
-      "title": "H&R Block Coupon: 25% Off DIY + Tax Pro Assist",
-      "link": "https://www.wired.com/story/hr-block-coupon/",
-      "published_at": "2026-08-20T05:00:00+00:00",
-      "summary_raw": "Save over 25% when you opt for H&R Block’s free online offering, plus a tax pro review.",
-      "id": "af1ca8a711e7"
-    },
-    {
-      "source": "BBC World",
-      "title": "Giant whales move into Greenland waters as ice disappears",
-      "link": "https://www.bbc.co.uk/news/articles/cq6dn9gj7eno?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-20T02:05:20+00:00",
-      "summary_raw": "Melting sea ice from climate change has opened up the region for giant whales to undertake \"feeding frenzies\".",
-      "id": "1dd8f0b0f8e8"
-    },
-    {
-      "source": "Science Daily",
-      "title": "Scientists discover a natural Arctic cloud factory missing from climate models",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260816044839.htm",
-      "published_at": "2026-08-18T17:34:33+00:00",
-      "summary_raw": "A newly discovered Arctic process can dramatically boost the number of particles that help form clouds. Near melting sea ice, sunlight reacts with chemicals released by the ocean, algae, and ice, causing cloud-seeding particles to multiply by as much as 50 times in a day. Because the active ice-edge region is growing as sea ice retreats, the effect could become increasingly important. Scientists now want to add the process to climate models to see how much it could reshape Arctic warming.",
-      "id": "e4a0addb27d1"
-    },
-    {
-      "source": "Wired",
-      "title": "T-Mobile Promo Codes: 25% Off | August 2026",
-      "link": "https://www.wired.com/story/t-mobile-business-promo-code/",
-      "published_at": "2026-08-20T05:00:00+00:00",
-      "summary_raw": "Discover how to save on T-Mobile Business Internet and phone plans, from sign-up perks and switching rewards to bundled offers and free lines.",
-      "id": "b1bc35910580"
-    },
-    {
-      "source": "BBC World",
-      "title": "Key Trump aide Natalie Harp suddenly in spotlight after years behind scenes",
-      "link": "https://www.bbc.co.uk/news/articles/c80nzdjgmk3o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-19T23:11:14+00:00",
-      "summary_raw": "Democratic Senator Jon Ossoff used a speech to note the closeness of one aide to the president.",
-      "id": "e9fd565e72f7"
-    },
-    {
-      "source": "Science Daily",
-      "title": "Mysterious waves sweeping across your brain may help turn sensory chaos into what you see",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260816044827.htm",
-      "published_at": "2026-08-18T16:40:57+00:00",
-      "summary_raw": "Traveling electrical waves sweeping across the brain may help determine what we notice, predict what comes next, and construct our internal picture of the world. Researchers now argue that these waves aren't just background activity—they could be a core computational engine behind perception and memory.",
-      "id": "5cef28075ee4"
+      "title": "Missing teen hiker found dead in Australian bush after eight-day search",
+      "link": "https://www.bbc.co.uk/news/articles/c304e2dlv20o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-20T05:45:53+00:00",
+      "summary_raw": "The state premier initially said Lily Hooper had been found alive before police confirmed her death.",
+      "id": "a43df2c66592"
     }
   ]
 }

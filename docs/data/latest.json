@@ -1,22 +1,214 @@
 {
   "mode": "raw",
-  "generated_at": "2026-08-19T20:25:01.431960+00:00",
+  "generated_at": "2026-08-20T11:33:34.357787+00:00",
   "items": [
     {
       "source": "WRAL Local",
-      "title": "Cary police ask residents to check cameras for 68-year-old man who disappeared on Sunday",
-      "link": "https://www.wral.com/news/local/cary-police-ask-residents-check-cameras-missing-man-august-2026/",
-      "published_at": "2026-08-19T19:33:08+00:00",
-      "summary_raw": "Cary police are asking residents in the View Drive area of Morrisville to check their doorbell and security cameras as they search for a missing 68-year-old man with a cognitive impairment.",
-      "id": "071c42f04f4c"
+      "title": "Durham mother takes insanity plea after accused of murdering her son",
+      "link": "https://www.wral.com/news/local/durham-mother-takes-insanity-plea-after-accused-of-murder-august-2026/",
+      "published_at": "2026-08-20T11:28:25+00:00",
+      "summary_raw": "A Durham mother accused of killing her 3-year-old son, and trying to kill her other child will plead not guilty, according to her lawyers.",
+      "id": "40af393fa0eb"
     },
     {
       "source": "Wired",
-      "title": "I Saw the Future of AI in a Robot That Can Learn on the Spot",
-      "link": "https://www.wired.com/story/generalist-ai-robots-learn-like-clever-toddlers/",
-      "published_at": "2026-08-19T19:30:00+00:00",
-      "summary_raw": "During a recent visit to Generalist AI, I watched a robotic arm improvise and use a banana as a tool.",
-      "id": "09697797eb45"
+      "title": "Poolease X1 Pool Robot Review: How Bad Can It Be?",
+      "link": "https://www.wired.com/review/poolease-x1-pool-robot/",
+      "published_at": "2026-08-20T11:02:00+00:00",
+      "summary_raw": "The Poolease X1 can collect leaves from the pool floor, but dirt, silt, walls, and steps are all beyond its pay grade.",
+      "id": "82ad1f0d1b30"
+    },
+    {
+      "source": "NPR Politics",
+      "title": "Here's how the system to report problems in ICE detention has failed immigrants",
+      "link": "https://www.npr.org/2026/08/20/nx-s1-5850361/grievance-ice-detention-immigrants",
+      "published_at": "2026-08-20T09:00:00+00:00",
+      "summary_raw": "Critics say it is the reason why more detainees are risking their lives to protest inhumane conditions and legal rights violations, in the form of widespread hunger strikes.",
+      "id": "287e23a016ef"
+    },
+    {
+      "source": "NPR National",
+      "title": "Trump to nominate Dr. Heidi Overton to lead FDA",
+      "link": "https://www.npr.org/2026/08/20/nx-s1-5938124/trump-to-nominate-dr-heidi-overton-to-lead-fda",
+      "published_at": "2026-08-20T10:55:30+00:00",
+      "summary_raw": "The president said he would nominate Dr. Heidi Overton to lead the Food and Drug Administration. Some senators said they will not confirm her, saying she's unqualified and too conservative.",
+      "id": "a402c3a2110e"
+    },
+    {
+      "source": "BBC World",
+      "title": "Former Liberian vice-president charged in drug-trafficking probe",
+      "link": "https://www.bbc.co.uk/news/articles/clyx028ryy6o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-20T11:08:19+00:00",
+      "summary_raw": "Jewel Howard-Taylor was arrested at Liberia's international airport and has not commented on the allegations.",
+      "id": "fa33ba17a911"
+    },
+    {
+      "source": "Science Daily",
+      "title": "AI-designed “intrabodies” could unlock new treatments for Alzheimer’s, Parkinson’s and MND",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260819041242.htm",
+      "published_at": "2026-08-20T02:01:27+00:00",
+      "summary_raw": "Researchers have developed a new way to turn ordinary antibodies into tiny disease-fighting molecules that can work inside human cells, potentially opening new paths for treating Alzheimer’s, Parkinson’s, Huntington’s disease, and motor neurone disease.",
+      "id": "c7a02a150046"
+    },
+    {
+      "source": "WRAL Local",
+      "title": "Has the Charlotte Transit System kept their safety promises after Iryna Zarutska's death?",
+      "link": "https://www.wral.com/news/state/has-charlotte-transit-system-kept-security-promises-after-zarutska-death-august-2026/",
+      "published_at": "2026-08-20T11:03:11+00:00",
+      "summary_raw": "In September 2025, CATS promised more security personnel, stronger ticket verification, and expanded security technology. Where are they today?",
+      "id": "49a38f6700e8"
+    },
+    {
+      "source": "Wired",
+      "title": "Bumble Tried to Change Dating, but the Dating Market Forced It to Change Instead",
+      "link": "https://www.wired.com/story/bumble-women-first-rule-change/",
+      "published_at": "2026-08-20T11:00:00+00:00",
+      "summary_raw": "The app now allows men to make the first move, suggesting its women-first positioning was limiting growth. It joins other dating apps now throwing everything at the wall in a bid to stay relevant.",
+      "id": "0c4a352da961"
+    },
+    {
+      "source": "NPR Politics",
+      "title": "Privacy advocates call on Maryland to investigate data brokers",
+      "link": "https://www.npr.org/2026/08/20/nx-s1-5938822/maryland-privacy-data-brokers",
+      "published_at": "2026-08-20T09:00:00+00:00",
+      "summary_raw": "Maryland has one of the strictest data privacy laws in the country. But privacy advocates allege data brokers are violating the law by selling data to police and federal immigration agencies.",
+      "id": "d0e6c2c0cd8b"
+    },
+    {
+      "source": "NPR National",
+      "title": "Privacy advocates call on Maryland to investigate data brokers",
+      "link": "https://www.npr.org/2026/08/20/nx-s1-5938822/maryland-privacy-data-brokers",
+      "published_at": "2026-08-20T09:00:00+00:00",
+      "summary_raw": "Maryland has one of the strictest data privacy laws in the country. But privacy advocates allege data brokers are violating the law by selling data to police and federal immigration agencies.",
+      "id": "d0e6c2c0cd8b"
+    },
+    {
+      "source": "BBC World",
+      "title": "At least 15 killed in Kyiv as Ukraine grapples with air defence shortages",
+      "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-20T11:06:54+00:00",
+      "summary_raw": "Apartment blocks and warehouses were targeted in the \"massive attack\" on Thursday, officials say.",
+      "id": "80c896d5ad3d"
+    },
+    {
+      "source": "Science Daily",
+      "title": "MIT physicists discover electrons rebuilding like ice inside a quantum material",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260819041231.htm",
+      "published_at": "2026-08-20T01:32:04+00:00",
+      "summary_raw": "MIT physicists found that two electronic phases inside the same quantum material emerge through surprisingly different mechanisms—one smoothly and the other in expanding pockets resembling growing ice crystals. The discovery could help explain how exotic properties such as superconductivity and magnetism develop and coexist.",
+      "id": "b72edc79cd01"
+    },
+    {
+      "source": "WRAL Local",
+      "title": "Driver crashes into Raleigh Days Inn motel; DWI expected police say",
+      "link": "https://www.wral.com/news/local/driver-crashes-into-raleigh-days-inn-dwi-expected-august-2026/",
+      "published_at": "2026-08-20T09:39:30+00:00",
+      "summary_raw": "A man drove his vehicle into the Days Inn motel in Raleigh after police say he accidently pressed the gas pedal instead of the brake.",
+      "id": "734a8cd45d8a"
+    },
+    {
+      "source": "Wired",
+      "title": "The 3 Best USB Phone Chargers (2026): Anker, DeWalt",
+      "link": "https://www.wired.com/story/best-usb-car-chargers/",
+      "published_at": "2026-08-20T10:33:00+00:00",
+      "summary_raw": "I put top-rated USB car chargers to the test for fast charging, value, heat, and safety. These are the best I found.",
+      "id": "d15b98aa3f6e"
+    },
+    {
+      "source": "NPR Politics",
+      "title": "Experts raise alarms over Census Bureau report Trump is touting on noncitizen voting",
+      "link": "https://www.npr.org/2026/08/19/nx-s1-5938799/trump-census-bureau-noncitizen-voting",
+      "published_at": "2026-08-19T21:27:51+00:00",
+      "summary_raw": "A Trump-aligned think tank has ties to a highly unusual Census Bureau report that the president is using to renew false claims of widespread voting by non-U.S. citizens in 2020, NPR has learned.",
+      "id": "d8db4a858479"
+    },
+    {
+      "source": "NPR National",
+      "title": "Disabled adults learn and work in their communities. That right is under threat",
+      "link": "https://www.npr.org/2026/08/20/nx-s1-5891791/disability-rights-community-living-integration-trump",
+      "published_at": "2026-08-20T09:00:00+00:00",
+      "summary_raw": "Siblings Cody and Kaleigh Brendle have grown up with the right to community integration. Now, they worry those protections for people with disabilities like them are being eroded.",
+      "id": "35451a1e27bc"
+    },
+    {
+      "source": "BBC World",
+      "title": "Ecuador intelligence chief and five Americans killed in Kenya helicopter crash",
+      "link": "https://www.bbc.co.uk/news/articles/clylkv4z59vo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-20T10:41:25+00:00",
+      "summary_raw": "Michele Sensi-Contugi and his wife Stephany Hollihan are among the seven people killed in the crash.",
+      "id": "ecc96e8e5d9c"
+    },
+    {
+      "source": "Science Daily",
+      "title": "Researchers reveal deeper workings of brain’s information hub",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260819041224.htm",
+      "published_at": "2026-08-20T00:38:34+00:00",
+      "summary_raw": "The brain has a remarkably flexible system for handling uncertainty and changing situations. Researchers found that the frontoparietal cortex constantly shifts how it communicates with other brain regions depending on what information is needed to make a decision. Rather than simply becoming more active when things get difficult, this network appears to reorganize itself in real time.",
+      "id": "8c04fc40f09b"
+    },
+    {
+      "source": "WRAL Local",
+      "title": "NC school rooftops could generate enough solar power for 150,000 homes, report finds",
+      "link": "https://www.wral.com/news/local/nc-school-rooftops-generate-solar-power-for-150000-homes-august-2026/",
+      "published_at": "2026-08-20T09:07:01+00:00",
+      "summary_raw": "A new report finds North Carolina school rooftops could generate significant solar power, with Wake County offering more potential than any other county.",
+      "id": "939def41b47a"
+    },
+    {
+      "source": "Wired",
+      "title": "A MAGA County’s Top Election Official Wants to Hire Election Denial Superstar Tina Peters",
+      "link": "https://www.wired.com/story/a-maga-countys-top-election-official-wants-to-hire-election-denial-superstar-tina-peters/",
+      "published_at": "2026-08-20T10:30:00+00:00",
+      "summary_raw": "Tina Peters was convicted of seven counts related to election interference in 2024. Now, she’s fielding an offer from a county that’s become a hotbed of voting-related conspiracy theories.",
+      "id": "544505a0e0a5"
+    },
+    {
+      "source": "NPR Politics",
+      "title": "Florida senate primary winner Angie Nixon relied on grassroots organizing",
+      "link": "https://www.npr.org/2026/08/19/nx-s1-5937530/florida-senate-primary-winner-angie-nixon-relied-on-grassroots-organizing",
+      "published_at": "2026-08-19T20:44:46+00:00",
+      "summary_raw": "NPR's Juana Summers talks with Angie Nixon, a progressive democrat who won her U.S. Senate primary in Florida despite being massively outmatched in terms of spending.",
+      "id": "fde10530fa86"
+    },
+    {
+      "source": "NPR National",
+      "title": "The Navajo Nation wants to expand a coal mine. The plan could displace some families",
+      "link": "https://www.npr.org/2026/08/20/nx-s1-5936286/the-navajo-nation-wants-to-expand-a-coal-mine-the-plan-could-displace-some-families",
+      "published_at": "2026-08-20T08:45:57+00:00",
+      "summary_raw": "Coal mining has been a big part of the Navajo Nation's economy for decades. As mines and power plants have been closing, the tribe is trying to expand one of its largest mines.",
+      "id": "511a7a693e63"
+    },
+    {
+      "source": "BBC World",
+      "title": "Four workers dead after being hit by train in Japan",
+      "link": "https://www.bbc.co.uk/news/articles/c5yrnz24j22o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-20T10:32:31+00:00",
+      "summary_raw": "The train collided with the four men at Shin-Kanuma Station, north of Tokyo, authorities say.",
+      "id": "2f8e3d057afa"
+    },
+    {
+      "source": "Science Daily",
+      "title": "A mother’s age can shape her offspring without changing their DNA",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260819041220.htm",
+      "published_at": "2026-08-19T23:44:38+00:00",
+      "summary_raw": "Scientists have found evidence that the effects of a mother’s age on her offspring may be driven by reversible changes in gene activity rather than permanent DNA damage. The discovery raises the fascinating possibility that biological information from mothers, grandmothers, and even great-grandmothers can shape the health of future generations.",
+      "id": "818a4f06e3aa"
+    },
+    {
+      "source": "WRAL Local",
+      "title": "High school football season kicks off with safety and security measures in place",
+      "link": "https://www.wral.com/news/local/high-school-football-season-starts-new-safety-measures-august-2026/",
+      "published_at": "2026-08-20T08:45:07+00:00",
+      "summary_raw": "Thursday night kicks off the start of high school football season. School districts emphasize current policies to keep everyone safe this year.",
+      "id": "0e7d393a874f"
+    },
+    {
+      "source": "Wired",
+      "title": "How Teen ‘After-Prom’ Kings in LA Monetized the High School Rager",
+      "link": "https://www.wired.com/myplots-jack-schwartz-zane-harwin-teen-parties-after-prom/",
+      "published_at": "2026-08-20T10:00:00+00:00",
+      "summary_raw": "The West Coast house-party scene has long been iconic. For these young, tech-savvy entrepreneurs, it was also inspiration for MyPlots, a party-promotion empire.",
+      "id": "052f59778e42"
     },
     {
       "source": "NPR Politics",
@@ -28,19 +220,19 @@
     },
     {
       "source": "NPR National",
-      "title": "In new filings, Kennedy Center says it won't try to put Trump's name on facade until Sept. 8",
-      "link": "https://www.npr.org/2026/08/19/nx-s1-5937912/kennedy-center-president-trump-name",
-      "published_at": "2026-08-19T18:01:03+00:00",
-      "summary_raw": "Lawyers for Rep. Joyce Beatty asked a judge to rule speedily on the complex's renovation and entrance tarp. The National Symphony Orchestra also announced its new season, away from the Kennedy Center.",
-      "id": "29028ab379ac"
+      "title": "Tech billionaires push back against proposed wealth tax in California",
+      "link": "https://www.npr.org/2026/08/20/nx-s1-5935597/tech-billionaires-push-back-against-proposed-wealth-tax-in-california",
+      "published_at": "2026-08-20T08:45:47+00:00",
+      "summary_raw": "Tech billionaires in California are fighting a proposed one-time wealth tax. A Google co-founder is leading the charge against the tax, which would generate revenue for health-care services.",
+      "id": "fc18a0196086"
     },
     {
       "source": "BBC World",
-      "title": "Canada and US say they are finalising a trade deal, but details remain murky",
-      "link": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-19T19:59:14+00:00",
-      "summary_raw": "Prime Minister Carney hailed \"significant progress\" in trade talks as the two countries seek to hammer out final details ahead of a new weekend tariff deadline.",
-      "id": "4efc41a677db"
+      "title": "Israel opens up bids for highly sensitive West Bank settlement project",
+      "link": "https://www.bbc.co.uk/news/articles/cly50gn1e54o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-20T10:30:52+00:00",
+      "summary_raw": "The UK's foreign secretary condemned the move as \"an unacceptable and destructive act\".",
+      "id": "f5441f3e5c22"
     },
     {
       "source": "Science Daily",
@@ -52,43 +244,43 @@
     },
     {
       "source": "WRAL Local",
-      "title": "Raleigh to make safety changes for GoRaleigh buses and station",
-      "link": "https://www.wral.com/news/local/fencing-breezeway-goraleigh-downtown-busstation-safety-august-2026/",
-      "published_at": "2026-08-19T18:58:25+00:00",
-      "summary_raw": "The City of Raleigh is making changes to address safety concerns from commuters that take GoRaleigh transit.",
-      "id": "7f7b25de1e84"
+      "title": "Buie Road near NC-27 closed due to structure fire",
+      "link": "https://www.wral.com/news/local/fire-buie-road-harnett-county-august-2026/",
+      "published_at": "2026-08-20T03:15:03+00:00",
+      "summary_raw": "Thursday evening Harnett County fire officials responded to a structure fire in the area of Buie Road near NC-27, one person was transported with minor injuries due to the fire.",
+      "id": "51bf70efd0c3"
     },
     {
       "source": "Wired",
-      "title": "Coders Say They Already Found Workarounds to Claude’s Invisible Watermarks",
-      "link": "https://www.wired.com/story/coders-say-they-already-found-workarounds-to-claudes-invisible-watermarks/",
-      "published_at": "2026-08-19T16:44:07+00:00",
-      "summary_raw": "Anthropic announced last week it would include invisible watermarks in AI-generated content to comply with new EU rules. Within hours, overrides were being touted online.",
-      "id": "abb40ea426fe"
+      "title": "Salmonella Is Everywhere",
+      "link": "https://www.wired.com/story/salmonella-is-everywhere/",
+      "published_at": "2026-08-20T09:00:00+00:00",
+      "summary_raw": "From granola to guacamole, a wide variety of foods have been recalled lately over salmonella risks. Experts say common-sense precautions go a long way.",
+      "id": "811dd52b21f8"
     },
     {
       "source": "NPR Politics",
-      "title": "Key results from Florida primaries, so far",
-      "link": "https://www.npr.org/2026/08/18/nx-s1-5936403/what-to-watch-for-in-the-florida-primaries",
-      "published_at": "2026-08-18T21:01:17+00:00",
-      "summary_raw": "Voters in Florida are picking their party's candidates for governor, Senate and a number of U.S. House seats after redistricting.",
-      "id": "314865104b45"
+      "title": "Trump administration moves to open untouched national forests to logging",
+      "link": "https://www.npr.org/2026/08/18/nx-s1-5936495/trump-administration-moves-to-open-untouched-national-forests-to-logging",
+      "published_at": "2026-08-19T00:58:02+00:00",
+      "summary_raw": "The end of \"roadless rule\" protections would open millions of acres of pristine forests to commercial use. Supporters say it will lead to better managed forests.",
+      "id": "98305797a82a"
     },
     {
       "source": "NPR National",
-      "title": "Why does the U.S. military seem stymied in the war with Iran?",
-      "link": "https://www.npr.org/2026/08/19/nx-s1-5937516/why-does-the-u-s-military-seem-stymied-in-the-war-with-iran",
-      "published_at": "2026-08-19T16:18:35+00:00",
-      "summary_raw": "Defense analyst Stacie Pettyjohn says while the U.S. military is facing long-range missile shortages, prolonged deployments and vacated regional bases, Iran is building cheaper weapons quickly.",
-      "id": "b8bc921bcfe7"
+      "title": "Drought and demand leaves water levels at two largest U.S. reservoirs at record lows",
+      "link": "https://www.npr.org/2026/08/20/nx-s1-5936459/drought-and-demand-leaves-water-levels-at-two-largest-u-s-reservoirs-at-record-lows",
+      "published_at": "2026-08-20T08:45:17+00:00",
+      "summary_raw": "America's two largest reservoirs are at their lowest levels as drought strangles the Colorado River. Their ability to supply water to cities, agriculture and hydroelectricity are in jeopardy.",
+      "id": "17d4355dd7ea"
     },
     {
       "source": "BBC World",
-      "title": "Ecuador intelligence chief and five Americans killed in Kenya helicopter crash",
-      "link": "https://www.bbc.co.uk/news/articles/clylkv4z59vo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-19T19:53:05+00:00",
-      "summary_raw": "Michele Sensi-Contugi, and his wife Stephany Hollihan among the seven people killed in the crash.",
-      "id": "18fbc55b0374"
+      "title": "Ex-Zambian minister killed in security raid on opposition",
+      "link": "https://www.bbc.co.uk/news/articles/cg5ljlzedd5o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-20T10:07:48+00:00",
+      "summary_raw": "Police confirm Mutotwe Kafwaya's death after growing demands for information about his whereabouts.",
+      "id": "37ce11713b02"
     },
     {
       "source": "Science Daily",
@@ -100,43 +292,43 @@
     },
     {
       "source": "WRAL Local",
-      "title": "Hot days, hotter nights: Raleigh is losing its overnight relief",
-      "link": "https://www.wral.com/news/local/record-hot-nights-in-the-triangle-august-2026/",
-      "published_at": "2026-08-19T17:31:08+00:00",
-      "summary_raw": "Raleigh now experiences about 40 more unusually warm summer nights than it did in the 1970s. Scientists say climate change is reducing overnight relief from extreme heat, increasing health risks and cooling costs.",
-      "id": "a9a5ac518238"
+      "title": "Rare 1517 copy of the Odyssey on display at UNC Chapel Hill",
+      "link": "https://www.wral.com/news/local/rare-1517-copy-of-odyssey-on-display-at-unc-august-2026/",
+      "published_at": "2026-08-19T21:00:31+00:00",
+      "summary_raw": "A copy of the Odyssey in ancient Greek that's over 500 years old is on display right now at UNC. You can see the 1517 edition at Wilson Library.",
+      "id": "e358fea123fc"
     },
     {
       "source": "Wired",
-      "title": "Google Pixel Watch 5 Review: More Health, More AI",
-      "link": "https://www.wired.com/review/google-pixel-watch-5/",
-      "published_at": "2026-08-19T16:34:24+00:00",
-      "summary_raw": "With smarter gym tracking, new health alerts, and offline Gemini, the Pixel Watch 5 fine-tunes a winning formula—for a price.",
-      "id": "a101bef71de7"
+      "title": "Peacock Promo Codes: 40% Off August 2026",
+      "link": "https://www.wired.com/story/peacock-promo-code/",
+      "published_at": "2026-08-20T05:00:00+00:00",
+      "summary_raw": "Stream your favorite shows for up to $80 off this month, and save on subscription plans with the latest Peacock TV coupons from WIRED.",
+      "id": "6072c4f07874"
     },
     {
       "source": "NPR Politics",
-      "title": "Embattled Florida Republican Rep. Cory Mills loses his fight to keep his House seat",
-      "link": "https://www.npr.org/2026/08/18/nx-s1-5936435/mills-elijah-florida-republican-primary",
-      "published_at": "2026-08-18T20:04:18+00:00",
-      "summary_raw": "Mills is the latest lawmaker in a recent string of congressional members facing scandals and allegations of domestic abuse while trying to run for elected office.",
-      "id": "1f2f926aa7b2"
+      "title": "Key results from Florida primaries, so far",
+      "link": "https://www.npr.org/2026/08/18/nx-s1-5936403/what-to-watch-for-in-the-florida-primaries",
+      "published_at": "2026-08-18T21:01:17+00:00",
+      "summary_raw": "Voters in Florida are picking their party's candidates for governor, Senate and a number of U.S. House seats after redistricting.",
+      "id": "314865104b45"
     },
     {
       "source": "NPR National",
-      "title": "15 states have laws that allow corporal punishment in schools. Here's where, and why",
-      "link": "https://www.npr.org/2026/08/19/nx-s1-5803505/school-corporal-punishment-policy-tracker",
-      "published_at": "2026-08-19T09:00:00+00:00",
-      "summary_raw": "There is broad consensus among psychologists that corporal punishment can be harmful to children, but the U.S. has no federal laws banning it in public schools.",
-      "id": "415a4736dbc7"
+      "title": "California passes toughest wildfire rules in the U.S. for home landscaping",
+      "link": "https://www.npr.org/2026/08/19/nx-s1-5937926/california-wildfire-rules-zone-zero-vegetation",
+      "published_at": "2026-08-19T23:19:12+00:00",
+      "summary_raw": "California has adopted the toughest new rules in the country that require homeowners to manage the plants around their houses. Fire experts say it helps protect houses from burning, but public pushback has been strong.",
+      "id": "4c4d73fd672e"
     },
     {
       "source": "BBC World",
-      "title": "Who is Natalie Harp, Trump's right-hand woman?",
-      "link": "https://www.bbc.co.uk/news/articles/c80nzdjgmk3o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-19T19:02:41+00:00",
-      "summary_raw": "One of Trump's longest serving and most loyal aides, Harp was thrust again into the spotlight when Democrat Jon Ossoff noted her closeness to the president.",
-      "id": "e9fd565e72f7"
+      "title": "Trump vows tougher economic measures on Iran and supporting countries",
+      "link": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-20T09:13:18+00:00",
+      "summary_raw": "It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict.",
+      "id": "cea696a1c2ff"
     },
     {
       "source": "Science Daily",
@@ -148,43 +340,43 @@
     },
     {
       "source": "WRAL Local",
-      "title": "Over a dozen arrests made in Operation 'Midnight Shadow' child sex sting",
-      "link": "https://www.wral.com/news/local/multi-county-child-sex-string-arrests-august-2026/",
-      "published_at": "2026-08-19T16:09:45+00:00",
-      "summary_raw": "The Lee County Sheriff's Office and multiple agencies arrested 14 people on sexual exploitation of minors and the solicitation of children by computer for sex acts charges.",
-      "id": "84553e7b7c16"
+      "title": "Dozens facing over 130 felony charges in summer operation at Raleigh's Moore Square",
+      "link": "https://www.wral.com/news/local/35-people-arrested-130-felonies-moore-square-summer-operation-raleigh-august-2026/",
+      "published_at": "2026-08-19T20:54:53+00:00",
+      "summary_raw": "35 people are facing more than 130 felony charges in what the North Carolina Alcohol Law Enforcement (ALE) called a joint operation with Raleigh police in Moore Square.",
+      "id": "c63a6e6f1ed5"
     },
     {
       "source": "Wired",
-      "title": "Google Pixel 11 Pro and Pixel 11 Pro XL Review: Smart Software, Small Upgrade",
-      "link": "https://www.wired.com/review/google-pixel-11-pro-and-pixel-11-pro-xl/",
-      "published_at": "2026-08-19T16:00:00+00:00",
-      "summary_raw": "Google’s new voice typing is pure magic, but subpar gaming performance and a useless rear LED keep these flagships from true greatness.",
-      "id": "8856f210bd7c"
+      "title": "TurboTax Full Service Coupons This August",
+      "link": "https://www.wired.com/story/turbotax-coupon/",
+      "published_at": "2026-08-20T05:00:00+00:00",
+      "summary_raw": "Tax season doesn’t have to be stressful. Score 10% off full service expert on federal tax filings and more exclusive TurboTax discount codes on WIRED.",
+      "id": "1ce948c303c1"
     },
     {
       "source": "NPR Politics",
-      "title": "This crowded Republican primary in Florida has drawn a unique cast of candidates",
-      "link": "https://www.npr.org/2026/08/18/nx-s1-5930699/florida-republican-19th-district-carpetbaggers",
-      "published_at": "2026-08-18T09:00:00+00:00",
-      "summary_raw": "The GOP primary in Florida's 19th District includes candidates who are new to the state, candidates who've run for Congress before and two candidates who have received pardons from President Trump.",
-      "id": "f84b5e0712db"
+      "title": "Embattled Florida Republican Rep. Cory Mills loses his fight to keep his House seat",
+      "link": "https://www.npr.org/2026/08/18/nx-s1-5936435/mills-elijah-florida-republican-primary",
+      "published_at": "2026-08-18T20:04:18+00:00",
+      "summary_raw": "Mills is the latest lawmaker in a recent string of congressional members facing scandals and allegations of domestic abuse while trying to run for elected office.",
+      "id": "1f2f926aa7b2"
     },
     {
       "source": "NPR National",
-      "title": "Morning news brief",
-      "link": "https://www.npr.org/2026/08/19/nx-s1-5931256/morning-news-brief",
-      "published_at": "2026-08-19T08:46:31+00:00",
-      "summary_raw": "A look at who won and who lost in Tuesday's primaries, President Trump announces delay of tariffs on Canadian imports, child safety trial pitting four states against Meta begins.",
-      "id": "95021b377ccb"
+      "title": "On his 19th birthday, a vigil is planned for Mississippi teen Nolan Wells",
+      "link": "https://www.npr.org/2026/08/19/nx-s1-5937533/on-his-19th-birthday-a-vigil-is-planned-for-mississippi-teen-nolan-wells",
+      "published_at": "2026-08-19T20:53:13+00:00",
+      "summary_raw": "There's a vigil Wednesday night in Mississippi to mark the birthday of Nolan Wells. The teen who was found dead after being left on a island would have been 19 years old.",
+      "id": "272e57d682f2"
     },
     {
       "source": "BBC World",
-      "title": "81-year-old confesses to German cold case murder of US tourist in 1994",
-      "link": "https://www.bbc.co.uk/news/articles/cq89n5j9npdo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-19T18:26:21+00:00",
-      "summary_raw": "Amy Lopez from Texas was last seen alive in September 1994 while on a visit to a fortress in Koblenz.",
-      "id": "491c2bb92a39"
+      "title": "Australia 'outraged' after Israel decides not to open criminal investigation into killing of aid worker in Gaza",
+      "link": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-20T07:33:11+00:00",
+      "summary_raw": "Australia's foreign minister summoned the Israeli ambassador over \"insulting\" Zomi Frankcom decision.",
+      "id": "58730c4f8490"
     },
     {
       "source": "Science Daily",
@@ -196,43 +388,43 @@
     },
     {
       "source": "WRAL Local",
-      "title": "Family of man killed in Raleigh crash will get $200,000 in wrongful death lawsuit with NC trooper",
-      "link": "https://www.wral.com/news/local/family-man-killed-raleigh-reaches-200000-settlement-nc-trooper-involved-august-2026/",
-      "published_at": "2026-08-19T16:05:59+00:00",
-      "summary_raw": "The family of Tyrone Mason, who died in a 2024 Raleigh chase and crash, will receive $200,000 in a settlement with a state trooper whose credibility was later questioned by prosecutors.",
-      "id": "a153056cb715"
+      "title": "Fact-check: Did Congress vote to ‘merge’ the US and Israeli militaries?",
+      "link": "https://www.wral.com/news/state/fact-check-congress-merge-us-israel-military-august-19/",
+      "published_at": "2026-08-19T20:24:35+00:00",
+      "summary_raw": "On July 22, the U.S. House passed the annual National Defense Authorization Act — which sets funding and policy for the U.S. Defense Department — for fiscal year 2027.",
+      "id": "1cc344208281"
     },
     {
       "source": "Wired",
-      "title": "Why Is It Absolute Hell to Buy a Movie Ticket Now?",
-      "link": "https://www.wired.com/story/why-is-it-absolute-hell-to-buy-a-movie-ticket-now/",
-      "published_at": "2026-08-19T14:33:04+00:00",
-      "summary_raw": "Overwhelmed theater apps and a scarcity mindset around exclusive big-screen formats for blockbusters like Dune: Part Three and The Odyssey have led to the “concertification” of movies.",
-      "id": "eda4eea5ae50"
+      "title": "Dell Coupon Codes: 20% Off for August 2026",
+      "link": "https://www.wired.com/story/dell-coupon-code/",
+      "published_at": "2026-08-20T05:00:00+00:00",
+      "summary_raw": "Get 20% off with verified Dell promo code, plus today’s coupons for up to $600 off laptops, Alienware monitors, and all things tech.",
+      "id": "74c390ce56d4"
     },
     {
       "source": "NPR Politics",
-      "title": "Florida GOP race draws accusations of carpetbagging",
-      "link": "https://www.npr.org/2026/08/17/nx-s1-5913672/florida-gop-race-draws-accusations-of-carpetbagging",
-      "published_at": "2026-08-17T21:26:17+00:00",
-      "summary_raw": "\"Carpetbagger\" describes people who move somewhere to run for office. In Southwest Florida, six former congressional hopefuls from other states are taking their shot in this conservative stronghold.",
-      "id": "1c39ecd35517"
+      "title": "This crowded Republican primary in Florida has drawn a unique cast of candidates",
+      "link": "https://www.npr.org/2026/08/18/nx-s1-5930699/florida-republican-19th-district-carpetbaggers",
+      "published_at": "2026-08-18T09:00:00+00:00",
+      "summary_raw": "The GOP primary in Florida's 19th District includes candidates who are new to the state, candidates who've run for Congress before and two candidates who have received pardons from President Trump.",
+      "id": "f84b5e0712db"
     },
     {
       "source": "NPR National",
-      "title": "U.S. delays 50% tariff on Canadian imports after reaching deal",
-      "link": "https://www.npr.org/2026/08/19/nx-s1-5936217/u-s-delays-50-tariff-on-canadian-imports-after-reaching-deal",
-      "published_at": "2026-08-19T08:42:27+00:00",
-      "summary_raw": "The U.S. has delayed imposing an additional 50% tariff on about $20 billion in imports from Canada after President Trump said the two countries reached a last-minute deal.",
-      "id": "b6d59d0e3070"
+      "title": "In new filings, Kennedy Center says it won't try to put Trump's name on facade until Sept. 8",
+      "link": "https://www.npr.org/2026/08/19/nx-s1-5937912/kennedy-center-president-trump-name",
+      "published_at": "2026-08-19T18:01:03+00:00",
+      "summary_raw": "Lawyers for Rep. Joyce Beatty asked a judge to rule speedily on the complex's renovation and entrance tarp. The National Symphony Orchestra also announced its new season, away from the Kennedy Center.",
+      "id": "29028ab379ac"
     },
     {
       "source": "BBC World",
-      "title": "Multiple deadly Israeli strikes in Gaza in under 24 hours",
-      "link": "https://www.bbc.co.uk/news/videos/cp3rgxzk5x2o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-19T17:46:01+00:00",
-      "summary_raw": "BBC Verify looks at footage from two deadly strikes in under 24 hours in Gaza.",
-      "id": "34faa42214db"
+      "title": "Canadian marathon route was 674m too long",
+      "link": "https://www.bbc.co.uk/sport/athletics/articles/cvgw9wlky9zo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-20T07:15:48+00:00",
+      "summary_raw": "The organisers of the Edmonton Marathon admit the course for the 2026 edition was measured more than half a kilometre too long.",
+      "id": "e5f2e3b51100"
     },
     {
       "source": "Science Daily",
@@ -244,43 +436,43 @@
     },
     {
       "source": "WRAL Local",
-      "title": "One hurt after bear entered home in western North Carolina",
-      "link": "https://www.wral.com/news/local/asheville-bear-attack-august-2026/",
-      "published_at": "2026-08-19T15:04:18+00:00",
-      "summary_raw": "It happened at a home in Asheville on Tuesday night. Authorities said the bear entered the home through an unlocked door.",
-      "id": "33b9d9270a74"
+      "title": "Cary police ask residents to check cameras for 68-year-old man who disappeared on Sunday",
+      "link": "https://www.wral.com/news/local/cary-police-ask-residents-check-cameras-missing-man-august-2026/",
+      "published_at": "2026-08-19T19:33:08+00:00",
+      "summary_raw": "Cary police are asking residents in the View Drive area of Morrisville to check their doorbell and security cameras as they search for a missing 68-year-old man with a cognitive impairment.",
+      "id": "071c42f04f4c"
     },
     {
       "source": "Wired",
-      "title": "The Best Digital Wall Calendar (2026): Skylight, Everblog, Apolosign",
-      "link": "https://www.wired.com/story/are-digital-wall-calendars-worth-it/",
-      "published_at": "2026-08-19T11:31:00+00:00",
-      "summary_raw": "What originally looked like clutter turned out to be my new favorite gadget for organizing my family’s life.",
-      "id": "faba33fd5bc3"
+      "title": "Booking.com Promo Codes: 20% Off | August 2026",
+      "link": "https://www.wired.com/story/booking-com-promo-code/",
+      "published_at": "2026-08-20T05:00:00+00:00",
+      "summary_raw": "Enjoy big savings on your next adventure with our Booking.com promo codes, coupons, and handpicked travel deals.",
+      "id": "677d9b729ff6"
     },
     {
       "source": "NPR Politics",
-      "title": "Former federal prosecutor is suing DOJ for 'unlawful and retaliatory' firing",
-      "link": "https://www.npr.org/2026/08/17/g-s1-138997/former-federal-prosecutor-sue-doj-retaliatory-firing",
-      "published_at": "2026-08-17T21:01:54+00:00",
-      "summary_raw": "A federal prosecutor who was fired earlier this year is suing the DOJ, alleging she was unlawfully dismissed for political reasons tied to her work prosecuting a case against anti-abortion activists.",
-      "id": "a55e141cb91a"
+      "title": "Florida GOP race draws accusations of carpetbagging",
+      "link": "https://www.npr.org/2026/08/17/nx-s1-5913672/florida-gop-race-draws-accusations-of-carpetbagging",
+      "published_at": "2026-08-17T21:26:17+00:00",
+      "summary_raw": "\"Carpetbagger\" describes people who move somewhere to run for office. In Southwest Florida, six former congressional hopefuls from other states are taking their shot in this conservative stronghold.",
+      "id": "1c39ecd35517"
     },
     {
       "source": "NPR National",
-      "title": "Trump says U.S. and Canada reached deal to delay 50% U.S. tariffs on Canadian imports",
-      "link": "https://www.npr.org/2026/08/19/g-s1-139156/trump-canada-tariffs",
-      "published_at": "2026-08-19T04:55:08+00:00",
-      "summary_raw": "President Trump said he was delaying the 50% U.S. tariffs on Canadian imports after the two countries reached a last-minute deal less than two hours before the sanctions were to go into effect.",
-      "id": "000d3ef7dbe1"
+      "title": "Why does the U.S. military seem stymied in the war with Iran?",
+      "link": "https://www.npr.org/2026/08/19/nx-s1-5937516/why-does-the-u-s-military-seem-stymied-in-the-war-with-iran",
+      "published_at": "2026-08-19T16:18:35+00:00",
+      "summary_raw": "Defense analyst Stacie Pettyjohn says while the U.S. military is facing long-range missile shortages, prolonged deployments and vacated regional bases, Iran is building cheaper weapons quickly.",
+      "id": "b8bc921bcfe7"
     },
     {
       "source": "BBC World",
-      "title": "South Korea shortens war games with US, citing Washington request",
-      "link": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-19T17:39:49+00:00",
-      "summary_raw": "It comes after Trump announced plans to curtail joint military exercises with South Korea, citing a \"very good\" relationship with North Korea's Kim Jong Un.",
-      "id": "bbc68ad7762f"
+      "title": "Mushroom killer must stay in jail forever for 'truly dreadful' crime, appeal court told",
+      "link": "https://www.bbc.co.uk/news/articles/ckg3j3yn4exo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-20T07:08:35+00:00",
+      "summary_raw": "Prosecutors say Erin Patterson's sentence was \"manifestly inadequate\" as it allows for the possibility of parole.",
+      "id": "fa0de34e1af9"
     },
     {
       "source": "Science Daily",
@@ -292,43 +484,27 @@
     },
     {
       "source": "WRAL Local",
-      "title": "Gas odor leads to evacuation at Lockhart Elementary school in Knightdale",
-      "link": "https://www.wral.com/news/local/gas-odor-evacuates-lockhart-elementary-school-knightdale-august-2026/",
-      "published_at": "2026-08-19T14:38:26+00:00",
-      "summary_raw": "A smell of gas on Wednesday led to an evacuation at Lockhart Elementary School in Knightdale.",
-      "id": "1270596f7a08"
+      "title": "Raleigh to make safety changes for GoRaleigh buses and station",
+      "link": "https://www.wral.com/news/local/fencing-breezeway-goraleigh-downtown-busstation-safety-august-2026/",
+      "published_at": "2026-08-19T18:58:25+00:00",
+      "summary_raw": "The City of Raleigh is making changes to address safety concerns from commuters that take GoRaleigh transit.",
+      "id": "7f7b25de1e84"
     },
     {
       "source": "Wired",
-      "title": "I Tried a Window-Cleaning Robot: Do Not Recommend",
-      "link": "https://www.wired.com/story/window-cleaning-robots-are-kinda-terrible/",
-      "published_at": "2026-08-19T11:08:00+00:00",
-      "summary_raw": "I tested the top-of-the-line Ecovacs Winbot W2S Omni window-cleaning robot on my Victorian home, and it was an unmitigated disaster.",
-      "id": "9a62d762778b"
-    },
-    {
-      "source": "NPR Politics",
-      "title": "Democratic Rep. Jimmy Gomez being investigated over sexual misconduct allegations",
-      "link": "https://www.npr.org/2026/08/17/nx-s1-5935513/jimmy-gomez-house-ethics-investigation",
-      "published_at": "2026-08-17T19:53:37+00:00",
-      "summary_raw": "The California Democrat has admitted to \"personal mistakes\" outside his marriage but also says his actions were consensual in nature and did not violate House ethics rules.",
-      "id": "3493e39b5f27"
-    },
-    {
-      "source": "NPR National",
-      "title": "Border wall expansion brings protests in national monument, other Arizona locations",
-      "link": "https://www.npr.org/2026/08/18/nx-s1-5931944/border-wall-expansion-brings-protests-in-national-monument-other-arizona-locations",
-      "published_at": "2026-08-18T21:17:47+00:00",
-      "summary_raw": "New efforts to establish a more elaborate \"smart wall\" along parts of the U.S.-Mexico border are spawning protests in Arizona.",
-      "id": "d4daa52a533a"
+      "title": "Nike Promo Codes and Discounts: 30% for August 2026",
+      "link": "https://www.wired.com/story/nike-promo-code/",
+      "published_at": "2026-08-20T05:00:00+00:00",
+      "summary_raw": "Check out our deals for Nike this August 2026, including 15% off select purchases.",
+      "id": "ec76ca9e53ff"
     },
     {
       "source": "BBC World",
-      "title": "Sacked Ukrainian defence minister calls for presidential election",
-      "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-19T17:23:42+00:00",
-      "summary_raw": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
-      "id": "696316ea48f6"
+      "title": "Founder of collapsed Chinese property giant Evergrande sentenced to life in prison",
+      "link": "https://www.bbc.co.uk/news/articles/cd0x9mjjmgjo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-20T06:08:02+00:00",
+      "summary_raw": "Hui's sentencing marks a key moment in the fallout from Evergrande's collapse, which shook China's property sector.",
+      "id": "89aa387118ea"
     },
     {
       "source": "Science Daily",
@@ -340,43 +516,27 @@
     },
     {
       "source": "WRAL Local",
-      "title": "Nearly 3,900 pounds of dog food recalled; how North Carolina pet owners can check their food",
-      "link": "https://www.wral.com/news/local/dog-food-omas-recall-samonella/",
-      "published_at": "2026-08-19T14:23:21+00:00",
-      "summary_raw": "The food was distributed to stores and wholesalers in 11 states, including neighboring Virginia. While North Carolina was not included on that retail distribution list, the product was also shipped directly to customers through online orders.",
-      "id": "e9fd5240dc57"
+      "title": "Hot days, hotter nights: Raleigh is losing its overnight relief",
+      "link": "https://www.wral.com/news/local/record-hot-nights-in-the-triangle-august-2026/",
+      "published_at": "2026-08-19T17:31:08+00:00",
+      "summary_raw": "Raleigh now experiences about 40 more unusually warm summer nights than it did in the 1970s. Scientists say climate change is reducing overnight relief from extreme heat, increasing health risks and cooling costs.",
+      "id": "a9a5ac518238"
     },
     {
       "source": "Wired",
-      "title": "‘Your Excel Skills Suck’: The Power Users Turning Spreadsheets Into a Spectator Sport",
-      "link": "https://www.wired.com/story/your-excel-skills-suck-the-power-users-turning-spreadsheets-into-a-spectator-sport/",
-      "published_at": "2026-08-19T11:00:00+00:00",
-      "summary_raw": "Data and finance professionals are competing in Excel obstacle courses—amassing huge followings and keeping the Microsoft program relevant.",
-      "id": "1f1c3fc3817c"
-    },
-    {
-      "source": "NPR Politics",
-      "title": "DHS defends investigating agency critics and giving them warning notices",
-      "link": "https://www.npr.org/2026/08/17/nx-s1-5934692/dhs-free-speech-investigations",
-      "published_at": "2026-08-17T13:31:13+00:00",
-      "summary_raw": "Federal officials acknowledged that ICE special agents tracked a New York man to his house, the airport and a hotel to question him about a critical email he sent to the former head of ICE in January.",
-      "id": "12dad68bf838"
-    },
-    {
-      "source": "NPR National",
-      "title": "In Portland, this soap box derby combines downhill speed with extreme pageantry",
-      "link": "https://www.npr.org/2026/08/18/nx-s1-5935518/portland-oregon-soap-box-derby-race-pdx",
-      "published_at": "2026-08-18T09:30:00+00:00",
-      "summary_raw": "Soap box derbies send motorless cars down a steep incline. At one event, contestants make their cars look like cartoon characters, subway cars, food, and giant animals (among other outlandish shapes).",
-      "id": "b1ef987e357f"
+      "title": "Chewy Promo Codes: $20 Off August 2026",
+      "link": "https://www.wired.com/story/chewy-promo-code/",
+      "published_at": "2026-08-20T05:00:00+00:00",
+      "summary_raw": "Explore Chewy coupon codes for $30 off, $20 off your first order $49, 50% off pet food, and more August 2026 discounts.",
+      "id": "dbbbaf8f48b0"
     },
     {
       "source": "BBC World",
-      "title": "Israel opens up bids for highly-sensitive West Bank settlement project",
-      "link": "https://www.bbc.co.uk/news/articles/cly50gn1e54o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-19T17:16:28+00:00",
-      "summary_raw": "Israeli plans to build on the area east of Jerusalem - which would divide the occupied West Bank in two - have long been internationally condemned.",
-      "id": "499b169c78ac"
+      "title": "Missing teen hiker found dead in Australian bush after eight-day search",
+      "link": "https://www.bbc.co.uk/news/articles/c304e2dlv20o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-20T05:45:53+00:00",
+      "summary_raw": "The state premier initially said Lily Hooper had been found alive before police confirmed her death.",
+      "id": "4b05e406a689"
     },
     {
       "source": "Science Daily",
@@ -387,44 +547,20 @@
       "id": "21593a2645a3"
     },
     {
-      "source": "WRAL Local",
-      "title": "Teen arrested in New York, charged in connection to Fourth of July violence in Raleigh",
-      "link": "https://www.wral.com/news/local/teen-arrested-brier-creek-raleigh-fourth-of-july-violence-august-2026/",
-      "published_at": "2026-08-19T14:08:22+00:00",
-      "summary_raw": "U.S. marshals took a Staten Island teen into custody on Tuesday in connection to shootings and violence that happened on the Fourth of July in the Glenwood South and Brier Creek areas.",
-      "id": "a1e45a953acf"
-    },
-    {
       "source": "Wired",
-      "title": "We Bought a $500 Counterfeit Rolex So Good, Even Rolex Didn’t Spot It",
-      "link": "https://www.wired.com/story/we-bought-a-counterfeit-rolex-so-good-even-rolex-didnt-spot-it/",
-      "published_at": "2026-08-19T10:45:00+00:00",
-      "summary_raw": "The replica watch industry is in its “super clone” era. Following tips from murky internet forums, we bought three budget fakes that were good enough to pass as real—but ultimately disposable.",
-      "id": "a5efd41cfe44"
-    },
-    {
-      "source": "NPR Politics",
-      "title": "Sen. Mark Kelly says 'very difficult situation' unfolding for USS Lincoln sailors",
-      "link": "https://www.npr.org/2026/08/17/nx-s1-5933015/mark-kelly-navy-lincoln-sailors-investigation",
-      "published_at": "2026-08-17T10:49:59+00:00",
-      "summary_raw": "NPR's Sacha Pfeiffer talks with Democratic Sen. Mark Kelly of Arizona about conditions aboard the USS Lincoln and his calls for an investigation into sailors' treatment.",
-      "id": "f739ac76d17d"
-    },
-    {
-      "source": "NPR National",
-      "title": "Many recent grads say AI is making it harder to get a job. Economists aren't so sure",
-      "link": "https://www.npr.org/2026/08/18/nx-s1-5910677/recent-college-graduates-employment-job-artificial-intelligence",
-      "published_at": "2026-08-18T09:00:00+00:00",
-      "summary_raw": "The unemployment rate for young adults with new degrees is higher than the rate for all workers, according to the New York Fed. Is AI the problem, or is it more complicated?",
-      "id": "1bbbbb7b7db5"
+      "title": "20% Off Samsung Promo Code | August 2026",
+      "link": "https://www.wired.com/story/samsung-promo-codes/",
+      "published_at": "2026-08-20T05:00:00+00:00",
+      "summary_raw": "Save 30% or 10% with Samsung coupon codes, up to $1,000 on appliances, plus limited-time deals on the Galaxy Z Fold7, Flip7, and S25.",
+      "id": "34dfd5bdd1ff"
     },
     {
       "source": "BBC World",
-      "title": "Retail giant Target receives $1bn boost from tariff refunds",
-      "link": "https://www.bbc.co.uk/news/articles/c78gp4y8d3eo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-19T17:07:49+00:00",
-      "summary_raw": "The US chain said it received a $994 million pre-tax reimbursement, which resulted in its second quarter operating income rising to $2.6bn.",
-      "id": "96b529dee877"
+      "title": "Captured Ukrainian-born soldiers tell BBC why they fought for Russia",
+      "link": "https://www.bbc.co.uk/news/articles/cn9nr195drzo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-20T05:01:24+00:00",
+      "summary_raw": "Men born in Ukraine who fought for Russia are tried for treason, but at a prisoner of war camp in western Ukraine, many believe they were defending their homeland.",
+      "id": "ccffeb5395ef"
     },
     {
       "source": "Science Daily",
@@ -435,44 +571,20 @@
       "id": "58341045d484"
     },
     {
-      "source": "WRAL Local",
-      "title": "Portion of US 64 Business in Knightdale closes for days-long road project",
-      "link": "https://www.wral.com/news/local/us-64-business-closing-knightdale-road-improvement-project-august-2026/",
-      "published_at": "2026-08-19T13:44:55+00:00",
-      "summary_raw": "Beginning Wednesday, one lane of Knightdale Boulevard at Carolinian Avenue will be closed for a days-long improvement project.",
-      "id": "2a5ba52b233d"
-    },
-    {
       "source": "Wired",
-      "title": "Dell XPS 13 vs. MacBook Neo: A Surprising Upset",
-      "link": "https://www.wired.com/story/macbook-neo-vs-dell-xps-13/",
-      "published_at": "2026-08-19T10:30:00+00:00",
-      "summary_raw": "The Dell XPS 13 and MacBook Neo are both premium-feeling laptops with only 8 GB of RAM. Which $700 laptop is the better buy?",
-      "id": "e862321ae296"
-    },
-    {
-      "source": "NPR Politics",
-      "title": "Advocates worry new bans on student IDs will trip up younger voters",
-      "link": "https://www.npr.org/2026/08/17/nx-s1-5791740/college-student-voting-voter-id",
-      "published_at": "2026-08-17T09:00:00+00:00",
-      "summary_raw": "New bans on using student IDs for voting in Indiana and New Hampshire have sparked lawsuits after creating the latest hurdles to the ballot box for the U.S. voting-age group least likely to vote.",
-      "id": "7805d966fee8"
-    },
-    {
-      "source": "NPR National",
-      "title": "Jason Arday's rise and fall tells a larger story about academia, a critic says",
-      "link": "https://www.npr.org/2026/08/18/nx-s1-5935396/britain-cambridge-professor-jason-arday-hiring-questions",
-      "published_at": "2026-08-18T08:41:14+00:00",
-      "summary_raw": "What can academia learn from Jason Arday's rise and fall? Atlantic staff writer and former academic Tyler Austin Harper weighs the questions his story left behind.",
-      "id": "38835300be67"
+      "title": "iRobot Promo Code: 15% Off",
+      "link": "https://www.wired.com/story/irobot-promo-code/",
+      "published_at": "2026-08-20T05:00:00+00:00",
+      "summary_raw": "Save on iRobot products, including robot vacuums and mops designed to handle pet hair, daily messes, and hands-free cleaning with smart home integration.",
+      "id": "66fb2be1de28"
     },
     {
       "source": "BBC World",
-      "title": "Ukrainian man arrested in Croatia over Nord Stream pipeline blasts",
-      "link": "https://www.bbc.co.uk/news/articles/c78gp7l5348o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-19T16:31:48+00:00",
-      "summary_raw": "The man is alleged to have been one of the scuba divers who planted explosives on the pipelines in 2022.",
-      "id": "91ffb6817fdd"
+      "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
+      "link": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-20T04:17:53+00:00",
+      "summary_raw": "The five-year-old Palestinian girl initially survived the attack and pleaded for help but her body was recovered later with those of six of her relatives.",
+      "id": "576254eb2802"
     },
     {
       "source": "Science Daily",
@@ -483,28 +595,20 @@
       "id": "25f1cfa39eb6"
     },
     {
-      "source": "WRAL Local",
-      "title": "Crews work to repair Durham water main break on Roxboro Street",
-      "link": "https://www.wral.com/news/local/water-main-break-roxboro-street-durham-august-2026/",
-      "published_at": "2026-08-19T09:22:12+00:00",
-      "summary_raw": "Durham police on Wednesday are at the scene of a water main break on Roxboro Street.",
-      "id": "f556e4d27dc3"
-    },
-    {
       "source": "Wired",
-      "title": "There’s a Very Simple Reason Why You Love the Slate Truck",
-      "link": "https://www.wired.com/story/theres-a-very-simple-reason-why-you-love-the-slate-truck/",
-      "published_at": "2026-08-19T10:30:00+00:00",
-      "summary_raw": "The car world is filled with designers still obsessed with shoehorning sex into their rides. Slate went a different route, and it’s why people are smitten with the charming electric pickup.",
-      "id": "7db7a52e0118"
+      "title": "H&R Block Coupon: 25% Off DIY + Tax Pro Assist",
+      "link": "https://www.wired.com/story/hr-block-coupon/",
+      "published_at": "2026-08-20T05:00:00+00:00",
+      "summary_raw": "Save over 25% when you opt for H&R Block’s free online offering, plus a tax pro review.",
+      "id": "af1ca8a711e7"
     },
     {
       "source": "BBC World",
-      "title": "Trial of mum accused of killing her three children puts postpartum psychosis on the map",
-      "link": "https://www.bbc.co.uk/news/articles/c5yedy98j7po?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-19T16:30:55+00:00",
-      "summary_raw": "Postpartum psychosis is a psychiatric emergency that can involve mania, depression, hallucinations and delusions.",
-      "id": "a9ffbea2a55a"
+      "title": "Giant whales move into Greenland waters as ice disappears",
+      "link": "https://www.bbc.co.uk/news/articles/cq6dn9gj7eno?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-20T02:05:20+00:00",
+      "summary_raw": "Melting sea ice from climate change has opened up the region for giant whales to undertake \"feeding frenzies\".",
+      "id": "1dd8f0b0f8e8"
     },
     {
       "source": "Science Daily",
@@ -515,28 +619,20 @@
       "id": "e4a0addb27d1"
     },
     {
-      "source": "WRAL Local",
-      "title": "'Just dropped in the ditch': Harnett County woman described rescuing girl kidnapped on Sunday",
-      "link": "https://www.wral.com/news/local/harnett-county-woman-helps-kidnapped-girl-august-2026/",
-      "published_at": "2026-08-19T03:51:59+00:00",
-      "summary_raw": "A Harnett County woman is being called a hero after she helped rescue a kidnapped 12-year-old girl on Sunday.",
-      "id": "d6ff70648045"
-    },
-    {
       "source": "Wired",
-      "title": "Reverse-Lookup Service Exposed Millions of Photos of People’s Faces",
-      "link": "https://www.wired.com/story/reverse-lookup-service-exposed-millions-of-photos-of-peoples-faces/",
-      "published_at": "2026-08-19T10:00:00+00:00",
-      "summary_raw": "The people-search tool ClarityCheck says its reverse image search service is “private and secure”—but it left a database containing more than 9 million image files exposed.",
-      "id": "2b211b4717f3"
+      "title": "T-Mobile Promo Codes: 25% Off | August 2026",
+      "link": "https://www.wired.com/story/t-mobile-business-promo-code/",
+      "published_at": "2026-08-20T05:00:00+00:00",
+      "summary_raw": "Discover how to save on T-Mobile Business Internet and phone plans, from sign-up perks and switching rewards to bundled offers and free lines.",
+      "id": "b1bc35910580"
     },
     {
       "source": "BBC World",
-      "title": "Two detained after French influencer's scorched body found in vineyard",
-      "link": "https://www.bbc.co.uk/news/articles/c3r058eeqv2o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-19T16:04:39+00:00",
-      "summary_raw": "Sonia Bellina's body was \"abandoned\" after \"a murder of rare savagery\", the family's lawyer says.",
-      "id": "cea2237f24dc"
+      "title": "Key Trump aide Natalie Harp suddenly in spotlight after years behind scenes",
+      "link": "https://www.bbc.co.uk/news/articles/c80nzdjgmk3o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-19T23:11:14+00:00",
+      "summary_raw": "Democratic Senator Jon Ossoff used a speech to note the closeness of one aide to the president.",
+      "id": "e9fd565e72f7"
     },
     {
       "source": "Science Daily",
@@ -545,102 +641,6 @@
       "published_at": "2026-08-18T16:40:57+00:00",
       "summary_raw": "Traveling electrical waves sweeping across the brain may help determine what we notice, predict what comes next, and construct our internal picture of the world. Researchers now argue that these waves aren't just background activity—they could be a core computational engine behind perception and memory.",
       "id": "5cef28075ee4"
-    },
-    {
-      "source": "Wired",
-      "title": "Hot or Not Built the Internet We’re Still Swiping Through",
-      "link": "https://www.wired.com/story/hot-or-not-built-the-internet-were-still-swiping-through/",
-      "published_at": "2026-08-19T09:45:00+00:00",
-      "summary_raw": "The early website Hot or Not taught its users to rank people at scale. Twenty-six years later, dating apps are trying to escape the culture the site helped create.",
-      "id": "4e722a05c395"
-    },
-    {
-      "source": "BBC World",
-      "title": "Jellyfish mesmerise in their own museum in Florida",
-      "link": "https://www.bbc.co.uk/news/videos/c0m7eld12l1o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-19T15:39:08+00:00",
-      "summary_raw": "The Jellyfish Museum in Pompano Beach is believed to be the first in the US dedicated entirely to the floating predators.",
-      "id": "623e425e8cdd"
-    },
-    {
-      "source": "Science Daily",
-      "title": "Scientists may have finally proved that “empty” space isn’t really empty",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260815065007.htm",
-      "published_at": "2026-08-18T06:08:04+00:00",
-      "summary_raw": "A magnetar’s colossal magnetic field may have revealed a quantum effect predicted by Werner Heisenberg nearly 90 years ago, in which seemingly empty space alters the behavior of light. If confirmed, the discovery could offer the first direct evidence of vacuum birefringence and open a new window into the strange physics of the quantum vacuum.",
-      "id": "aae8db971198"
-    },
-    {
-      "source": "Wired",
-      "title": "Flock Has a Powerful New AI Tool for Police. We Got Its Code",
-      "link": "https://www.wired.com/story/flock-safety-os-investigate/",
-      "published_at": "2026-08-19T09:00:00+00:00",
-      "summary_raw": "Flock’s surveillance cameras have already sparked outrage. WIRED reconstructed its next-generation AI system, already in use by some police, to confirm it goes much further than tracking license plates.",
-      "id": "d06c32aec0d6"
-    },
-    {
-      "source": "BBC World",
-      "title": "Why is Ukraine's ex-defence minister calling for wartime elections?",
-      "link": "https://www.bbc.co.uk/news/videos/c62eyn5ggnzo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-19T15:38:38+00:00",
-      "summary_raw": "Mykhailo Fedorov has called for elections, without addressing concerns over how they could be held while at war.",
-      "id": "dc54a5601207"
-    },
-    {
-      "source": "Science Daily",
-      "title": "Einstein’s biggest “mistake” came back — and changed cosmology forever",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260816044835.htm",
-      "published_at": "2026-08-18T05:58:07+00:00",
-      "summary_raw": "Einstein’s abandoned cosmological constant made a spectacular comeback when astronomers discovered that the universe’s expansion is accelerating. It now sits at the heart of our best cosmological model—a model that works extraordinarily well, yet may still be wrong.",
-      "id": "aeabc8c8b5b9"
-    },
-    {
-      "source": "Wired",
-      "title": "Uber Eats Promo Codes: $15 Off│August 2026",
-      "link": "https://www.wired.com/story/uber-eats-promo-code/",
-      "published_at": "2026-08-19T05:00:00+00:00",
-      "summary_raw": "Hunger meets savings. Discover verified Uber Eats promo codes, new user offers, and Uber One discounts to slash your delivery fees and meal costs.",
-      "id": "853aae5376b8"
-    },
-    {
-      "source": "BBC World",
-      "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
-      "link": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-19T15:33:32+00:00",
-      "summary_raw": "The five-year old Gaza girl initially survived the attack and pleaded for help but her body was recovered later with those of six of her relatives.",
-      "id": "8c594e4d5d33"
-    },
-    {
-      "source": "Science Daily",
-      "title": "A therapy that “rewrites” childhood memories can ease fear of failure",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260815064833.htm",
-      "published_at": "2026-08-18T05:06:35+00:00",
-      "summary_raw": "Childhood criticism can leave people carrying a fear of failure long into adulthood, but new research suggests those emotional patterns may be surprisingly flexible. Young adults who revisited painful memories through imagery-based therapy showed lasting reductions in fear, guilt, sadness, and stress.",
-      "id": "e280eb1db067"
-    },
-    {
-      "source": "Wired",
-      "title": "Hotels.com Coupon Codes for August 2026",
-      "link": "https://www.wired.com/story/hotels-com-coupon/",
-      "published_at": "2026-08-19T05:00:00+00:00",
-      "summary_raw": "Unlock significant savings on hotels, resorts, and getaways with our verified Hotels.com promo codes and gift card discounts. Plan your perfect trip today!",
-      "id": "635a37b51d0c"
-    },
-    {
-      "source": "BBC World",
-      "title": "'I was born in South Africa', says beauty queen facing legal bid to deport her",
-      "link": "https://www.bbc.co.uk/news/articles/cj364xxr5ngo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-19T15:12:41+00:00",
-      "summary_raw": "Chidimma Adetshina is challenging efforts to have her deported from South Africa, which she says is her home.",
-      "id": "af49047d4759"
-    },
-    {
-      "source": "Science Daily",
-      "title": "Kratom poison center cases have surged 6,500% in the U.S.",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260814235902.htm",
-      "published_at": "2026-08-18T04:48:51+00:00",
-      "summary_raw": "Kratom use and serious health problems linked to it have risen dramatically across the United States over the past decade. Poison center reports jumped from just 19 cases in 2010 to more than 1,200 in 2023, while severe outcomes—including life-threatening complications, disability, and death—also climbed sharply. Researchers warn that kratom can trigger seizures, abnormal heart rhythms, liver damage, and breathing problems, with risks potentially increasing when it is combined with other drugs.",
-      "id": "2311d2563d3c"
     }
   ]
 }

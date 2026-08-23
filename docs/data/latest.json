@@ -1,14 +1,14 @@
 {
   "mode": "raw",
-  "generated_at": "2026-08-23T11:26:45.570788+00:00",
+  "generated_at": "2026-08-23T20:20:36.361202+00:00",
   "items": [
     {
       "source": "WRAL Local",
-      "title": "Four people injured in shooting on Fayetteville Street in downtown Raleigh",
-      "link": "https://www.wral.com/news/local/four-people-injured-downtown-raleigh-shooting-fayetteville-street-august-2026/",
-      "published_at": "2026-08-23T11:15:42+00:00",
-      "summary_raw": "Four people were injured overnight in a shooting in downtown Raleigh, according to police.",
-      "id": "5ca92ecc559f"
+      "title": "Kayaker finds body at Greenville park, death investigation underway",
+      "link": "https://www.wral.com/news/local/kayaker-finds-body-greenville-central-park-august-2026/",
+      "published_at": "2026-08-23T18:37:51+00:00",
+      "summary_raw": "Police are investigating after a kayaker found a body at the Greenville Town Common.",
+      "id": "a3b317a12f62"
     },
     {
       "source": "WRAL Weather",
@@ -20,11 +20,163 @@
     },
     {
       "source": "Wired",
+      "title": "Asus ROG Swift RGB Stripe OLED Review: Clarity King",
+      "link": "https://www.wired.com/review/asus-rog-swift-rgb-stripe-oled-pg27ucwm/",
+      "published_at": "2026-08-23T13:00:00+00:00",
+      "summary_raw": "The Asus PG27UCWM brings a new sub-pixel layout to the world of OLED gaming monitors, and in my testing, I appreciated the improvements it brings to the table.",
+      "id": "e230a724e4c5"
+    },
+    {
+      "source": "NPR Politics",
+      "title": "Becerra, running for governor of California, faces a health insurance problem",
+      "link": "https://www.npr.org/2026/08/23/nx-s1-5941143/california-governor-xavier-becerra-health-insurance",
+      "published_at": "2026-08-23T12:50:09+00:00",
+      "summary_raw": "The nation's uninsured rate hit a historical low when Xavier Becerra was health secretary. Now he wants to be California's next governor as Trump's actions have driven people off health insurance.",
+      "id": "fb4a1e74ae5e"
+    },
+    {
+      "source": "NPR National",
+      "title": "Thousands in northwest Indiana still without power nearly two weeks after storm",
+      "link": "https://www.npr.org/2026/08/23/nx-s1-5942292/thousands-in-northwest-indiana-still-without-power-nearly-two-weeks-after-storm",
+      "published_at": "2026-08-23T16:55:37+00:00",
+      "summary_raw": "A round of storms impacted the region on Aug. 11",
+      "id": "dcf21d91c7eb"
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump waves green flag kicking off high-speed IndyCar race through Washington",
+      "link": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-23T20:19:36+00:00",
+      "summary_raw": "The president took a ceremonial lap of the track before the race, which is the culmination of a summer of events to mark the country's 250th birthday.",
+      "id": "e49c799ef154"
+    },
+    {
+      "source": "Science Daily",
+      "title": "A major Alzheimer’s risk gene may shrink brain cells years before symptoms",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260821012234.htm",
+      "published_at": "2026-08-23T15:15:41+00:00",
+      "summary_raw": "Researchers have uncovered a possible reason why the Alzheimer’s risk gene APOE4 can disrupt the brain long before memory problems begin. In mice, APOE4 increased a protein called Nell2, shrinking neurons and making memory circuits unusually active. That early hyperactivity predicted worse memory later in life. Reducing Nell2 in adult mice reversed the abnormal changes, raising hopes for a new way to intervene before Alzheimer’s progresses.",
+      "id": "0d3526d28bdd"
+    },
+    {
+      "source": "WRAL Local",
+      "title": "Man charged with murder in July shooting at Halifax Co. apartment complex",
+      "link": "https://www.wral.com/news/local/man-arrested-july-shooting-murder-halifax-county-august-2026/",
+      "published_at": "2026-08-23T17:17:51+00:00",
+      "summary_raw": "26-year-old Jada Ausby was arrested for allegedly shooting and killing a man last month, the Halifax County Sheriff's Office said.",
+      "id": "a39d8255755d"
+    },
+    {
+      "source": "WRAL Weather",
+      "title": "Ask the Meteorologist: How much will the upcoming rain help with August's rain deficit?",
+      "link": "https://www.wral.com/weather/ask-the-meteorologist-how-will-rain-help-august-rain-deficit-august-2026/",
+      "published_at": "2026-08-21T12:26:08+00:00",
+      "summary_raw": "We saw lots of rain in July, but we have not seen much rain in August so far. A front is expected to bring some better totals over the next handful of days. Let's break down our expected totals to start the weekend and how much we could see through next week.",
+      "id": "bc5b227ffe56"
+    },
+    {
+      "source": "Wired",
       "title": "What’s the Best Kindle of 2026? (So Far)",
       "link": "https://www.wired.com/gallery/best-kindle/",
       "published_at": "2026-08-23T11:03:00+00:00",
       "summary_raw": "I’ve tested every single Kindle. Here’s how Amazon’s ebook readers stack up.",
       "id": "f2cf16de2f7e"
+    },
+    {
+      "source": "NPR Politics",
+      "title": "Trump nominates Cameron Hamilton to lead FEMA (again)",
+      "link": "https://www.npr.org/2026/08/23/nx-s1-5939486/trump-nominates-cameron-hamilton-to-lead-fema-again",
+      "published_at": "2026-08-23T12:25:12+00:00",
+      "summary_raw": "NPR's Ayesha Rascoe asks \"Politico's\" Thomas Frank about new FEMA administrator Cameron Hamilton and whether his appointment means a change in heart by the Trump administration about the agency.",
+      "id": "49112158317b"
+    },
+    {
+      "source": "NPR National",
+      "title": "Tropical Storm Moke to cause more flooding as Hawaii recovers from Lala",
+      "link": "https://www.npr.org/2026/08/23/nx-s1-5941769/tropical-storm-moke-hawaii",
+      "published_at": "2026-08-23T12:48:05+00:00",
+      "summary_raw": "More than a foot of rain could fall across Big Island of Hawaii, according to NOAA.",
+      "id": "6e68cabcb03a"
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
+      "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-23T19:11:30+00:00",
+      "summary_raw": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war.",
+      "id": "a0acc6e0a51a"
+    },
+    {
+      "source": "Science Daily",
+      "title": "Scientists left this farm field alone. Thousands of orchids appeared",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260822015208.htm",
+      "published_at": "2026-08-23T15:01:34+00:00",
+      "summary_raw": "An abandoned farm field became a flourishing wildflower meadow within little more than a decade, with plant diversity doubling and thousands of orchids appearing naturally. The discovery suggests that simply giving nature time to recover could be a powerful and inexpensive tool for restoring biodiversity.",
+      "id": "a68fc28d42ec"
+    },
+    {
+      "source": "WRAL Local",
+      "title": "Garner police looking for missing man",
+      "link": "https://www.wral.com/news/local/missing-man-garner-bryan-place-august-2026/",
+      "published_at": "2026-08-23T17:16:29+00:00",
+      "summary_raw": "The Garner Police Department is asking for the public's help looking for Michael Melton, 52.",
+      "id": "3fbaa0ffd9ad"
+    },
+    {
+      "source": "Wired",
+      "title": "Transistors Changed Everything. Here’s How They Work",
+      "link": "https://www.wired.com/story/transistors-changed-everything-heres-how-they-work/",
+      "published_at": "2026-08-23T11:00:00+00:00",
+      "summary_raw": "How a tiny little electronic switch sparked the computer revolution.",
+      "id": "d644e4102a3a"
+    },
+    {
+      "source": "NPR Politics",
+      "title": "Week in politics: primaries results, Iran pressure, Korean relations flip",
+      "link": "https://www.npr.org/2026/08/23/nx-s1-5940819/week-in-politics-primaries-results-iran-pressure-korean-relations-flip",
+      "published_at": "2026-08-23T12:02:43+00:00",
+      "summary_raw": "Democrats have not shown a clear preference for progressive candidates over moderate ones. Republicans have rejected some of President Trump's endorsees despite his tight grip on the party's base.",
+      "id": "e2874d29f029"
+    },
+    {
+      "source": "NPR National",
+      "title": "Why hundreds showed up to support murder trial defendant Lindsay Clancy",
+      "link": "https://www.npr.org/2026/08/23/nx-s1-5940882/why-hundreds-showed-up-to-support-murder-trial-defendant-lindsay-clancy",
+      "published_at": "2026-08-23T12:02:44+00:00",
+      "summary_raw": "Hundreds of people have been showing up outside a Massachusetts courthouse to show support for Lindsay Clancy, who's on trial after being charged with killing her three children in 2023.",
+      "id": "61c14aff8536"
+    },
+    {
+      "source": "BBC World",
+      "title": "Guinea rubbish landfill collapse kills 30",
+      "link": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-23T18:17:37+00:00",
+      "summary_raw": "A mound of rubbish at a major waste site buried several homes in the capital, the government says.",
+      "id": "699388567372"
+    },
+    {
+      "source": "Science Daily",
+      "title": "The dental crown of the future could be 3D-printed while you wait",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260822015217.htm",
+      "published_at": "2026-08-23T14:36:33+00:00",
+      "summary_raw": "Researchers have found a way to slash the processing time for 3D-printed zirconia crowns from as much as 100 hours to under 30 minutes. The advance could eventually let dentists print strong, customized permanent crowns for patients within a single appointment.",
+      "id": "fc8378fdd920"
+    },
+    {
+      "source": "WRAL Local",
+      "title": "Durham police searching for missing woman",
+      "link": "https://www.wral.com/news/local/durham-police-searching-missing-woman-makayla-jenkins-august-2026/",
+      "published_at": "2026-08-23T16:32:22+00:00",
+      "summary_raw": "30-year-old Makayla Jenkins was last seen Thursday in the 3200 block of North Duke Street, police say.",
+      "id": "c15245faee30"
+    },
+    {
+      "source": "Wired",
+      "title": "The 6 Best Laptop Docking Stations to Unlock the Full Desktop Experience (2026)",
+      "link": "https://www.wired.com/gallery/best-laptop-docking-stations/",
+      "published_at": "2026-08-23T10:37:00+00:00",
+      "summary_raw": "Docking stations expand what your laptop can do, and I’ve been testing the best of the best to see which you should buy.",
+      "id": "1c0eb73f8389"
     },
     {
       "source": "NPR Politics",
@@ -44,43 +196,35 @@
     },
     {
       "source": "BBC World",
-      "title": "Dozens of co-ordinated arson attacks hit southern Thailand",
-      "link": "https://www.bbc.co.uk/news/articles/c8enegx4xy3o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-23T10:22:32+00:00",
-      "summary_raw": "No group has claimed responsibility for the attacks, which the military said \"aimed at creating unrest\".",
-      "id": "625763f27564"
+      "title": "France links sharp rise in drownings to heatwaves",
+      "link": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-23T17:39:33+00:00",
+      "summary_raw": "A government minister says people have been taking risks by going into the water, with 301 deaths since 19 June.",
+      "id": "9a84101931e0"
     },
     {
       "source": "Science Daily",
-      "title": "Black holes keep tearing these stars apart, but they survive",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260822015119.htm",
-      "published_at": "2026-08-23T04:08:52+00:00",
-      "summary_raw": "Astronomers have found stars that repeatedly skim past supermassive black holes, surviving each encounter while producing a new burst of light. In some systems, those flares mysteriously fade with every return. Researchers now think the key may be stars that were already spinning extremely fast before being captured. That rapid rotation could explain both the fading flares and how the stars ended up in such extraordinarily tight black hole orbits.",
-      "id": "dfbdd89a3dfd"
+      "title": "Physicists create a tiny “Big Bang” with surprisingly small atomic nuclei",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260822015143.htm",
+      "published_at": "2026-08-23T13:08:55+00:00",
+      "summary_raw": "Researchers at CERN have created microscopic versions of the early Universe by colliding surprisingly small atomic nuclei at nearly the speed of light. The collisions produced quark-gluon plasma, the ultra-hot matter believed to have filled the cosmos shortly after the Big Bang. Even more intriguingly, the particles left behind reveal the shape of the nuclei that created them, offering a new way to probe both nuclear physics and the Universe’s earliest moments.",
+      "id": "e02102413eaf"
     },
     {
       "source": "WRAL Local",
-      "title": "1 dead from Johnston County crash",
-      "link": "https://www.wral.com/news/local/johnston-county-crash-fatal-pine-level-august-2026/",
-      "published_at": "2026-08-23T02:38:44+00:00",
-      "summary_raw": "One person died in a crash along Davis Mill Road in Johnston County on Saturday night.",
-      "id": "5dff132af75d"
-    },
-    {
-      "source": "WRAL Weather",
-      "title": "Ask the Meteorologist: How much will the upcoming rain help with August's rain deficit?",
-      "link": "https://www.wral.com/weather/ask-the-meteorologist-how-will-rain-help-august-rain-deficit-august-2026/",
-      "published_at": "2026-08-21T12:26:08+00:00",
-      "summary_raw": "We saw lots of rain in July, but we have not seen much rain in August so far. A front is expected to bring some better totals over the next handful of days. Let's break down our expected totals to start the weekend and how much we could see through next week.",
-      "id": "bc5b227ffe56"
+      "title": "Man charged with killing 10-year-old in DWI boat crash expected to enter plea in court",
+      "link": "https://www.wral.com/news/local/man-charged-second-degree-murder-dwi-boat-crash-harris-lake-in-court-august-2026/",
+      "published_at": "2026-08-23T15:42:35+00:00",
+      "summary_raw": "A man accused of driving a boat while impaired and striking two swimmers on Harris Lake in Chatham County in August 2025 is expected in court on Monday.",
+      "id": "826f78ebe824"
     },
     {
       "source": "Wired",
-      "title": "Transistors Changed Everything. Here’s How They Work",
-      "link": "https://www.wired.com/story/transistors-changed-everything-heres-how-they-work/",
-      "published_at": "2026-08-23T11:00:00+00:00",
-      "summary_raw": "How a tiny little electronic switch sparked the computer revolution.",
-      "id": "d644e4102a3a"
+      "title": "7 Basic iPhone Tricks I Built With iOS 27’s Revamped Shortcuts App",
+      "link": "https://www.wired.com/story/7-basic-iphone-tricks-i-built-with-ios-27s-revamped-shortcuts-app/",
+      "published_at": "2026-08-23T09:30:00+00:00",
+      "summary_raw": "From halting my doomscrolls to automating air-quality checks, Apple’s streamlined Shortcuts app is my favorite iOS 27 feature.",
+      "id": "17194dbe91d9"
     },
     {
       "source": "NPR Politics",
@@ -100,50 +244,42 @@
     },
     {
       "source": "BBC World",
-      "title": "Robots compete in boxing, football and sprinting at World Humanoid Games",
-      "link": "https://www.bbc.co.uk/news/videos/c7vgvj6e1emo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-23T09:42:05+00:00",
-      "summary_raw": "The second-edition of the five-day competition kicked off in Beijing, China, on Saturday.",
-      "id": "925fd94aa4da"
+      "title": "Thousands struggling without power in Indiana 12 days after severe storms",
+      "link": "https://www.bbc.co.uk/news/articles/clyly8vdpdwo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-23T15:54:32+00:00",
+      "summary_raw": "In the town of Gary, where a third of residents live in poverty, people say they have been living in \"survival mode\".",
+      "id": "570e01a262d1"
     },
     {
       "source": "Science Daily",
-      "title": "This shark can live 400 years. Its eyes barely seem to age",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260821012232.htm",
-      "published_at": "2026-08-23T03:14:26+00:00",
-      "summary_raw": "Greenland sharks may live for 400 years without suffering the kind of retinal decline normally associated with aging. Researchers found healthy eye tissue and active proteins specially adapted for seeing blue light in the dim Arctic depths. DNA repair mechanisms may help keep their eyes functioning across centuries. The discovery could eventually offer new clues for protecting human vision as we age.",
-      "id": "f122d792ddc7"
+      "title": "A hidden “on switch” in human DNA has finally been decoded",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260823014943.htm",
+      "published_at": "2026-08-23T12:14:40+00:00",
+      "summary_raw": "Researchers have used AI to uncover the DNA signature of a key genetic “switch” involved in turning genes on. After analyzing about 500,000 DNA sequences, the model identified the initiator in roughly 60% of human genes. The breakthrough could help predict the effects of harmful mutations and eventually contribute to decoding the broader genetic instructions that control gene activity throughout the body.",
+      "id": "0eb6287d8227"
     },
     {
       "source": "WRAL Local",
-      "title": "Raleigh leaders outline three-pronged plan to tackle affordable housing shortfall",
-      "link": "https://www.wral.com/news/local/affordable-housing-convention-demand-raleigh-growth-august-2026/",
-      "published_at": "2026-08-23T00:16:36+00:00",
-      "summary_raw": "Raleigh housing leaders say increasing the overall housing supply, expanding affordable options and preventing homelessness are key to keeping up with the city’s rapid growth.",
-      "id": "5a2ecec88b6c"
-    },
-    {
-      "source": "WRAL Weather",
-      "title": "Ask the Meteorologist: How does the humidity make it feel so much hotter?",
-      "link": "https://www.wral.com/weather/ask-the-meteorologist-how-does-humidity-make-it-feel-hotter-august-2026/",
-      "published_at": "2026-08-20T12:42:00+00:00",
-      "summary_raw": "It has been a hotter-than-normal August so far, and it has also been very humid. That humidity makes it feel even hotter. Let's talk about why it makes us feel hotter and how we can stay safe during the heat.",
-      "id": "f329bd051d85"
+      "title": "NASA astronaut Christina Koch returns to NC State this week",
+      "link": "https://www.wral.com/news/local/nasa-astronaut-christina-koch-visits-nc-state-raleigh-august-2026/",
+      "published_at": "2026-08-23T15:02:23+00:00",
+      "summary_raw": "Christina Koch, who became the first woman to leave low Earth orbit and the first woman to travel to and around the moon, will visit N.C. State on Aug. 24-25.",
+      "id": "cba3f4c5a17d"
     },
     {
       "source": "Wired",
-      "title": "The 6 Best Laptop Docking Stations to Unlock the Full Desktop Experience (2026)",
-      "link": "https://www.wired.com/gallery/best-laptop-docking-stations/",
-      "published_at": "2026-08-23T10:37:00+00:00",
-      "summary_raw": "Docking stations expand what your laptop can do, and I’ve been testing the best of the best to see which you should buy.",
-      "id": "1c0eb73f8389"
+      "title": "Is Expensive Bottled Water Actually Better for You?",
+      "link": "https://www.wired.com/story/is-expensive-bottled-water-actually-better-for-you/",
+      "published_at": "2026-08-23T09:00:00+00:00",
+      "summary_raw": "Luxury water can contain different minerals and taste noticeably different. But a remote source, alkaline pH, and high price do not necessarily mean better hydration.",
+      "id": "f1445fc6b21d"
     },
     {
       "source": "NPR Politics",
-      "title": "Hours after U.S. imposes tariffs, Canada says it'll strike back starting Sept. 8",
+      "title": "As Canada readies retaliatory tariffs, Mark Carney says his nation is 'at war' with U.S.",
       "link": "https://www.npr.org/2026/08/22/nx-s1-5941584/us-canada-tariffs",
       "published_at": "2026-08-22T04:36:27+00:00",
-      "summary_raw": "The U.S. has now imposed 50% tariffs on $20 billion worth of Canadian products. Prime Minister Mark Carney says Canada will match those tariffs \"dollar for dollar\" next month.",
+      "summary_raw": "The U.S. has now imposed 50% tariffs on $20 billion worth of Canadian products. Prime Minister Mark Carney says Canada will match those tariffs \"dollar for dollar\" starting Sept. 8.",
       "id": "4b33ff576081"
     },
     {
@@ -156,35 +292,35 @@
     },
     {
       "source": "BBC World",
-      "title": "Zelensky has 'questions to answer' about corruption in his government, sacked minister tells BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-23T09:37:05+00:00",
-      "summary_raw": "The sacked former defence minister has also called for elections to be held in Ukraine.",
-      "id": "a894094accf6"
+      "title": "Kejelcha breaks men's half marathon world record by 29 seconds",
+      "link": "https://www.bbc.co.uk/sport/athletics/articles/c9989lm0vkro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-23T13:35:06+00:00",
+      "summary_raw": "Ethiopia's Yomif Kejelcha breaks the men's half marathon world record in a time of 56 minutes 51 seconds in a World Athletics road race in Buenos Aires.",
+      "id": "3bb6dc9904fb"
     },
     {
       "source": "Science Daily",
-      "title": "Quitting alcohol may prime the brain for relapse",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260822015148.htm",
-      "published_at": "2026-08-23T02:46:26+00:00",
-      "summary_raw": "Mice that developed compulsive drinking after alcohol abstinence showed more than double the activity in a brain region associated with stress and addiction. Because the signal appeared before they drank again, researchers think it could eventually help predict who is most at risk of relapse.",
-      "id": "0ac547235a8b"
+      "title": "Experimental compound helps burn fat without muscle loss",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260823014953.htm",
+      "published_at": "2026-08-23T10:24:17+00:00",
+      "summary_raw": "A decades-old compound may point to a new way of treating obesity by making the body burn more energy rather than simply reducing appetite. In mice, TOFA increased energy use by as much as 18%, reduced body fat without significant muscle loss, and improved blood sugar, triglycerides, and fatty liver disease. It also produced stronger results when combined with GLP-1 drugs such as Ozempic, Wegovy, Mounjaro, and Zepbound.",
+      "id": "1fa6a260fd77"
     },
     {
       "source": "WRAL Local",
-      "title": "Family, friends gather to remember those found dead in Rocky Mount home",
-      "link": "https://www.wral.com/news/local/rocky-mount-funeral-family-found-dead-august-2026/",
-      "published_at": "2026-08-22T21:46:48+00:00",
-      "summary_raw": "Loved ones gathered Saturday to remember a Rocky Mount family found dead after their power was disconnected, as investigators examine whether a generator played a role in their deaths.",
-      "id": "4ebd8e23ab21"
+      "title": "Myrtle Beach woman dies after falling off golf cart",
+      "link": "https://www.wral.com/news/state/myrtle-beach-woman-dies-falling-off-golf-cart-august-2026/",
+      "published_at": "2026-08-23T12:12:30+00:00",
+      "summary_raw": "A woman died after she fell off a golf cart Wednesday night in the Surfside Beach area, WMBF reports.",
+      "id": "a6aa957eb474"
     },
     {
       "source": "Wired",
-      "title": "7 Basic iPhone Tricks I Built With iOS 27’s Revamped Shortcuts App",
-      "link": "https://www.wired.com/story/7-basic-iphone-tricks-i-built-with-ios-27s-revamped-shortcuts-app/",
-      "published_at": "2026-08-23T09:30:00+00:00",
-      "summary_raw": "From halting my doomscrolls to automating air-quality checks, Apple’s streamlined Shortcuts app is my favorite iOS 27 feature.",
-      "id": "17194dbe91d9"
+      "title": "Saily Ultra eSIM Premum Plan Review: Packed With Perks",
+      "link": "https://www.wired.com/review/saily-ultra-esim/",
+      "published_at": "2026-08-22T13:00:00+00:00",
+      "summary_raw": "For uninterrupted service as you country-hop, the Saily Ultra eSIM works well and comes with plentiful perks. It’s pricey though.",
+      "id": "ea44c70f406a"
     },
     {
       "source": "NPR Politics",
@@ -204,35 +340,35 @@
     },
     {
       "source": "BBC World",
-      "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
-      "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-23T05:46:43+00:00",
-      "summary_raw": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war.",
-      "id": "a0acc6e0a51a"
+      "title": "Zelensky should be asked what he knew about government corruption, sacked minister tells BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-23T12:56:43+00:00",
+      "summary_raw": "Mykhailo Fedorov has also called for wartime elections to be held in Ukraine.",
+      "id": "a894094accf6"
     },
     {
       "source": "Science Daily",
-      "title": "Peppermint oil lowers blood pressure in just 20 days",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260821012238.htm",
-      "published_at": "2026-08-22T14:08:04+00:00",
-      "summary_raw": "Peppermint oil may have an unexpected benefit for people with mildly high blood pressure. Adults who took a small dose twice daily for 20 days saw their systolic blood pressure fall by an average of 8.5 mmHg, while a placebo group showed little change. Researchers say the inexpensive oil could eventually provide a simple additional option for managing elevated blood pressure.",
-      "id": "492db266bf38"
+      "title": "Scientists turn tiny “defects” into a 5.5x heat transfer boost",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260823014940.htm",
+      "published_at": "2026-08-23T05:49:40+00:00",
+      "summary_raw": "Scientists have developed an ultrathin coating that could dramatically improve how efficiently heat is transferred during condensation. By turning tiny polymer structures once considered “defects” into places where water droplets can form, then helping those droplets detach quickly, the new surface keeps exposing fresh areas for condensation. In tests on copper tubes, it transferred heat up to 5.5 times more effectively than conventional copper and more than 50% better than a standard water-repelling coating.",
+      "id": "94bc07b49976"
     },
     {
       "source": "WRAL Local",
-      "title": "ALE raids illegal Durham nightclub; six arrests, drugs, guns and alcohol seized",
-      "link": "https://www.wral.com/news/local/ale-raids-illegal-durham-nightclub-six-arrests-august-2026/",
-      "published_at": "2026-08-22T18:06:55+00:00",
-      "summary_raw": "Early Saturday morning, special agents with the North Carolina Law Enforcement Division (ALE) conducted a search warrant of an illegal night club on Dearborn Drive in Durham.",
-      "id": "57a910d90b45"
+      "title": "Truck hits power pole, blocking Raleigh intersection for several hours",
+      "link": "https://www.wral.com/news/local/truck-hits-power-pole-falls-of-neuse-strickland-roads-august-2026/",
+      "published_at": "2026-08-23T11:28:35+00:00",
+      "summary_raw": "A Raleigh intersection is closed Sunday morning after a truck hit a power pole.",
+      "id": "7c684eee0e29"
     },
     {
       "source": "Wired",
-      "title": "Is Expensive Bottled Water Actually Better for You?",
-      "link": "https://www.wired.com/story/is-expensive-bottled-water-actually-better-for-you/",
-      "published_at": "2026-08-23T09:00:00+00:00",
-      "summary_raw": "Luxury water can contain different minerals and taste noticeably different. But a remote source, alkaline pH, and high price do not necessarily mean better hydration.",
-      "id": "f1445fc6b21d"
+      "title": "The 4 Best Monitor Arms to Clear Up Your Desk Space (2026)",
+      "link": "https://www.wired.com/gallery/best-monitor-arms/",
+      "published_at": "2026-08-22T11:01:00+00:00",
+      "summary_raw": "Your desk setup needs a monitor arm, and I’ve been testing every one I can get my hands on to find the best.",
+      "id": "b2a4a0dbd655"
     },
     {
       "source": "NPR Politics",
@@ -252,35 +388,35 @@
     },
     {
       "source": "BBC World",
-      "title": "'We're not going to run from it': Sydney Marathon laughs off medal error",
-      "link": "https://www.bbc.co.uk/news/articles/cn4n4l1yyvro?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-23T03:44:19+00:00",
-      "summary_raw": "Runners will receive a medal at the 2026 Sydney Marathon with an engraving of a German stadium.",
-      "id": "ca9e4360e30e"
+      "title": "DR Congo and M23 rebels agree roadmap for peace talks",
+      "link": "https://www.bbc.co.uk/news/articles/cre4e1q3wewo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-23T12:52:08+00:00",
+      "summary_raw": "Representatives met in Switzerland to work out next steps to resolve the conflict.",
+      "id": "a385b8eb2147"
     },
     {
       "source": "Science Daily",
-      "title": "Exercise may work better for keeping weight off than losing it",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260821012240.htm",
-      "published_at": "2026-08-22T13:55:11+00:00",
-      "summary_raw": "Exercise may not be a powerful weight-loss tool on its own, but it appears to play a much bigger role in preventing lost weight from returning. By preserving muscle, supporting metabolism, improving fat burning, and regulating appetite and blood sugar, regular activity can make long-term weight maintenance easier.",
-      "id": "c088f00f6293"
+      "title": "Cannabis use linked to 37% higher stroke risk in massive study",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260822015215.htm",
+      "published_at": "2026-08-23T05:33:17+00:00",
+      "summary_raw": "A massive analysis involving more than 100 million people has found strong links between recreational drug use and stroke, including among younger adults. Cocaine was associated with nearly double the risk of stroke, amphetamines with more than double the risk, and cannabis with a 37% increase.",
+      "id": "871462a38858"
     },
     {
       "source": "WRAL Local",
-      "title": "Two North Carolina girls abducted in separate towns found safe in Georgia after multi-state search",
-      "link": "https://www.wral.com/news/state/two-north-carolina-girls-abducted-in-seperate-towns-found-safe-in-georgia-august-2026/",
-      "published_at": "2026-08-22T15:54:44+00:00",
-      "summary_raw": "A South Carolina man was found in Georgia with two North Carolina girls whom police said he kidnapped.",
-      "id": "3aab6ddb829b"
+      "title": "Four people shot in downtown Raleigh after fight at club on Fayetteville Street",
+      "link": "https://www.wral.com/news/local/four-people-injured-downtown-raleigh-shooting-fayetteville-street-august-2026/",
+      "published_at": "2026-08-23T11:15:42+00:00",
+      "summary_raw": "Four people were shot overnight at a club in downtown Raleigh, according to police.",
+      "id": "5ca92ecc559f"
     },
     {
       "source": "Wired",
-      "title": "Saily Ultra eSIM Premum Plan Review: Packed With Perks",
-      "link": "https://www.wired.com/review/saily-ultra-esim/",
-      "published_at": "2026-08-22T13:00:00+00:00",
-      "summary_raw": "For uninterrupted service as you country-hop, the Saily Ultra eSIM works well and comes with plentiful perks. It’s pricey though.",
-      "id": "ea44c70f406a"
+      "title": "Set Up a Separate Work Profile on Your Android Phone",
+      "link": "https://www.wired.com/story/set-up-a-separate-work-profile-on-your-android-phone/",
+      "published_at": "2026-08-22T11:00:00+00:00",
+      "summary_raw": "It is possible to achieve your desired work-life balance on your smartphone. Just set up separate accounts using this built-in Android feature.",
+      "id": "14cd379560a0"
     },
     {
       "source": "NPR Politics",
@@ -300,35 +436,35 @@
     },
     {
       "source": "BBC World",
-      "title": "Girl, 17, killed in Swedish sword attack, police say",
-      "link": "https://www.bbc.co.uk/news/articles/c8jnjp0lwlwo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-23T01:34:15+00:00",
-      "summary_raw": "Two boys aged 12 and 17 were also injured, while an 18-year-old suspect has been detained.",
-      "id": "f9702de08a5e"
+      "title": "Wicker Man director's sons complete their late father's film trilogy",
+      "link": "https://www.bbc.co.uk/news/articles/cj36kv62g7yo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-23T12:51:15+00:00",
+      "summary_raw": "The final film in the folk horror trilogy brings closure to the saga as well as its creator's family after more than 50 years.",
+      "id": "3a4861de93a8"
     },
     {
       "source": "Science Daily",
-      "title": "Multilingual people may have brains up to 13 years younger",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260821012226.htm",
-      "published_at": "2026-08-22T13:12:23+00:00",
-      "summary_raw": "People who speak several languages may have brains that age more slowly, with four-language speakers showing brains that appeared about 13 years younger than those of monolinguals. Starting earlier and becoming highly fluent were also linked to a stronger effect.",
-      "id": "fb3144fced0c"
+      "title": "This common vitamin was linked to 13% better cognitive scores",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260822015138.htm",
+      "published_at": "2026-08-23T04:31:43+00:00",
+      "summary_raw": "Older adults with mild cognitive impairment and sleep problems who took at least 5,000 IU of vitamin D daily scored more than 13% higher on a cognitive test than those taking none. The preliminary findings suggest vitamin D could be worth studying as a potentially modifiable factor during an early window of cognitive decline.",
+      "id": "37aba7921908"
     },
     {
       "source": "WRAL Local",
-      "title": "Zarutska's family files lawsuit against city of Charlotte; residents say there's work to do",
-      "link": "https://www.wral.com/news/state/zarutskas-family-sues-charlotte-august-2026/",
-      "published_at": "2026-08-22T12:03:34+00:00",
-      "summary_raw": "One year after Iryna Zarutska was killed on a Charlotte light rail train, her family is seeking broader accountability as transit safety concerns persist across North Carolina.",
-      "id": "6304a21f4d07"
+      "title": "1 dead from Johnston County crash",
+      "link": "https://www.wral.com/news/local/johnston-county-crash-fatal-pine-level-august-2026/",
+      "published_at": "2026-08-23T02:38:44+00:00",
+      "summary_raw": "One person died in a crash along Davis Mill Road in Johnston County on Saturday night.",
+      "id": "5dff132af75d"
     },
     {
       "source": "Wired",
-      "title": "The 4 Best Monitor Arms to Clear Up Your Desk Space (2026)",
-      "link": "https://www.wired.com/gallery/best-monitor-arms/",
-      "published_at": "2026-08-22T11:01:00+00:00",
-      "summary_raw": "Your desk setup needs a monitor arm, and I’ve been testing every one I can get my hands on to find the best.",
-      "id": "b2a4a0dbd655"
+      "title": "The Best Mattress Toppers I've Tried (2026): Supportive, Plush, Memory Foam",
+      "link": "https://www.wired.com/gallery/the-best-mattress-toppers/",
+      "published_at": "2026-08-22T10:32:00+00:00",
+      "summary_raw": "These toppers will transform your mattress into exactly what you need, whether that’s a super-plush pillow top, memory foam, or targeted back support.",
+      "id": "f8e894798d72"
     },
     {
       "source": "NPR Politics",
@@ -348,123 +484,27 @@
     },
     {
       "source": "BBC World",
-      "title": "Trump Mobile promoted a 'Made in the USA' phone - but the details kept changing",
-      "link": "https://www.bbc.co.uk/news/videos/c20eq9ywplqo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-22T23:45:01+00:00",
-      "summary_raw": "BBC Verify tracks the changes in design, spec, manufacture and release date of the T1 phone from Trump Mobile.",
-      "id": "a1515b4a18e9"
+      "title": "Robot boxing, football and sprinting at World Humanoid Games",
+      "link": "https://www.bbc.co.uk/news/videos/c7vgvj6e1emo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-23T12:47:06+00:00",
+      "summary_raw": "The second-edition of the five-day competition kicked off in Beijing, China, on Saturday.",
+      "id": "f228677d76e1"
     },
     {
       "source": "Science Daily",
-      "title": "This frozen fiber makes light and sound interact 1,000x more strongly",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260821012228.htm",
-      "published_at": "2026-08-22T13:02:37+00:00",
-      "summary_raw": "Freezing the liquid core of an optical fiber produced an extreme environment where light and sound interact more than 1,000 times more strongly than in ordinary fibers. Researchers used the effect to create optoacoustic memory, potentially paving the way for lower-energy photonic computers and advanced quantum technologies.",
-      "id": "4c3278931dc2"
+      "title": "Black holes keep tearing these stars apart, but they survive",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260822015119.htm",
+      "published_at": "2026-08-23T04:08:52+00:00",
+      "summary_raw": "Astronomers have found stars that repeatedly skim past supermassive black holes, surviving each encounter while producing a new burst of light. In some systems, those flares mysteriously fade with every return. Researchers now think the key may be stars that were already spinning extremely fast before being captured. That rapid rotation could explain both the fading flares and how the stars ended up in such extraordinarily tight black hole orbits.",
+      "id": "dfbdd89a3dfd"
     },
     {
       "source": "WRAL Local",
-      "title": "5 Housing submarkets in North Carolina cities that smart tech relocations are targeting",
-      "link": "https://www.wral.com/news/local/5-housing-submarkets-north-carolina-cities-smart-tech-relocations-august-2026/",
-      "published_at": "2026-08-22T11:01:01+00:00",
-      "summary_raw": "If you are thinking of relocating to North Carolina, here are 5 emerging neighborhoods perfect to move to.",
-      "id": "02d11797d80b"
-    },
-    {
-      "source": "Wired",
-      "title": "Set Up a Separate Work Profile on Your Android Phone",
-      "link": "https://www.wired.com/story/set-up-a-separate-work-profile-on-your-android-phone/",
-      "published_at": "2026-08-22T11:00:00+00:00",
-      "summary_raw": "It is possible to achieve your desired work-life balance on your smartphone. Just set up separate accounts using this built-in Android feature.",
-      "id": "14cd379560a0"
-    },
-    {
-      "source": "NPR Politics",
-      "title": "So-called 'blue state refugees' have helped turn Florida red",
-      "link": "https://www.npr.org/2026/08/20/nx-s1-5930693/so-called-blue-state-refugees-have-helped-turn-florida-red",
-      "published_at": "2026-08-20T20:05:47+00:00",
-      "summary_raw": "Conservatives who move from Democratic-run places to Republican-led states are often called blue state refugees. These conservatives have helped reshape the electorate in Florida.",
-      "id": "7671f3dca827"
-    },
-    {
-      "source": "NPR National",
-      "title": "President Trump is set to wave the green flag at a historic Indy car race in DC",
-      "link": "https://www.npr.org/2026/08/22/nx-s1-5939439/president-trump-is-set-to-wave-the-green-flag-at-a-historic-indy-car-race-in-dc",
-      "published_at": "2026-08-22T11:43:27+00:00",
-      "summary_raw": "We look at the upcoming IndyCar race in Washington, D.C., this weekend, as well as the U.S. Supreme Court decision on the construction of President Trump's White House ballroom.",
-      "id": "d053999f9ddf"
-    },
-    {
-      "source": "BBC World",
-      "title": "Did a goat herder's lucky $200 nugget spark a gold rush in western Kenya?",
-      "link": "https://www.bbc.co.uk/news/articles/clyjmnvdr95o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-22T23:22:02+00:00",
-      "summary_raw": "Prospectors have come to West Pokot county in the hope a gram of the precious metal can change their lives.",
-      "id": "8321d355bc37"
-    },
-    {
-      "source": "Science Daily",
-      "title": "JWST finds early galaxies may be 4 times more massive than thought",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260822015141.htm",
-      "published_at": "2026-08-22T12:36:23+00:00",
-      "summary_raw": "Astronomers using JWST have discovered that massive early galaxies contain far more small, faint stars than expected. That hidden population could make some of these galaxies three to four times more massive than previous estimates. The finding makes it even harder to explain how enormous, mature galaxies formed so soon after the Big Bang. It could also suggest that planets around low-mass stars were more common in the early universe than scientists realized.",
-      "id": "7ca56668fbd4"
-    },
-    {
-      "source": "WRAL Local",
-      "title": "Woman convicted of killing 2-year-old daughter sentenced to life in prison",
-      "link": "https://www.wral.com/news/local/fayetteville-mother-sentenced-for-2015-murder-of-daughter-august-2026/",
-      "published_at": "2026-08-21T23:34:44+00:00",
-      "summary_raw": "A Cumberland County judge has sentenced Jeanie Ditty to life without the possibility of parole for the 2015 murder of her 2-year-old daughter, Macy Grace Ditty.",
-      "id": "307ff7091d79"
-    },
-    {
-      "source": "Wired",
-      "title": "The Best Mattress Toppers I've Tried (2026): Supportive, Plush, Memory Foam",
-      "link": "https://www.wired.com/gallery/the-best-mattress-toppers/",
-      "published_at": "2026-08-22T10:32:00+00:00",
-      "summary_raw": "These toppers will transform your mattress into exactly what you need, whether that’s a super-plush pillow top, memory foam, or targeted back support.",
-      "id": "f8e894798d72"
-    },
-    {
-      "source": "NPR Politics",
-      "title": "D.C.'s IndyCar race will zoom past museums. Some worry it could harm the art inside",
-      "link": "https://www.npr.org/2026/08/20/nx-s1-5939431/dc-indycar-race-museums-art-vibration",
-      "published_at": "2026-08-20T15:18:21+00:00",
-      "summary_raw": "Sunday's course takes high-speed cars right past the National Gallery of Art and three Smithsonian museums. Art experts worry about the works inside, but organizers say they don't expect damage.",
-      "id": "df49b69c4217"
-    },
-    {
-      "source": "NPR National",
-      "title": "Andrew Jackson's plantation revamps tour as critics push for deeper reform",
-      "link": "https://www.npr.org/2026/08/22/nx-s1-5928178/andrew-jacksons-plantation-revamps-tour-as-critics-push-for-deeper-reform",
-      "published_at": "2026-08-22T11:43:22+00:00",
-      "summary_raw": "The tour of President Andrew Jackson's plantation was revamped this year to focus on the life of the 300 people he enslaved. But some people say more needs to be done for their descendants.",
-      "id": "fe9a3e05c83b"
-    },
-    {
-      "source": "BBC World",
-      "title": "Syria says Israeli strike near Damascus violation of international law",
-      "link": "https://www.bbc.co.uk/news/articles/c2dkdegr2xeo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-22T21:42:42+00:00",
-      "summary_raw": "The latest incident comes days after reports emerged Israel had struck a military airbase close to the Turkish border.",
-      "id": "98bccbe57c7e"
-    },
-    {
-      "source": "Science Daily",
-      "title": "This yeast supplement may boost cancer-fighting immunity",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260821012230.htm",
-      "published_at": "2026-08-22T10:34:22+00:00",
-      "summary_raw": "A simple yeast-based food supplement may help restore the immune system’s ability to fight cancer, according to new research in mice. Scientists found that yeast beta-glucan reprogrammed early immune cells in the bone marrow, leading to stronger, longer-lasting cancer-fighting responses against colorectal, skin, and breast cancer cells.",
-      "id": "f80ff04d3da4"
-    },
-    {
-      "source": "WRAL Local",
-      "title": "Deputies: Three men shot Friday morning in Hoke County",
-      "link": "https://www.wral.com/news/local/three-men-shot-raeford-hoke-county-august-2026/",
-      "published_at": "2026-08-21T21:31:34+00:00",
-      "summary_raw": "The Hoke County Sheriff's Office responded to a shooting around 3:30 a.m. in the 300 block of Haire Road in Raeford. There is no threat to the public, the sheriff's office said.",
-      "id": "6bd594d4bbf6"
+      "title": "Raleigh leaders outline three-pronged plan to tackle affordable housing shortfall",
+      "link": "https://www.wral.com/news/local/affordable-housing-convention-demand-raleigh-growth-august-2026/",
+      "published_at": "2026-08-23T00:16:36+00:00",
+      "summary_raw": "Raleigh housing leaders say increasing the overall housing supply, expanding affordable options and preventing homelessness are key to keeping up with the city’s rapid growth.",
+      "id": "5a2ecec88b6c"
     },
     {
       "source": "Wired",
@@ -475,36 +515,28 @@
       "id": "a344e619e981"
     },
     {
-      "source": "NPR National",
-      "title": "Hours after U.S. imposes tariffs, Canada says it'll strike back starting Sept. 8",
-      "link": "https://www.npr.org/2026/08/22/nx-s1-5941584/us-canada-tariffs",
-      "published_at": "2026-08-22T04:36:27+00:00",
-      "summary_raw": "The U.S. has now imposed 50% tariffs on $20 billion worth of Canadian products. Prime Minister Mark Carney says Canada will match those tariffs \"dollar for dollar\" next month.",
-      "id": "4b33ff576081"
-    },
-    {
       "source": "BBC World",
-      "title": "Carney faces crucial test after walking away from Trump's deal",
-      "link": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-22T20:02:46+00:00",
-      "summary_raw": "The Canadian prime minister will have to sell his gamble that walking away from talks with the White House will be worth the consequences.",
-      "id": "4eec90e252ac"
+      "title": "'New season, new trim' - Haaland reveals buzzcut",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cr4941zkgevo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-23T12:36:54+00:00",
+      "summary_raw": "Manchester City striker Erling Haaland reveals his new buzz cut on social media.",
+      "id": "095d308e1f90"
     },
     {
       "source": "Science Daily",
-      "title": "Queen bees have a disturbing way to survive pesticides",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260821012224.htm",
-      "published_at": "2026-08-22T03:53:17+00:00",
-      "summary_raw": "Honeybee queens exposed to pesticides can shift some of the contamination into their eggs, revealing a previously unknown survival strategy. The process may protect the queen while putting developing offspring, and potentially the entire colony, at risk.",
-      "id": "19eedba525f5"
+      "title": "This shark can live 400 years. Its eyes barely seem to age",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260821012232.htm",
+      "published_at": "2026-08-23T03:14:26+00:00",
+      "summary_raw": "Greenland sharks may live for 400 years without suffering the kind of retinal decline normally associated with aging. Researchers found healthy eye tissue and active proteins specially adapted for seeing blue light in the dim Arctic depths. DNA repair mechanisms may help keep their eyes functioning across centuries. The discovery could eventually offer new clues for protecting human vision as we age.",
+      "id": "f122d792ddc7"
     },
     {
       "source": "WRAL Local",
-      "title": "Fayetteville man in custody after hours long barricade situation",
-      "link": "https://www.wral.com/news/local/fayetteville-man-arrested-barricade-sable-drive-august-2026/",
-      "published_at": "2026-08-21T21:13:59+00:00",
-      "summary_raw": "A man is in custody after Fayetteville police say he barricaded himself inside a home for hours on Sable Drive. He is being held at the Cumberland County Detention Center on no bond.",
-      "id": "9f0acb3b2ff2"
+      "title": "Family, friends gather to remember those found dead in Rocky Mount home",
+      "link": "https://www.wral.com/news/local/rocky-mount-funeral-family-found-dead-august-2026/",
+      "published_at": "2026-08-22T21:46:48+00:00",
+      "summary_raw": "Loved ones gathered Saturday to remember a Rocky Mount family found dead after their power was disconnected, as investigators examine whether a generator played a role in their deaths.",
+      "id": "4ebd8e23ab21"
     },
     {
       "source": "Wired",
@@ -516,27 +548,19 @@
     },
     {
       "source": "BBC World",
-      "title": "The hotel booking mix-up that could free mushroom murderer",
-      "link": "https://www.bbc.co.uk/news/articles/c9w09dj7qk5o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-22T19:03:03+00:00",
-      "summary_raw": "A table tennis tournament and a throat lozenge could help Erin Patterson's lawyers overturn her convictions.",
-      "id": "dca177248e93"
+      "title": "Golf brand apologises for advert that shows woman being pushed over",
+      "link": "https://www.bbc.co.uk/sport/golf/articles/cx2j2g42xq9o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-23T12:25:40+00:00",
+      "summary_raw": "Content creator Good Good apologises and removes an advert that shows a woman being pushed to the ground as she reached for a man's golf club.",
+      "id": "c8ba55def6db"
     },
     {
       "source": "Science Daily",
-      "title": "Tooth count may predict survival after pancreatic cancer surgery",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260821012218.htm",
-      "published_at": "2026-08-22T03:29:38+00:00",
-      "summary_raw": "Pancreatic cancer patients with at least 21 natural teeth survived nearly two years longer after surgery than those with fewer teeth in a study of 339 people. Researchers suspect tooth loss may reflect decades of inflammation, frailty, nutrition, and other factors tied to the body’s overall resilience.",
-      "id": "54c29f83b15f"
-    },
-    {
-      "source": "WRAL Local",
-      "title": "NC Zoo's cougar named Heath dies",
-      "link": "https://www.wral.com/news/local/nc-zoo-cougar-heath-dies-august-2026/",
-      "published_at": "2026-08-21T21:04:13+00:00",
-      "summary_raw": "The 12-year-old cougar suffered from challenges related to chronic kidney disease. He also faced age-related mobility challenges.",
-      "id": "62a9a17d77de"
+      "title": "Quitting alcohol may prime the brain for relapse",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260822015148.htm",
+      "published_at": "2026-08-23T02:46:26+00:00",
+      "summary_raw": "Mice that developed compulsive drinking after alcohol abstinence showed more than double the activity in a brain region associated with stress and addiction. Because the signal appeared before they drank again, researchers think it could eventually help predict who is most at risk of relapse.",
+      "id": "0ac547235a8b"
     },
     {
       "source": "Wired",
@@ -548,19 +572,19 @@
     },
     {
       "source": "BBC World",
-      "title": "Watch: Moment humanoid robot beats Usain Bolt's 100m record",
-      "link": "https://www.bbc.co.uk/news/videos/cgljl9zp47xo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-22T17:02:06+00:00",
-      "summary_raw": "The robot ran the distance in 9.39 seconds at the World Humanoid Robot Games in Beijing.",
-      "id": "5bf985e2d357"
+      "title": "Dozens of co-ordinated arson attacks hit southern Thailand",
+      "link": "https://www.bbc.co.uk/news/articles/c8enegx4xy3o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-23T11:50:59+00:00",
+      "summary_raw": "No group has claimed responsibility for the attacks, which the military said \"aimed at creating unrest\".",
+      "id": "625763f27564"
     },
     {
       "source": "Science Daily",
-      "title": "Archaeologists discover mysterious 400-year-old Indigenous pot in Florida",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260820202902.htm",
-      "published_at": "2026-08-22T02:58:44+00:00",
-      "summary_raw": "A tiny, fully intact Indigenous pot buried for roughly 400 years has left archaeologists wondering why such a usable object was deliberately abandoned. Found at a historic Potano-Timucua village in Florida, the mysterious vessel is helping reveal a complex world of Native traditions, Spanish influence, trade, and migration.",
-      "id": "4f8022fa42bf"
+      "title": "Peppermint oil lowers blood pressure in just 20 days",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260821012238.htm",
+      "published_at": "2026-08-22T14:08:04+00:00",
+      "summary_raw": "Peppermint oil may have an unexpected benefit for people with mildly high blood pressure. Adults who took a small dose twice daily for 20 days saw their systolic blood pressure fall by an average of 8.5 mmHg, while a placebo group showed little change. Researchers say the inexpensive oil could eventually provide a simple additional option for managing elevated blood pressure.",
+      "id": "492db266bf38"
     },
     {
       "source": "Wired",
@@ -572,19 +596,19 @@
     },
     {
       "source": "BBC World",
-      "title": "US military newspaper editor voices censorship fears after being fired",
-      "link": "https://www.bbc.co.uk/news/articles/cm2g23ng8p4o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-22T16:57:19+00:00",
-      "summary_raw": "Erik Slavin believes he was fired for saying in an interview that \"in a hypothetical situation, censorship would be a red line\".",
-      "id": "d6a7765d6889"
+      "title": "Man completes 2,800 mile scoot across Australia",
+      "link": "https://www.bbc.co.uk/news/articles/clylqlkq5e5o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-23T06:01:16+00:00",
+      "summary_raw": "Bob Brown from Saltash has ridden a non-electric scooter from Perth to Sydney.",
+      "id": "f5679ce1b1f8"
     },
     {
       "source": "Science Daily",
-      "title": "This gut microbe may help keep you strong as you age",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260820202904.htm",
-      "published_at": "2026-08-22T02:27:20+00:00",
-      "summary_raw": "Scientists have linked a specific gut bacterium, Roseburia inulinivorans, to stronger muscles in both humans and mice. Older adults who carried it had 29% greater handgrip strength, while treated mice gained about 30% more grip strength and developed larger, more fast-twitch muscle fibers. The bacterium was also less common in older people. Researchers say it could eventually become a probiotic candidate for helping combat age-related muscle loss.",
-      "id": "ead710906d0d"
+      "title": "Exercise may work better for keeping weight off than losing it",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260821012240.htm",
+      "published_at": "2026-08-22T13:55:11+00:00",
+      "summary_raw": "Exercise may not be a powerful weight-loss tool on its own, but it appears to play a much bigger role in preventing lost weight from returning. By preserving muscle, supporting metabolism, improving fat burning, and regulating appetite and blood sugar, regular activity can make long-term weight maintenance easier.",
+      "id": "c088f00f6293"
     },
     {
       "source": "Wired",
@@ -596,19 +620,19 @@
     },
     {
       "source": "BBC World",
-      "title": "Father leaves 7-year-old son alone on Mount Fuji to continue hike",
-      "link": "https://www.bbc.co.uk/news/articles/c93403wg288o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-22T14:35:11+00:00",
-      "summary_raw": "The man had taken his two boys on the trip but is said to have left one behind when he got tired.",
-      "id": "de42fbeb5d19"
+      "title": "'We're not going to run from it': Sydney Marathon laughs off medal error",
+      "link": "https://www.bbc.co.uk/news/articles/cn4n4l1yyvro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-23T03:44:19+00:00",
+      "summary_raw": "Runners will receive a medal at the 2026 Sydney Marathon with an engraving of a German stadium.",
+      "id": "ca9e4360e30e"
     },
     {
       "source": "Science Daily",
-      "title": "3 minutes of sprinting does something 90 minutes of exercise does not",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260821012208.htm",
-      "published_at": "2026-08-21T12:17:36+00:00",
-      "summary_raw": "A few minutes of sprinting may reshape the bloodstream far more dramatically than a much longer moderate workout. Six 30-second sprints altered nearly a quarter of the blood proteins measured and more than 200 metabolites, while 90 minutes of moderate cycling produced far smaller immediate changes. Many of the proteins affected by sprinting were also associated with lower risks of obesity, type 2 diabetes, and other metabolic diseases.",
-      "id": "2ee22e3d5588"
+      "title": "Multilingual people may have brains up to 13 years younger",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260821012226.htm",
+      "published_at": "2026-08-22T13:12:23+00:00",
+      "summary_raw": "People who speak several languages may have brains that age more slowly, with four-language speakers showing brains that appeared about 13 years younger than those of monolinguals. Starting earlier and becoming highly fluent were also linked to a stronger effect.",
+      "id": "fb3144fced0c"
     },
     {
       "source": "Wired",
@@ -617,30 +641,6 @@
       "published_at": "2026-08-21T11:33:00+00:00",
       "summary_raw": "Pack up your pool cleaning supplies. Let one of these robot buddies maintain your water quality instead",
       "id": "4611069d905c"
-    },
-    {
-      "source": "BBC World",
-      "title": "Fourteen killed in strike on Myanmar monastery",
-      "link": "https://www.bbc.co.uk/news/articles/cqlxlvz01z1o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-22T13:48:06+00:00",
-      "summary_raw": "A rescue worker said the site had been struck twice as civilians gathered for a meditation retreat.",
-      "id": "d5ac0d6b4ea2"
-    },
-    {
-      "source": "Science Daily",
-      "title": "Scientists catch a hidden electronic state forming in just 30 femtoseconds",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260820202856.htm",
-      "published_at": "2026-08-21T12:01:30+00:00",
-      "summary_raw": "Scientists watched a light-triggered hidden state form inside a material in only 30 femtoseconds, revealing a step that had never been seen before. The material first entered a fleeting electronic state in which its bonds reorganized in a repeating pattern, followed by tiny atomic shifts. This ultrafast pathway could offer a new way to control electronic properties with light and help inspire faster, more responsive technologies.",
-      "id": "a155182d6d3d"
-    },
-    {
-      "source": "Wired",
-      "title": "Nyrius Phoenix Home True 4K60 (2026): A Solution for Cord Clutter",
-      "link": "https://www.wired.com/review/nyrius-phoenix-home-true-4k60/",
-      "published_at": "2026-08-21T11:00:00+00:00",
-      "summary_raw": "The Nyrius Phoenix Home True 4K60 can wirelessly transmit games, TV shows, movies, and more across your home (even through walls).",
-      "id": "6cdd43be115b"
     }
   ]
 }

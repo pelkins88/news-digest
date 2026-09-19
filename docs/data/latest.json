@@ -1,54 +1,54 @@
 {
   "mode": "raw",
-  "generated_at": "2026-09-18T22:19:15.741915+00:00",
+  "generated_at": "2026-09-19T14:17:42.260760+00:00",
   "items": [
     {
       "source": "WRAL Local",
-      "title": "WRAL Investigates new questions about UNC football players' speeding tickets",
-      "link": "https://www.wral.com/news/local/wral-investigates-new-questions-football-players-speeding-sept-2026/",
-      "published_at": "2026-09-18T20:20:44+00:00",
-      "summary_raw": "3 UNC football players with a history of speeding are listed as \"Out\" this weekend.",
-      "id": "94e6a887a4fb"
+      "title": "11 miles of I-85N in Granville County closed due to crash",
+      "link": "https://www.wral.com/news/local/part-of-i-85-granville-county-closed-september-2026/",
+      "published_at": "2026-09-19T12:17:18+00:00",
+      "summary_raw": "Northbound lanes traveling past Exit 191 are closed in Granville County.",
+      "id": "ba1122601fcd"
     },
     {
       "source": "WRAL Weather",
-      "title": "Ask the Meteorologist: Why has this year's humidity felt worse than most?",
-      "link": "https://www.wral.com/weather/ask-the-meteorologist-summer-humidity-2026/",
-      "published_at": "2026-09-16T08:45:04+00:00",
-      "summary_raw": "Humidity in the summer is a way of life in North Carolina, but this year has been a bit different...even for us.",
-      "id": "f65353edd222"
+      "title": "International Observe the Moon Night offers a reason to look up",
+      "link": "https://www.wral.com/weather/international-observe-the-moon-night-sep-2026/",
+      "published_at": "2026-09-18T22:45:22+00:00",
+      "summary_raw": "International Observe the Moon Night offers a chance to explore the Moon, Saturn and Venus through public events or from home.",
+      "id": "9e2e27f79ed9"
     },
     {
       "source": "Wired",
-      "title": "Apple Watch Ultra 4 Review: The Series 12 Is Closing the Gap",
-      "link": "https://www.wired.com/review/apple-watch-ultra-4/",
-      "published_at": "2026-09-18T19:36:48+00:00",
-      "summary_raw": "The Ultra 4 gets smarter about health tracking and lasts longer between charges. But for most people, the Series 12 gets close enough.",
-      "id": "437405de3364"
+      "title": "Forget the AI Slowdown—the Vulnerability Explosion Is Already Happening",
+      "link": "https://www.wired.com/story/kernel-panic-ai-vulnerability-explosion/",
+      "published_at": "2026-09-19T11:00:00+00:00",
+      "summary_raw": "AI labs are toying with an industry-wide pact to slow development. Meanwhile, widely available AI chatbots are already helping uncover a tidal wave of security flaws.",
+      "id": "9c388f77f8d9"
     },
     {
       "source": "NPR Politics",
-      "title": "Nebraska voters say their income is not keeping up with their rent",
-      "link": "https://www.npr.org/2026/09/18/nx-s1-5970024/nebraska-voters-say-their-income-is-not-keeping-up-with-their-rent",
-      "published_at": "2026-09-18T21:27:42+00:00",
-      "summary_raw": "When it comes to housing, what's considered affordable all depends on how much you make. This could matter in a state that is home to a key Congressional race this election season.",
-      "id": "8c5df57d2fdd"
+      "title": "Week in Politics: Trump bans news outlets; Iran War; mail-in voting; interest rates",
+      "link": "https://www.npr.org/2026/09/19/nx-s1-5973250/week-in-politics-trump-bans-news-outlets-iran-war-mail-in-voting-interest-rates",
+      "published_at": "2026-09-19T11:46:46+00:00",
+      "summary_raw": "The Trump administration was frustrated both home and abroad this week.",
+      "id": "8439d79bf9f1"
     },
     {
       "source": "NPR National",
-      "title": "Alaska's salmon-feasting bears face off in biggest Fat Bear Week ever",
-      "link": "https://www.npr.org/2026/09/18/nx-s1-5973938/fat-bear-week-2026-bracket",
-      "published_at": "2026-09-18T21:13:14+00:00",
-      "summary_raw": "This year's single-elimination tournament will see 16 competitors face off, compared to 12 in past years. Officials report more cubs in Katmai National Park than they've seen in recent memory.",
-      "id": "d04a39ccc35c"
+      "title": "Tax relief or public danger? Florida voters weigh tax cuts against firefighter funding",
+      "link": "https://www.npr.org/2026/09/19/nx-s1-5947199/tax-relief-or-public-danger-florida-voters-weigh-tax-cuts-against-firefighter-funding",
+      "published_at": "2026-09-19T11:40:39+00:00",
+      "summary_raw": "Florida voters may end most residential property taxes - a step considered in other states. Local firefighters worry what it will do to their response times - and other officials are sounding alarms.",
+      "id": "84a5932e83a1"
     },
     {
       "source": "BBC World",
-      "title": "US and Denmark reach deal over Greenland's security",
-      "link": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-18T22:10:24+00:00",
-      "summary_raw": "Trump said the agreement will give the US \"permanent control over security, and all other needs, in Greenland\", though specifics haven't been confirmed by Danish officials.",
-      "id": "8b1912a6f8dd"
+      "title": "Google's Gemini AI hacked three companies in security test",
+      "link": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-19T13:39:32+00:00",
+      "summary_raw": "The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC.",
+      "id": "f96dcef14008"
     },
     {
       "source": "Science Daily",
@@ -60,19 +60,19 @@
     },
     {
       "source": "WRAL Local",
-      "title": "NC regulators deny Duke Energy’s $584 million gas turbine proposal near Amazon data center",
-      "link": "https://www.wral.com/news/state/duke-energy-gas-turbine-amazon-data-center-september-2026/",
-      "published_at": "2026-09-18T20:10:58+00:00",
-      "summary_raw": "NC regulators denied Duke Energy’s $584 million gas turbine proposal near Hamlet, citing unanswered questions about data center demand and who would pay for the project.",
-      "id": "5c05c138e89c"
+      "title": "Car crashes into pole, 700+ without power; driver and passenger have serious injuries",
+      "link": "https://www.wral.com/news/local/car-crashes-pole-700-without-power-serious-injuries-september-2026/",
+      "published_at": "2026-09-19T11:21:27+00:00",
+      "summary_raw": "Shortly after 10 p.m., a car ran into a power pole, and the driver was trapped inside. This happened near the Johnston County Airport on US-70 Business near Smithfield.",
+      "id": "01d7e27d6623"
     },
     {
       "source": "Wired",
-      "title": "Here’s How an AI Slowdown Could Actually Be Enforced",
-      "link": "https://www.wired.com/story/heres-how-an-ai-slowdown-could-actually-work/",
-      "published_at": "2026-09-18T19:21:09+00:00",
-      "summary_raw": "Even if big AI companies agree to a pause, ensuring that nobody tries to sneak ahead could prove tricky.",
-      "id": "2c5e0ba37657"
+      "title": "Tired of Cluttered Productivity Apps? This One’s Just a Text Document",
+      "link": "https://www.wired.com/story/productivity-app-tasks-txt-is-just-a-text-document/",
+      "published_at": "2026-09-19T10:30:00+00:00",
+      "summary_raw": "The totally free macOS app Tasks.txt makes up for missing features with sheer elegance.",
+      "id": "b506ea90f5f4"
     },
     {
       "source": "NPR Politics",
@@ -84,19 +84,19 @@
     },
     {
       "source": "NPR National",
-      "title": "Trump says he is banning CNN, MS NOW and Politico from the White House",
-      "link": "https://www.npr.org/2026/09/18/g-s1-144112/trump-ban-cnn-msnow-politico-white-house-media",
-      "published_at": "2026-09-18T20:15:53+00:00",
-      "summary_raw": "The president chalked the ban up to what he called unfavorable coverage, and he threatened that bans on other media companies could be coming.",
-      "id": "9437d06e1bd2"
+      "title": "Alaska's salmon-feasting bears face off in biggest Fat Bear Week ever",
+      "link": "https://www.npr.org/2026/09/18/nx-s1-5973938/fat-bear-week-2026-bracket",
+      "published_at": "2026-09-18T21:13:14+00:00",
+      "summary_raw": "This year's single-elimination tournament will see 16 competitors face off, compared to 12 in past years. Officials report more cubs in Katmai National Park than they've seen in recent memory.",
+      "id": "d04a39ccc35c"
     },
     {
       "source": "BBC World",
-      "title": "Trump says he is banning CNN and Politico from White House",
-      "link": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-18T21:45:19+00:00",
-      "summary_raw": "The US president has had a tense and fiery relationship with the US media throughout his political career.",
-      "id": "08ba38c0ece5"
+      "title": "'Enough is enough': Women protest after string of murders near Johannesburg",
+      "link": "https://www.bbc.co.uk/news/videos/cm4gjxq1dx2eo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-19T11:50:50+00:00",
+      "summary_raw": "The police have since set up a task team to investigate the murders and have urged women in the Kempton Park area to avoid walking or running alone \"particularly in isolated areas\".",
+      "id": "635172f992e1"
     },
     {
       "source": "Science Daily",
@@ -108,19 +108,19 @@
     },
     {
       "source": "WRAL Local",
-      "title": "2023 UNC shooting suspect found not guilty by reason of insanity",
-      "link": "https://www.wral.com/news/local/unc-shooter-2023-suspect-mental-health-hearing-september-2026/",
-      "published_at": "2026-09-18T19:30:34+00:00",
-      "summary_raw": "A judge ruled Friday that Tailei Qi is not guilty by reason of insanity in the death of UNC-Chapel Hill professor Zijie Yan, who was shot on campus in August 2023.",
-      "id": "0271d8aa83a9"
+      "title": "Boil Water Advisory issued for Salemburg",
+      "link": "https://www.wral.com/news/local/boil-water-advisory-salemburg-september-2026/",
+      "published_at": "2026-09-19T10:55:17+00:00",
+      "summary_raw": "This is a precautionary measure due to a fluctuation in water pressure. The advisory was issued at 9 p.m. Friday",
+      "id": "c9ce5b73496c"
     },
     {
       "source": "Wired",
-      "title": "An Undercover Google Analyst Infiltrated a Notorious Supply-Chain Hacking Gang",
-      "link": "https://www.wired.com/story/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/",
-      "published_at": "2026-09-18T16:00:00+00:00",
-      "summary_raw": "TeamPCP pulled off the worst-ever software supply-chain hacking spree and breached thousands of companies. Now Google’s threat intelligence group says it had a mole inside the hackers’ inner circle.",
-      "id": "2abbcb40841a"
+      "title": "Samsung Galaxy Watch9 Review: I Don’t Need Another Health Score",
+      "link": "https://www.wired.com/review/samsung-galaxy-watch9/",
+      "published_at": "2026-09-19T10:08:00+00:00",
+      "summary_raw": "Samsung’s latest smartwatch offers useful health tracking alongside a growing pile of metrics you may never use.",
+      "id": "824867a8dd29"
     },
     {
       "source": "NPR Politics",
@@ -132,19 +132,19 @@
     },
     {
       "source": "NPR National",
-      "title": "Ms. Rachel has entered her album era, and she is so happy about it",
-      "link": "https://www.npr.org/2026/09/18/nx-s1-5938847/ms-rachel-mr-aron-new-album-im-so-happy",
-      "published_at": "2026-09-18T11:00:00+00:00",
-      "summary_raw": "Ms. Rachel has conquered YouTube, Netflix and the toy aisle. Now she's making an album, with real instruments, big feelings and her littlest listeners in mind.",
-      "id": "f78823bab269"
+      "title": "Trump says he is banning CNN, MS NOW and Politico from the White House",
+      "link": "https://www.npr.org/2026/09/18/g-s1-144112/trump-ban-cnn-msnow-politico-white-house-media",
+      "published_at": "2026-09-18T20:15:53+00:00",
+      "summary_raw": "The president chalked the ban up to what he called unfavorable coverage, and he threatened that bans on other media companies could be coming.",
+      "id": "9437d06e1bd2"
     },
     {
       "source": "BBC World",
-      "title": "Watch: Trump says ban on some news outlets is 'because they're fake news'",
-      "link": "https://www.bbc.co.uk/news/videos/cm93e7p1wkndo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-18T20:35:03+00:00",
-      "summary_raw": "The US president on Friday announced he is \"immediately\" banning CNN, MS NOW and Politico from the White House.",
-      "id": "2c9bcc062ae8"
+      "title": "Shark attack prompts rare kill order in Western Australia as victim named",
+      "link": "https://www.bbc.co.uk/news/articles/cqwyzdnk442lo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-19T11:50:22+00:00",
+      "summary_raw": "Greg O'Neill \"loved the ocean\", his family say, as police boats and helicopters patrol Perth's beaches in search of his body and the shark that attacked him.",
+      "id": "315041439d17"
     },
     {
       "source": "Science Daily",
@@ -156,19 +156,67 @@
     },
     {
       "source": "WRAL Local",
-      "title": "Deputy who died in Thanksgiving Day accident honored with bridge dedication",
-      "link": "https://www.wral.com/news/local/nash-county-deputy-honored-with-bridge-dedication-sept-2026/",
-      "published_at": "2026-09-18T19:07:43+00:00",
-      "summary_raw": "Nash County Deputy Jared Allison died at 26 in a Thanksgiving Day car accident in 2020. Friday, the community and law enforcement gathered for a bridge dedication in his honor.",
-      "id": "66a14a1892d0"
+      "title": "Panther Creek and Green Level meet for annual game promoting mental health awareness",
+      "link": "https://www.wral.com/news/local/panther-creek-green-level-game-promoting-mental-health-awareness-september-2026/",
+      "published_at": "2026-09-19T02:57:39+00:00",
+      "summary_raw": "Panther Creek and Green Level High Schools held their third annual Mental Health Awareness game. Players wore \"Live for More\" shirts during warm-ups, while the National Alliance on Mental Illness (NAMI) shared mental health information and resources with students and families.",
+      "id": "e58642d9650c"
     },
     {
       "source": "Wired",
-      "title": "AI PACs Have Dumped Nearly $1 Million Into an Obscure Senate Race",
-      "link": "https://www.wired.com/story/ai-pacs-have-dumped-nearly-1-million-into-an-obscure-senate-race/",
-      "published_at": "2026-09-18T15:00:08+00:00",
-      "summary_raw": "The reliably Republican South Dakota senate seat has an incumbent on the ballot. But PACs associated with AI labs and investors have already spent more money on the race than actual residents have.",
-      "id": "4c6dbf59e36e"
+      "title": "An Editor’s Picks: The Best Gifts for Bird Lovers",
+      "link": "https://www.wired.com/story/best-gifts-for-bird-lovers-2026/",
+      "published_at": "2026-09-19T10:00:00+00:00",
+      "summary_raw": "Whether they’re into feeders, field guides, or games, these tried-and-tested picks are sure to land perfectly.",
+      "id": "98cd1513dd4a"
+    },
+    {
+      "source": "NPR Politics",
+      "title": "Republican 'cavalry' arrives with a Trump-backed $150 million ad blitz in key races",
+      "link": "https://www.npr.org/2026/09/18/nx-s1-5971202/trump-super-pac-midterm-spending-republicans-democrats",
+      "published_at": "2026-09-18T09:00:00+00:00",
+      "summary_raw": "To counter a difficult political environment, two Trump-aligned super PACs have reserved more than $150 million in ads — primarily in deep red House and Senate races that have now become competitive.",
+      "id": "e3f5007881c6"
+    },
+    {
+      "source": "NPR National",
+      "title": "Ms. Rachel has entered her album era, and she is so happy about it",
+      "link": "https://www.npr.org/2026/09/18/nx-s1-5938847/ms-rachel-mr-aron-new-album-im-so-happy",
+      "published_at": "2026-09-18T11:00:00+00:00",
+      "summary_raw": "Ms. Rachel has conquered YouTube, Netflix and the toy aisle. Now she's making an album, with real instruments, big feelings and her littlest listeners in mind.",
+      "id": "f78823bab269"
+    },
+    {
+      "source": "BBC World",
+      "title": "US and Denmark reach deal over Greenland after Trump annexation threats",
+      "link": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-19T11:36:55+00:00",
+      "summary_raw": "Denmark and Greenland have welcomed the deal, which Trump claims will give the US \"permanent control over security and all other needs\" in the Danish territory.",
+      "id": "8b1912a6f8dd"
+    },
+    {
+      "source": "Science Daily",
+      "title": "NASA’s Roman Space Telescope could last more than twice as long as planned",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260918024802.htm",
+      "published_at": "2026-09-18T11:31:56+00:00",
+      "summary_raw": "NASA’s Roman Space Telescope may now have enough fuel for at least 22 years of science, more than double its original 10 year design life. An extremely precise course correction, extra fuel at launch, and additional expected savings could keep the powerful observatory studying the universe for decades.",
+      "id": "11b7cff9640b"
+    },
+    {
+      "source": "WRAL Local",
+      "title": "'He wanted to be a real action figure': Apex soldier killed during training in Texas",
+      "link": "https://www.wral.com/news/local/real-action-figure-apex-soldier-killed-in-training-fort-hood-september-2026/",
+      "published_at": "2026-09-19T01:49:07+00:00",
+      "summary_raw": "The Apex soldier has been identified as the man who died in a vehicle rollover while training on Monday at Fort Hood in Texas.",
+      "id": "496a23fe8719"
+    },
+    {
+      "source": "Wired",
+      "title": "Mathematicians Hate AI. They Can’t Quit It",
+      "link": "https://www.wired.com/story/mathematicians-cant-quit-ai/",
+      "published_at": "2026-09-19T10:00:00+00:00",
+      "summary_raw": "Powerful AI models have created an existential risk to the field, but researchers can’t stop relying on them because they’re too useful.",
+      "id": "034b99fb57c5"
     },
     {
       "source": "NPR Politics",
@@ -188,59 +236,11 @@
     },
     {
       "source": "BBC World",
-      "title": "At least 21 killed after vehicle loaded with explosives rams Pakistan mosque",
-      "link": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-18T20:17:50+00:00",
-      "summary_raw": "A four-year-old child is among those killed in the attack, during which gunmen also opened fire on a police facility.",
-      "id": "14d62504dc05"
-    },
-    {
-      "source": "Science Daily",
-      "title": "NASA’s Roman Space Telescope could last more than twice as long as planned",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260918024802.htm",
-      "published_at": "2026-09-18T11:31:56+00:00",
-      "summary_raw": "NASA’s Roman Space Telescope may now have enough fuel for at least 22 years of science, more than double its original 10 year design life. An extremely precise course correction, extra fuel at launch, and additional expected savings could keep the powerful observatory studying the universe for decades.",
-      "id": "11b7cff9640b"
-    },
-    {
-      "source": "WRAL Local",
-      "title": "I-40 East reopens after crash near RDU Airport",
-      "link": "https://www.wral.com/news/local/i-40-closure-crash-rdu-september-2026/",
-      "published_at": "2026-09-18T18:19:17+00:00",
-      "summary_raw": "Interstate 40's eastbound lanes were closed after a crash near Raleigh-Durham International Airport on Friday afternoon.",
-      "id": "3c6359d21e75"
-    },
-    {
-      "source": "Wired",
-      "title": "If the AI Industry Followed Its Own Research, It Might Have Paused Already",
-      "link": "https://www.wired.com/story/if-the-ai-industry-followed-its-own-research-it-might-have-paused-already/",
-      "published_at": "2026-09-18T15:00:00+00:00",
-      "summary_raw": "Anthropic’s CEO says that safety hinges on understanding how AI “thinks.” So far the evidence is disturbing.",
-      "id": "d09a6fe6e55b"
-    },
-    {
-      "source": "NPR Politics",
-      "title": "Republican 'cavalry' arrives with a Trump-backed $150 million ad blitz in key races",
-      "link": "https://www.npr.org/2026/09/18/nx-s1-5971202/trump-super-pac-midterm-spending-republicans-democrats",
-      "published_at": "2026-09-18T09:00:00+00:00",
-      "summary_raw": "To counter a difficult political environment, two Trump-aligned super PACs have reserved more than $150 million in ads — primarily in deep red House and Senate races that have now become competitive.",
-      "id": "e3f5007881c6"
-    },
-    {
-      "source": "NPR National",
-      "title": "How Google is drafting AI chatbot laws around the country",
-      "link": "https://www.npr.org/2026/09/18/nx-s1-5968878/ai-chatbots-safety-regulation-google",
-      "published_at": "2026-09-18T09:00:00+00:00",
-      "summary_raw": "As states push to regulate chatbots, tech companies are trying to write safety rules in ways that exempt some of their key products.",
-      "id": "7e48a0c302f2"
-    },
-    {
-      "source": "BBC World",
-      "title": "Is the Kennedy Center losing 'hundreds of millions of dollars'?",
-      "link": "https://www.bbc.co.uk/news/videos/cqy4zw4xr717o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-18T18:56:17+00:00",
-      "summary_raw": "Records in 2024 show the venue had a surplus of millions of dollars once contributions and grants had been factored in.",
-      "id": "b34bad49f2c5"
+      "title": "Millions without power as Cuba hit by latest major blackout",
+      "link": "https://www.bbc.co.uk/news/articles/c6j9x4387lzxo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-19T10:27:37+00:00",
+      "summary_raw": "Widespread power outages have become increasingly common due to fuel shortages made worse by a US blockade.",
+      "id": "84ec699243cc"
     },
     {
       "source": "Science Daily",
@@ -252,19 +252,19 @@
     },
     {
       "source": "WRAL Local",
-      "title": "‘Time to get to work’: Durham swears in new police chief Stephanie Mardis",
-      "link": "https://www.wral.com/news/local/stephanie-mardis-sworn-in-durham-police-chief-september-2026/",
-      "published_at": "2026-09-18T17:14:43+00:00",
-      "summary_raw": "Durham Police Chief Stephanie Mardis was sworn in Friday morning. Dozens of friends, family, and law enforcement leadership from the Triangle and the Triad gathered at the Durham Performing Arts Center for the ceremony.",
-      "id": "dc4a0998e9fe"
+      "title": "Armed person shot, killed by CMPD officer in north Charlotte",
+      "link": "https://www.wral.com/news/state/charlotte-police-officer-shoots-kills-person-sept-2026/",
+      "published_at": "2026-09-19T00:34:04+00:00",
+      "summary_raw": "The shooting happened near the intersection of LaSalle Street and Newland Road.",
+      "id": "69c65e736e81"
     },
     {
       "source": "Wired",
-      "title": "Adopt This Data Center Plushie and Hear Its Piercing Scream",
-      "link": "https://www.wired.com/story/adopt-this-data-center-plushie-and-hear-its-piercing-scream/",
-      "published_at": "2026-09-18T13:30:00+00:00",
-      "summary_raw": "The satirical collaboration between a creative studio and the music producer behind Big Data, “Bezzy” is a cute little doll that spews the sounds of real data centers.",
-      "id": "f001c90d4c0a"
+      "title": "The Best Early Prime Day Deals Ahead of Amazon’s Second Sale (2026)",
+      "link": "https://www.wired.com/story/amazon-prime-day-early-deals-09-29-2026/",
+      "published_at": "2026-09-19T09:39:00+00:00",
+      "summary_raw": "Amazon Prime Big Deal Days officially begin on October 6 and 7, but I’ve already spotted early discounts on gear our team recommends.",
+      "id": "232eab8d8ac6"
     },
     {
       "source": "NPR Politics",
@@ -276,19 +276,19 @@
     },
     {
       "source": "NPR National",
-      "title": "Army medics being trained to treat wounded military dogs despite supply challenges",
-      "link": "https://www.npr.org/2026/09/18/nx-s1-5971152/army-medics-being-trained-to-treat-wounded-military-dogs-despite-supply-challenges",
-      "published_at": "2026-09-18T08:45:04+00:00",
-      "summary_raw": "The nature of modern warfare doesn't just mean challenges for treating human casualties. The Army is also training medics to better treat wounded military dogs on the frontlines.",
-      "id": "dc22761c697b"
+      "title": "How Google is drafting AI chatbot laws around the country",
+      "link": "https://www.npr.org/2026/09/18/nx-s1-5968878/ai-chatbots-safety-regulation-google",
+      "published_at": "2026-09-18T09:00:00+00:00",
+      "summary_raw": "As states push to regulate chatbots, tech companies are trying to write safety rules in ways that exempt some of their key products.",
+      "id": "7e48a0c302f2"
     },
     {
       "source": "BBC World",
-      "title": "Russian hybrid attacks against Europe intensifying, says Macron",
-      "link": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-18T18:04:38+00:00",
-      "summary_raw": "The French president says he has tasked the government with protecting critical infrastructure and defence industry sites.",
-      "id": "ec5a8ef7b2b4"
+      "title": "Trump says he is banning CNN and Politico from White House",
+      "link": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-19T05:36:36+00:00",
+      "summary_raw": "The US president has had a tense and fiery relationship with the US media throughout his political career.",
+      "id": "08ba38c0ece5"
     },
     {
       "source": "Science Daily",
@@ -300,19 +300,19 @@
     },
     {
       "source": "WRAL Local",
-      "title": "No charges to be filed against Johnston Co. deputies in man's shooting death during crisis call",
-      "link": "https://www.wral.com/news/local/no-charges-against-johnston-county-deputies-antony-richardson-shooting-september-2026/",
-      "published_at": "2026-09-18T16:20:39+00:00",
-      "summary_raw": "The DA's office said it will not pursue charges against the now-former deputy who shot and killed Antony Richardson or other deputies who responded. Richardson's wife said he had been experiencing a PTSD episode at the time.",
-      "id": "fe4a9211bbc4"
+      "title": "Vice President JD Vance to speak at midterm rally in Greensboro",
+      "link": "https://www.wral.com/news/state/vice-president-jd-vance-speaks-greensboro-rally-sept-2026/",
+      "published_at": "2026-09-19T00:02:49+00:00",
+      "summary_raw": "The vice president is scheduled to speak at a rally, hosted by the Trump 47 Committee, on Monday. The last time he visited Greensboro was in 2024.",
+      "id": "4ca70991e385"
     },
     {
       "source": "Wired",
-      "title": "Meta’s Copyright System Is Being Weaponized Against Albanian Protesters",
-      "link": "https://www.wired.com/story/metas-copyright-system-is-being-weaponized-against-albanian-protesters/",
-      "published_at": "2026-09-18T13:00:00+00:00",
-      "summary_raw": "After three months of daily anti-government protests—dubbed the Flamingo Revolution—the sudden mass suspension of Instagram accounts has led to fears of brigading against demonstrators.",
-      "id": "3368c7dae37d"
+      "title": "Residents Harmed by Oil Drilling May Soon Receive Reparations Under New California Law",
+      "link": "https://www.wired.com/story/residents-harmed-by-oil-drilling-may-soon-receive-reparations-under-new-california-law/",
+      "published_at": "2026-09-19T09:30:00+00:00",
+      "summary_raw": "While lawmakers iron out the details, advocates hope this approach could serve as a model for addressing histories of environmental hazards often concentrated in Black and low-income neighborhoods.",
+      "id": "35f8be46737f"
     },
     {
       "source": "NPR Politics",
@@ -324,19 +324,19 @@
     },
     {
       "source": "NPR National",
-      "title": "Couple shares how chance encounter brought them together after meeting online",
-      "link": "https://www.npr.org/2026/09/18/nx-s1-5971450/couple-shares-how-chance-encounter-brought-them-together-after-meeting-online",
-      "published_at": "2026-09-18T08:44:14+00:00",
-      "summary_raw": "A couple, now married, tell the story of how they met online and then crossed paths in an unexpected place.",
-      "id": "1ab19d875873"
+      "title": "Army medics being trained to treat wounded military dogs despite supply challenges",
+      "link": "https://www.npr.org/2026/09/18/nx-s1-5971152/army-medics-being-trained-to-treat-wounded-military-dogs-despite-supply-challenges",
+      "published_at": "2026-09-18T08:45:04+00:00",
+      "summary_raw": "The nature of modern warfare doesn't just mean challenges for treating human casualties. The Army is also training medics to better treat wounded military dogs on the frontlines.",
+      "id": "dc22761c697b"
     },
     {
       "source": "BBC World",
-      "title": "'We simply don't know' - JP Morgan struggling to forecast oil prices due to Trump's war with Iran",
-      "link": "https://www.bbc.co.uk/news/articles/cq0m3gmv8n7ko?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-18T17:57:30+00:00",
-      "summary_raw": "The bank said it \"assumed\" there would be economic red lines, like oil at $100 a barrel, that the US would be unwilling the cross.",
-      "id": "945808c65059"
+      "title": "Saudi Arabia issues first air raid alerts for Riyadh since Houthis escalated attacks",
+      "link": "https://www.bbc.co.uk/news/articles/cmed7el18dxpo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-19T04:20:47+00:00",
+      "summary_raw": "Residents later received the all-clear after explosions were reported in the capital.",
+      "id": "b858f059f1b7"
     },
     {
       "source": "Science Daily",
@@ -348,19 +348,19 @@
     },
     {
       "source": "WRAL Local",
-      "title": "Carrboro police searching for woman accused in overnight stabbing",
-      "link": "https://www.wral.com/news/local/carrboro-police-search-woman-overnight-stabbing-september-2026/",
-      "published_at": "2026-09-18T15:40:59+00:00",
-      "summary_raw": "Carrboro police are searching for a woman they believe is connected to an overnight stabbing.",
-      "id": "7d108d0c2151"
+      "title": "Tractor-trailer driver pleads guilty for role in deadly 2024 Wilson County crash along I-95",
+      "link": "https://www.wral.com/news/local/tractor-trailer-driver-pleads-guilty-role-fiery-deadly-wilson-county-crash-along-i-95-september-2026/",
+      "published_at": "2026-09-18T22:21:51+00:00",
+      "summary_raw": "The man behind the wheel of a tractor-trailer that crashed and killed five people in 2024 along I-95 in Wilson County pleaded guilty on Friday to charges stemming from the crash.",
+      "id": "cd4293c9302f"
     },
     {
       "source": "Wired",
-      "title": "Best Gifts for Mom (2026): E-Readers, Digital Wall Calendar, Smart Bird Feeders",
-      "link": "https://www.wired.com/story/best-gifts-for-moms-2026/",
-      "published_at": "2026-09-18T11:07:00+00:00",
-      "summary_raw": "From a calendar that keeps my family organized to a frame that rescues photos from my camera roll, these favorites make thoughtful gifts.",
-      "id": "204dd5d5e936"
+      "title": "6 Best VPN Services (2026), Tested and Reviewed",
+      "link": "https://www.wired.com/gallery/best-vpn/",
+      "published_at": "2026-09-19T09:00:00+00:00",
+      "summary_raw": "Every VPN says it’s the best, but only some of them are telling the truth.",
+      "id": "c0276b1ea5b3"
     },
     {
       "source": "NPR Politics",
@@ -372,19 +372,19 @@
     },
     {
       "source": "NPR National",
-      "title": "Poland's prime minister warns of Russian 'accidental' attacks on Ukraine's allies",
-      "link": "https://www.npr.org/2026/09/18/nx-s1-5973265/poland-nato-russia",
-      "published_at": "2026-09-18T08:44:08+00:00",
-      "summary_raw": "Polish Prime Minister Donald Tusk said that these potential strikes \"intend to paralyze NATO\" in an attempt to demonstrate that Article 5 \"exists only in theory.\"",
-      "id": "c4199e0c2a5a"
+      "title": "Couple shares how chance encounter brought them together after meeting online",
+      "link": "https://www.npr.org/2026/09/18/nx-s1-5971450/couple-shares-how-chance-encounter-brought-them-together-after-meeting-online",
+      "published_at": "2026-09-18T08:44:14+00:00",
+      "summary_raw": "A couple, now married, tell the story of how they met online and then crossed paths in an unexpected place.",
+      "id": "1ab19d875873"
     },
     {
       "source": "BBC World",
-      "title": "North Korean anthem played for South Korea at Asian Games",
-      "link": "https://www.bbc.co.uk/sport/hockey/articles/cmx2zg85gq03o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-18T17:18:09+00:00",
-      "summary_raw": "Organisers have apologised for playing the North Korean national anthem for the South Korean men's hockey team at the Asian Games in Japan.",
-      "id": "f0a0642ee7c0"
+      "title": "Kerry Kennedy: 'It would be a tragedy' if Kennedy Center is demolished",
+      "link": "https://www.bbc.co.uk/news/videos/cv8e3jw1kr4lo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-19T00:03:53+00:00",
+      "summary_raw": "The BBC’s Caitríona Perry spoke to the late president's niece, as protesters gathered at the venue to condemn demolition threats.",
+      "id": "6bbd0393bc8d"
     },
     {
       "source": "Science Daily",
@@ -396,19 +396,19 @@
     },
     {
       "source": "WRAL Local",
-      "title": "Durham's new police chief formally sworn in on Friday morning",
-      "link": "https://www.wral.com/news/local/durham-police-chief-swearing-in-september-2026/",
-      "published_at": "2026-09-18T10:28:03+00:00",
-      "summary_raw": "Chief Stephanie Mardis was formerly the assistant chief for the Greensboro Police Department and took office earlier this month. In an interview with WRAL News, she said her priority is to collaborate with the community to reduce violence.",
-      "id": "7d0c074bf606"
+      "title": "WRAL Investigates new questions about UNC football players' speeding tickets",
+      "link": "https://www.wral.com/news/local/wral-investigates-new-questions-football-players-speeding-sept-2026/",
+      "published_at": "2026-09-18T20:20:44+00:00",
+      "summary_raw": "3 UNC football players with a history of speeding are listed as \"Out\" this weekend.",
+      "id": "94e6a887a4fb"
     },
     {
       "source": "Wired",
-      "title": "Submit Your Questions: Why Is Silicon Valley Still a Boys’ Club?",
-      "link": "https://www.wired.com/story/livestream-women-in-tech/",
-      "published_at": "2026-09-18T11:00:00+00:00",
-      "summary_raw": "How are women really faring in Silicon Valley? Submit your questions to our panel and we'll give you the scoop on September 24.",
-      "id": "358ab1c2e771"
+      "title": "Join the WIRED World Fair in Miami on November 4",
+      "link": "https://www.wired.com/story/join-the-wired-world-fair-in-miami-on-november-4/",
+      "published_at": "2026-09-19T09:00:00+00:00",
+      "summary_raw": "For one day only, WIRED is bringing the technologies, people, and cultural forces transforming our world off the page and into real life.",
+      "id": "54d6c14f2e0b"
     },
     {
       "source": "NPR Politics",
@@ -420,19 +420,19 @@
     },
     {
       "source": "NPR National",
-      "title": "It's illegal for armed federal officers to be at polls. Lawsuits seek to ensure that",
-      "link": "https://www.npr.org/2026/09/18/nx-s1-5965823/ice-polling-places-concerns-lawsuits",
-      "published_at": "2026-09-18T07:37:09+00:00",
-      "summary_raw": "The latest lawsuit, first reported by NPR, argues the Trump administration's repeated suggestions that federal officers could be at polling sites is a form of illegal voter intimidation.",
-      "id": "962b86e0d8b4"
+      "title": "Poland's prime minister warns of Russian 'accidental' attacks on Ukraine's allies",
+      "link": "https://www.npr.org/2026/09/18/nx-s1-5973265/poland-nato-russia",
+      "published_at": "2026-09-18T08:44:08+00:00",
+      "summary_raw": "Polish Prime Minister Donald Tusk said that these potential strikes \"intend to paralyze NATO\" in an attempt to demonstrate that Article 5 \"exists only in theory.\"",
+      "id": "c4199e0c2a5a"
     },
     {
       "source": "BBC World",
-      "title": "Warren Buffett steps down after six decades at Berkshire - 'Father Time always wins'",
-      "link": "https://www.bbc.co.uk/news/articles/cvj64dl1w6yno?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-18T17:15:02+00:00",
-      "summary_raw": "Since taking control in 1965, Buffett grew a struggling textile mill into a global conglomerate.",
-      "id": "8130d527cd22"
+      "title": "I found love at an Irish matchmaking festival - and I want others to do the same",
+      "link": "https://www.bbc.co.uk/news/articles/cw5y4jz6k2p3o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-18T23:18:02+00:00",
+      "summary_raw": "Mary Timby flew to Ireland on a whim last year and met her boyfriend at a matchmaking festival.",
+      "id": "161c3cae7050"
     },
     {
       "source": "Science Daily",
@@ -444,19 +444,19 @@
     },
     {
       "source": "WRAL Local",
-      "title": "AI leaders discuss concerns to human safety in Durham on Friday",
-      "link": "https://www.wral.com/news/local/ai-industry-leaders-discuss-concerns-durham-september-2026/",
-      "published_at": "2026-09-18T09:27:15+00:00",
-      "summary_raw": "Leaders and experts in the artificial intelligence field will meet in Durham on Friday to address concerns of how dangerous AI could be to mankind.",
-      "id": "021a0d111c88"
+      "title": "NC regulators deny Duke Energy’s $584 million gas turbine proposal near Amazon data center",
+      "link": "https://www.wral.com/news/state/duke-energy-gas-turbine-amazon-data-center-september-2026/",
+      "published_at": "2026-09-18T20:10:58+00:00",
+      "summary_raw": "NC regulators denied Duke Energy’s $584 million gas turbine proposal near Hamlet, citing unanswered questions about data center demand and who would pay for the project.",
+      "id": "5c05c138e89c"
     },
     {
       "source": "Wired",
-      "title": "He Won the Nobel Prize for Protein Design. Now He Uses AI to Create Molecules Not Found in Nature",
-      "link": "https://www.wired.com/story/nobel-prize-protein-design-now-using-ai-to-create-molecules-beyond-nature/",
-      "published_at": "2026-09-18T10:30:00+00:00",
-      "summary_raw": "David Baker spoke with WIRED en Español about where biological design is headed next and the great potential and risks of taking biology outside the bounds of the natural world.",
-      "id": "b693bd5cc232"
+      "title": "Xiaomi Has a Luxury SUV for $31,000 That All Western Brands Should Fear",
+      "link": "https://www.wired.com/story/xiaomi-has-a-luxury-suv-all-western-brands-should-fear/",
+      "published_at": "2026-09-19T06:00:00+00:00",
+      "summary_raw": "The SkyNomad—with heated floors, a projector, a pop-up roof, a fridge, swiveling seats, and over 1,000 miles of range—is a “luxury” ride that undercuts Range Rovers by tens of thousands of dollars.",
+      "id": "8aa3dbf265e8"
     },
     {
       "source": "NPR Politics",
@@ -468,19 +468,19 @@
     },
     {
       "source": "NPR National",
-      "title": "The driver who slammed into an LA bus before helicopter crash is charged with murder",
-      "link": "https://www.npr.org/2026/09/18/g-s1-143900/helicopter-crash-los-angeles",
-      "published_at": "2026-09-18T05:16:29+00:00",
-      "summary_raw": "An SUV driver was under the influence of drugs when she swerved into the wrong lane, blew a red light and slammed into a Los Angeles city bus, killing two riders, prosecutors said as they charged her with murder.",
-      "id": "c36ed213a1e0"
+      "title": "It's illegal for armed federal officers to be at polls. Lawsuits seek to ensure that",
+      "link": "https://www.npr.org/2026/09/18/nx-s1-5965823/ice-polling-places-concerns-lawsuits",
+      "published_at": "2026-09-18T07:37:09+00:00",
+      "summary_raw": "The latest lawsuit, first reported by NPR, argues the Trump administration's repeated suggestions that federal officers could be at polling sites is a form of illegal voter intimidation.",
+      "id": "962b86e0d8b4"
     },
     {
       "source": "BBC World",
-      "title": "Ryanair boss Michael O'Leary apologises over 'high-fare rapists' remarks",
-      "link": "https://www.bbc.co.uk/news/articles/cm1j4kj57k08o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-18T17:10:58+00:00",
-      "summary_raw": "O'Leary described his choice of language as \"careless\" and said \"it won't happen again\".",
-      "id": "43505dc94d9d"
+      "title": "Tata Sons: India's corporate crown braces for upheaval amid boardroom revolt",
+      "link": "https://www.bbc.co.uk/news/articles/c670lkvdzkn2o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-18T23:07:16+00:00",
+      "summary_raw": "The Tata boardroom battle has intensified over a re-appointment of its chairman and a diktat to go public.",
+      "id": "b19d09010fa8"
     },
     {
       "source": "Science Daily",
@@ -492,19 +492,19 @@
     },
     {
       "source": "Wired",
-      "title": "The Leftist Split Over AI Doom",
-      "link": "https://www.wired.com/story/inside-the-surprising-leftist-split-over-ai-doom/",
-      "published_at": "2026-09-18T10:15:00+00:00",
-      "summary_raw": "The left wants AI regulation. They just can't agree on what it should look like or how concerned they should be.",
-      "id": "400a8e0fdccc"
+      "title": "Paramount+ Coupon Codes and Deals for September 2026",
+      "link": "https://www.wired.com/story/paramount-plus-coupon-code/",
+      "published_at": "2026-09-19T05:00:00+00:00",
+      "summary_raw": "Save on streaming with the latest Paramount+ promo codes and deals, including 50% off subscriptions, free trials, and more.",
+      "id": "ab7d5e65e0f9"
     },
     {
       "source": "BBC World",
-      "title": "Dozens of suspected illegal miners die in Nigerian custody",
-      "link": "https://www.bbc.co.uk/news/articles/cw980qp2n3p4o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-18T15:47:28+00:00",
-      "summary_raw": "Authorities linked the deaths to disease, but this has been disputed by intelligence reports and relatives of the accused.",
-      "id": "c536156947ad"
+      "title": "Grim discoveries of murdered women spark fear in South Africa",
+      "link": "https://www.bbc.co.uk/news/articles/cjkg71e67k17o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-18T23:04:41+00:00",
+      "summary_raw": "Dineo Motapane is one of nine recent victims whose deaths have left a nation traumatised over the level of violence against women.",
+      "id": "32012606aa1b"
     },
     {
       "source": "Science Daily",
@@ -516,19 +516,19 @@
     },
     {
       "source": "Wired",
-      "title": "Mophie’s Extendable MagSafe 3-in-1 Charging Stand Is 50 Percent Off",
-      "link": "https://www.wired.com/story/mophie-magsafe-3-in-1-wireless-charging-stand-deal/",
-      "published_at": "2026-09-18T10:00:00+00:00",
-      "summary_raw": "Charge your trio of Apple gadgets–iPhone, Apple Watch, and AirPods–with one of my favorite telescopic stands.",
-      "id": "6bab6c21fd38"
+      "title": "B&H Photo Promo Codes and Deals This September 2026",
+      "link": "https://www.wired.com/story/bh-photo-coupon/",
+      "published_at": "2026-09-19T05:00:00+00:00",
+      "summary_raw": "Enjoy top deals on cameras, computers, and tech essentials at B&H Photo.",
+      "id": "3572a6ebf93e"
     },
     {
       "source": "BBC World",
-      "title": "Ronaldo named in first Portugal squad since World Cup - at age of 41",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cmeq8v8e3ql7o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-18T12:45:25+00:00",
-      "summary_raw": "Cristiano Ronaldo is named in the first squad selected by new Portugal coach Jorge Jesus for their upcoming Nations League games.",
-      "id": "dbbd094b2e32"
+      "title": "A four-minute warning isn't enough: Russia's new relentless missile tactics exhaust Kyiv residents",
+      "link": "https://www.bbc.co.uk/news/articles/cwp93k9gpnv1o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-18T23:03:38+00:00",
+      "summary_raw": "Increasingly frequent and ferocious attacks on the Ukrainian capital have left many on edge.",
+      "id": "961198107720"
     },
     {
       "source": "Science Daily",
@@ -540,19 +540,19 @@
     },
     {
       "source": "Wired",
-      "title": "It Still Feels Like Summer in Parts of the US. Blame El Niño",
-      "link": "https://www.wired.com/story/september-feels-like-summer-blame-el-nino/",
-      "published_at": "2026-09-18T10:00:00+00:00",
-      "summary_raw": "Heat records are being shattered thanks to a boost from the natural climate pattern—and burning fossil fuels, of course.",
-      "id": "4f435a12c69f"
+      "title": "KitchenAid Promo Codes: Save Up to 20%",
+      "link": "https://www.wired.com/story/exclusive-kitchenaid-promo-code/",
+      "published_at": "2026-09-19T05:00:00+00:00",
+      "summary_raw": "Save on every purchase with top KitchenAid coupons from WIRED, including up to 20% off countertop appliances.",
+      "id": "7b86cc364b02"
     },
     {
       "source": "BBC World",
-      "title": "Shots heard as police start moving migrants from Ceuta beaches",
-      "link": "https://www.bbc.co.uk/news/articles/c6vgy80ge1z7o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-18T11:59:42+00:00",
-      "summary_raw": "Police reportedly fired into the air on Friday morning as they struggled to contain crowds jostling to secure a place at the tented site.",
-      "id": "9dd2a7b40705"
+      "title": "Trump signs sweeping Russia sanctions bill",
+      "link": "https://www.bbc.co.uk/news/articles/cqvgy34ndj4eo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-18T22:05:47+00:00",
+      "summary_raw": "The bill is named after the late Senator Lindsey Graham, a staunch advocate of aid for Ukraine.",
+      "id": "da45985ff3c2"
     },
     {
       "source": "Science Daily",
@@ -564,19 +564,19 @@
     },
     {
       "source": "Wired",
-      "title": "Napster Is Back, and It Wants to Digitally Clone Teachers",
-      "link": "https://www.wired.com/story/napster-is-back-and-it-wants-to-digitally-clone-teachers/",
-      "published_at": "2026-09-18T09:15:00+00:00",
-      "summary_raw": "Once the music industry’s biggest headache, Napster’s next act is bringing AI to the classroom.",
-      "id": "67dc95d929b8"
+      "title": "Newegg Promo Codes and Coupons for September 2026",
+      "link": "https://www.wired.com/story/newegg-promo-code/",
+      "published_at": "2026-09-19T05:00:00+00:00",
+      "summary_raw": "Enjoy up to 10% off your entire order with today’s Newegg promo code and discount codes. Save with the latest deals for gaming PCs, laptops, and computer parts.",
+      "id": "8cd12c337f61"
     },
     {
       "source": "BBC World",
-      "title": "Lindsay Clancy holdout juror says he had no doubt she deliberately killed her children",
-      "link": "https://www.bbc.co.uk/news/articles/c54g7jdmw032o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-18T11:49:46+00:00",
-      "summary_raw": "It is the first time the juror, who refused to side with the others and acquit Clancy, has spoken publicly about his decision.",
-      "id": "5f5b032a1173"
+      "title": "Watch: Trump says ban on some news outlets is 'because they're fake news'",
+      "link": "https://www.bbc.co.uk/news/videos/cm93e7p1wkndo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-18T20:35:03+00:00",
+      "summary_raw": "The US president on Friday announced he is \"immediately\" banning CNN, MS NOW and Politico from the White House.",
+      "id": "2c9bcc062ae8"
     },
     {
       "source": "Science Daily",
@@ -588,19 +588,19 @@
     },
     {
       "source": "Wired",
-      "title": "Best Open Earbuds (2026): Shokz, Bose, Soundcore, and More",
-      "link": "https://www.wired.com/story/best-open-earbuds/",
-      "published_at": "2026-09-18T09:00:00+00:00",
-      "summary_raw": "I’ve tested dozens of open earbuds. My favorite ones let you hear the world and your tunes equally.",
-      "id": "0823ca374a42"
+      "title": "Whoop Promo Codes: 20% Off This September 2026",
+      "link": "https://www.wired.com/story/whoop-promo-code/",
+      "published_at": "2026-09-19T05:00:00+00:00",
+      "summary_raw": "Whether you're looking for a Whoop free trial, student discount, or military savings, our guide to Whoop promo codes will help you maximize your membership benefits. Stay on top of your fitness goals for less.",
+      "id": "fd415b366778"
     },
     {
       "source": "BBC World",
-      "title": "Three dead and eight injured in Philippines school shooting",
-      "link": "https://www.bbc.co.uk/news/articles/c6x2z4dlzyr0o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-18T11:01:46+00:00",
-      "summary_raw": "The gunman is among the dead in what is the third school shooting in the country since June.",
-      "id": "9c51d3ea803a"
+      "title": "At least 21 killed after vehicle loaded with explosives rams Pakistan mosque",
+      "link": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-18T20:17:50+00:00",
+      "summary_raw": "A four-year-old child is among those killed in the attack, during which gunmen also opened fire on a police facility.",
+      "id": "55592596bacc"
     },
     {
       "source": "Science Daily",
@@ -612,19 +612,19 @@
     },
     {
       "source": "Wired",
-      "title": "Why AI Isn’t Likely to Wipe Out Humanity With Bioweapons",
-      "link": "https://www.wired.com/story/why-ai-bioweapons-wont-wipe-out-humanity/",
-      "published_at": "2026-09-18T09:00:00+00:00",
-      "summary_raw": "Of all the threats presented by uncontrollable artificial intelligence, scientists say death by plague ranks low.",
-      "id": "441e2f93eb22"
+      "title": "eBay Coupons: 20% Off in September 2026",
+      "link": "https://www.wired.com/story/ebay-coupon-code/",
+      "published_at": "2026-09-19T05:00:00+00:00",
+      "summary_raw": "Save up to 60% on a selection of items at eBay, including electronics, home products, card games, car parts and more.",
+      "id": "a7f68f8353c2"
     },
     {
       "source": "BBC World",
-      "title": "Why US plan to sell F-35 warplanes to Saudi Arabia is controversial",
-      "link": "https://www.bbc.co.uk/news/articles/c3x2zrn01pxko?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-18T01:31:43+00:00",
-      "summary_raw": "Saudi Arabia has lobbied the US for years to buy F35s, the world's most advanced fighter jet.",
-      "id": "4c74ed004096"
+      "title": "Is the Kennedy Center losing 'hundreds of millions of dollars'?",
+      "link": "https://www.bbc.co.uk/news/videos/cqy4zw4xr717o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-18T18:56:17+00:00",
+      "summary_raw": "Records in 2024 show the venue had a surplus of millions of dollars once contributions and grants had been factored in.",
+      "id": "b5115622278e"
     },
     {
       "source": "Science Daily",
@@ -636,11 +636,11 @@
     },
     {
       "source": "Wired",
-      "title": "Zoro Coupon Codes: 20% Off September 2026",
-      "link": "https://www.wired.com/story/zoro-promo-code/",
-      "published_at": "2026-09-18T05:00:00+00:00",
-      "summary_raw": "Find the best Zoro coupon codes, deals, and free shipping offers to save big on industrial equipment, tools, and supplies in September 2026.",
-      "id": "15251f5fadb0"
+      "title": "20% Off Samsung Promo Code | September 2026",
+      "link": "https://www.wired.com/story/samsung-promo-codes/",
+      "published_at": "2026-09-19T05:00:00+00:00",
+      "summary_raw": "Save 30% or 10% with Samsung coupon codes, up to $1,000 on appliances, plus limited-time deals on the Galaxy Z Fold7, Flip7, and S25.",
+      "id": "34dfd5bdd1ff"
     }
   ]
 }

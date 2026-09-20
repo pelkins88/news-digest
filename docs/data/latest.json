@@ -1,14 +1,14 @@
 {
   "mode": "raw",
-  "generated_at": "2026-09-19T22:07:32.320353+00:00",
+  "generated_at": "2026-09-20T14:38:33.621784+00:00",
   "items": [
     {
       "source": "WRAL Local",
-      "title": "Wake County deputy hospitalized after crash near U.S. 64",
-      "link": "https://www.wral.com/news/local/wake-county-sheriffs-deputy-involved-crash-lizard-lick-road-sept-2026/",
-      "published_at": "2026-09-19T21:54:48+00:00",
-      "summary_raw": "The crash happened around 4 p.m. on Lizard Lick Road near U.S. Highway 64, according to the Wake County Sheriff's Office.",
-      "id": "a22cdcd2be23"
+      "title": "Fuquay-Varina house fire started on back patio, no injuries",
+      "link": "https://www.wral.com/news/local/fuquay-varina-house-fire-started-patio-september-2026/",
+      "published_at": "2026-09-20T14:31:42+00:00",
+      "summary_raw": "A single-family home in Fuquay-Varina was damaged from a fire Sunday morning.",
+      "id": "ec7045037c16"
     },
     {
       "source": "WRAL Weather",
@@ -20,6 +20,150 @@
     },
     {
       "source": "Wired",
+      "title": "It’s Donald Trump Versus MAGA on Data Centers",
+      "link": "https://www.wired.com/story/donald-trump-versus-maga-on-data-centers/",
+      "published_at": "2026-09-20T10:30:00+00:00",
+      "summary_raw": "The president has doubled down on data centers and AI. His base is running in the opposite direction.",
+      "id": "8c3232868ae6"
+    },
+    {
+      "source": "NPR Politics",
+      "title": "In Colorado, a GOP candidate says his differences with Trump show he's with the voters",
+      "link": "https://www.npr.org/2026/09/20/nx-s1-5973077/in-colorado-a-gop-candidate-says-his-differences-with-trump-show-hes-with-the-voters",
+      "published_at": "2026-09-20T12:05:41+00:00",
+      "summary_raw": "We look at Republican Congressman Jeff Hurd's campaign in Colorado, where he is using his breaks with President Trump as an asset in his bid for reelection.",
+      "id": "185686d3476e"
+    },
+    {
+      "source": "NPR National",
+      "title": "A program in a Texas prison teaches incarcerated women to transcribe braille",
+      "link": "https://www.npr.org/2026/09/20/nx-s1-5969818/a-program-in-a-texas-prison-teaches-incarcerated-women-to-transcribe-braille",
+      "published_at": "2026-09-20T12:26:44+00:00",
+      "summary_raw": "The job market is tougher for those with a criminal record. But a Texas women's prison offers inmates skills in braille transcription that could help them support themselves when they are released.",
+      "id": "0ba4c493b8d8"
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump says his planned triumphal arch will double as a military complex to store ammunition",
+      "link": "https://www.bbc.co.uk/news/articles/cqdj4pez00dzo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-20T13:50:51+00:00",
+      "summary_raw": "Trump said the updated plans were at the request of the US military and for national security purposes.",
+      "id": "0ea88928031d"
+    },
+    {
+      "source": "Science Daily",
+      "title": "8 common food additives linked to high blood pressure and heart disease",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260920031905.htm",
+      "published_at": "2026-09-20T12:43:41+00:00",
+      "summary_raw": "Common preservatives hiding in processed foods may carry unexpected heart risks, with heavy consumption linked to substantially higher rates of high blood pressure and cardiovascular disease. Researchers identified eight widely used preservatives associated with hypertension, although the observational study cannot prove they were directly responsible.",
+      "id": "b07a154a9162"
+    },
+    {
+      "source": "WRAL Local",
+      "title": "Wanted man arrested in Cary after domestic call",
+      "link": "https://www.wral.com/news/local/wanted-man-arrested-cary-domestic-september-2026/",
+      "published_at": "2026-09-20T13:28:40+00:00",
+      "summary_raw": "Police said there was no evidence of domestic assault, but the suspect had several warrants for his arrest. His new charges include fleeing arrest.",
+      "id": "e65dcebdb012"
+    },
+    {
+      "source": "Wired",
+      "title": "What You Need to Know About the Foreign-Made Router Ban in the US",
+      "link": "https://www.wired.com/story/us-government-foreign-made-router-ban-explained/",
+      "published_at": "2026-09-20T10:00:00+00:00",
+      "summary_raw": "The FCC banned the sale of new consumer-grade Wi-Fi routers and mobile hot spots manufactured outside the US. Here’s what it means for you.",
+      "id": "4072843b4c79"
+    },
+    {
+      "source": "NPR Politics",
+      "title": "Politics chat: Trump announces a Greenland deal, bans more media from the White House",
+      "link": "https://www.npr.org/2026/09/20/nx-s1-5971253/politics-chat-trump-announces-a-greenland-deal-bans-more-media-from-the-white-house",
+      "published_at": "2026-09-20T12:05:38+00:00",
+      "summary_raw": "We look at President Trump's announced ban of some media outlets covering the White House, as well as what a big cash windfall might mean for Republicans in the coming midterm elections.",
+      "id": "cdeb7e89678a"
+    },
+    {
+      "source": "NPR National",
+      "title": "Xi Jinping is coming to the White House. Here's what to expect",
+      "link": "https://www.npr.org/2026/09/20/nx-s1-5971402/xi-jinping-is-coming-to-the-white-house-heres-what-to-expect",
+      "published_at": "2026-09-20T12:26:43+00:00",
+      "summary_raw": "Xi Jinping arrives in the US this week for an important summit with President Trump. We look at what President Trump and the Chinese leader want out of this visit.",
+      "id": "a0d81a9a7121"
+    },
+    {
+      "source": "BBC World",
+      "title": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
+      "link": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-20T10:45:39+00:00",
+      "summary_raw": "Moscow's mayor says 450 drones were downed during the overnight barrage, in which two people died.",
+      "id": "e65fa04da334"
+    },
+    {
+      "source": "Science Daily",
+      "title": "Scientists discover a hidden “ID card” in cat urine",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260919031033.htm",
+      "published_at": "2026-09-20T12:24:21+00:00",
+      "summary_raw": "Cats may identify one another through a surprisingly durable chemical “calling card” made from 13 unusual fatty acids in their urine. The compounds appear linked to mysterious fat droplets in the kidneys and may represent a scent-recognition system shared across the cat family.",
+      "id": "00156ad1b461"
+    },
+    {
+      "source": "WRAL Local",
+      "title": "Wake schools push family engagement to improve attendance, student success",
+      "link": "https://www.wral.com/news/local/wake-schools-family-community-engagement-summit-sept-2026/",
+      "published_at": "2026-09-20T02:31:34+00:00",
+      "summary_raw": "Parents, students and teachers gathered Saturday afternoon at Leesville Road High School in Raleigh for WCPSS' Family and Community Engagement Summit. The event is aimed at engaging with families, empowering them to become more involved in their children's education.",
+      "id": "68eab400074a"
+    },
+    {
+      "source": "Wired",
+      "title": "How to Avoid Scams and Sketchy Products on Amazon (2026)",
+      "link": "https://www.wired.com/story/how-shop-safe-amazon/",
+      "published_at": "2026-09-20T09:38:00+00:00",
+      "summary_raw": "Amazon is a murky mess of ads, unknown sellers, misleading sales, and specious information. Stay safe while shopping on Prime Big Deal Days and beyond with these tips and tricks.",
+      "id": "a76385fd70a9"
+    },
+    {
+      "source": "NPR Politics",
+      "title": "Ukraine fires over 1,000 drones at Russia, including hundreds launched at Moscow",
+      "link": "https://www.npr.org/2026/09/20/nx-s1-5975372/ukraine-fires-drones-at-russia-moscow",
+      "published_at": "2026-09-20T09:16:42+00:00",
+      "summary_raw": "Moscow's mayor described the wave of drones as the \"largest ever\" attack on the Russian capital and said there had been damage to a Moscow oil refinery and a residential building.",
+      "id": "944a6e50de86"
+    },
+    {
+      "source": "NPR National",
+      "title": "In New Orleans, an empty building becomes a free store — and roller skating rink",
+      "link": "https://www.npr.org/2026/09/20/nx-s1-5940784/new-orleans-lower-ninth-ward-free-store",
+      "published_at": "2026-09-20T11:00:00+00:00",
+      "summary_raw": "In the Lower Ninth Ward, an old Family Dollar stands covered in graffiti. It looks abandoned. But inside, it's a treasure trove — clothing, home goods, toys and books. And everything is free.",
+      "id": "c29adc771554"
+    },
+    {
+      "source": "BBC World",
+      "title": "German elections under way which could decide fate of Chancellor Merz",
+      "link": "https://www.bbc.co.uk/news/articles/cme8xj6g2ny7o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-20T07:57:32+00:00",
+      "summary_raw": "The chancellor is facing intense political pressure which will increase if his party struggles in Sunday's polls.",
+      "id": "7c78cab66b8e"
+    },
+    {
+      "source": "Science Daily",
+      "title": "Scientists may have solved a 2,000-year-old Dead Sea Scrolls mystery",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260919031035.htm",
+      "published_at": "2026-09-20T11:58:13+00:00",
+      "summary_raw": "Researchers may have solved a long-running mystery surrounding the Dead Sea Scrolls by proposing that the Qumran sect really did use its distinctive 364-day calendar. Its perfectly ordered 52-week system kept holidays on the same weekdays, but it slowly drifted out of sync with the seasons because it was shorter than the true solar year.",
+      "id": "4c27c0fc505a"
+    },
+    {
+      "source": "WRAL Local",
+      "title": "Antisemitic imagery found at Clayton park; police reviewing incident",
+      "link": "https://www.wral.com/news/local/swastika-imagery-east-clayton-community-park-sept-2026/",
+      "published_at": "2026-09-20T00:20:49+00:00",
+      "summary_raw": "A WRAL viewer shared photos showing swastika illustrations attached to a storyboard at East Clayton Community Park.",
+      "id": "db7f95726302"
+    },
+    {
+      "source": "Wired",
       "title": "Forget the AI Slowdown—the Vulnerability Explosion Is Already Happening",
       "link": "https://www.wired.com/story/kernel-panic-ai-vulnerability-explosion/",
       "published_at": "2026-09-19T11:00:00+00:00",
@@ -28,43 +172,43 @@
     },
     {
       "source": "NPR Politics",
-      "title": "The high stakes drama a reporter has seen covering the UN General Assembly",
-      "link": "https://www.npr.org/2026/09/19/nx-s1-5970394/the-high-stakes-drama-a-reporter-has-seen-covering-the-un-general-assembly",
-      "published_at": "2026-09-19T21:05:29+00:00",
-      "summary_raw": "Over the years NPR's Michele Kelemen has seen high stakes diplomacy play out at the UN General Assembly.",
-      "id": "18d1dc9d6d79"
+      "title": "Thousands of planned launches, terms of deal, worry some near Louisiana SpaceX site",
+      "link": "https://www.npr.org/2026/09/20/nx-s1-5974180/spacex-musk-landry-louisiana-ndas",
+      "published_at": "2026-09-20T09:00:00+00:00",
+      "summary_raw": "State officials say the new SpaceX site will be a $100 billion investment and launch thousands of rockets. Lawmakers helped ease regulations and negotiations were covered under nondisclosure agreements.",
+      "id": "f7f1da0278aa"
     },
     {
       "source": "NPR National",
-      "title": "CNN, MS NOW, Politico reporters denied access to White House following Trump ban",
-      "link": "https://www.npr.org/2026/09/19/nx-s1-5974854/trump-cnn-msnow-politico-ban",
-      "published_at": "2026-09-19T15:26:31+00:00",
-      "summary_raw": "Three reporters were blocked from the White House grounds Saturday morning, a day after President Trump said CNN, Politico, and MS NOW would be banned for reporting \"FICTION and LIES.\"",
-      "id": "53ddb503dad0"
+      "title": "Judge orders Fox to hand over hundreds of documents in shareholders' case",
+      "link": "https://www.npr.org/2026/09/20/nx-s1-5974900/fox-shareholders-murdoch-lawsuit",
+      "published_at": "2026-09-20T10:01:00+00:00",
+      "summary_raw": "Fox Corp. must turn over hundreds of documents that could shed light on how founder Rupert Murdoch handled some of his media companies' biggest scandals.",
+      "id": "61a10764eb6f"
     },
     {
       "source": "BBC World",
-      "title": "Trump says US will form 'AI Force' and appoint an artificial intelligence tsar",
-      "link": "https://www.bbc.co.uk/news/articles/cqlykr2vrv04o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-19T21:01:56+00:00",
-      "summary_raw": "The president said his administration \"will not in any way hinder or stifle the growth\" amid amid warnings about the emergent technology.",
-      "id": "ff588a50740e"
+      "title": "Watch: Fans react as Ed Sheeran speaks out over Macklemore controversy at show",
+      "link": "https://www.bbc.co.uk/news/videos/ck980m0pr1e0o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-20T05:01:47+00:00",
+      "summary_raw": "Ed Sheeran told the crowd he had made mistakes after Macklemore was dropped from his tour for making pro-Palestinian remarks.",
+      "id": "78e9bf0192ad"
     },
     {
       "source": "Science Daily",
-      "title": "Scientists discover cells that cheat death and rebuild damaged tissue",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260917003722.htm",
-      "published_at": "2026-09-18T12:30:43+00:00",
-      "summary_raw": "Scientists discovered a population of cells that can start the process of programmed cell death, survive it, and then help rapidly rebuild damaged tissue. Their descendants become far more resistant to future damage, revealing a mechanism that could improve healing but may also help cancers return after treatment.",
-      "id": "6c8906ecd888"
+      "title": "New nanoparticles make hidden chemical differences light up",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260919031030.htm",
+      "published_at": "2026-09-20T11:35:28+00:00",
+      "summary_raw": "Scientists have developed ultra-bright nanoparticles that can detect tiny amounts of chemicals and distinguish between molecules that look almost identical. The technology could one day provide a cheaper way to catch dangerous drug impurities or trace pollutants using simple low-cost lasers.",
+      "id": "45de46dc1b54"
     },
     {
       "source": "WRAL Local",
-      "title": "ALE charges 5, including three underage individuals in Nash County crash",
-      "link": "https://www.wral.com/news/local/five-charged-including-3-underage-nash-county-crash-september-2026/",
-      "published_at": "2026-09-19T18:11:51+00:00",
-      "summary_raw": "On Sept. 6, a car crashed on Rose Loop Road in Nashville after crossing the center line, hitting a ditch and flipping several times. Alcohol Law Enforcement (ALE) investigated the crash and charged three underage individuals, as well as a 21-year-old and a 45-year-old.",
-      "id": "77e6d41a6002"
+      "title": "Wake County deputy hospitalized after crash near U.S. 64",
+      "link": "https://www.wral.com/news/local/wake-county-sheriffs-deputy-involved-crash-lizard-lick-road-sept-2026/",
+      "published_at": "2026-09-19T21:54:48+00:00",
+      "summary_raw": "The crash happened around 4 p.m. on Lizard Lick Road near U.S. Highway 64, according to the Wake County Sheriff's Office.",
+      "id": "a22cdcd2be23"
     },
     {
       "source": "Wired",
@@ -76,43 +220,43 @@
     },
     {
       "source": "NPR Politics",
-      "title": "CNN, MS NOW, Politico reporters denied access to White House following Trump ban",
-      "link": "https://www.npr.org/2026/09/19/nx-s1-5974854/trump-cnn-msnow-politico-ban",
-      "published_at": "2026-09-19T15:26:31+00:00",
-      "summary_raw": "Three reporters were blocked from the White House grounds Saturday morning, a day after President Trump said CNN, Politico, and MS NOW would be banned for reporting \"FICTION and LIES.\"",
-      "id": "53ddb503dad0"
+      "title": "Saudi Arabia says Houthis tried to attack its capital",
+      "link": "https://www.npr.org/2026/09/19/nx-s1-5974980/saudi-arabia-houthis-attempted-attack-capital",
+      "published_at": "2026-09-20T03:57:23+00:00",
+      "summary_raw": "Saudi Arabia on Saturday said that Yemen's Houthi rebels tried to attack Riyadh with a ballistic missile, the first time the Saudi capital has been targeted since the escalation in fighting with the Iran-backed rebels opened a new front in the Iran war.",
+      "id": "02e522c8aff5"
     },
     {
       "source": "NPR National",
-      "title": "Tax relief or public danger? Florida voters weigh tax cuts against firefighter funding",
-      "link": "https://www.npr.org/2026/09/19/nx-s1-5947199/tax-relief-or-public-danger-florida-voters-weigh-tax-cuts-against-firefighter-funding",
-      "published_at": "2026-09-19T11:40:39+00:00",
-      "summary_raw": "Florida voters may end most residential property taxes - a step considered in other states. Local firefighters worry what it will do to their response times - and other officials are sounding alarms.",
-      "id": "84a5932e83a1"
+      "title": "How the NPR College Podcast Challenge changed lives",
+      "link": "https://www.npr.org/2026/09/20/nx-s1-5945292/college-podcast-challenge-five-years",
+      "published_at": "2026-09-20T09:00:00+00:00",
+      "summary_raw": "Tee up those entries: It's time for the next NPR College Podcast Challenge, and hear how the contest changed the lives of past participants.",
+      "id": "d82c9810b46f"
     },
     {
       "source": "BBC World",
-      "title": "Houthis say they targeted Saudi capital with ballistic missiles",
-      "link": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-19T20:16:07+00:00",
-      "summary_raw": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the capital.",
-      "id": "a1064a530d0f"
+      "title": "Ed Sheeran admits 'mistakes' at first show since Macklemore controversy",
+      "link": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-20T04:49:11+00:00",
+      "summary_raw": "The singer spoke about Israel and Gaza after Macklemore was dropped from his tour for making pro-Palestinian remarks on stage.",
+      "id": "c63141c033d1"
     },
     {
       "source": "Science Daily",
-      "title": "Scientists just named a new snake after Guns N’ Roses legend Slash",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260918024816.htm",
-      "published_at": "2026-09-18T12:07:03+00:00",
-      "summary_raw": "A newly discovered snake from New Guinea has been named after Guns N’ Roses guitarist Slash, who has loved reptiles since childhood. Genetic testing and physical differences confirmed that the reddish-brown groundsnake, Lielaphis slashi, is a species scientists had never formally recognized before. The nonvenomous snake may use large rear teeth to catch slippery lizards and reptile eggs.",
-      "id": "10c388cbb50d"
+      "title": "Scientists opened a sealed envelope after 10 years. Gravity still didn’t make sense",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260920032049.htm",
+      "published_at": "2026-09-20T10:30:31+00:00",
+      "summary_raw": "A decade-long NIST experiment has produced a new measurement of the universal gravitational constant that differs unexpectedly from another leading result, deepening a 225-year-old physics puzzle. The discrepancy is tiny, but for one of nature’s most fundamental constants, it is large enough to keep scientists wondering whether hidden experimental errors or something more surprising is involved.",
+      "id": "1e77f1365383"
     },
     {
       "source": "WRAL Local",
-      "title": "Roy Cooper campaigns in Charlotte in U.S. Senate race",
-      "link": "https://www.wral.com/news/state/roy-cooper-campaigns-charlotte-u-s-senate-race-september-2026/",
-      "published_at": "2026-09-19T15:43:21+00:00",
-      "summary_raw": "Former NC Gov. Roy Cooper spoke with Charlotte residents Friday as he campaigns for the U.S. Senate, focusing on his proposals to lower the cost of everyday goods.",
-      "id": "23ba278c64f2"
+      "title": "ALE charges 5, including three underage individuals in Nash County crash",
+      "link": "https://www.wral.com/news/local/five-charged-including-3-underage-nash-county-crash-september-2026/",
+      "published_at": "2026-09-19T18:11:51+00:00",
+      "summary_raw": "On Sept. 6, a car crashed on Rose Loop Road in Nashville after crossing the center line, hitting a ditch and flipping several times. Alcohol Law Enforcement (ALE) investigated the crash and charged three underage individuals, as well as a 21-year-old and a 45-year-old.",
+      "id": "77e6d41a6002"
     },
     {
       "source": "Wired",
@@ -124,91 +268,43 @@
     },
     {
       "source": "NPR Politics",
-      "title": "Week in Politics: Trump bans news outlets; Iran War; mail-in voting; interest rates",
-      "link": "https://www.npr.org/2026/09/19/nx-s1-5973250/week-in-politics-trump-bans-news-outlets-iran-war-mail-in-voting-interest-rates",
-      "published_at": "2026-09-19T11:46:46+00:00",
-      "summary_raw": "The Trump administration was frustrated both home and abroad this week.",
-      "id": "8439d79bf9f1"
+      "title": "The high stakes drama a reporter has seen covering the UN General Assembly",
+      "link": "https://www.npr.org/2026/09/19/nx-s1-5970394/the-high-stakes-drama-a-reporter-has-seen-covering-the-un-general-assembly",
+      "published_at": "2026-09-19T21:05:29+00:00",
+      "summary_raw": "Over the years NPR's Michele Kelemen has seen high stakes diplomacy play out at the UN General Assembly.",
+      "id": "18d1dc9d6d79"
     },
     {
       "source": "NPR National",
-      "title": "Alaska's salmon-feasting bears face off in biggest Fat Bear Week ever",
-      "link": "https://www.npr.org/2026/09/18/nx-s1-5973938/fat-bear-week-2026-bracket",
-      "published_at": "2026-09-18T21:13:14+00:00",
-      "summary_raw": "This year's single-elimination tournament will see 16 competitors face off, compared to 12 in past years. Officials report more cubs in Katmai National Park than they've seen in recent memory.",
-      "id": "d04a39ccc35c"
+      "title": "NPR's College Podcast Challenge is back for 2026",
+      "link": "https://www.npr.org/2026/09/20/nx-s1-5966588/nprs-college-podcast-challenge-is-back-for-2026",
+      "published_at": "2026-09-20T09:00:00+00:00",
+      "summary_raw": "Students: It's time to turn on the mic and hit 'record.' Send us your podcasts and we'll pick the best ones. It's $5,000 for our grand prize and $500 for our finalists.",
+      "id": "5c4e5a1c81ff"
     },
     {
       "source": "BBC World",
-      "title": "Journalists denied White House access after Trump banned some media outlets",
-      "link": "https://www.bbc.co.uk/news/articles/cj4gklz9dxplo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-19T19:13:49+00:00",
-      "summary_raw": "CNN, MS NOW and Politico reporters' White House press badges were confiscated, the outlets reported.",
-      "id": "070273c6cb63"
+      "title": "Watch: Concertgoers and pro-Palestinian activists arrive at Ed Sheeran concert",
+      "link": "https://www.bbc.co.uk/news/videos/ckd68l9g0gy5o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-20T02:45:43+00:00",
+      "summary_raw": "Some Ed Sheeran fans say they are excited to enjoy music and are not there for politics after Macklemore was dropped from the tour for making pro-Palestinian comments.",
+      "id": "64f982ec4beb"
     },
     {
       "source": "Science Daily",
-      "title": "Caltech’s tiny new chip can steer light in 74 quadrillionths of a second",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260918024823.htm",
-      "published_at": "2026-09-18T11:50:13+00:00",
-      "summary_raw": "A new Caltech device can redirect a beam of light in just 74 femtoseconds using another beam and a nanoscale silicon metasurface. The breakthrough could pave the way for dramatically faster photonic communications, computing, and sensing technologies.",
-      "id": "de32a9d1b2f4"
+      "title": "Ancient DNA reveals how plague kept returning for 400 years after the Black Death",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260919031025.htm",
+      "published_at": "2026-09-20T06:46:18+00:00",
+      "summary_raw": "Ancient DNA reveals that plague repeatedly returned to Europe for more than 400 years after the Black Death, evolving into new lineages and spreading through trade, migration, and war. Researchers also developed a method to date ancient plague genomes more precisely, linking many of them to specific outbreaks recorded in historical sources.",
+      "id": "13e1b194d64a"
     },
     {
       "source": "WRAL Local",
-      "title": "Gas leak closes Rock Quarry Road in Raleigh",
-      "link": "https://www.wral.com/news/local/gas-leak-closes-rock-quarry-rd-september-2026/",
-      "published_at": "2026-09-19T15:13:10+00:00",
-      "summary_raw": "An Enbridge Gas spokesperson said crews have capped the leak, and the gas is now off. Crews remain on-site conducting repairs.",
-      "id": "87d29110704d"
-    },
-    {
-      "source": "Wired",
-      "title": "An Editor’s Picks: The Best Gifts for Bird Lovers",
-      "link": "https://www.wired.com/story/best-gifts-for-bird-lovers-2026/",
-      "published_at": "2026-09-19T10:00:00+00:00",
-      "summary_raw": "Whether they’re into feeders, field guides, or games, these tried-and-tested picks are sure to land perfectly.",
-      "id": "98cd1513dd4a"
-    },
-    {
-      "source": "NPR Politics",
-      "title": "Trump says he is banning CNN, MS NOW and Politico from the White House",
-      "link": "https://www.npr.org/2026/09/18/g-s1-144112/trump-ban-cnn-msnow-politico-white-house-media",
-      "published_at": "2026-09-18T20:15:53+00:00",
-      "summary_raw": "The president chalked the ban up to what he called unfavorable coverage, and he threatened that bans on other media companies could be coming.",
-      "id": "9437d06e1bd2"
-    },
-    {
-      "source": "NPR National",
-      "title": "Trump says he is banning CNN, MS NOW and Politico from the White House",
-      "link": "https://www.npr.org/2026/09/18/g-s1-144112/trump-ban-cnn-msnow-politico-white-house-media",
-      "published_at": "2026-09-18T20:15:53+00:00",
-      "summary_raw": "The president chalked the ban up to what he called unfavorable coverage, and he threatened that bans on other media companies could be coming.",
-      "id": "9437d06e1bd2"
-    },
-    {
-      "source": "BBC World",
-      "title": "Converse pulls 'deeply upsetting' advert after backlash",
-      "link": "https://www.bbc.co.uk/news/articles/crwyzj53pl1lo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-19T14:05:01+00:00",
-      "summary_raw": "Social media users say an image from the brand's Instagram account resembled a KKK hood and hanging.",
-      "id": "720dedb8751f"
-    },
-    {
-      "source": "Science Daily",
-      "title": "NASA’s Roman Space Telescope could last more than twice as long as planned",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260918024802.htm",
-      "published_at": "2026-09-18T11:31:56+00:00",
-      "summary_raw": "NASA’s Roman Space Telescope may now have enough fuel for at least 22 years of science, more than double its original 10 year design life. An extremely precise course correction, extra fuel at launch, and additional expected savings could keep the powerful observatory studying the universe for decades.",
-      "id": "11b7cff9640b"
-    },
-    {
-      "source": "WRAL Local",
-      "title": "Most North Carolinians support legalizing marijuana, Elon poll finds",
-      "link": "https://www.wral.com/news/state/most-north-carolinians-support-legal-marijuana-september-2026/",
-      "published_at": "2026-09-19T14:58:53+00:00",
-      "summary_raw": "An Elon University survey shows broad backing for medical use, but there remains a sharp partisan divide on recreational marijuana.",
-      "id": "51b080e310e7"
+      "title": "Roy Cooper campaigns in Charlotte in U.S. Senate race",
+      "link": "https://www.wral.com/news/state/roy-cooper-campaigns-charlotte-u-s-senate-race-september-2026/",
+      "published_at": "2026-09-19T15:43:21+00:00",
+      "summary_raw": "Former NC Gov. Roy Cooper spoke with Charlotte residents Friday as he campaigns for the U.S. Senate, focusing on his proposals to lower the cost of everyday goods.",
+      "id": "23ba278c64f2"
     },
     {
       "source": "Wired",
@@ -220,43 +316,43 @@
     },
     {
       "source": "NPR Politics",
-      "title": "White House withdraws nomination of Lance Schroyer to lead ICE",
-      "link": "https://www.npr.org/2026/09/18/nx-s1-5973272/white-house-withdraws-nomination-of-lance-schroyer-to-lead-ice",
-      "published_at": "2026-09-18T10:44:40+00:00",
-      "summary_raw": "President Trump's nominee to lead U.S. Immigration and Customs Enforcement was former Oklahoma state trooper Lance Schroyer. Three months after tapping him for the job, his name is being withdrawn.",
-      "id": "258ab780cb51"
+      "title": "CNN, MS NOW, Politico reporters denied access to White House following Trump ban",
+      "link": "https://www.npr.org/2026/09/19/nx-s1-5974854/trump-cnn-msnow-politico-ban",
+      "published_at": "2026-09-19T15:26:31+00:00",
+      "summary_raw": "Three reporters were blocked from the White House grounds Saturday morning, a day after President Trump said CNN, Politico, and MS NOW would be banned for reporting \"FICTION and LIES.\"",
+      "id": "53ddb503dad0"
     },
     {
       "source": "NPR National",
-      "title": "Ms. Rachel has entered her album era, and she is so happy about it",
-      "link": "https://www.npr.org/2026/09/18/nx-s1-5938847/ms-rachel-mr-aron-new-album-im-so-happy",
-      "published_at": "2026-09-18T11:00:00+00:00",
-      "summary_raw": "Ms. Rachel has conquered YouTube, Netflix and the toy aisle. Now she's making an album, with real instruments, big feelings and her littlest listeners in mind.",
-      "id": "f78823bab269"
+      "title": "Thousands of planned launches, terms of deal, worry some near Louisiana SpaceX site",
+      "link": "https://www.npr.org/2026/09/20/nx-s1-5974180/spacex-musk-landry-louisiana-ndas",
+      "published_at": "2026-09-20T09:00:00+00:00",
+      "summary_raw": "State officials say the new SpaceX site will be a $100 billion investment and launch thousands of rockets. Lawmakers helped ease regulations and negotiations were covered under nondisclosure agreements.",
+      "id": "f7f1da0278aa"
     },
     {
       "source": "BBC World",
-      "title": "Google's Gemini AI hacked three companies in security test",
-      "link": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-19T13:39:32+00:00",
-      "summary_raw": "The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC.",
-      "id": "f96dcef14008"
+      "title": "Houthis say they targeted Saudi capital with ballistic missiles",
+      "link": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-19T23:49:26+00:00",
+      "summary_raw": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the capital.",
+      "id": "a1064a530d0f"
     },
     {
       "source": "Science Daily",
-      "title": "Scientists are about to test Einstein’s gravity with exotic matter",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260918024808.htm",
-      "published_at": "2026-09-18T11:07:25+00:00",
-      "summary_raw": "Scientists have found a new way to create a controlled beam of muonium, an exotic atom containing a heavier cousin of the electron. The advance could allow researchers to test for the first time whether gravity acts on second-generation particles exactly as Einstein’s theory predicts. Any unexpected difference would be a major surprise and could potentially point toward new physics, including a hypothetical fifth force.",
-      "id": "77984ee4bb5c"
+      "title": "A 66-million-year-old tooth reveals T. rex was nearly as warm as a human",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260919031020.htm",
+      "published_at": "2026-09-20T05:56:26+00:00",
+      "summary_raw": "Chemical clues preserved inside fossilized T. rex teeth reveal that the dinosaur maintained a body temperature of about 97 degrees Fahrenheit, almost identical to humans. The finding provides direct evidence that the giant predator was warm-blooded, helping explain how it stayed active and survived in chilly environments as far north as Alaska.",
+      "id": "217ba8173fd5"
     },
     {
       "source": "WRAL Local",
-      "title": "Three killed in early morning crash on I-85 in Granville County",
-      "link": "https://www.wral.com/news/local/part-of-i-85-granville-county-closed-september-2026/",
-      "published_at": "2026-09-19T12:17:18+00:00",
-      "summary_raw": "Northbound I-85 near Exit 191 was closed for more than six hours.",
-      "id": "ba1122601fcd"
+      "title": "Rock Quarry Road reopens after gas leak in Raleigh",
+      "link": "https://www.wral.com/news/local/gas-leak-closes-rock-quarry-rd-september-2026/",
+      "published_at": "2026-09-19T15:13:10+00:00",
+      "summary_raw": "An Enbridge Gas spokesperson said crews have capped the leak, and the gas is now off. The road has reopened, the Raleigh Fire Department said.",
+      "id": "87d29110704d"
     },
     {
       "source": "Wired",
@@ -268,139 +364,43 @@
     },
     {
       "source": "NPR Politics",
-      "title": "How Google is drafting AI chatbot laws around the country",
-      "link": "https://www.npr.org/2026/09/18/nx-s1-5968878/ai-chatbots-safety-regulation-google",
-      "published_at": "2026-09-18T09:00:00+00:00",
-      "summary_raw": "As states push to regulate chatbots, tech companies are trying to write safety rules in ways that exempt some of their key products.",
-      "id": "7e48a0c302f2"
+      "title": "Week in Politics: Trump bans news outlets; Iran War; mail-in voting; interest rates",
+      "link": "https://www.npr.org/2026/09/19/nx-s1-5973250/week-in-politics-trump-bans-news-outlets-iran-war-mail-in-voting-interest-rates",
+      "published_at": "2026-09-19T11:46:46+00:00",
+      "summary_raw": "The Trump administration was frustrated both home and abroad this week.",
+      "id": "8439d79bf9f1"
     },
     {
       "source": "NPR National",
-      "title": "True or false: Trump's name is now on the Kennedy Center. The quiz has the answer",
-      "link": "https://www.npr.org/2026/09/18/g-s1-143768/celine-dion-trump-kennedy-center-emmys-news-quiz",
-      "published_at": "2026-09-18T09:01:00+00:00",
-      "summary_raw": "The world made it to another Friday without an AI apocalypse, so here's the quiz! See you next week … maybe.",
-      "id": "97ebb951d34e"
+      "title": "CNN, MS NOW, Politico reporters denied access to White House following Trump ban",
+      "link": "https://www.npr.org/2026/09/19/nx-s1-5974854/trump-cnn-msnow-politico-ban",
+      "published_at": "2026-09-19T15:26:31+00:00",
+      "summary_raw": "Three reporters were blocked from the White House grounds Saturday morning, a day after President Trump said CNN, Politico, and MS NOW would be banned for reporting \"FICTION and LIES.\"",
+      "id": "53ddb503dad0"
     },
     {
       "source": "BBC World",
-      "title": "'Enough is enough': Women protest after string of murders near Johannesburg",
-      "link": "https://www.bbc.co.uk/news/videos/cm4gjxq1dx2eo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-19T11:50:50+00:00",
-      "summary_raw": "The police have since set up a task team to investigate the murders and have urged women in the Kempton Park area to avoid walking or running alone \"particularly in isolated areas\".",
-      "id": "635172f992e1"
+      "title": "Cultural treasures are being destroyed worldwide - so why is no-one being punished?",
+      "link": "https://www.bbc.co.uk/news/articles/cvgy1q2k2z0o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-19T23:18:18+00:00",
+      "summary_raw": "A cauldron of conflicts is bubbling across the world, with cultural monuments being destroyed. These people are fighting against it.",
+      "id": "4d40821bd8e5"
     },
     {
       "source": "Science Daily",
-      "title": "NASA’s Moon orbiter finds a 728-foot crater that wasn’t there before",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260917003715.htm",
-      "published_at": "2026-09-18T10:18:54+00:00",
-      "summary_raw": "NASA’s Lunar Reconnaissance Orbiter has revealed a 728-foot-wide crater that formed on the Moon in 2024, making it the largest newly formed crater ever identified in the solar system. The impact disturbed the surface for miles around it, creating a surprisingly large cold zone and showing how dramatically a single collision can reshape the lunar landscape.",
-      "id": "8bd547115cd3"
+      "title": "Einstein’s “spooky action” just survived one of physics’ most extreme tests",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260919031023.htm",
+      "published_at": "2026-09-20T05:16:00+00:00",
+      "summary_raw": "Physicists have detected strong evidence that heavy, fleeting Z bosons can become quantum entangled during Higgs boson decays at CERN’s Large Hadron Collider. The result shows that Einstein’s “spooky action at a distance” survives even under some of the most extreme conditions ever created in a laboratory.",
+      "id": "f0c0ee6d3957"
     },
     {
       "source": "WRAL Local",
-      "title": "Car crashes into pole, 700+ without power; driver and passenger have serious injuries",
-      "link": "https://www.wral.com/news/local/car-crashes-pole-700-without-power-serious-injuries-september-2026/",
-      "published_at": "2026-09-19T11:21:27+00:00",
-      "summary_raw": "Shortly after 10 p.m., a car ran into a power pole, and the driver was trapped inside. This happened near the Johnston County Airport on US-70 Business near Smithfield.",
-      "id": "01d7e27d6623"
-    },
-    {
-      "source": "Wired",
-      "title": "Residents Harmed by Oil Drilling May Soon Receive Reparations Under New California Law",
-      "link": "https://www.wired.com/story/residents-harmed-by-oil-drilling-may-soon-receive-reparations-under-new-california-law/",
-      "published_at": "2026-09-19T09:30:00+00:00",
-      "summary_raw": "While lawmakers iron out the details, advocates hope this approach could serve as a model for addressing histories of environmental hazards often concentrated in Black and low-income neighborhoods.",
-      "id": "35f8be46737f"
-    },
-    {
-      "source": "NPR Politics",
-      "title": "Republican 'cavalry' arrives with a Trump-backed $150 million ad blitz in key races",
-      "link": "https://www.npr.org/2026/09/18/nx-s1-5971202/trump-super-pac-midterm-spending-republicans-democrats",
-      "published_at": "2026-09-18T09:00:00+00:00",
-      "summary_raw": "To counter a difficult political environment, two Trump-aligned super PACs have reserved more than $150 million in ads — primarily in deep red House and Senate races that have now become competitive.",
-      "id": "e3f5007881c6"
-    },
-    {
-      "source": "NPR National",
-      "title": "How Google is drafting AI chatbot laws around the country",
-      "link": "https://www.npr.org/2026/09/18/nx-s1-5968878/ai-chatbots-safety-regulation-google",
-      "published_at": "2026-09-18T09:00:00+00:00",
-      "summary_raw": "As states push to regulate chatbots, tech companies are trying to write safety rules in ways that exempt some of their key products.",
-      "id": "7e48a0c302f2"
-    },
-    {
-      "source": "BBC World",
-      "title": "Shark attack prompts rare kill order in Western Australia as victim named",
-      "link": "https://www.bbc.co.uk/news/articles/cqwyzdnk442lo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-19T11:50:22+00:00",
-      "summary_raw": "Greg O'Neill \"loved the ocean\", his family say, as police boats and helicopters patrol Perth's beaches in search of his body and the shark that attacked him.",
-      "id": "cc9136adca29"
-    },
-    {
-      "source": "Science Daily",
-      "title": "These blood thinners may have an unexpected benefit for Alzheimer’s patients",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260917003732.htm",
-      "published_at": "2026-09-18T09:48:31+00:00",
-      "summary_raw": "Newer blood thinners may do more than prevent strokes in people with Alzheimer’s disease and atrial fibrillation. Researchers found that patients taking NOACs experienced a slower decline in cognitive function than those using warfarin or no blood thinners. The effect was modest each year but could add up over time.",
-      "id": "c48c14821cef"
-    },
-    {
-      "source": "WRAL Local",
-      "title": "Boil Water Advisory issued for Salemburg",
-      "link": "https://www.wral.com/news/local/boil-water-advisory-salemburg-september-2026/",
-      "published_at": "2026-09-19T10:55:17+00:00",
-      "summary_raw": "This is a precautionary measure due to a fluctuation in water pressure. The advisory was issued at 9 p.m. Friday",
-      "id": "c9ce5b73496c"
-    },
-    {
-      "source": "Wired",
-      "title": "6 Best VPN Services (2026), Tested and Reviewed",
-      "link": "https://www.wired.com/gallery/best-vpn/",
-      "published_at": "2026-09-19T09:00:00+00:00",
-      "summary_raw": "Every VPN says it’s the best, but only some of them are telling the truth.",
-      "id": "c0276b1ea5b3"
-    },
-    {
-      "source": "NPR Politics",
-      "title": "A DHS email raises new questions about the Trump administration's election plans",
-      "link": "https://www.npr.org/2026/09/18/nx-s1-5973278/dhs-noncitizen-voting-english-language",
-      "published_at": "2026-09-18T09:00:00+00:00",
-      "summary_raw": "A heavily redacted email from last year, reported first by NPR, reveals that DHS personnel shared a list of jurisdictions that offer election materials in non-English languages. It's unclear why.",
-      "id": "158c8ec949f5"
-    },
-    {
-      "source": "NPR National",
-      "title": "Army medics being trained to treat wounded military dogs despite supply challenges",
-      "link": "https://www.npr.org/2026/09/18/nx-s1-5971152/army-medics-being-trained-to-treat-wounded-military-dogs-despite-supply-challenges",
-      "published_at": "2026-09-18T08:45:04+00:00",
-      "summary_raw": "The nature of modern warfare doesn't just mean challenges for treating human casualties. The Army is also training medics to better treat wounded military dogs on the frontlines.",
-      "id": "dc22761c697b"
-    },
-    {
-      "source": "BBC World",
-      "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
-      "link": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-19T11:36:55+00:00",
-      "summary_raw": "Denmark and the US have reached an agreement after months of threats from Donald Trump to annex the territory.",
-      "id": "8b1912a6f8dd"
-    },
-    {
-      "source": "Science Daily",
-      "title": "Scientists restore a brain protein and reverse signs of aging in mice",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260918000437.htm",
-      "published_at": "2026-09-18T04:25:45+00:00",
-      "summary_raw": "Scientists found that declining levels of the brain protein Menin may help drive aging, with lower levels in mice linked to inflammation, cognitive decline, weaker bones, and thinner skin. Restoring Menin reversed several age-related changes, while the amino acid D-serine improved cognition, hinting at a potentially intriguing new target for healthy aging.",
-      "id": "6d046d44e31c"
-    },
-    {
-      "source": "WRAL Local",
-      "title": "Panther Creek and Green Level meet for annual game promoting mental health awareness",
-      "link": "https://www.wral.com/news/local/panther-creek-green-level-game-promoting-mental-health-awareness-september-2026/",
-      "published_at": "2026-09-19T02:57:39+00:00",
-      "summary_raw": "Panther Creek and Green Level High Schools held their third annual Mental Health Awareness game. Players wore \"Live for More\" shirts during warm-ups, while the National Alliance on Mental Illness (NAMI) shared mental health information and resources with students and families.",
-      "id": "e58642d9650c"
+      "title": "Most North Carolinians support legalizing marijuana, Elon poll finds",
+      "link": "https://www.wral.com/news/state/most-north-carolinians-support-legal-marijuana-september-2026/",
+      "published_at": "2026-09-19T14:58:53+00:00",
+      "summary_raw": "An Elon University survey shows broad backing for medical use, but there remains a sharp partisan divide on recreational marijuana.",
+      "id": "51b080e310e7"
     },
     {
       "source": "Wired",
@@ -412,131 +412,43 @@
     },
     {
       "source": "NPR Politics",
-      "title": "Some GOP candidates are still making election fraud claims. Voters want to move on",
-      "link": "https://www.npr.org/2026/09/18/nx-s1-5895113/some-gop-candidates-are-still-making-election-fraud-claims-voters-want-to-move-on",
-      "published_at": "2026-09-18T08:45:52+00:00",
-      "summary_raw": "President Trump and some Republican battleground candidates are still embracing false claims about widespread election fraud in 2020, even as many GOP voters want them to move on.",
-      "id": "84beebe414fb"
+      "title": "Trump says he is banning CNN, MS NOW and Politico from the White House",
+      "link": "https://www.npr.org/2026/09/18/g-s1-144112/trump-ban-cnn-msnow-politico-white-house-media",
+      "published_at": "2026-09-18T20:15:53+00:00",
+      "summary_raw": "The president chalked the ban up to what he called unfavorable coverage, and he threatened that bans on other media companies could be coming.",
+      "id": "9437d06e1bd2"
     },
     {
       "source": "NPR National",
-      "title": "Couple shares how chance encounter brought them together after meeting online",
-      "link": "https://www.npr.org/2026/09/18/nx-s1-5971450/couple-shares-how-chance-encounter-brought-them-together-after-meeting-online",
-      "published_at": "2026-09-18T08:44:14+00:00",
-      "summary_raw": "A couple, now married, tell the story of how they met online and then crossed paths in an unexpected place.",
-      "id": "1ab19d875873"
+      "title": "Tax relief or public danger? Florida voters weigh tax cuts against firefighter funding",
+      "link": "https://www.npr.org/2026/09/19/nx-s1-5947199/tax-relief-or-public-danger-florida-voters-weigh-tax-cuts-against-firefighter-funding",
+      "published_at": "2026-09-19T11:40:39+00:00",
+      "summary_raw": "Florida voters may end most residential property taxes - a step considered in other states. Local firefighters worry what it will do to their response times - and other officials are sounding alarms.",
+      "id": "84a5932e83a1"
     },
     {
       "source": "BBC World",
-      "title": "Millions without power as Cuba hit by latest major blackout",
-      "link": "https://www.bbc.co.uk/news/articles/c6j9x4387lzxo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-19T10:27:37+00:00",
-      "summary_raw": "Widespread power outages have become increasingly common due to fuel shortages made worse by a US blockade.",
-      "id": "5c0974f2bdc9"
+      "title": "Mum's viral barefoot race sparks debate over India's education crisis",
+      "link": "https://www.bbc.co.uk/news/articles/cw62m6z7m7zjo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-19T23:18:06+00:00",
+      "summary_raw": "The 47-year-old ran - and won - a 3km race where she hoped to win enough prize money to buy study books for her daughter.",
+      "id": "150d4c21b895"
     },
     {
       "source": "Science Daily",
-      "title": "Ozempic can change your body. Can it change your life?",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260917003728.htm",
-      "published_at": "2026-09-18T03:52:09+00:00",
-      "summary_raw": "Ozempic and other GLP-1 medications can improve blood sugar, weight, and cardiovascular health, but researchers found little evidence that they also improve mental health, employment, marriage, or overall well-being. The findings suggest the drugs’ broader life effects may be subtler than their dramatic physical health benefits.",
-      "id": "b563daa68ff9"
+      "title": "Hurricane Hunters reveal 4 warning signs that a storm is about to strengthen",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260919031037.htm",
+      "published_at": "2026-09-20T04:29:23+00:00",
+      "summary_raw": "Nearly three decades of Hurricane Hunter data reveal four features that can help a tilted tropical cyclone straighten its circulation and become capable of intensifying. The findings could give forecasters an earlier warning that a seemingly disorganized storm is becoming primed to strengthen.",
+      "id": "3013f402bde1"
     },
     {
       "source": "WRAL Local",
-      "title": "'He wanted to be a real action figure': Apex soldier killed during training in Texas",
-      "link": "https://www.wral.com/news/local/real-action-figure-apex-soldier-killed-in-training-fort-hood-september-2026/",
-      "published_at": "2026-09-19T01:49:07+00:00",
-      "summary_raw": "The Apex soldier has been identified as the man who died in a vehicle rollover while training on Monday at Fort Hood in Texas.",
-      "id": "496a23fe8719"
-    },
-    {
-      "source": "Wired",
-      "title": "Xiaomi Has a Luxury SUV for $31,000 That All Western Brands Should Fear",
-      "link": "https://www.wired.com/story/xiaomi-has-a-luxury-suv-all-western-brands-should-fear/",
-      "published_at": "2026-09-19T06:00:00+00:00",
-      "summary_raw": "The SkyNomad—with heated floors, a projector, a pop-up roof, a fridge, swiveling seats, and over 1,000 miles of range—is a “luxury” ride that undercuts Range Rovers by tens of thousands of dollars.",
-      "id": "8aa3dbf265e8"
-    },
-    {
-      "source": "NPR Politics",
-      "title": "Republican candidate in Florida runs ads criticizing Trump's immigration enforcement",
-      "link": "https://www.npr.org/2026/09/18/nx-s1-5973221/republican-candidate-in-florida-runs-ads-criticizing-trumps-immigration-enforcement",
-      "published_at": "2026-09-18T08:45:44+00:00",
-      "summary_raw": "In a rare move, a House Republican running in a competitive race in South Florida is publicly breaking with President Trump. Maria Elvira Salazar represents a majority Hispanic district.",
-      "id": "7221c0f9c670"
-    },
-    {
-      "source": "NPR National",
-      "title": "Poland's prime minister warns of Russian 'accidental' attacks on Ukraine's allies",
-      "link": "https://www.npr.org/2026/09/18/nx-s1-5973265/poland-nato-russia",
-      "published_at": "2026-09-18T08:44:08+00:00",
-      "summary_raw": "Polish Prime Minister Donald Tusk said that these potential strikes \"intend to paralyze NATO\" in an attempt to demonstrate that Article 5 \"exists only in theory.\"",
-      "id": "c4199e0c2a5a"
-    },
-    {
-      "source": "BBC World",
-      "title": "Kerry Kennedy: 'It would be a tragedy' if Kennedy Center is demolished",
-      "link": "https://www.bbc.co.uk/news/videos/cv8e3jw1kr4lo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-19T00:03:53+00:00",
-      "summary_raw": "The BBC’s Caitríona Perry spoke to the late president's niece, as protesters gathered at the venue to condemn demolition threats.",
-      "id": "6bbd0393bc8d"
-    },
-    {
-      "source": "Science Daily",
-      "title": "Anak Krakatau blasts ash nearly 10 miles high",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260917003718.htm",
-      "published_at": "2026-09-18T03:16:17+00:00",
-      "summary_raw": "Anak Krakatau erupted for more than 24 hours in early September, sending volcanic ash up to 50,000 feet into the atmosphere. The ash cloud shut down eight airports, disrupted nearly 3,000 flights, and affected air quality as far away as Jakarta. NASA satellites captured dramatic views of the plume spreading across the region.",
-      "id": "1554335e9fea"
-    },
-    {
-      "source": "Wired",
-      "title": "Paramount+ Coupon Codes and Deals for September 2026",
-      "link": "https://www.wired.com/story/paramount-plus-coupon-code/",
-      "published_at": "2026-09-19T05:00:00+00:00",
-      "summary_raw": "Save on streaming with the latest Paramount+ promo codes and deals, including 50% off subscriptions, free trials, and more.",
-      "id": "ab7d5e65e0f9"
-    },
-    {
-      "source": "BBC World",
-      "title": "I found love at an Irish matchmaking festival - and I want others to do the same",
-      "link": "https://www.bbc.co.uk/news/articles/cw5y4jz6k2p3o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-18T23:18:02+00:00",
-      "summary_raw": "Mary Timby flew to Ireland on a whim last year and met her boyfriend at a matchmaking festival.",
-      "id": "161c3cae7050"
-    },
-    {
-      "source": "Science Daily",
-      "title": "Scientists just discovered why Arctic sea ice moves so strangely",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260917003708.htm",
-      "published_at": "2026-09-18T02:13:16+00:00",
-      "summary_raw": "Arctic sea ice may move in unexpected ways because individual ice floes are constantly colliding and transferring energy. Researchers found that this simple process can explain several long-standing mysteries about how quickly the ice moves and spreads.",
-      "id": "bc5690f47ed4"
-    },
-    {
-      "source": "Wired",
-      "title": "B&H Photo Promo Codes and Deals This September 2026",
-      "link": "https://www.wired.com/story/bh-photo-coupon/",
-      "published_at": "2026-09-19T05:00:00+00:00",
-      "summary_raw": "Enjoy top deals on cameras, computers, and tech essentials at B&H Photo.",
-      "id": "3572a6ebf93e"
-    },
-    {
-      "source": "BBC World",
-      "title": "Tata Sons: India's corporate crown braces for upheaval amid boardroom revolt",
-      "link": "https://www.bbc.co.uk/news/articles/c670lkvdzkn2o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-18T23:07:16+00:00",
-      "summary_raw": "The Tata boardroom battle has intensified over a re-appointment of its chairman and a diktat to go public.",
-      "id": "b19d09010fa8"
-    },
-    {
-      "source": "Science Daily",
-      "title": "This popular fermented food may help flush nanoplastics from the body",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260917101058.htm",
-      "published_at": "2026-09-17T14:42:52+00:00",
-      "summary_raw": "A kimchi-derived bacterium can bind to nanoplastics under gut-like conditions and may help carry them out of the body. In mice, the probiotic more than doubled the amount of nanoplastics detected in feces, pointing to a surprising potential use for microbes from fermented foods.",
-      "id": "9c13791f1a85"
+      "title": "Three family members killed in early morning crash on I-85 in Granville County",
+      "link": "https://www.wral.com/news/local/part-of-i-85-granville-county-closed-september-2026/",
+      "published_at": "2026-09-19T12:17:18+00:00",
+      "summary_raw": "The crash happened around 4 a.m. near the Durham County line. Northbound I-85 near Exit 191 was closed for more than six hours.",
+      "id": "ba1122601fcd"
     },
     {
       "source": "Wired",
@@ -547,20 +459,36 @@
       "id": "7b86cc364b02"
     },
     {
+      "source": "NPR Politics",
+      "title": "White House withdraws nomination of Lance Schroyer to lead ICE",
+      "link": "https://www.npr.org/2026/09/18/nx-s1-5973272/white-house-withdraws-nomination-of-lance-schroyer-to-lead-ice",
+      "published_at": "2026-09-18T10:44:40+00:00",
+      "summary_raw": "President Trump's nominee to lead U.S. Immigration and Customs Enforcement was former Oklahoma state trooper Lance Schroyer. Three months after tapping him for the job, his name is being withdrawn.",
+      "id": "258ab780cb51"
+    },
+    {
+      "source": "NPR National",
+      "title": "Alaska's salmon-feasting bears face off in biggest Fat Bear Week ever",
+      "link": "https://www.npr.org/2026/09/18/nx-s1-5973938/fat-bear-week-2026-bracket",
+      "published_at": "2026-09-18T21:13:14+00:00",
+      "summary_raw": "This year's single-elimination tournament will see 16 competitors face off, compared to 12 in past years. Officials report more cubs in Katmai National Park than they've seen in recent memory.",
+      "id": "d04a39ccc35c"
+    },
+    {
       "source": "BBC World",
-      "title": "Grim discoveries of murdered women spark fear in South Africa",
-      "link": "https://www.bbc.co.uk/news/articles/cjkg71e67k17o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-18T23:04:41+00:00",
-      "summary_raw": "Dineo Motapane is one of nine recent victims whose deaths have left a nation traumatised over the level of violence against women.",
-      "id": "2b5af593006e"
+      "title": "Not all AI workers think the tech could kill everyone",
+      "link": "https://www.bbc.co.uk/news/articles/cm5y7qj54klpo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-19T23:01:57+00:00",
+      "summary_raw": "In text exchanges and conversations, multiple people who have worked for leading companies are sceptical of the warnings.",
+      "id": "e4086accdba9"
     },
     {
       "source": "Science Daily",
-      "title": "Scientists discover a mysterious new frog hiding in the Amazon",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260917003737.htm",
-      "published_at": "2026-09-17T14:08:44+00:00",
-      "summary_raw": "Scientists discovered a new frog species in the flooded forests of the western Amazon, distinguishing it from nearly identical relatives through DNA and its unique call. Adenomera varcena highlights how much Amazonian biodiversity remains hidden even as habitat loss and climate change threaten these poorly understood species.",
-      "id": "fe3ba95caf9f"
+      "title": "Hidden gut defect that may explain why IBD keeps coming back",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260918024814.htm",
+      "published_at": "2026-09-20T03:41:48+00:00",
+      "summary_raw": "Researchers have uncovered a hidden molecular warning sign of inflammatory bowel disease (IBD) that can linger even when patients feel well and appear to be in remission. By studying around 900 human gut biopsies and patient-derived mini-intestines, the team found that intestinal cells can remain unusually primed to die, creating a “smoldering” defect that may help drive future flare-ups.",
+      "id": "66f90bbee851"
     },
     {
       "source": "Wired",
@@ -572,19 +500,19 @@
     },
     {
       "source": "BBC World",
-      "title": "A four-minute warning isn't enough: Russia's new relentless missile tactics exhaust Kyiv residents",
-      "link": "https://www.bbc.co.uk/news/articles/cwp93k9gpnv1o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-18T23:03:38+00:00",
-      "summary_raw": "Increasingly frequent and ferocious attacks on the Ukrainian capital have left many on edge.",
-      "id": "961198107720"
+      "title": "'I don't even know if my parents are alive' - the war heroes jailed 25 years ago",
+      "link": "https://www.bbc.co.uk/news/articles/cx1l6762jeq4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-19T23:01:45+00:00",
+      "summary_raw": "The children of key politicians jailed 25 years ago without a trace in Eritrea want answers.",
+      "id": "535b6b16dc39"
     },
     {
       "source": "Science Daily",
-      "title": "A $100 detector can see invisible particles raining down from space",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260917003725.htm",
-      "published_at": "2026-09-17T13:54:19+00:00",
-      "summary_raw": "A pocket-sized, roughly $100 detector can reveal the invisible stream of cosmic particles constantly passing through Earth and even through our bodies. What began as a student physics project is now being used in major experiments, balloon missions, and potentially future spacecraft.",
-      "id": "6d2713820f9e"
+      "title": "A deadly ebola relative is surging after years in the shadows",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260919031042.htm",
+      "published_at": "2026-09-20T02:26:36+00:00",
+      "summary_raw": "A growing Bundibugyo virus outbreak is showing how a little-known relative of Ebola can become a major threat when diagnosis and treatment options are limited. Experts warn that preparing only for familiar pathogens could leave the world vulnerable when rare but deadly viruses suddenly reemerge.",
+      "id": "6af4d9fe9c2f"
     },
     {
       "source": "Wired",
@@ -596,19 +524,19 @@
     },
     {
       "source": "BBC World",
-      "title": "Trump signs sweeping Russia sanctions bill",
-      "link": "https://www.bbc.co.uk/news/articles/cqvgy34ndj4eo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-18T22:05:47+00:00",
-      "summary_raw": "The bill is named after the late Senator Lindsey Graham, a staunch advocate of aid for Ukraine.",
-      "id": "da45985ff3c2"
+      "title": "Our head teacher was an abuser. We joined forces to get justice - now we're married",
+      "link": "https://www.bbc.co.uk/news/articles/cg4d9vly636o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-19T23:01:38+00:00",
+      "summary_raw": "Students spent years collecting evidence against their Indonesian principal, before falling in love.",
+      "id": "bb55736d6b27"
     },
     {
       "source": "Science Daily",
-      "title": "Astronomers just found the youngest known planet ever",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260917003712.htm",
-      "published_at": "2026-09-17T13:00:19+00:00",
-      "summary_raw": "Astronomers have confirmed a Jupiter-size planet less than a million years old, making Elias 2-24 b the youngest known planet and giving scientists a rare look at a world still being born. Its surprisingly rapid formation challenges leading theories about how giant planets come together, especially so far from their stars.",
-      "id": "5aae9d6498f2"
+      "title": "New chemical wipes out 95% of termites without harming humans",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260919025248.htm",
+      "published_at": "2026-09-19T12:29:12+00:00",
+      "summary_raw": "A chemical that stops drywood termites from building new exoskeletons killed about 95% of colonies in testing, offering a potentially safer alternative to traditional fumigation. Because termites eventually have no choice but to molt, the treatment turns a normal stage of their life cycle into a fatal weakness.",
+      "id": "87a9126943a3"
     },
     {
       "source": "Wired",
@@ -620,19 +548,19 @@
     },
     {
       "source": "BBC World",
-      "title": "Watch: Trump says ban on some news outlets is 'because they're fake news'",
-      "link": "https://www.bbc.co.uk/news/videos/cm93e7p1wkndo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-18T20:35:03+00:00",
-      "summary_raw": "The US president on Friday announced he is \"immediately\" banning CNN, MS NOW and Politico from the White House.",
-      "id": "2c9bcc062ae8"
+      "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
+      "link": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-19T23:00:27+00:00",
+      "summary_raw": "Denmark and the US have reached an agreement after months of threats from Donald Trump to annex the territory.",
+      "id": "ee8d4537864d"
     },
     {
       "source": "Science Daily",
-      "title": "JWST’s mysterious little red dots may be black holes growing at incredible speeds",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260917003703.htm",
-      "published_at": "2026-09-17T12:45:48+00:00",
-      "summary_raw": "New supercomputer simulations suggest JWST’s puzzling Little Red Dots are rapidly growing black holes from the early Universe. Extreme radiation may have helped create unusually massive black hole seeds, while dense surrounding gas allowed them to grow dozens of times faster than black holes can today. The simulated objects closely resemble the Little Red Dots seen by Webb. If correct, they could solve the mystery of how enormous black holes formed so soon after the Big Bang.",
-      "id": "1dc545b84205"
+      "title": "A giant crater may reveal the origin of Mars’ doomed moon",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260919031040.htm",
+      "published_at": "2026-09-19T12:12:41+00:00",
+      "summary_raw": "A massive crater on Mars’ moon Phobos may hide a dense region of compressed material that could reveal whether the moon is a captured asteroid or debris from an ancient impact on Mars. Japan’s upcoming MMX sample return mission could provide the measurements and physical evidence needed to solve the mystery.",
+      "id": "cfa06f68dbc1"
     },
     {
       "source": "Wired",
@@ -641,6 +569,78 @@
       "published_at": "2026-09-19T05:00:00+00:00",
       "summary_raw": "Save 30% or 10% with Samsung coupon codes, up to $1,000 on appliances, plus limited-time deals on the Galaxy Z Fold7, Flip7, and S25.",
       "id": "34dfd5bdd1ff"
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump says US will form 'AI Force' and appoint an artificial intelligence tsar",
+      "link": "https://www.bbc.co.uk/news/articles/cqlykr2vrv04o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-19T21:01:56+00:00",
+      "summary_raw": "The president said his administration \"will not in any way hinder or stifle the growth\" amid amid warnings about the emergent technology.",
+      "id": "a01b842ce1f9"
+    },
+    {
+      "source": "Science Daily",
+      "title": "This deep-sea enzyme survives heat that destroys most proteins",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260918024810.htm",
+      "published_at": "2026-09-19T11:49:45+00:00",
+      "summary_raw": "A deep-sea microbe uses an exceptionally heat-resistant enzyme to turn atmospheric nitrogen into ammonia at temperatures that would destroy most proteins. Its unusual structure and a newly observed reaction state may reveal an ancient, shared mechanism behind nitrogen fixation and could eventually inspire cleaner biotechnology and fertilizer production.",
+      "id": "c0c8c378d601"
+    },
+    {
+      "source": "Wired",
+      "title": "Apple Watch Ultra 4 Review: The Series 12 Is Closing the Gap",
+      "link": "https://www.wired.com/review/apple-watch-ultra-4/",
+      "published_at": "2026-09-18T19:36:48+00:00",
+      "summary_raw": "The Ultra 4 gets smarter about health tracking and lasts longer between charges. But for most people, the Series 12 gets close enough.",
+      "id": "437405de3364"
+    },
+    {
+      "source": "BBC World",
+      "title": "Journalists denied White House access after Trump banned some media outlets",
+      "link": "https://www.bbc.co.uk/news/articles/cj4gklz9dxplo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-19T19:13:49+00:00",
+      "summary_raw": "CNN, MS NOW and Politico reporters' White House press badges were confiscated, the outlets reported.",
+      "id": "bdd45583cd6a"
+    },
+    {
+      "source": "Science Daily",
+      "title": "This tiny organism can shrink to one quarter its size in milliseconds",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260918024812.htm",
+      "published_at": "2026-09-19T11:39:22+00:00",
+      "summary_raw": "A single-celled organism can shrink to one-quarter of its length in milliseconds using a remarkable calcium-powered protein “fishnet.” Scientists hope its unusual machinery could inspire artificial muscles capable of moving far faster than today’s designs.",
+      "id": "285894fc8b79"
+    },
+    {
+      "source": "Wired",
+      "title": "Here’s How an AI Slowdown Could Actually Be Enforced",
+      "link": "https://www.wired.com/story/heres-how-an-ai-slowdown-could-actually-work/",
+      "published_at": "2026-09-18T19:21:09+00:00",
+      "summary_raw": "Even if big AI companies agree to a pause, ensuring that nobody tries to sneak ahead could prove tricky.",
+      "id": "2c5e0ba37657"
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump escalates media fight after week of setbacks",
+      "link": "https://www.bbc.co.uk/news/articles/cmn8ed1xpxnyo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-19T17:23:37+00:00",
+      "summary_raw": "An embattled Trump has injected his fight with the news media with new acrimony, writes the BBC's Anthony Zurcher.",
+      "id": "070c29ff9b8a"
+    },
+    {
+      "source": "Science Daily",
+      "title": "Scientists find that “perfect” systems may be surprisingly fragile",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260919031022.htm",
+      "published_at": "2026-09-19T11:26:53+00:00",
+      "summary_raw": "Complex systems may work better when their parts are not perfectly alike. Northwestern physicists found that carefully balanced variation, or “disorder,” can make networks such as power grids, ecosystems, neurons, and materials more stable. Even random differences sometimes improved stability compared with completely uniform systems. The discovery could help researchers design more resilient technologies and explain why natural systems are so rarely perfectly uniform.",
+      "id": "975ed58495ad"
+    },
+    {
+      "source": "Wired",
+      "title": "An Undercover Google Analyst Infiltrated a Notorious Supply-Chain Hacking Gang",
+      "link": "https://www.wired.com/story/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/",
+      "published_at": "2026-09-18T16:00:00+00:00",
+      "summary_raw": "TeamPCP pulled off the worst-ever software supply-chain hacking spree and breached thousands of companies. Now Google’s threat intelligence group says it had a mole inside the hackers’ inner circle.",
+      "id": "2abbcb40841a"
     }
   ]
 }

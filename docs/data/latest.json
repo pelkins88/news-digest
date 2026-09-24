@@ -1,14 +1,70 @@
 {
   "mode": "raw",
-  "generated_at": "2026-09-23T22:41:35.942236+00:00",
+  "generated_at": "2026-09-24T15:46:42.857672+00:00",
   "items": [
     {
       "source": "WRAL Local",
-      "title": "‘No one should be trapped’: Renewed push to change NC divorce laws, cut separation period",
-      "link": "https://www.wral.com/news/state/divorce-laws-separation-alienation-affection-lawsuits-september-2026/",
-      "published_at": "2026-09-23T21:55:34+00:00",
-      "summary_raw": "A North Carolina lawmaker and a popular influencer are pushing to shorten the state's 12-month required divorce separation period and get rid of the state's contentious alienation-of-affection lawsuits.",
-      "id": "3446baa35e00"
+      "title": "Car crashes into treeline off I-40 in Cary",
+      "link": "https://www.wral.com/news/local/car-in-treeline-i-40-west-cary-september-2026/",
+      "published_at": "2026-09-24T12:16:23+00:00",
+      "summary_raw": "Sky 5 on Thursday flew over Interstate 40 in Cary near the Harrison Avenue exit, where a car went off the road and into the woodline.",
+      "id": "7d23ac6b550d"
+    },
+    {
+      "source": "WRAL Weather",
+      "title": "Ask the Meteorologist: How long does the cooler air stick around?",
+      "link": "https://www.wral.com/weather/ask-the-meteorologist-cooler-weather-sticking-around-september-2026/",
+      "published_at": "2026-09-24T12:56:57+00:00",
+      "summary_raw": "After such an abnormally warm start to meteorological fall, we have seen a huge temperature swing this week. Let's look at how long this cooler trend lasts and how close these temperatures are to normal.",
+      "id": "fc28c9fe0e80"
+    },
+    {
+      "source": "Wired",
+      "title": "Bose Ultra Open Earbuds Are $100 Off Right Now",
+      "link": "https://www.wired.com/story/bose-ultra-open-deal-september-2026/",
+      "published_at": "2026-09-24T11:36:00+00:00",
+      "summary_raw": "They’re some of my favorite open earbuds, and matching their lowest price ever.",
+      "id": "dd26bb290f5a"
+    },
+    {
+      "source": "NPR Politics",
+      "title": "What's at stake during the meeting between Trump and Xi",
+      "link": "https://www.npr.org/2026/09/24/nx-s1-5978803/whats-at-stake-during-the-meeting-between-trump-and-xi",
+      "published_at": "2026-09-24T09:45:57+00:00",
+      "summary_raw": "What can we expect from the Trump-Xi summit? NPR's A Martinez asks Daniel Kritenbrink, an assistant Secretary of State for East Asian and Pacific affairs in the Biden administration.",
+      "id": "7e14cf58a714"
+    },
+    {
+      "source": "NPR National",
+      "title": "The economic squeeze is pushing up poverty rates for older adults",
+      "link": "https://www.npr.org/2026/09/24/nx-s1-5979857/senior-adult-poverty-affordability",
+      "published_at": "2026-09-24T15:00:00+00:00",
+      "summary_raw": "Despite lower poverty overall, the rate for seniors has been steadily rising in recent years. A new AARP survey sheds light on how those over 50 are struggling in the crucial time before retirement.",
+      "id": "852015c5554c"
+    },
+    {
+      "source": "BBC World",
+      "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
+      "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-24T15:42:07+00:00",
+      "summary_raw": "Australia criticised OpenAI for taking \"too long\" to tell them about the breach which happened in June.",
+      "id": "851ea50f7448"
+    },
+    {
+      "source": "Science Daily",
+      "title": "ADHD and autism diagnoses have surged. A massive study may help explain why",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260924020353.htm",
+      "published_at": "2026-09-24T13:45:17+00:00",
+      "summary_raw": "A large Danish study found that children diagnosed with ADHD or autism today more closely resemble their peers in the general population than those diagnosed 10 years ago. The shift suggests that rising diagnosis rates may partly reflect broader identification and changing diagnostic patterns, rather than only an increase in the underlying conditions.",
+      "id": "338437facec8"
+    },
+    {
+      "source": "WRAL Local",
+      "title": "New $950,000 Clayton fire truck overturns, blocks road",
+      "link": "https://www.wral.com/news/local/firetruck-overturns-covered-bridge-road-clayton-september-2026/",
+      "published_at": "2026-09-24T11:53:24+00:00",
+      "summary_raw": "An overturned fire truck blocked a section of Covered Bridge Road in Clayton on Thursday morning.",
+      "id": "1e8412317097"
     },
     {
       "source": "WRAL Weather",
@@ -20,51 +76,51 @@
     },
     {
       "source": "Wired",
-      "title": "A US-China AI Hotline Won't Be Ready For a While",
-      "link": "https://www.wired.com/story/a-us-china-ai-hotline-wont-be-ready-for-a-while/",
-      "published_at": "2026-09-23T21:00:00+00:00",
-      "summary_raw": "As the US and China race to become the dominant power in the AI industry, the countries also appear to be figuring out ways to communicate on national security issues.",
-      "id": "30cf3d347df4"
+      "title": "An OpenAI Agent Hacked Australia’s Health Service. Their Government Found Out Months Later",
+      "link": "https://www.wired.com/story/openai-agent-hacked-australias-health-service-their-government-found-out-months-later/",
+      "published_at": "2026-09-24T10:46:56+00:00",
+      "summary_raw": "The country’s prime minister expressed disappointment at being informed of the hack only via email. Now Australia is investigating whether OpenAI broke the law.",
+      "id": "d3f18616dea2"
     },
     {
       "source": "NPR Politics",
-      "title": "Results are in from the newest NPR/PBS News/Marist poll",
-      "link": "https://www.npr.org/2026/09/23/nx-s1-5978130/results-are-in-from-the-newest-npr-pbs-news-marist-poll",
-      "published_at": "2026-09-23T21:14:52+00:00",
-      "summary_raw": "People say they are more likely to choose a Democrat to represent them in Congress, and feel Democrats would be better at tackling top issues like the economy and foreign policy.",
-      "id": "2d021c3bb496"
+      "title": "Chinese leader Xi Jinping arrives in U.S. for first state visit in 11 years",
+      "link": "https://www.npr.org/2026/09/24/nx-s1-5978774/chinese-leader-xi-jinping-arrives-in-u-s-for-first-state-visit-in-11-years",
+      "published_at": "2026-09-24T09:45:50+00:00",
+      "summary_raw": "Chinese leader Xi Jinping arrived in the United States on Wednesday evening for his first state visit in 11 years.",
+      "id": "65b4ae0da265"
     },
     {
       "source": "NPR National",
-      "title": "FBI records point to possible congressional pay-for-play scheme",
-      "link": "https://www.npr.org/2026/09/23/nx-s1-5977806/fbi-records-point-to-possible-congressional-pay-for-play-scheme",
-      "published_at": "2026-09-23T21:14:49+00:00",
-      "summary_raw": "NPR's Juana Summers talks with Avi Asher-Schapiro of ProPublica about the connections between a defense contractor and Sen. Susan Collins of Maine, and how the FBI was, at one time, looking into it.",
-      "id": "7617acd99190"
+      "title": "FBI investigating after hackers say they took sensitive data from agency's jobs site",
+      "link": "https://www.npr.org/2026/09/24/nx-s1-5979037/fbi-investigating-after-hackers-say-they-took-sensitive-data-from-agencys-jobs-site",
+      "published_at": "2026-09-24T10:50:54+00:00",
+      "summary_raw": "The FBI is investigating criminal hackers' claims of breaching its jobs website. The apparent hack poses a potential counterintelligence risk and a safety concern for employees and applicants.",
+      "id": "38bba5dcdf7a"
     },
     {
       "source": "BBC World",
-      "title": "AI superpower ambitions take centre stage as Trump and Xi meet",
-      "link": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-23T22:01:17+00:00",
-      "summary_raw": "The US and China are vying for AI supremacy while seeking to keep it under human control.",
-      "id": "36f56484d09b"
+      "title": "Ethiopia's army says it has repelled attacks in first comment on fresh fighting",
+      "link": "https://www.bbc.co.uk/news/articles/cqevwm09w4xmo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-24T15:37:45+00:00",
+      "summary_raw": "The military says its soldiers inflicted casualties as fears grow of a resumption of a full-blown civil war.",
+      "id": "169c5bae4a7b"
     },
     {
       "source": "Science Daily",
-      "title": "The LHC just ruled out another hiding place for quantum black holes",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260922005649.htm",
-      "published_at": "2026-09-23T03:32:54+00:00",
-      "summary_raw": "Physicists searching through Large Hadron Collider data found no evidence that the machine has been producing microscopic quantum black holes, but the result sharply narrows where such exotic physics could still be hiding. These hypothetical black holes could form if extra spatial dimensions make gravity much stronger at extremely tiny scales, potentially offering clues toward the long-sought theory of quantum gravity.",
-      "id": "ee2749219443"
+      "title": "When what you see doesn’t make sense, your brain does something remarkable",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260923035929.htm",
+      "published_at": "2026-09-24T13:28:15+00:00",
+      "summary_raw": "The brain may have a built-in way to quickly settle disagreements between regions processing the same scene. Researchers found that matching signals between two visual areas lasted longer, while conflicting signals rapidly faded away. This “consensus building” mechanism could help explain how the brain turns many specialized inputs into one unified view of the world.",
+      "id": "ee699c5560ed"
     },
     {
       "source": "WRAL Local",
-      "title": "Clayton police investigate third incident of hate symbols at town park",
-      "link": "https://www.wral.com/news/local/clayton-police-investigate-third-incident-of-hate-symbols-at-town-park-sept-23-2026/",
-      "published_at": "2026-09-23T21:17:57+00:00",
-      "summary_raw": "A WRAL viewer shared photos showing antisemitic illustrations attached to a storyboard at East Clayton Community Park last weekend.",
-      "id": "bb03a879f700"
+      "title": "Highway 12 closed in Outer Banks, crack forms as NC coast feels impact of nor'easter",
+      "link": "https://www.wral.com/news/local/nc-coast-impacts-noreaster-flooding-winds-high-waves-september-2026/",
+      "published_at": "2026-09-24T11:35:43+00:00",
+      "summary_raw": "The Outer Banks is feeling the effects of a nor-easter, which is expected to bring dangerous conditions to parts of the East Coast in the coming days.",
+      "id": "a8babc6edc64"
     },
     {
       "source": "WRAL Weather",
@@ -76,51 +132,51 @@
     },
     {
       "source": "Wired",
-      "title": "AI Agents Teamed Up to Cheat at Blackjack. Their Collusion Is Getting Harder to Spot",
-      "link": "https://www.wired.com/story/ai-agent-collusion-card-counting-secrets/",
-      "published_at": "2026-09-23T18:30:00+00:00",
-      "summary_raw": "A clandestine card-counting operation suggests we may need new ways to spot agent-to-agent deception.",
-      "id": "6ee532702416"
+      "title": "SeaWorld Wants to Make You Horny",
+      "link": "https://www.wired.com/story/seaworld-wants-to-make-you-horny/",
+      "published_at": "2026-09-24T10:45:00+00:00",
+      "summary_raw": "The Orlando theme park’s immersive Halloween experience now includes hot, brooding guys in an homage to romantasy antiheroes—and it’s leading to record-breaking ticket sales.",
+      "id": "8f319a714532"
     },
     {
       "source": "NPR Politics",
-      "title": "Trump and Xi meet at moment of global consequence",
-      "link": "https://www.npr.org/2026/09/23/nx-s1-5978733/trump-xi-meeting-china",
-      "published_at": "2026-09-23T18:23:19+00:00",
-      "summary_raw": "It is the second time the leaders are meeting this year after the Beijing summit in May.",
-      "id": "d255d8217344"
+      "title": "Warren demands Trump officials explain removing a ban on interference in census data",
+      "link": "https://www.npr.org/2026/09/24/nx-s1-5979070/department-commerce-census-bureau-elizabeth-warren",
+      "published_at": "2026-09-24T09:00:00+00:00",
+      "summary_raw": "Democratic Sen. Elizabeth Warren asked Trump officials to explain why the Census Bureau's parent agency cut a ban on political interference from its scientific integrity policy, as NPR first reported.",
+      "id": "c301d3985f21"
     },
     {
       "source": "NPR National",
-      "title": "From cybersecurity to AI to Taiwan, what's at stake in Trump's summit with Xi",
-      "link": "https://www.npr.org/2026/09/23/nx-s1-5978691/from-cybersecurity-to-ai-what-at-stake-in-trumps-meeting-with-and-president-xiwhy-the-us-and-china-are-at-a-precarious-moment-in-their-relationship",
-      "published_at": "2026-09-23T16:13:52+00:00",
-      "summary_raw": "As President Trump and China's President Xi prepare to meet, Rush Doshi of the Council on Foreign Relations explains the current state of U.S.-China relations and what to expect from this summit.",
-      "id": "9f1560b5f2c1"
+      "title": "The Education Dept. hasn't been dismantled. It's become more inefficient, staff say",
+      "link": "https://www.npr.org/2026/09/24/nx-s1-5968605/education-department-dismantling-how-its-going",
+      "published_at": "2026-09-24T09:00:00+00:00",
+      "summary_raw": "Education staff are being scattered across several other federal agencies. Despite the Trump administration's claims, employees say it's adding bureaucracy and making it harder to serve students.",
+      "id": "4613c6df04b8"
     },
     {
       "source": "BBC World",
-      "title": "Federal judge delays ruling on White House media ban",
-      "link": "https://www.bbc.co.uk/news/articles/c6790yrgzq25o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-23T21:53:38+00:00",
-      "summary_raw": "During a roughly 45-minute hearing, a lawyer for CNN, Politico and MS NOW disputed Trump administration arguments that the ban was over national security concerns.",
-      "id": "576cbad6d10a"
+      "title": "White House 'repeatedly violated' court order to restore press access, say media outlets",
+      "link": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-24T15:31:54+00:00",
+      "summary_raw": "Employees from CNN, Politico and MS Now reported being denied entry, with some having passes confiscated.",
+      "id": "f5c5caee51a9"
     },
     {
       "source": "Science Daily",
-      "title": "The Solar System chose fire over ice from the very beginning",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260921081052.htm",
-      "published_at": "2026-09-23T03:06:29+00:00",
-      "summary_raw": "Ancient iron meteorites reveal that some of the Solar System’s first solid bodies were built mostly from tiny heat-forged rock beads called chondrules, while water-rich dust was largely excluded. The finding pushes this selective planet-building process back to within the Solar System’s first million years.",
-      "id": "e0287470c62e"
+      "title": "Distant time crystals can somehow fall into the same rhythm",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260923035934.htm",
+      "published_at": "2026-09-24T13:16:41+00:00",
+      "summary_raw": "Researchers have shown that multiple time crystals inside a semiconductor can synchronize their oscillations, much like pendulum clocks gradually falling into the same rhythm. The coupling is carried by spin-polarized electrons, allowing time crystals separated by up to 40 micrometers to lock to a common frequency. The discovery reveals surprisingly long-range connections between these exotic spin systems and could help researchers develop future spin-based devices.",
+      "id": "5035881a666a"
     },
     {
       "source": "WRAL Local",
-      "title": "Wake County man accused of selling fentanyl that led to woman’s overdose",
-      "link": "https://www.wral.com/news/local/fentanyl-overdose-man-charged-wendell-september-2026/",
-      "published_at": "2026-09-23T19:08:39+00:00",
-      "summary_raw": "Jimmie McKinnie is charged with death by distribution and conspiring to sell or deliver a schedule 2 controlled substance.",
-      "id": "e196c1b72c77"
+      "title": "Man hospitalized after stabbing at southeast Raleigh apartment complex",
+      "link": "https://www.wral.com/news/local/raleigh-thoroughbred-lane-stabbing-september-2026/",
+      "published_at": "2026-09-24T08:44:32+00:00",
+      "summary_raw": "A man was hurt in a stabbing early Thursday morning near Thoroughbred Lane in southeast Raleigh.",
+      "id": "af9448571455"
     },
     {
       "source": "WRAL Weather",
@@ -132,51 +188,51 @@
     },
     {
       "source": "Wired",
-      "title": "Bentley Wants Its Torcal SUV to Break the Curse of the Luxury EV",
-      "link": "https://www.wired.com/story/bentley-wants-its-torcal-suv-to-break-the-curse-of-the-luxury-ev/",
-      "published_at": "2026-09-23T18:15:00+00:00",
-      "summary_raw": "The British high-end auto company reveals its first-ever full EV: 330 miles of range, 0 to 60 mph in under 3 seconds, and an orchestra under the hood. Will it be enough to lure high-rollers?",
-      "id": "96667f67bd06"
+      "title": "The Ovary Is Surprisingly Active After Menopause. Scientists Are Trying to Figure Out Why",
+      "link": "https://www.wired.com/story/ovary-activity-after-menopause/",
+      "published_at": "2026-09-24T10:30:00+00:00",
+      "summary_raw": "A growing body of research is putting the ovary in a new light, not as an egg factory with an expiration date, but as an organ that shapes women’s health long after the fertile years have passed.",
+      "id": "667aa3182fce"
     },
     {
       "source": "NPR Politics",
-      "title": "From cybersecurity to AI to Taiwan, what's at stake in Trump's summit with Xi",
-      "link": "https://www.npr.org/2026/09/23/nx-s1-5978691/from-cybersecurity-to-ai-what-at-stake-in-trumps-meeting-with-and-president-xiwhy-the-us-and-china-are-at-a-precarious-moment-in-their-relationship",
-      "published_at": "2026-09-23T16:13:52+00:00",
-      "summary_raw": "As President Trump and China's President Xi prepare to meet, Rush Doshi of the Council on Foreign Relations explains the current state of U.S.-China relations and what to expect from this summit.",
-      "id": "9f1560b5f2c1"
+      "title": "Could the White House try its press ban again? A press freedom expert explains",
+      "link": "https://www.npr.org/2026/09/24/nx-s1-5978805/whats-next-white-house-press-access-fight",
+      "published_at": "2026-09-24T08:44:54+00:00",
+      "summary_raw": "A federal judge's ruling restored CNN, MS Now and Politico's access to the White House. Gabe Rottman says better procedure alone may not resolve the broader First Amendment fight.",
+      "id": "7f355fb2d390"
     },
     {
       "source": "NPR National",
-      "title": "It's getting harder to afford rent in the U.S., even for middle-income families",
-      "link": "https://www.npr.org/2026/09/23/nx-s1-5977022/rent-affordability-middle-income",
-      "published_at": "2026-09-23T14:09:10+00:00",
-      "summary_raw": "Housing affordability challenges are spreading to higher income brackets, according to new research, which found one in five renters struggled last year to pay for their housing in full and on time.",
-      "id": "082fd026b366"
+      "title": "Morning news brief",
+      "link": "https://www.npr.org/2026/09/24/nx-s1-5976084/morning-news-brief",
+      "published_at": "2026-09-24T08:45:50+00:00",
+      "summary_raw": "A judge has temporarily restored White House access for three media outlets barred by Trump, Trump and China's Xi Jinping will meet today, Israel's prime minister to speak at UNGA.",
+      "id": "51b30322d6e4"
     },
     {
       "source": "BBC World",
-      "title": "Watch: The arms race in space and how the UK is defending itself",
-      "link": "https://www.bbc.co.uk/news/videos/c34gdygn5lqpo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-23T21:29:04+00:00",
-      "summary_raw": "The UK has jammed satellites to defend itself from hostile threats, the BBC has been told.",
-      "id": "e045f16bc66b"
+      "title": "105-year-old investigated for crimes at Nazi PoW camp in Germany",
+      "link": "https://www.bbc.co.uk/news/articles/cwzrzjy3pynvo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-24T14:37:34+00:00",
+      "summary_raw": "The suspect is alleged to have been an accessory to murder at the Stalag 326 camp, where tens of thousands of Soviet PoWs died.",
+      "id": "130cf2c6417f"
     },
     {
       "source": "Science Daily",
-      "title": "One of America’s largest reservoirs just hit a record low",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260922005701.htm",
-      "published_at": "2026-09-23T02:01:16+00:00",
-      "summary_raw": "Lake Powell has fallen to its lowest level on record after an exceptionally dry and warm winter left the Colorado River Basin with little mountain snow to melt. Lake Mead also reached record lows, raising concerns for a river system that supplies water and power to more than 40 million people. Federal officials have taken emergency steps to stabilize Lake Powell, including sending in water from another reservoir and reducing releases downstream.",
-      "id": "8a3408ffb6fe"
+      "title": "Scientists thought they knew how this 70-year-old leukemia drug worked",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260923035932.htm",
+      "published_at": "2026-09-24T12:47:28+00:00",
+      "summary_raw": "A 70-year-old leukemia drug is still revealing new secrets. Researchers found that removing a protein called NUDT5 protected cells from the drug, even though simply blocking the protein had little effect. The unexpected result points to a hidden cellular role that could help explain why people respond differently to certain leukemia treatments.",
+      "id": "4654b34d89bf"
     },
     {
       "source": "WRAL Local",
-      "title": "Nearly $23M headed to western NC as communities mark 2 years since Helene",
-      "link": "https://www.wral.com/news/state/23-million-western-nc-flooding-helene-2-years-september-2026/",
-      "published_at": "2026-09-23T18:12:18+00:00",
-      "summary_raw": "Nearly $23 million in interest-free loans is being distributed to western North Carolina communities still recovering from Helene, as heavy rain brought new flooding to the region.",
-      "id": "00b8a58548be"
+      "title": "Former NC State sports medicine director faces dozens of sexual abuse charges after Florida arrest",
+      "link": "https://www.wral.com/news/local/former-nc-state-sports-medicine-director-arrested-florida-sexual-abuse-september-2026/",
+      "published_at": "2026-09-24T08:23:15+00:00",
+      "summary_raw": "Robert Murphy Jr. served as NC State’s director of sports medicine for a decade and was previously sued by more than 30 former male athletes. He has now been indicted on criminal charges and arrested.",
+      "id": "908a13b4064b"
     },
     {
       "source": "WRAL Weather",
@@ -188,11 +244,203 @@
     },
     {
       "source": "Wired",
-      "title": "The Pope’s AI Guy Is Worried About ‘Cartel’ Behavior Among Big Labs",
-      "link": "https://www.wired.com/story/popes-ai-advisor-warns-of-cartel-behavior-big-labs/",
-      "published_at": "2026-09-23T18:03:00+00:00",
-      "summary_raw": "Paolo Benanti tells WIRED that hysteria over whether godlike AI could destroy humanity is distracting from the need for public debate about how to govern the technology.",
-      "id": "249858f0fdcd"
+      "title": "Why This Weekend’s Nor’easter Is Like a Hurricane",
+      "link": "https://www.wired.com/story/this-weeks-noreaster-forecast/",
+      "published_at": "2026-09-24T10:15:00+00:00",
+      "summary_raw": "Nor’easters are usually a winter phenomenon. But this week’s storm is arriving earlier than usual, and it could take on some characteristics more typical of tropical systems.",
+      "id": "c998f781debb"
+    },
+    {
+      "source": "NPR Politics",
+      "title": "Judge orders Trump administration to restore journalists' access to White House",
+      "link": "https://www.npr.org/2026/09/24/nx-s1-5979582/judge-order-trump-restore-access-white-house",
+      "published_at": "2026-09-24T06:21:06+00:00",
+      "summary_raw": "A federal judge ordered the Trump administration on Thursday to temporarily restore access to CNN, MS NOW and Politico, after they were banned from covering White House events by President Trump.",
+      "id": "11cf993dce96"
+    },
+    {
+      "source": "NPR National",
+      "title": "Tucker Carlson on the war with Iran and why he worries about the spread of tribalism",
+      "link": "https://www.npr.org/2026/09/24/nx-s1-5973204/tucker-carlson-on-the-war-with-iran-and-why-he-worries-about-the-spread-of-tribalism",
+      "published_at": "2026-09-24T08:45:45+00:00",
+      "summary_raw": "For NPR's Newsmakers, Steve Inskeep asks Tucker Carlson about the war in Iran, President Trump and tribalism.",
+      "id": "473dc7aff40d"
+    },
+    {
+      "source": "BBC World",
+      "title": "Why did an OpenAI system hack Australia's health system - and can it be stopped in the future?",
+      "link": "https://www.bbc.co.uk/news/articles/cw24jm9rryy3o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-24T14:08:38+00:00",
+      "summary_raw": "News that an automated AI agent hacked a government IT system raises big questions about regulating the tech.",
+      "id": "bfd97e55ae56"
+    },
+    {
+      "source": "Science Daily",
+      "title": "Aging muscles may be losing strength for a reason scientists missed",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260923035924.htm",
+      "published_at": "2026-09-24T12:25:18+00:00",
+      "summary_raw": "A newly identified breakdown in communication between nerves and muscles could help explain why people lose strength as they age. Researchers were able to improve muscle strength in an animal model by targeting a key protein, raising hopes that some age-related weakness could eventually be treated.",
+      "id": "7c4d8cb48fd1"
+    },
+    {
+      "source": "WRAL Local",
+      "title": "Report: Ex-bodyguard of former senator sued in NC charged with damaging her Arizona home",
+      "link": "https://www.wral.com/news/state/reports-ex-bodyguard-former-senator-sued-in-nc-accused-of-damaging-arizona-home/",
+      "published_at": "2026-09-24T03:28:44+00:00",
+      "summary_raw": "According to a report from KPNX in Phoenix, Arizona, Matthew Ammel was arrested and charged with felony criminal damage after former Arizona Senator Kyrsten Sinema said he damaged about 22 paintings and several bottles of alcohol valued at a total of over $200,000.",
+      "id": "2439291aef02"
+    },
+    {
+      "source": "Wired",
+      "title": "Why No One Wants to Date Tech Bros",
+      "link": "https://www.wired.com/story/tech-bros-dating-palantir-tesla/",
+      "published_at": "2026-09-24T10:00:00+00:00",
+      "summary_raw": "Once seen as nerdy but harmless innovators, men in tech are now widely regarded as red pilled Elon Musk wannabes. It’s made getting laid a whole lot harder.",
+      "id": "bd2cfcb05eb0"
+    },
+    {
+      "source": "NPR Politics",
+      "title": "Results are in from the newest NPR/PBS News/Marist poll",
+      "link": "https://www.npr.org/2026/09/23/nx-s1-5978130/results-are-in-from-the-newest-npr-pbs-news-marist-poll",
+      "published_at": "2026-09-23T21:14:52+00:00",
+      "summary_raw": "People say they are more likely to choose a Democrat to represent them in Congress, and feel Democrats would be better at tackling top issues like the economy and foreign policy.",
+      "id": "2d021c3bb496"
+    },
+    {
+      "source": "NPR National",
+      "title": "Could the White House try its press ban again? A press freedom expert explains",
+      "link": "https://www.npr.org/2026/09/24/nx-s1-5978805/whats-next-white-house-press-access-fight",
+      "published_at": "2026-09-24T08:44:54+00:00",
+      "summary_raw": "A federal judge's ruling restored CNN, MS Now and Politico's access to the White House. Gabe Rottman says better procedure alone may not resolve the broader First Amendment fight.",
+      "id": "7f355fb2d390"
+    },
+    {
+      "source": "BBC World",
+      "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
+      "link": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-24T11:59:23+00:00",
+      "summary_raw": "The satellite station is used in part to provide internet coverage to neighbouring Ukraine, the government says.",
+      "id": "c039cac735ee"
+    },
+    {
+      "source": "Science Daily",
+      "title": "Scientists find two tiny new snails with shells that close like doors",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260923035936.htm",
+      "published_at": "2026-09-24T11:59:43+00:00",
+      "summary_raw": "Scientists discovered two tiny new snail species in Montenegro, showing that even Europe still holds animals unknown to science. One lives in the threatened Komarnica Canyon, where a proposed hydropower reservoir could destroy habitat before its full biodiversity is understood.",
+      "id": "2654930f79b8"
+    },
+    {
+      "source": "WRAL Local",
+      "title": "J. Cole fans brave weather and traffic for Fayetteville homecoming concert",
+      "link": "https://www.wral.com/news/local/j-cole-returns-to-fayetteville-for-concert-september-2026/",
+      "published_at": "2026-09-24T01:52:02+00:00",
+      "summary_raw": "Fayetteville native J. Cole returns to his hometown for his first concert back at Crown Coliseum since his 2015 tour, Forest Hills Drive.",
+      "id": "ed7e8b54677a"
+    },
+    {
+      "source": "Wired",
+      "title": "The Best Early Prime Day Robot Vacuum Sales Are From Roborock (2026)",
+      "link": "https://www.wired.com/story/roborock-early-prime-day-deal-sept-2026/",
+      "published_at": "2026-09-24T09:32:00+00:00",
+      "summary_raw": "One of the best things to buy during (or leading up to) sales events is expensive home gadgets. These Roborock robot vacuums are already on markdown.",
+      "id": "7dd40001d354"
+    },
+    {
+      "source": "NPR Politics",
+      "title": "Trump and Xi meet at moment of global consequence",
+      "link": "https://www.npr.org/2026/09/23/nx-s1-5978733/trump-xi-meeting-china",
+      "published_at": "2026-09-23T18:23:19+00:00",
+      "summary_raw": "It is the second time the leaders are meeting this year after the Beijing summit in May.",
+      "id": "d255d8217344"
+    },
+    {
+      "source": "NPR National",
+      "title": "For their podcast, 2 elementary school students ask adults why they chose their jobs",
+      "link": "https://www.npr.org/2026/09/24/nx-s1-5968589/for-their-podcast-2-elementary-school-students-ask-adults-why-they-chose-their-jobs",
+      "published_at": "2026-09-24T08:42:53+00:00",
+      "summary_raw": "Kids are used to being asked, \"What do you want to be when you grow up?\" Two students in Columbus, Ohio, flipped the script to ask grown-ups why they chose their careers.",
+      "id": "bf8d06d25ead"
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump's Board of Peace unveils $2.45bn Gaza recovery plan",
+      "link": "https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-24T10:11:15+00:00",
+      "summary_raw": "The figure was announced during a meeting of the group's board at the sidelines of the UN General Assembly in New York.",
+      "id": "121db285f262"
+    },
+    {
+      "source": "Science Daily",
+      "title": "“We just need to go back” – Uranus’ moon Ariel may have hidden a 100-mile-deep ocean",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260923035951.htm",
+      "published_at": "2026-09-24T11:19:19+00:00",
+      "summary_raw": "Ariel, one of Uranus’ moons, may once have contained a subsurface ocean more than 100 miles deep beneath its fractured icy shell. The finding, combined with similar evidence from Miranda, suggests the distant Uranian system could harbor multiple hidden ocean worlds.",
+      "id": "8c56d26738c8"
+    },
+    {
+      "source": "WRAL Local",
+      "title": "Wake schools $680M bond: What’s in it for HVAC?",
+      "link": "https://www.wral.com/news/local/wake-schools-680-million-dollar-bond-hvac-september-2026/",
+      "published_at": "2026-09-23T23:32:21+00:00",
+      "summary_raw": "The loan would increase property taxes by $4.10 for every $100,000 in property value. The county often borrows money via bonds that aren’t approved by voters, but it gets lower interest rates when voters approve of tax increases that back that borrowing.",
+      "id": "10c2bfcaaa79"
+    },
+    {
+      "source": "Wired",
+      "title": "Venus May Have Devoured Its Moon",
+      "link": "https://www.wired.com/story/venus-may-have-devoured-its-moon/",
+      "published_at": "2026-09-24T09:15:00+00:00",
+      "summary_raw": "One of the great mysteries in astronomy has been why Venus has no moon. Now a new theory provides a simple answer: It might have been eaten.",
+      "id": "9d30835510b2"
+    },
+    {
+      "source": "NPR Politics",
+      "title": "From cybersecurity to AI to Taiwan, what's at stake in Trump's summit with Xi",
+      "link": "https://www.npr.org/2026/09/23/nx-s1-5978691/from-cybersecurity-to-ai-what-at-stake-in-trumps-meeting-with-and-president-xiwhy-the-us-and-china-are-at-a-precarious-moment-in-their-relationship",
+      "published_at": "2026-09-23T16:13:52+00:00",
+      "summary_raw": "As President Trump and China's President Xi prepare to meet, Rush Doshi of the Council on Foreign Relations explains the current state of U.S.-China relations and what to expect from this summit.",
+      "id": "9f1560b5f2c1"
+    },
+    {
+      "source": "NPR National",
+      "title": "Judge orders Trump administration to restore journalists' access to White House",
+      "link": "https://www.npr.org/2026/09/24/nx-s1-5979582/judge-order-trump-restore-access-white-house",
+      "published_at": "2026-09-24T06:21:06+00:00",
+      "summary_raw": "A federal judge ordered the Trump administration on Thursday to temporarily restore access to CNN, MS NOW and Politico, after they were banned from covering White House events by President Trump.",
+      "id": "11cf993dce96"
+    },
+    {
+      "source": "BBC World",
+      "title": "Why India's Election Commission is in the eye of a storm - again",
+      "link": "https://www.bbc.co.uk/news/articles/cqkgw68yjg29o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-24T08:26:19+00:00",
+      "summary_raw": "India's polling monitor is facing yet another crisis of credibility with fresh allegations against its chief.",
+      "id": "029201018e34"
+    },
+    {
+      "source": "Science Daily",
+      "title": "These massive stars could explain Webb’s strangest galaxies",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260923035922.htm",
+      "published_at": "2026-09-24T10:42:50+00:00",
+      "summary_raw": "Hubble observations of massive stars in metal-poor dwarf galaxies are revealing clues to why the early universe looks so unusual. Researchers found that stellar winds weaken sharply at extremely low metallicities, potentially allowing massive stars to retain more material and evolve in unexpected ways. The team also found large differences in iron abundance, a key ingredient in stellar winds and supernovae.",
+      "id": "bee8db05c2be"
+    },
+    {
+      "source": "WRAL Local",
+      "title": "Raleigh leaders weigh demand for growth and residents' concerns",
+      "link": "https://www.wral.com/news/local/raleigh-leaders-weigh-demand-for-growth-and-residents-concerns-september-2026/",
+      "published_at": "2026-09-23T22:57:01+00:00",
+      "summary_raw": "Raleigh is facing some growing pains. The city is getting constant requests from developers. Some residents are concerned that rapid development will change the character of their neighborhoods.",
+      "id": "1dc7122155fa"
+    },
+    {
+      "source": "Wired",
+      "title": "The Best Linux Laptops (2026): System76, Framework, and More",
+      "link": "https://www.wired.com/story/best-linux-laptops/",
+      "published_at": "2026-09-24T09:00:00+00:00",
+      "summary_raw": "Whether you want a beast of a machine with dedicated graphics or a light, easy-to-upgrade PC, we have the perfect rig for you.",
+      "id": "bde1e8225dd1"
     },
     {
       "source": "NPR Politics",
@@ -204,43 +452,43 @@
     },
     {
       "source": "NPR National",
-      "title": "U.N. Ambassador Mike Waltz on Iran, Venezuela and Trump's foreign policy",
-      "link": "https://www.npr.org/2026/09/23/nx-s1-5977753/u-s-ambassador-to-the-u-n-discusses-trumps-address-at-unga",
-      "published_at": "2026-09-23T10:48:47+00:00",
-      "summary_raw": "Deals, threats and oil are all on the table as the president's foreign policy takes center stage.",
-      "id": "3bfe08d73c15"
+      "title": "Judge considers restoring journalists' access to White House after Trump's ban",
+      "link": "https://www.npr.org/2026/09/23/nx-s1-5979101/federal-judge-hearing-trump-ban-cnn-ms-now-politico",
+      "published_at": "2026-09-23T22:40:39+00:00",
+      "summary_raw": "Lawyers representing the White House and the three media outlets banned from the property sparred over the constitutional rights of journalists at a hearing in federal court Wednesday.",
+      "id": "d21b8a0b85a8"
     },
     {
       "source": "BBC World",
-      "title": "Trump's Board of Peace unveils $2.45bn plan to begin Gaza's reconstruction",
-      "link": "https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-23T21:26:14+00:00",
-      "summary_raw": "The figure was announced during a meeting of the group's board at the sidelines of the UN General Assembly in New York.",
-      "id": "6029dbdba5e9"
+      "title": "Teen rocker Nene Royal becomes first Thai to win America's Got Talent",
+      "link": "https://www.bbc.co.uk/news/articles/cqzjzl3d1409o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-24T06:47:12+00:00",
+      "summary_raw": "Her heavy metal performance trumped nine other finalists, including magicians and even a robot crew.",
+      "id": "8e1d5d90dc49"
     },
     {
       "source": "Science Daily",
-      "title": "This new drug could break cancer’s resistance to treatment",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260921081112.htm",
-      "published_at": "2026-09-23T01:27:00+00:00",
-      "summary_raw": "A new experimental drug called CS18 may help break through cancer drug resistance by disabling several of the defenses tumors use to survive treatment. It strengthened existing therapies, restored drug sensitivity in resistant lung cancer cells, and slowed tumor growth in animal models.",
-      "id": "838843fe9e73"
+      "title": "More REM sleep linked to lower risk of 83 diseases",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260923035930.htm",
+      "published_at": "2026-09-24T03:58:30+00:00",
+      "summary_raw": "A large study tracking more than 95,000 people suggests that how you sleep may be linked to your risk of developing dozens of diseases. People who spent more time in REM sleep had lower risks of 83 conditions, including dementia, heart failure, and Parkinson’s disease, while more deep sleep was associated with lower risks of conditions such as type 2 diabetes and major depression.",
+      "id": "4fbfa5e112ce"
     },
     {
       "source": "WRAL Local",
-      "title": "Mortgage rates climb above 7%, putting more pressure on homebuyers",
-      "link": "https://www.wral.com/news/local/mortgage-rates-climb-above-7-percent-sept-23-2026/",
-      "published_at": "2026-09-23T16:29:51+00:00",
-      "summary_raw": "It's the highest mortgage rates have been since May of 2024.",
-      "id": "d0645e5dc27c"
+      "title": "‘No one should be trapped’: Renewed push to change NC divorce laws, cut separation period",
+      "link": "https://www.wral.com/news/state/divorce-laws-separation-alienation-affection-lawsuits-september-2026/",
+      "published_at": "2026-09-23T21:55:34+00:00",
+      "summary_raw": "A North Carolina lawmaker and a popular influencer are pushing to shorten the state's 12-month required divorce separation period and get rid of the state's contentious alienation-of-affection lawsuits.",
+      "id": "3446baa35e00"
     },
     {
       "source": "Wired",
-      "title": "YouTube’s Custom Feeds Give You More Control Over the Algorithm",
-      "link": "https://www.wired.com/story/youtube-custom-feeds-let-you-steer-the-algorithm-without-breaking-it/",
-      "published_at": "2026-09-23T14:30:00+00:00",
-      "summary_raw": "In YouTube’s latest update, viewers can tweak what the algorithm shows on their front page and curate it to a specific vibe.",
-      "id": "16de93fbd64f"
+      "title": "Scientists Detect Radio Signals from an Exoplanet for the First Time in History",
+      "link": "https://www.wired.com/story/scientists-detect-radio-signals-from-exoplanet-for-first-time-in-history/",
+      "published_at": "2026-09-24T09:00:00+00:00",
+      "summary_raw": "No, it’s not aliens, but a phenomenon caused by magnetic activity that astronomers have never before been able to pin on a specific planet.",
+      "id": "da48d2b5ef0c"
     },
     {
       "source": "NPR Politics",
@@ -252,395 +500,147 @@
     },
     {
       "source": "NPR National",
-      "title": "DOJ defends White House media ban, urges court to reject lawsuit",
-      "link": "https://www.npr.org/2026/09/23/nx-s1-5978614/doj-defend-white-house-media-ban",
-      "published_at": "2026-09-23T09:06:47+00:00",
-      "summary_raw": "The Department of Justice defended President Trump's recent media ban, arguing that reporting by CNN, MS Now and Politico on a wide range of issues jeopardized national security and spread falsehoods.",
-      "id": "959abe6ad7c3"
+      "title": "FBI records point to possible congressional pay-for-play scheme",
+      "link": "https://www.npr.org/2026/09/23/nx-s1-5977806/fbi-records-point-to-possible-congressional-pay-for-play-scheme",
+      "published_at": "2026-09-23T21:14:49+00:00",
+      "summary_raw": "NPR's Juana Summers talks with Avi Asher-Schapiro of ProPublica about the connections between a defense contractor and Sen. Susan Collins of Maine, and how the FBI was, at one time, looking into it.",
+      "id": "7617acd99190"
     },
     {
       "source": "BBC World",
-      "title": "UK survivor of Canadian poison seller says he exploited her despair",
-      "link": "https://www.bbc.co.uk/news/articles/cmvgy4237gq9o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-23T21:16:00+00:00",
-      "summary_raw": "Elisabeth Belien tells Kenneth Law's sentencing hearing she took the poison when she was just 23 years old.",
-      "id": "2058a807d9ff"
+      "title": "They were labelled 'pervert glasses'. Will a camera-free version transform their image?",
+      "link": "https://www.bbc.co.uk/news/articles/cwp80l0my1x2o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-24T00:50:24+00:00",
+      "summary_raw": "Meta has unveiled audio-only smart glasses, with some questioning whether it is a response to the backlash over privacy.",
+      "id": "586e96eda840"
     },
     {
       "source": "Science Daily",
-      "title": "Coffee doesn’t have to keep you awake to disrupt your sleep",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260922005719.htm",
-      "published_at": "2026-09-22T13:42:49+00:00",
-      "summary_raw": "Caffeine may make sleep less restorative even when you fall asleep normally and stay in bed for eight hours, with EEG recordings revealing fewer of the slow brain waves associated with deep sleep. Individual sensitivity varies dramatically, meaning even caffeine consumed earlier in the day could affect nighttime recovery for some people.",
-      "id": "a6b884d8da67"
-    },
-    {
-      "source": "WRAL Local",
-      "title": "From court to classroom: NBA All-Star Antawn Jamison makes return to UNC as professor",
-      "link": "https://www.wral.com/news/local/from-court-to-classroom-antawn-jamison-returns-to-unc-as-professor-sept-23-2026/",
-      "published_at": "2026-09-23T16:08:37+00:00",
-      "summary_raw": "The NBA All-Star and Tar Heel legend is using his experience to help prepare the next generation of sports communication students.",
-      "id": "058c0efc15dc"
+      "title": "GLP-1 weight loss and diabetes drugs linked to nutritional deficiencies in nearly 1 in 6 children",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260923035926.htm",
+      "published_at": "2026-09-24T03:15:18+00:00",
+      "summary_raw": "Children taking GLP-1 medications (such as Victoza, Saxenda, Trulicity, and Ozempic) for weight loss, prediabetes, or type 2 diabetes may face an overlooked risk: nutritional deficiencies. A new study found that nearly 1 in 6 young patients developed a diagnosed deficiency within a year of starting treatment, with vitamin D deficiency affecting about 12%.",
+      "id": "f7ba17500394"
     },
     {
       "source": "Wired",
-      "title": "Meta’s Muse AI Assistant Rolled Out With a Serious Security Flaw",
-      "link": "https://www.wired.com/story/metas-muse-ai-agent-zero-day/",
-      "published_at": "2026-09-23T12:54:58+00:00",
-      "summary_raw": "Meta says it issued a fix for the Muse zero-day vulnerability that would have let attackers do “whatever” they wanted on a victim’s Mac, highlighting the inherent dangers of AI helpers.",
-      "id": "3b555e2cebe9"
-    },
-    {
-      "source": "NPR Politics",
-      "title": "Major news outlets banned by Trump will have their day in court",
-      "link": "https://www.npr.org/2026/09/23/nx-s1-5978069/cnn-msnow-politico-trump-white-house-ban",
-      "published_at": "2026-09-23T09:01:00+00:00",
-      "summary_raw": "CNN, MS NOW, and Politico are asking a federal judge to hold the president in check for what they say is a violation of their Constitutional rights simply because he doesn't like how they cover him.",
-      "id": "dd1f3b1c9912"
-    },
-    {
-      "source": "NPR National",
-      "title": "Major news outlets banned by Trump will have their day in court",
-      "link": "https://www.npr.org/2026/09/23/nx-s1-5978069/cnn-msnow-politico-trump-white-house-ban",
-      "published_at": "2026-09-23T09:01:00+00:00",
-      "summary_raw": "CNN, MS NOW, and Politico are asking a federal judge to hold the president in check for what they say is a violation of their Constitutional rights simply because he doesn't like how they cover him.",
-      "id": "dd1f3b1c9912"
+      "title": "Peacock Promo Codes: 40% Off September 2026",
+      "link": "https://www.wired.com/story/peacock-promo-code/",
+      "published_at": "2026-09-24T05:00:00+00:00",
+      "summary_raw": "Stream your favorite shows for up to $80 off this month, and save on subscription plans with the latest Peacock TV coupons from WIRED.",
+      "id": "6072c4f07874"
     },
     {
       "source": "BBC World",
-      "title": "Harvey Weinstein sentenced to 15 years in prison for sexual assault",
-      "link": "https://www.bbc.co.uk/news/articles/cm98626n260yo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-23T18:51:12+00:00",
-      "summary_raw": "Assault survivor Miriam Haley said the \"devastating effect on my life and sense of security that may never go away\".",
-      "id": "a0851e593a6b"
+      "title": "In Amish country, nurses go door to door to stop deadly spread of measles",
+      "link": "https://www.bbc.co.uk/news/articles/ck3wjyjgj37po?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-24T00:15:46+00:00",
+      "summary_raw": "With four measles-related deaths in Pennsylvania, health officials are hoping to get people on board with vaccines in private.",
+      "id": "56e810f5f4ad"
     },
     {
       "source": "Science Daily",
-      "title": "This emerging treatment could help people avoid knee replacement surgery",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260922052030.htm",
-      "published_at": "2026-09-22T13:31:54+00:00",
-      "summary_raw": "A minimally invasive procedure called genicular artery embolization could offer a new middle ground between conservative treatments and knee replacement for osteoarthritis. By blocking tiny blood vessels associated with inflammation, GAE can significantly reduce pain, with some patients reporting little or no pain afterward. Studies suggest the benefits may last two to four years in people who respond well.",
-      "id": "545f8d0e64c9"
-    },
-    {
-      "source": "WRAL Local",
-      "title": "NCFC Youth tests pesticide-free mosquito control at Raleigh soccer park",
-      "link": "https://www.wral.com/news/local/ncfc-youth-tests-pesticide-free-mosquito-control-at-raleigh-soccer-park-sept-23-2026/",
-      "published_at": "2026-09-23T15:30:57+00:00",
-      "summary_raw": "The traps mimic human scent and breath to draw in mosquitoes, offering an alternative to chemical sprays as insecticide resistance spreads in Wake County.",
-      "id": "ab2a188f9ef5"
+      "title": "A broken rib from the world’s largest T. rex hid a 66-million-year-old secret",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260922005709.htm",
+      "published_at": "2026-09-24T02:20:36+00:00",
+      "summary_raw": "A broken rib from Scotty, the largest known T. rex skeleton, contains an extraordinary fossilized network of blood vessels formed while the dinosaur was healing. Scientists used neutron and X-ray imaging to look inside the 66-million-year-old bone without damaging it, revealing details rarely preserved in fossils.",
+      "id": "54473cd1fd88"
     },
     {
       "source": "Wired",
-      "title": "The Best Samsung Phones of 2026: Ultra, Fold, Budget",
-      "link": "https://www.wired.com/gallery/best-samsung-phones/",
-      "published_at": "2026-09-23T11:30:00+00:00",
-      "summary_raw": "From flagship and budget to flipping and folding, Samsung’s Galaxy range spans the breadth of the smartphone cosmos. WIRED’s here to help you make your choice.",
-      "id": "b1aa66aeeefe"
-    },
-    {
-      "source": "NPR Politics",
-      "title": "Trump is on voters' minds in the midterms -- and they're not happy, poll shows",
-      "link": "https://www.npr.org/2026/09/23/nx-s1-5977613/trump-poll-democrats-congress",
-      "published_at": "2026-09-23T09:00:00+00:00",
-      "summary_raw": "A new NPR/PBS News/Marist poll finds President Trump — and his unpopularity — is an outsize factor in why most voters say they want Democrats to win the midterms.",
-      "id": "c05ed6efeca6"
-    },
-    {
-      "source": "NPR National",
-      "title": "Trump is on voters' minds in the midterms -- and they're not happy, poll shows",
-      "link": "https://www.npr.org/2026/09/23/nx-s1-5977613/trump-poll-democrats-congress",
-      "published_at": "2026-09-23T09:00:00+00:00",
-      "summary_raw": "A new NPR/PBS News/Marist poll finds President Trump — and his unpopularity — is an outsize factor in why most voters say they want Democrats to win the midterms.",
-      "id": "c05ed6efeca6"
+      "title": "Motley Fool Promo Code: $200 Off on Stock Advisor September 2026",
+      "link": "https://www.wired.com/story/the-motley-fool-promo-code/",
+      "published_at": "2026-09-24T05:00:00+00:00",
+      "summary_raw": "Scale your portfolio for less with these verified The Motley Fool membership discounts, stock advisor promo codes, and Epic Bundle deals.",
+      "id": "6a249cae899d"
     },
     {
       "source": "BBC World",
-      "title": "Iran's president tells Trump it will never 'bend the knee'",
-      "link": "https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-23T18:15:31+00:00",
-      "summary_raw": "Masoud Pezeshkian's defiant speech to the UN comes after the US president threatened to \"annihilate\" Iran if a peace deal is not agreed soon.",
-      "id": "81cf0c8dfc9e"
+      "title": "Eating garden weeds to survive in Russian-occupied city cut off from food and water",
+      "link": "https://www.bbc.co.uk/news/articles/c60qxywdx4vvo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-23T23:58:50+00:00",
+      "summary_raw": "The BBC has spoken to residents in the Russian-occupied Ukrainian town of Oleshky who say they are being \"constantly shelled\".",
+      "id": "0713f3611c3c"
     },
     {
       "source": "Science Daily",
-      "title": "For the first time, scientists watch sound jump between quantum states",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260921081054.htm",
-      "published_at": "2026-09-22T13:17:20+00:00",
-      "summary_raw": "Stanford researchers have recorded the first real-time quantum jumps of sound, watching single phonons abruptly vanish from one energy state to another. The breakthrough could open new paths for quantum computing, error correction, highly sensitive biological sensors, and next-generation sound-based devices.",
-      "id": "80705d52b7c3"
-    },
-    {
-      "source": "WRAL Local",
-      "title": "Power restored to hundreds of customers near Cary Towne Boulevard",
-      "link": "https://www.wral.com/news/local/hundreds-without-power-near-cary-towne-boulevard-september-2026/",
-      "published_at": "2026-09-23T11:18:03+00:00",
-      "summary_raw": "Power has been restored to hundreds of people in east Cary and west Raleigh.",
-      "id": "74580e79d595"
+      "title": "The “big one” might not come alone: Two major West Coast faults may strike back to back",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260922222730.htm",
+      "published_at": "2026-09-24T01:07:40+00:00",
+      "summary_raw": "The Cascadia subduction zone and northern San Andreas fault may sometimes rupture in rapid succession, according to evidence preserved in 3,100 years of ocean sediments. Researchers identified unusual sediment layers suggesting that earthquakes on the two systems have occurred just minutes to hours apart, including around the massive Cascadia earthquake of 1700. If such synchronization happened again, several major West Coast cities could face emergencies at nearly the same time.",
+      "id": "9080d1db24e5"
     },
     {
       "source": "Wired",
-      "title": "A Startup Wants to Power Data Centers With ‘Supercritical’ Carbon Dioxide",
-      "link": "https://www.wired.com/story/startup-power-data-centers-supercritical-co2/",
-      "published_at": "2026-09-23T11:00:00+00:00",
-      "summary_raw": "The technology could strap onto existing gas turbines and make them more efficient—but it wouldn’t do away with their emissions entirely.",
-      "id": "0a9b23e925f2"
-    },
-    {
-      "source": "NPR Politics",
-      "title": "There's growing concern that Trump may deploy the National Guard ahead of elections",
-      "link": "https://www.npr.org/2026/09/23/nx-s1-5978015/national-guard-election-military-midterms",
-      "published_at": "2026-09-23T09:00:00+00:00",
-      "summary_raw": "Fears are growing that President Trump may deploy the U.S. military to polling places in the upcoming elections, despite strict state and federal laws against such a move.",
-      "id": "7b2bad81b349"
-    },
-    {
-      "source": "NPR National",
-      "title": "There's growing concern that Trump may deploy the National Guard ahead of elections",
-      "link": "https://www.npr.org/2026/09/23/nx-s1-5978015/national-guard-election-military-midterms",
-      "published_at": "2026-09-23T09:00:00+00:00",
-      "summary_raw": "Fears are growing that President Trump may deploy the U.S. military to polling places in the upcoming elections, despite strict state and federal laws against such a move.",
-      "id": "7b2bad81b349"
+      "title": "AirDoctor Coupon Codes: 40% Off | September 2026",
+      "link": "https://www.wired.com/story/airdoctor-coupon-code/",
+      "published_at": "2026-09-24T05:00:00+00:00",
+      "summary_raw": "Save up to $400 on top air purifiers and filters with verified AirDoctor promo codes and special offers for 2026.",
+      "id": "d5cd7c43710e"
     },
     {
       "source": "BBC World",
-      "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
-      "link": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-23T16:53:37+00:00",
-      "summary_raw": "The local authorities reportedly seize Tigray's airports following reports of recent drone strikes.",
-      "id": "13bbce4cb89f"
+      "title": "'Make women feel seen': Why the Dutch have a new word for labia",
+      "link": "https://www.bbc.co.uk/news/articles/cn4klprmr0go?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-23T23:42:38+00:00",
+      "summary_raw": "Campaigners hope the new words will lead to less body shaming and more sex positivity.",
+      "id": "f0b2342f90c9"
     },
     {
       "source": "Science Daily",
-      "title": "Humpback whale mother may have mourned her dead calf for days",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260921081050.htm",
-      "published_at": "2026-09-22T13:05:14+00:00",
-      "summary_raw": "Researchers observed a humpback whale mother staying beside her presumed stillborn calf for hours and possibly days off Australia’s Gold Coast. She maintained eye contact and remained close to the calf in behavior resembling caregiving and nurturing. Scientists say the rare observation may provide new insight into grief, maternal attachment, and emotional complexity in humpback whales.",
-      "id": "928b40be99db"
-    },
-    {
-      "source": "WRAL Local",
-      "title": "Fire crews battle overnight house fire near Holly Springs in Wake County",
-      "link": "https://www.wral.com/news/local/twin-lakes-drive-house-fire-september-2026/",
-      "published_at": "2026-09-23T08:51:02+00:00",
-      "summary_raw": "Wake County firefighters battled an overnight house fire on Twin Lake Drive near Holly Springs.",
-      "id": "bee88c0bb5f9"
+      "title": "Rare pregnancy infections may triple the risk of autism",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260922005653.htm",
+      "published_at": "2026-09-23T13:11:59+00:00",
+      "summary_raw": "A major Swedish study of 3.7 million people has found that rare TORCH infections passed from a pregnant woman to the fetus are linked to much higher risks of autism and intellectual disability later in life. Children with a congenital TORCH infection were about three times more likely to be diagnosed with autism, more than seven times more likely to have an intellectual disability, and up to 30 times more likely to have severe to profound intellectual disability.",
+      "id": "a5aac17aa304"
     },
     {
       "source": "Wired",
-      "title": "This App Makes Your Laptop Screen Look Like Paper",
-      "link": "https://www.wired.com/story/paperman-makes-your-laptop-screen-look-like-paper/",
-      "published_at": "2026-09-23T10:45:00+00:00",
-      "summary_raw": "The app Paperman gives your screen some added texture in an effort to make it easier on your eyes. It works best for reading, writing, or otherwise working with text.",
-      "id": "3c07fbe79655"
-    },
-    {
-      "source": "NPR Politics",
-      "title": "Poll: Trust in the U.S. Postal Service delivering mail-in ballots on time has fallen",
-      "link": "https://www.npr.org/2026/09/23/nx-s1-5978081/usps-election-mail-in-ballot",
-      "published_at": "2026-09-23T09:00:00+00:00",
-      "summary_raw": "Registered voters are less confident that USPS will deliver election mail on time compared with 2024, an NPR/PBS News/Marist poll finds, after USPS was part of Trump's bid to limit mail voting.",
-      "id": "fff45578c336"
-    },
-    {
-      "source": "NPR National",
-      "title": "ICE is looking into 'mobile detention facilities'",
-      "link": "https://www.npr.org/2026/09/23/nx-s1-5976875/ice-mobile-detention-facilities-immigration",
-      "published_at": "2026-09-23T09:00:00+00:00",
-      "summary_raw": "Buried in the paperwork for Immigration and Customs Enforcement's expansion in Pennsylvania is a document requesting \"mobile detention facilities.\"",
-      "id": "4926d97e2601"
+      "title": "50% Off DoorDash Promo Code | September 2026",
+      "link": "https://www.wired.com/story/doordash-promo-code/",
+      "published_at": "2026-09-24T05:00:00+00:00",
+      "summary_raw": "Explore today’s top DoorDash promo codes for $25 off your first order, free delivery, and 50% off DashPass for students and select users.",
+      "id": "8d03c2796ba5"
     },
     {
       "source": "BBC World",
-      "title": "Watch: How toxic smog from wildfires is making Indonesians sick",
-      "link": "https://www.bbc.co.uk/news/videos/c962j1jgx884o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-23T15:46:28+00:00",
-      "summary_raw": "Around 175,000 people in Indonesia have suffered from respiratory illness since August.",
-      "id": "9090448e469f"
+      "title": "Indians are discovering the thrill of shopping without paying",
+      "link": "https://www.bbc.co.uk/news/articles/cwn741v5rdpxo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-23T23:14:10+00:00",
+      "summary_raw": "Dopamine sites mimic shopping’s thrill without the spending, turning the ritual of consumption into a digital game.",
+      "id": "a73f66168e9a"
     },
     {
       "source": "Science Daily",
-      "title": "MIT’s tiny flying robot gets 450% faster with AI",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260921081114.htm",
-      "published_at": "2026-09-22T12:52:43+00:00",
-      "summary_raw": "A new AI control system lets MIT’s tiny flying robot move with insect-like agility, boosting its speed by about 450 percent and allowing it to pull off 10 somersaults in 11 seconds. The technology could eventually enable miniature robots to search earthquake rubble and navigate dangerous spaces that conventional drones cannot reach.",
-      "id": "4d9089295d05"
-    },
-    {
-      "source": "WRAL Local",
-      "title": "Cary town leaders motion to preserve $1M properties purchased by former town manager",
-      "link": "https://www.wral.com/news/local/cary-town-leaders-motion-to-preserve-1-mllion-properties-purchased-former-town-manager-september-2026/",
-      "published_at": "2026-09-23T02:11:28+00:00",
-      "summary_raw": "According to the State Auditor's Office, former town manager Sean Stegall bought two parcels of land at 600 and 604 Kildaire Farm Road without the knowledge of town council members. The land is located near Cary Elementary School.",
-      "id": "3d6abc141a7d"
+      "title": "Breakthrough drug reverses skin aging and dramatically speeds healing",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260922223008.htm",
+      "published_at": "2026-09-23T12:32:35+00:00",
+      "summary_raw": "A topical drug that removes aging, damaged cells helped older mice heal skin wounds significantly faster. The treatment appeared to reactivate repair pathways involved in inflammation, collagen production, and new blood vessel growth.",
+      "id": "40c092d539e8"
     },
     {
       "source": "Wired",
-      "title": "SmartLabels QR Code Organizing System Review (2026): AI Made Sense of My Junk Drawer",
-      "link": "https://www.wired.com/review/smartlabels-qr-code-organizing-system/",
-      "published_at": "2026-09-23T10:39:00+00:00",
-      "summary_raw": "SmartLabels can inventory everything in a photo, but I tested whether its AI could survive the chaos of my busy household.",
-      "id": "41e2acbdfdf9"
-    },
-    {
-      "source": "NPR Politics",
-      "title": "As Congress confronts AI, Senate lawmakers are shut off from its most advanced tools",
-      "link": "https://www.npr.org/2026/09/23/nx-s1-5978055/congress-ai-regulation",
-      "published_at": "2026-09-23T09:00:00+00:00",
-      "summary_raw": "While Senate offices have access to chatbots like ChatGPT, they are not authorized to use any of the more advanced tools that are at the center of regulatory talks and public debate about AI safety.",
-      "id": "3925bd0ecef6"
-    },
-    {
-      "source": "NPR National",
-      "title": "Morning news brief",
-      "link": "https://www.npr.org/2026/09/23/nx-s1-5976083/morning-news-brief",
-      "published_at": "2026-09-23T08:45:24+00:00",
-      "summary_raw": "Trump flaunts U.S. power during UNGA speech, poll finds Trump's unpopularity is a major factor swaying voters to Democrats for midterms, media outlets banned by Trump get their day in court.",
-      "id": "b258ad33c612"
+      "title": "Wayfair Coupons: Up to 80% Off September 2026",
+      "link": "https://www.wired.com/story/wayfair-promo-code/",
+      "published_at": "2026-09-24T05:00:00+00:00",
+      "summary_raw": "Get 10% off with Wayfair promo code, up to 80% off furniture, and more top coupons.",
+      "id": "26a96af05561"
     },
     {
       "source": "BBC World",
-      "title": "Poland accuses Russian military helicopter of violating its airspace",
-      "link": "https://www.bbc.co.uk/news/articles/c699d2dn9z0mo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-23T15:37:20+00:00",
-      "summary_raw": "Poland says the aircraft stayed in its skies for 42 seconds, forcing the Nato member to scramble its fighter jets.",
-      "id": "b0dcb7045c67"
+      "title": "A red carpet and military flyover - How Trump welcomed Xi",
+      "link": "https://www.bbc.co.uk/news/videos/c6804ne8knklo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-23T23:03:56+00:00",
+      "summary_raw": "The two B-1 bombers that flew overhead are a key part of the US's combat arsenal, and produce a notoriously loud roar when they pass by.",
+      "id": "a23499e0c17e"
     },
     {
       "source": "Science Daily",
-      "title": "This new concrete is stronger and pulls CO2 from the air",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260921081105.htm",
-      "published_at": "2026-09-22T11:46:55+00:00",
-      "summary_raw": "Researchers have created a concrete mixture that is both stronger and capable of absorbing carbon dioxide. The best formula, combining zeolite with bamboo biochar, boosted compressive strength by 7.48% and tensile strength by 15% compared with conventional concrete. It also captured about 1.2 grams of CO₂ per day in laboratory testing.",
-      "id": "a2287def9930"
-    },
-    {
-      "source": "Wired",
-      "title": "Kate Tolo Says Her Quest to Be ‘the Female Bryan Johnson’ Is ‘for Women’",
-      "link": "https://www.wired.com/story/kate-tolo-says-her-quest-to-be-the-female-bryan-johnson-is-for-women/",
-      "published_at": "2026-09-23T10:30:00+00:00",
-      "summary_raw": "Like her biohacking boyfriend, Tolo is undergoing a grueling regimen of tests—from tracking nighttime erections to subjecting herself to extreme heat on her period—in service of “half the population.”",
-      "id": "69a0b7c207c5"
-    },
-    {
-      "source": "BBC World",
-      "title": "Eleven killed in mass shooting at house in South Africa",
-      "link": "https://www.bbc.co.uk/news/articles/crgjqxzl097eo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-23T14:02:55+00:00",
-      "summary_raw": "One of those killed is believed to be a pregnant woman, police said.",
-      "id": "c5aea87987ad"
-    },
-    {
-      "source": "Science Daily",
-      "title": "A strange circle on satellite maps turned out to be a 390-million-year-old impact crater",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260921081101.htm",
-      "published_at": "2026-09-22T10:43:31+00:00",
-      "summary_raw": "An amateur astronomer searching satellite maps for a Quebec camping spot accidentally discovered a massive ancient impact crater. Scientists later found shatter cones that confirmed the 25-kilometer-wide structure was blasted into Earth roughly 390 million years ago.",
-      "id": "350f9b9f1644"
-    },
-    {
-      "source": "Wired",
-      "title": "AT&T Is Automating Away Jobs—and Its Old Telecom Empire",
-      "link": "https://www.wired.com/story/atandt-is-automating-away-its-old-telecom-empire/",
-      "published_at": "2026-09-23T10:15:00+00:00",
-      "summary_raw": "The telecom giant is eager to show Wall Street that it can do more with less. That means fewer employees, less electricity, and increased automation.",
-      "id": "08b3ba061bbf"
-    },
-    {
-      "source": "BBC World",
-      "title": "Dramatic eviction of woman aged 87 highlights Spain's housing shortage",
-      "link": "https://www.bbc.co.uk/news/articles/c6vgy55lm8z1o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-23T12:31:31+00:00",
-      "summary_raw": "The tenant of the flat in Madrid, Maricarmen, was unable to pay the rent set by the firm which recently bought it.",
-      "id": "985eb0ab81c2"
-    },
-    {
-      "source": "Science Daily",
-      "title": "The end of humanity? What would happen if the Yellowstone supervolcano erupted now",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260922005655.htm",
-      "published_at": "2026-09-22T08:32:08+00:00",
-      "summary_raw": "A Yellowstone super-eruption would begin not with a sudden surprise, but with weeks of increasingly alarming warning signs such as migrating earthquake swarms, rapid ground uplift, changing geysers, and rising volcanic gases. In a worst-case scenario, those signals could culminate in a VEI 8 eruption that blasts ash tens of kilometers into the atmosphere, unleashes deadly pyroclastic flows, buries parts of the western United States in ash, and cripples transportation, electricity, water systems, agriculture, and communications across much of North America.",
-      "id": "53cfad308158"
-    },
-    {
-      "source": "Wired",
-      "title": "She’s 28, Loves God and Her Family, and Might Be the Reason You Can’t Have Kids",
-      "link": "https://www.wired.com/story/emma-waters-fertility-tech/",
-      "published_at": "2026-09-23T10:00:00+00:00",
-      "summary_raw": "No IVF. No surrogacy. No polygenic tests. Emma Waters is leading a national fight against fertility tech—with her hot husband’s permission, of course.",
-      "id": "98af3bd4fd67"
-    },
-    {
-      "source": "BBC World",
-      "title": "Dolly Parton's manager accuses her nephew of 'threats and intimidation'",
-      "link": "https://www.bbc.co.uk/news/articles/c670lydl5wg5o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-23T12:22:53+00:00",
-      "summary_raw": "Bryan Seaver, who announced Parton's death to the world, is accused of trying to extort her estate.",
-      "id": "2a9ba7d2ec86"
-    },
-    {
-      "source": "Science Daily",
-      "title": "Brain scans reveal a possible cause of long COVID fatigue and brain fog",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260920222412.htm",
-      "published_at": "2026-09-22T03:48:58+00:00",
-      "summary_raw": "Researchers have found evidence that long COVID may damage dopamine releasing neurons in the brain, potentially explaining persistent fatigue, low motivation, slowed movement, and memory difficulties. The discovery could lead to new treatments that target the brain's dopamine system.",
-      "id": "2ca9130d2c1c"
-    },
-    {
-      "source": "Wired",
-      "title": "The Organization Fighting Ebola Has Never Been More Worried",
-      "link": "https://www.wired.com/story/organization-fighting-ebola-never-more-worried/",
-      "published_at": "2026-09-23T09:45:00+00:00",
-      "summary_raw": "The Ebola outbreak in the Democratic Republic of Congo is on track to be the largest ever.",
-      "id": "de3480882433"
-    },
-    {
-      "source": "BBC World",
-      "title": "Watch: Trump and Xi are meeting on US soil - what's at stake?",
-      "link": "https://www.bbc.co.uk/news/videos/c38xk275jd21o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-23T11:00:09+00:00",
-      "summary_raw": "The BBC’s China correspondent and US editor explain everything you need to know ahead of the Trump-Xi meeting in Washington DC.",
-      "id": "1fd28fb283ba"
-    },
-    {
-      "source": "Science Daily",
-      "title": "Scientists discover first new penguin species in more than 100 years",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260920222410.htm",
-      "published_at": "2026-09-22T03:11:46+00:00",
-      "summary_raw": "Genetic evidence has revealed a previously unknown gentoo penguin species on the remote Kerguelen Islands and shown that gentoos actually consist of four distinct species. The discovery also highlights a growing threat, as warming oceans could leave several island populations with little suitable habitat by 2050.",
-      "id": "412330a7ad8c"
-    },
-    {
-      "source": "Wired",
-      "title": "8 Best Space Heaters (2026): Tested, Measured, and Mistreated",
-      "link": "https://www.wired.com/gallery/the-best-space-heaters/",
-      "published_at": "2026-09-23T09:33:00+00:00",
-      "summary_raw": "These portable heaters will heat a room quickly, quietly, and safely.",
-      "id": "9853a8aabe95"
-    },
-    {
-      "source": "BBC World",
-      "title": "Reports of violence against women in Gaza surge, UN agency finds",
-      "link": "https://www.bbc.co.uk/news/articles/c94gm7dp40y0o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-09-23T05:02:26+00:00",
-      "summary_raw": "The UN Population Fund also says there has been a \"severe escalation\" in the number of early and forced marriages.",
-      "id": "b1be263872e2"
-    },
-    {
-      "source": "Science Daily",
-      "title": "Stem cells reverse stroke damage and restore movement in mice",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260921081116.htm",
-      "published_at": "2026-09-22T01:49:32+00:00",
-      "summary_raw": "Stem cell transplants helped regenerate stroke-damaged brain tissue in mice, producing new neurons and restoring lost motor function. The treatment also improved blood vessels, inflammation, and the blood-brain barrier, raising hopes that a similar approach could eventually help repair the human brain after stroke.",
-      "id": "fe645890e241"
-    },
-    {
-      "source": "Wired",
-      "title": "Kiwibit Bird Feeder 2 Pro Review: Premium but Paywalled",
-      "link": "https://www.wired.com/review/kiwibit-bird-feeder-2-pro/",
-      "published_at": "2026-09-23T09:30:00+00:00",
-      "summary_raw": "The Kiwibit Feeder 2 Pro delivers action-camera-quality imagery, but too much of the experience is locked behind a subscription.",
-      "id": "cff0a87aac9f"
+      "title": "These tropical trees breathe at night to survive drought",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260922005712.htm",
+      "published_at": "2026-09-23T12:05:24+00:00",
+      "summary_raw": "Some tropical trees have evolved a clever way to survive drought by taking in carbon dioxide at night, allowing them to keep their pores closed during the hot daytime and conserve water. By comparing three Clusia species, researchers discovered that this water-saving form of photosynthesis, known as CAM, did not arise through a single evolutionary change. Instead, ancient genome duplications followed by millions of years of genetic reshuffling produced strikingly different strategies, from strong CAM to stress-triggered and hybrid forms.",
+      "id": "ec4b3aee91f2"
     }
   ]
 }

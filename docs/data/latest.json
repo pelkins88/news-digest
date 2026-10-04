@@ -1,14 +1,14 @@
 {
   "mode": "raw",
-  "generated_at": "2026-10-04T15:43:37.294320+00:00",
+  "generated_at": "2026-10-04T22:45:36.461124+00:00",
   "items": [
     {
       "source": "WRAL Local",
-      "title": "Crash on I-40E in Durham causing traffic delays",
-      "link": "https://www.wral.com/news/local/crash-on-i-40-durham-traffic-delay-october-2026/",
-      "published_at": "2026-10-04T12:26:32+00:00",
-      "summary_raw": "The crash happened near exit 278 around 7 a.m., and traffic is backed up for approximately two miles.",
-      "id": "60385275ab10"
+      "title": "Man shot at a Durham apartment complex Sunday morning",
+      "link": "https://www.wral.com/news/local/man-shot-snowcrest-trail-durham-october-2026/",
+      "published_at": "2026-10-04T16:43:50+00:00",
+      "summary_raw": "Durham Police responded to shooting call around 6 a.m. in the 2000 block of Snow Crest Trail.",
+      "id": "15127a3e317b"
     },
     {
       "source": "WRAL Weather",
@@ -28,11 +28,259 @@
     },
     {
       "source": "NPR Politics",
+      "title": "Trump names national intelligence chief Jay Clayton as new AI czar",
+      "link": "https://www.npr.org/2026/10/04/nx-s1-5990781/jay-clayton-ai-czar-trump",
+      "published_at": "2026-10-04T18:36:48+00:00",
+      "summary_raw": "Trump said Clayton will lead the White House's new \"Super Intelligence Force,\" which will coordinate government engagement with artificial intelligence.",
+      "id": "e3b234ade77f"
+    },
+    {
+      "source": "NPR National",
+      "title": "In 'Ply,' Hernán Díaz imagines what we become after the world we know",
+      "link": "https://www.npr.org/2026/10/04/nx-s1-5985911/in-ply-hernan-diaz-imagines-what-we-become-after-the-world-we-know",
+      "published_at": "2026-10-04T21:57:04+00:00",
+      "summary_raw": "Pulitzer prize winner Hernán Díaz' new book 'Ply' follows a young woman who siphons electricity to power punk shows in a re-wilded world. Díaz tells NPR how the novel came to examine selfhood, identity and intimacy.",
+      "id": "666b2f54389d"
+    },
+    {
+      "source": "BBC World",
+      "title": "Polls close in Brazil as Lula and Flávio Bolsonaro remain neck and neck",
+      "link": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-04T21:11:49+00:00",
+      "summary_raw": "If no candidate gets more than 50% of the vote, the election will go to a run-off on 25 October.",
+      "id": "f2361d476a0c"
+    },
+    {
+      "source": "Science Daily",
+      "title": "A meteor hit Oklahoma 100 million years later than scientists thought",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261002080012.htm",
+      "published_at": "2026-10-04T12:41:43+00:00",
+      "summary_raw": "A meteor crater buried beneath Oklahoma has turned out to be nearly 100 million years younger than scientists thought. Zircon crystals show the Ames impact occurred about 370 million years ago, meaning it was not part of the mysterious Ordovician bombardment once linked to a possible ring of debris around Earth. Instead, the impact coincided closely with a major mass extinction that devastated marine life.",
+      "id": "bff571af2dc5"
+    },
+    {
+      "source": "WRAL Local",
+      "title": "Dead doesn't mean disposable; new laws for old batteries coming soon",
+      "link": "https://www.wral.com/news/local/fire-prevention-week-dangers-lithium-ion-batteries-october-2026/",
+      "published_at": "2026-10-04T16:17:46+00:00",
+      "summary_raw": "This year's theme is 'Safe Charging is a Superpower.' Coming soon, you won't be able to toss them into the trash can. A statewide battery ban goes into effect on December 1.",
+      "id": "8446acc413c2"
+    },
+    {
+      "source": "WRAL Weather",
+      "title": "‘They felt like they were melting’: Heat raises safety concerns for football players and fans",
+      "link": "https://www.wral.com/weather/football-season-heat-concerns-october-2026/",
+      "published_at": "2026-10-02T16:21:03+00:00",
+      "summary_raw": "Scorching football games are raising safety concerns for players and fans, prompting calls to rethink kickoff times and strengthen heat protections.",
+      "id": "0f4d4b515cee"
+    },
+    {
+      "source": "Wired",
+      "title": "The Best Online Gift Cards and Digital Gift Ideas (2026)",
+      "link": "https://www.wired.com/story/gift-cards-and-digital-gift-ideas/",
+      "published_at": "2026-10-04T10:30:00+00:00",
+      "summary_raw": "Forget the wrapping paper and shipping. Go digital this year with subscriptions, ebooks, apps, and more.",
+      "id": "5957038c4aad"
+    },
+    {
+      "source": "NPR Politics",
       "title": "Politics chat: Midterm polls, Senate races, Trump in Texas",
       "link": "https://www.npr.org/2026/10/04/nx-s1-5985905/politics-chat-midterm-polls-senate-races-trump-in-texas",
       "published_at": "2026-10-04T12:06:04+00:00",
       "summary_raw": "As polls come out with increasing frequency closer to the midterm election, how much credence should voters give them? Meanwhile, President Trump continues campaigning for GOP candidates.",
       "id": "46b1dcfefc50"
+    },
+    {
+      "source": "NPR National",
+      "title": "Supreme Court starts a new term with a case about who pays for climate damage",
+      "link": "https://www.npr.org/2026/10/04/nx-s1-5985092/supreme-court-starts-a-new-term-with-a-case-about-who-pays-for-climate-damage",
+      "published_at": "2026-10-04T21:57:03+00:00",
+      "summary_raw": "The Supreme Court starts its new term with a Colorado county's claim that an oil refinery worsened climate change. The ruling could determine whether similar cases can move forward.",
+      "id": "74419cb5c190"
+    },
+    {
+      "source": "BBC World",
+      "title": "What to know about Brazil's election as Lula and Flávio Bolsonaro face off",
+      "link": "https://www.bbc.co.uk/news/articles/c6wyz0r2n0djo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-04T20:14:49+00:00",
+      "summary_raw": "Polls suggest the election will be a closely run contest between the left-wing incumbent and his right-wing rival.",
+      "id": "bcc13e7aa1ac"
+    },
+    {
+      "source": "Science Daily",
+      "title": "Scientists find a surprising clue to why the universe’s expansion doesn’t add up",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261002080026.htm",
+      "published_at": "2026-10-04T12:05:54+00:00",
+      "summary_raw": "Tiny magnetic fields created shortly after the Big Bang may help explain the long-running disagreement over how fast the universe is expanding. Detailed simulations show that these primordial fields could have changed the formation of hydrogen in the early universe, affecting the cosmic microwave background and the expansion rate inferred from it.",
+      "id": "f2557d284722"
+    },
+    {
+      "source": "WRAL Local",
+      "title": "Crash on I-40E in Durham causing traffic delays",
+      "link": "https://www.wral.com/news/local/crash-on-i-40-durham-traffic-delay-october-2026/",
+      "published_at": "2026-10-04T12:26:32+00:00",
+      "summary_raw": "The crash happened near exit 278 around 7 a.m., and traffic is backed up for approximately two miles.",
+      "id": "60385275ab10"
+    },
+    {
+      "source": "Wired",
+      "title": "Meta Glasses Nova (Gen 3) Review: Not Much New",
+      "link": "https://www.wired.com/review/meta-glasses-gen-3/",
+      "published_at": "2026-10-04T10:30:00+00:00",
+      "summary_raw": "Meta and Ray-Ban’s new smart glasses have slightly better batteries and mics. And yes, they still have cameras.",
+      "id": "021afdcd1854"
+    },
+    {
+      "source": "NPR Politics",
+      "title": "Latter-day Saints women turn away from scandal-plagued Republican candidate in Arizona",
+      "link": "https://www.npr.org/2026/10/04/nx-s1-5950536/arizona-house-race-mark-lamb-lds-church",
+      "published_at": "2026-10-04T09:00:00+00:00",
+      "summary_raw": "Arizona Republican candidate for Congress Mark Lamb has been accused of sexual misconduct while sheriff. His controversy is turning many voters away as Democrats see an opportunity in the red seat.",
+      "id": "fbe9393e9480"
+    },
+    {
+      "source": "NPR National",
+      "title": "How much are AI data centers adding to your electricity bill?",
+      "link": "https://www.npr.org/2026/10/04/nx-s1-5990822/how-much-are-ai-data-centers-adding-to-your-electricity-bill",
+      "published_at": "2026-10-04T21:53:55+00:00",
+      "summary_raw": "Americans are worried AI data centers will raise their electricity bills. Congress has come up with a plan to protect ratepayers, but there's no easy way to find out what AI is costing them.",
+      "id": "1b10d71be87a"
+    },
+    {
+      "source": "BBC World",
+      "title": "Indian police accused of sexually harassing journalists at protest",
+      "link": "https://www.bbc.co.uk/news/articles/c9e8lvm6nrr3o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-04T17:01:19+00:00",
+      "summary_raw": "The allegations were made after police detained dozens of protesters demanding the resignation of the election chief over changes to voter rolls.",
+      "id": "8b52b3aa6b4e"
+    },
+    {
+      "source": "Science Daily",
+      "title": "A forgotten 30-year forest experiment just delivered a huge surprise",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261001214120.htm",
+      "published_at": "2026-10-04T11:50:46+00:00",
+      "summary_raw": "A 30-year forestry experiment in Australia found that heavily thinned mountain ash forests grew unusually large trees while recovering enough carbon to match or exceed untouched areas. The results suggest carefully managed thinning could support timber production, wildlife habitat, and carbon storage at the same time.",
+      "id": "ea3bc6f2124f"
+    },
+    {
+      "source": "WRAL Local",
+      "title": "Man died in shooting on Bain Drive in Fayetteville",
+      "link": "https://www.wral.com/news/local/man-died-shooting-bain-drive-fayetteville-october-2026/",
+      "published_at": "2026-10-04T10:43:24+00:00",
+      "summary_raw": "Around 11:20 p.m. Fayetteville police arrived at the 1900 block of Bain Drive and found a man who had been shot. He died at the scene.",
+      "id": "9d7b812fba8f"
+    },
+    {
+      "source": "Wired",
+      "title": "Rural Data Centers Are in for a Big Federal Tax Break",
+      "link": "https://www.wired.com/story/rural-data-centers-are-in-for-a-big-federal-tax-break/",
+      "published_at": "2026-10-04T10:00:00+00:00",
+      "summary_raw": "Under the One Big Beautiful Bill Act, data center projects in rural areas could be eligible for major tax benefits starting next year. Some hyperscalers do not seem eager to take the free cash.",
+      "id": "130c86b0426f"
+    },
+    {
+      "source": "NPR Politics",
+      "title": "Week in Politics: Inflation pressure; war in Iran and effect on midterm elections",
+      "link": "https://www.npr.org/2026/10/03/nx-s1-5989415/week-in-politics-inflation-pressure-war-in-iran-and-effect-on-midterm-elections",
+      "published_at": "2026-10-03T11:47:06+00:00",
+      "summary_raw": "We look at how some concerning economic indicators as well as the ongoing war in Iran might affect the midterm elections.",
+      "id": "bcb6f7b18820"
+    },
+    {
+      "source": "NPR National",
+      "title": "Trump names national intelligence chief Jay Clayton as new AI czar",
+      "link": "https://www.npr.org/2026/10/04/nx-s1-5990781/jay-clayton-ai-czar-trump",
+      "published_at": "2026-10-04T18:36:48+00:00",
+      "summary_raw": "Trump said Clayton will lead the White House's new \"Super Intelligence Force,\" which will coordinate government engagement with artificial intelligence.",
+      "id": "e3b234ade77f"
+    },
+    {
+      "source": "BBC World",
+      "title": "Yemen's government announces all-out war to reclaim land from Houthis",
+      "link": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-04T16:51:30+00:00",
+      "summary_raw": "The Yemeni president's announcement comes amid an exchange of strikes between the Houthis and the Saudi-led coalition.",
+      "id": "1f24f1f20661"
+    },
+    {
+      "source": "Science Daily",
+      "title": "Your gut bacteria may reveal how fast your brain is aging",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261001214106.htm",
+      "published_at": "2026-10-04T11:28:03+00:00",
+      "summary_raw": "A UCLA study links faster brain aging to specific gut bacteria and chemical byproducts, with older-looking brains also associated with poorer memory, focus, and mood. The findings suggest that biological signs of brain aging may appear decades before obvious symptoms and could eventually make the gut a target for prevention.",
+      "id": "2387d0cbec8a"
+    },
+    {
+      "source": "WRAL Local",
+      "title": "One dead, one injured in Durham shooting on Chapel Hill Boulevard",
+      "link": "https://www.wral.com/news/local/two-men-shot-durham-chapel-hill-blvd-october-2026/",
+      "published_at": "2026-10-04T10:22:55+00:00",
+      "summary_raw": "Around 12:30 a.m., two men were shot in the 4400 block of Durham Chapel Hill Boulevard.",
+      "id": "281e43f925ba"
+    },
+    {
+      "source": "Wired",
+      "title": "Keurig Alta First-Look: No More Plastic K-Cups",
+      "link": "https://www.wired.com/story/keurig-alta-coffee-brewer/",
+      "published_at": "2026-10-04T09:30:00+00:00",
+      "summary_raw": "Keurig is ready to ditch the K-Cup with a compostable and plastic- and aluminum-free coffee pod, but the price is steep.",
+      "id": "c6a7f1f87907"
+    },
+    {
+      "source": "NPR Politics",
+      "title": "How high-profile scandals are shaping key contests ahead of the midterms",
+      "link": "https://www.npr.org/2026/10/03/nx-s1-5983806/how-high-profile-scandals-are-shaping-key-contests-ahead-of-the-midterms",
+      "published_at": "2026-10-03T11:47:05+00:00",
+      "summary_raw": "Scandals could be shaping several races in the midterm elections, particularly in places where even small margins can change the outcome.",
+      "id": "be0be14d6d46"
+    },
+    {
+      "source": "NPR National",
+      "title": "Cornell president calls gang rape allegations 'deeply disturbing'",
+      "link": "https://www.npr.org/2026/10/04/nx-s1-5990789/cornell-president-calls-gang-rape-allegations-deeply-disturbing",
+      "published_at": "2026-10-04T15:41:07+00:00",
+      "summary_raw": "Cornell president Michael I. Kotlikoff said his university \"must do better\" in a video statement. \"This is a defining moment in Cornell's history,\" he added.",
+      "id": "cbb2382d039d"
+    },
+    {
+      "source": "BBC World",
+      "title": "Christa Pike's prognosis still unclear after failed execution, lawyer says",
+      "link": "https://www.bbc.co.uk/news/articles/ckgelynyg7d3o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-04T16:24:48+00:00",
+      "summary_raw": "Pike's lawyer says doctors are still trying to clear two lethal doses of pentobarbital from her body.",
+      "id": "0b90d7c33eed"
+    },
+    {
+      "source": "Science Daily",
+      "title": "Scientists just found a new way to make hydrogen from water",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261001214017.htm",
+      "published_at": "2026-10-04T11:11:24+00:00",
+      "summary_raw": "A new light-activated material can efficiently produce hydrogen from water without requiring an additional expensive metal catalyst. Researchers say its unusual sulfur-based chemistry could point toward cheaper and more practical ways to turn sunlight into clean fuel.",
+      "id": "78605fb4717e"
+    },
+    {
+      "source": "WRAL Local",
+      "title": "Woman hospitalized after Durham shooting",
+      "link": "https://www.wral.com/news/local/woman-hospitalized-durham-shooting-carpenter-fletcher-road-oct-2026/",
+      "published_at": "2026-10-04T00:32:49+00:00",
+      "summary_raw": "The shooting happened around 12:45 p.m. in the 1600 block of Carpenter Fletcher Road, according to Durham police.",
+      "id": "8467db61db0f"
+    },
+    {
+      "source": "Wired",
+      "title": "Elusive ‘Geoneutrinos’ Are Building a New Map of Earth’s Volatile Interior",
+      "link": "https://www.wired.com/story/elusive-geoneutrinos-are-building-a-new-map-of-earths-volatile-interior/",
+      "published_at": "2026-10-04T09:00:00+00:00",
+      "summary_raw": "A global network of detectors are reporting some of the most substantial measurements yet of neutrinos created deep underground by the radioactive elements that power our planet’s tectonic activity.",
+      "id": "f3c575650e46"
+    },
+    {
+      "source": "NPR Politics",
+      "title": "California voters to decide on controversial one-time tax on billionaires",
+      "link": "https://www.npr.org/2026/10/03/nx-s1-5987701/california-voters-to-decide-on-controversial-one-time-tax-on-billionaires",
+      "published_at": "2026-10-03T11:47:02+00:00",
+      "summary_raw": "California voters will decide whether the state will charge a one-time tax on billionaires. The idea that has split Democrats and labor unions.",
+      "id": "5b1352519338"
     },
     {
       "source": "NPR National",
@@ -48,47 +296,39 @@
       "link": "https://www.bbc.co.uk/news/articles/cme3xw4yy28do?at_medium=RSS&at_campaign=rss",
       "published_at": "2026-10-04T14:36:57+00:00",
       "summary_raw": "Japan's government lodged a formal protest with the US, demanding that military officials take action.",
-      "id": "ece856368f23"
+      "id": "144e079a107a"
     },
     {
       "source": "Science Daily",
-      "title": "A meteor hit Oklahoma 100 million years later than scientists thought",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261002080012.htm",
-      "published_at": "2026-10-04T12:41:43+00:00",
-      "summary_raw": "A meteor crater buried beneath Oklahoma has turned out to be nearly 100 million years younger than scientists thought. Zircon crystals show the Ames impact occurred about 370 million years ago, meaning it was not part of the mysterious Ordovician bombardment once linked to a possible ring of debris around Earth. Instead, the impact coincided closely with a major mass extinction that devastated marine life.",
-      "id": "bff571af2dc5"
+      "title": "This common vitamin could help fight one of the deadliest brain cancers",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261001095423.htm",
+      "published_at": "2026-10-04T10:09:00+00:00",
+      "summary_raw": "High-dose vitamin B3 is showing intriguing early promise as an addition to standard glioblastoma treatment, with 82% of patients in a small trial remaining progression-free after six months. Researchers believe niacin may help revive immune cells suppressed by the cancer, but larger studies are still needed to confirm the benefit and safety.",
+      "id": "43b71f5b015a"
     },
     {
       "source": "WRAL Local",
-      "title": "Man died in shooting on Bain Drive in Fayetteville",
-      "link": "https://www.wral.com/news/local/man-died-shooting-bain-drive-fayetteville-october-2026/",
-      "published_at": "2026-10-04T10:43:24+00:00",
-      "summary_raw": "Around 11:20 p.m. Fayetteville police arrived at the 1900 block of Bain Drive and found a man who had been shot. He died at the scene.",
-      "id": "9d7b812fba8f"
-    },
-    {
-      "source": "WRAL Weather",
-      "title": "‘They felt like they were melting’: Heat raises safety concerns for football players and fans",
-      "link": "https://www.wral.com/weather/football-season-heat-concerns-october-2026/",
-      "published_at": "2026-10-02T16:21:03+00:00",
-      "summary_raw": "Scorching football games are raising safety concerns for players and fans, prompting calls to rethink kickoff times and strengthen heat protections.",
-      "id": "0f4d4b515cee"
+      "title": "Police: Three people hurt in crash along I-540 in Knightdale",
+      "link": "https://www.wral.com/news/local/three-people-hurt-crash-i-540-knightdale-october-2026/",
+      "published_at": "2026-10-04T00:32:06+00:00",
+      "summary_raw": "According to the Knightdale Police Department, officers were called to a rollover crash around 7:30 p.m. on I-540 near Knightdale Boulevard. Police officers said three people were in the car and two of them were ejected during the crash.",
+      "id": "8608a7660580"
     },
     {
       "source": "Wired",
-      "title": "The Best Gifts Under $25 for Everyone on Your List (2026)",
-      "link": "https://www.wired.com/story/best-gifts-under-25-2026/",
-      "published_at": "2026-10-04T11:00:00+00:00",
-      "summary_raw": "We found genuinely good presents for home cooks, teens, coffee lovers, and the person who already has everything.",
-      "id": "8953b8636aec"
+      "title": "The Nvidia Shield TV Is 7 Years Old. It Just Got a $100 Price Hike",
+      "link": "https://www.wired.com/story/7-year-old-tv-now-100-dollars-more-expensive-thank-ai/",
+      "published_at": "2026-10-03T18:00:00+00:00",
+      "summary_raw": "The price of anything with memory is skyrocketing thanks to AI. Aging streaming devices are no exception.",
+      "id": "3c68d8856e53"
     },
     {
       "source": "NPR Politics",
-      "title": "Latter-day Saints women turn away from scandal-plagued Republican candidate in Arizona",
-      "link": "https://www.npr.org/2026/10/04/nx-s1-5950536/arizona-house-race-mark-lamb-lds-church",
-      "published_at": "2026-10-04T09:00:00+00:00",
-      "summary_raw": "Arizona Republican candidate for Congress Mark Lamb has been accused of sexual misconduct while sheriff. His controversy is turning many voters away as Democrats see an opportunity in the red seat.",
-      "id": "fbe9393e9480"
+      "title": "The Supreme Court faces another term jam-packed with controversy",
+      "link": "https://www.npr.org/2026/10/03/nx-s1-5986341/supreme-court-term-religion-guns-environment-immigration",
+      "published_at": "2026-10-03T09:00:00+00:00",
+      "summary_raw": "The Supreme Court term opens on Monday with big test cases on religion, guns and climate change. Plus, the emergency docket keeps popping.",
+      "id": "8decaafcf2e2"
     },
     {
       "source": "NPR National",
@@ -108,155 +348,11 @@
     },
     {
       "source": "Science Daily",
-      "title": "Scientists find a surprising clue to why the universe’s expansion doesn’t add up",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261002080026.htm",
-      "published_at": "2026-10-04T12:05:54+00:00",
-      "summary_raw": "Tiny magnetic fields created shortly after the Big Bang may help explain the long-running disagreement over how fast the universe is expanding. Detailed simulations show that these primordial fields could have changed the formation of hydrogen in the early universe, affecting the cosmic microwave background and the expansion rate inferred from it.",
-      "id": "f2557d284722"
-    },
-    {
-      "source": "WRAL Local",
-      "title": "Two men shot on Durham Chapel Hill Boulevard",
-      "link": "https://www.wral.com/news/local/two-men-shot-durham-chapel-hill-blvd-october-2026/",
-      "published_at": "2026-10-04T10:22:55+00:00",
-      "summary_raw": "Around 12:30 a.m., two men were shot in the 4400 block of Durham Chapel Hill Boulevard.",
-      "id": "281e43f925ba"
-    },
-    {
-      "source": "Wired",
-      "title": "The Best Online Gift Cards and Digital Gift Ideas (2026)",
-      "link": "https://www.wired.com/story/gift-cards-and-digital-gift-ideas/",
-      "published_at": "2026-10-04T10:30:00+00:00",
-      "summary_raw": "Forget the wrapping paper and shipping. Go digital this year with subscriptions, ebooks, apps, and more.",
-      "id": "5957038c4aad"
-    },
-    {
-      "source": "NPR Politics",
-      "title": "Week in Politics: Inflation pressure; war in Iran and effect on midterm elections",
-      "link": "https://www.npr.org/2026/10/03/nx-s1-5989415/week-in-politics-inflation-pressure-war-in-iran-and-effect-on-midterm-elections",
-      "published_at": "2026-10-03T11:47:06+00:00",
-      "summary_raw": "We look at how some concerning economic indicators as well as the ongoing war in Iran might affect the midterm elections.",
-      "id": "bcb6f7b18820"
-    },
-    {
-      "source": "NPR National",
-      "title": "Families of journalists killed in Ukraine sue Fox News for failing to keep them safe",
-      "link": "https://www.npr.org/2026/10/04/nx-s1-5987973/families-of-journalists-killed-in-ukraine-sue-fox-news-for-failing-to-keep-them-safe",
-      "published_at": "2026-10-04T12:06:08+00:00",
-      "summary_raw": "Fox News is being sued by families of two journalists killed in Ukraine four years ago. They say the network failed to keep their loved ones safe.",
-      "id": "331c6171c6c0"
-    },
-    {
-      "source": "BBC World",
-      "title": "Yemen announces military campaign to reclaim land from Iran-backed Houthis",
-      "link": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-04T14:24:56+00:00",
-      "summary_raw": "The Yemeni president's announcement comes amid an exchange of strikes between the Houthis and the Saudi-led coalition.",
-      "id": "1f24f1f20661"
-    },
-    {
-      "source": "Science Daily",
-      "title": "A forgotten 30-year forest experiment just delivered a huge surprise",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261001214120.htm",
-      "published_at": "2026-10-04T11:50:46+00:00",
-      "summary_raw": "A 30-year forestry experiment in Australia found that heavily thinned mountain ash forests grew unusually large trees while recovering enough carbon to match or exceed untouched areas. The results suggest carefully managed thinning could support timber production, wildlife habitat, and carbon storage at the same time.",
-      "id": "ea3bc6f2124f"
-    },
-    {
-      "source": "WRAL Local",
-      "title": "Woman hospitalized after Durham shooting",
-      "link": "https://www.wral.com/news/local/woman-hospitalized-durham-shooting-carpenter-fletcher-road-oct-2026/",
-      "published_at": "2026-10-04T00:32:49+00:00",
-      "summary_raw": "The shooting happened around 12:45 p.m. in the 1600 block of Carpenter Fletcher Road, according to Durham police.",
-      "id": "8467db61db0f"
-    },
-    {
-      "source": "Wired",
-      "title": "Meta Glasses Nova (Gen 3) Review: Not Much New",
-      "link": "https://www.wired.com/review/meta-glasses-gen-3/",
-      "published_at": "2026-10-04T10:30:00+00:00",
-      "summary_raw": "Meta and Ray-Ban’s new smart glasses have slightly better batteries and mics. And yes, they still have cameras.",
-      "id": "021afdcd1854"
-    },
-    {
-      "source": "NPR Politics",
-      "title": "How high-profile scandals are shaping key contests ahead of the midterms",
-      "link": "https://www.npr.org/2026/10/03/nx-s1-5983806/how-high-profile-scandals-are-shaping-key-contests-ahead-of-the-midterms",
-      "published_at": "2026-10-03T11:47:05+00:00",
-      "summary_raw": "Scandals could be shaping several races in the midterm elections, particularly in places where even small margins can change the outcome.",
-      "id": "be0be14d6d46"
-    },
-    {
-      "source": "NPR National",
-      "title": "Do fraternities fuel sexual assaults on campus?",
-      "link": "https://www.npr.org/2026/10/04/nx-s1-5985089/do-fraternities-fuel-sexual-assaults-on-campus",
-      "published_at": "2026-10-04T12:06:03+00:00",
-      "summary_raw": "Fraternities are at the center of recent debate over sexual assault on campus. Studies show Greek life is linked to higher rates of sexual assault, but researchers say it's a broader systemic problem.",
-      "id": "2e4013d2d328"
-    },
-    {
-      "source": "BBC World",
-      "title": "Ethiopian rebel forces withdraw from Tigray regional capital",
-      "link": "https://www.bbc.co.uk/news/articles/cqm249v07j4xo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-04T13:33:05+00:00",
-      "summary_raw": "Two residents in Mekelle tell the BBC pro-government forces have taken control of the city.",
-      "id": "bc36b2d2d0da"
-    },
-    {
-      "source": "Science Daily",
-      "title": "Your gut bacteria may reveal how fast your brain is aging",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261001214106.htm",
-      "published_at": "2026-10-04T11:28:03+00:00",
-      "summary_raw": "A UCLA study links faster brain aging to specific gut bacteria and chemical byproducts, with older-looking brains also associated with poorer memory, focus, and mood. The findings suggest that biological signs of brain aging may appear decades before obvious symptoms and could eventually make the gut a target for prevention.",
-      "id": "2387d0cbec8a"
-    },
-    {
-      "source": "WRAL Local",
-      "title": "Police: Three people hurt in crash along I-540 in Knightdale",
-      "link": "https://www.wral.com/news/local/three-people-hurt-crash-i-540-knightdale-october-2026/",
-      "published_at": "2026-10-04T00:32:06+00:00",
-      "summary_raw": "According to the Knightdale Police Department, officers were called to a rollover crash around 7:30 p.m. on I-540 near Knightdale Boulevard. Police officers said three people were in the car and two of them were ejected during the crash.",
-      "id": "8608a7660580"
-    },
-    {
-      "source": "Wired",
-      "title": "Rural Data Centers Are in for a Big Federal Tax Break",
-      "link": "https://www.wired.com/story/rural-data-centers-are-in-for-a-big-federal-tax-break/",
-      "published_at": "2026-10-04T10:00:00+00:00",
-      "summary_raw": "Under the One Big Beautiful Bill Act, data center projects in rural areas could be eligible for major tax benefits starting next year. Some hyperscalers do not seem eager to take the free cash.",
-      "id": "130c86b0426f"
-    },
-    {
-      "source": "NPR Politics",
-      "title": "California voters to decide on controversial one-time tax on billionaires",
-      "link": "https://www.npr.org/2026/10/03/nx-s1-5987701/california-voters-to-decide-on-controversial-one-time-tax-on-billionaires",
-      "published_at": "2026-10-03T11:47:02+00:00",
-      "summary_raw": "California voters will decide whether the state will charge a one-time tax on billionaires. The idea that has split Democrats and labor unions.",
-      "id": "5b1352519338"
-    },
-    {
-      "source": "NPR National",
-      "title": "Latter-day Saints women turn away from scandal-plagued Republican candidate in Arizona",
-      "link": "https://www.npr.org/2026/10/04/nx-s1-5950536/arizona-house-race-mark-lamb-lds-church",
-      "published_at": "2026-10-04T09:00:00+00:00",
-      "summary_raw": "Arizona Republican candidate for Congress Mark Lamb has been accused of sexual misconduct while sheriff. His controversy is turning many voters away as Democrats see an opportunity in the red seat.",
-      "id": "fbe9393e9480"
-    },
-    {
-      "source": "BBC World",
-      "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
-      "link": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-04T12:09:04+00:00",
-      "summary_raw": "Footage shows a drone hitting the Pivnichyi (Northern) Bridge as vehicles move across it, creating a large fireball.",
-      "id": "ca17cebf0868"
-    },
-    {
-      "source": "Science Daily",
-      "title": "Scientists just found a new way to make hydrogen from water",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261001214017.htm",
-      "published_at": "2026-10-04T11:11:24+00:00",
-      "summary_raw": "A new light-activated material can efficiently produce hydrogen from water without requiring an additional expensive metal catalyst. Researchers say its unusual sulfur-based chemistry could point toward cheaper and more practical ways to turn sunlight into clean fuel.",
-      "id": "78605fb4717e"
+      "title": "Vitamin D drug may help crack pancreatic cancer’s protective shield",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260930225501.htm",
+      "published_at": "2026-10-04T03:10:23+00:00",
+      "summary_raw": "A vitamin D analog may help break down pancreatic cancer’s protective defenses, potentially making tumors more vulnerable to chemotherapy and immune attack. A small clinical trial found encouraging responses, especially in patients whose tumors had high levels of the vitamin D receptor.",
+      "id": "45b720c006ff"
     },
     {
       "source": "WRAL Local",
@@ -268,59 +364,11 @@
     },
     {
       "source": "Wired",
-      "title": "Keurig Alta First-Look: No More Plastic K-Cups",
-      "link": "https://www.wired.com/story/keurig-alta-coffee-brewer/",
-      "published_at": "2026-10-04T09:30:00+00:00",
-      "summary_raw": "Keurig is ready to ditch the K-Cup with a compostable and plastic- and aluminum-free coffee pod, but the price is steep.",
-      "id": "c6a7f1f87907"
-    },
-    {
-      "source": "NPR Politics",
-      "title": "The Supreme Court faces another term jam-packed with controversy",
-      "link": "https://www.npr.org/2026/10/03/nx-s1-5986341/supreme-court-term-religion-guns-environment-immigration",
-      "published_at": "2026-10-03T09:00:00+00:00",
-      "summary_raw": "The Supreme Court term opens on Monday with big test cases on religion, guns and climate change. Plus, the emergency docket keeps popping.",
-      "id": "8decaafcf2e2"
-    },
-    {
-      "source": "NPR National",
-      "title": "Coast Guard finds debris from medical plane carrying 6 people",
-      "link": "https://www.npr.org/2026/10/03/g-s1-146338/plane-missing-coast-guard-search-massachusetts",
-      "published_at": "2026-10-03T22:31:04+00:00",
-      "summary_raw": "Flight data shows the jet dropped at least 9,000 feet over two minutes, then leveled off for several more minutes, before disappearing.",
-      "id": "0fc4bfd6e6f7"
-    },
-    {
-      "source": "BBC World",
-      "title": "What to know about Brazil's election pitting Lula against Flávio Bolsonaro",
-      "link": "https://www.bbc.co.uk/news/articles/c6wyz0r2n0djo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-04T11:03:20+00:00",
-      "summary_raw": "Polls suggest the election will be a closely run contest between the left-wing incumbent and his right-wing rival.",
-      "id": "7126491d27bb"
-    },
-    {
-      "source": "Science Daily",
-      "title": "This common vitamin could help fight one of the deadliest brain cancers",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261001095423.htm",
-      "published_at": "2026-10-04T10:09:00+00:00",
-      "summary_raw": "High-dose vitamin B3 is showing intriguing early promise as an addition to standard glioblastoma treatment, with 82% of patients in a small trial remaining progression-free after six months. Researchers believe niacin may help revive immune cells suppressed by the cancer, but larger studies are still needed to confirm the benefit and safety.",
-      "id": "43b71f5b015a"
-    },
-    {
-      "source": "WRAL Local",
-      "title": "Car hit by bullet on N. Roxboro Street in Durham Friday afternoon",
-      "link": "https://www.wral.com/news/local/car-hit-by-bullet-north-roxboro-october-2026/",
-      "published_at": "2026-10-03T16:52:44+00:00",
-      "summary_raw": "Just before 3:30 p.m., Durham police responded to a call of a shooting from inside a vehicle in the area. A vehicle driving southbound on Duke Street near Horton Road was hit by a bullet.",
-      "id": "c4891051d9df"
-    },
-    {
-      "source": "Wired",
-      "title": "Elusive ‘Geoneutrinos’ Are Building a New Map of Earth’s Volatile Interior",
-      "link": "https://www.wired.com/story/elusive-geoneutrinos-are-building-a-new-map-of-earths-volatile-interior/",
-      "published_at": "2026-10-04T09:00:00+00:00",
-      "summary_raw": "A global network of detectors are reporting some of the most substantial measurements yet of neutrinos created deep underground by the radioactive elements that power our planet’s tectonic activity.",
-      "id": "f3c575650e46"
+      "title": "Muse Creates Detailed Profiles of All Your Friends and Family",
+      "link": "https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family/",
+      "published_at": "2026-10-03T12:00:00+00:00",
+      "summary_raw": "Millions have downloaded Meta’s AI agent Muse. But getting it to do your bidding comes with privacy costs.",
+      "id": "f60003d615b9"
     },
     {
       "source": "NPR Politics",
@@ -332,67 +380,19 @@
     },
     {
       "source": "NPR National",
-      "title": "'It's not just a Cornell problem': Students speak out about sexual assault",
-      "link": "https://www.npr.org/2026/10/03/nx-s1-5989720/its-not-just-a-cornell-problem-students-speak-out-about-sexual-assault",
-      "published_at": "2026-10-03T21:57:37+00:00",
-      "summary_raw": "Women are posting videos hashtagged #IAmJaneDoe to support the woman suing Cornell. Students across the country say her case raises concerns about safety on campus.",
-      "id": "3041c3853671"
+      "title": "Families of journalists killed in Ukraine sue Fox News for failing to keep them safe",
+      "link": "https://www.npr.org/2026/10/04/nx-s1-5987973/families-of-journalists-killed-in-ukraine-sue-fox-news-for-failing-to-keep-them-safe",
+      "published_at": "2026-10-04T12:06:08+00:00",
+      "summary_raw": "Fox News is being sued by families of two journalists killed in Ukraine four years ago. They say the network failed to keep their loved ones safe.",
+      "id": "331c6171c6c0"
     },
     {
       "source": "BBC World",
-      "title": "Australia investigating Flydubai co-pilot's links to country",
-      "link": "https://www.bbc.co.uk/news/articles/cxly4nym57q9o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-04T06:19:17+00:00",
-      "summary_raw": "State police and the country's security agency are looking into the co-pilot, who attempted to take control of a Flydubai plane travelling to Israel.",
-      "id": "fc36941fa773"
-    },
-    {
-      "source": "Science Daily",
-      "title": "Vitamin D drug may help crack pancreatic cancer’s protective shield",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260930225501.htm",
-      "published_at": "2026-10-04T03:10:23+00:00",
-      "summary_raw": "A vitamin D analog may help break down pancreatic cancer’s protective defenses, potentially making tumors more vulnerable to chemotherapy and immune attack. A small clinical trial found encouraging responses, especially in patients whose tumors had high levels of the vitamin D receptor.",
-      "id": "45b720c006ff"
-    },
-    {
-      "source": "WRAL Local",
-      "title": "Apex seminar educates and calls for e-bike regulation",
-      "link": "https://www.wral.com/news/local/apex-e-bike-safety-beaver-creek-october-2026/",
-      "published_at": "2026-10-03T16:41:46+00:00",
-      "summary_raw": "This is an opportunity for bike riders, families and community members to learn more about bike safety, the rules of the road and address the growing hazards associated with e-bike riding.",
-      "id": "06db5dddd5ac"
-    },
-    {
-      "source": "Wired",
-      "title": "The Nvidia Shield TV Is 7 Years Old. It Just Got a $100 Price Hike",
-      "link": "https://www.wired.com/story/7-year-old-tv-now-100-dollars-more-expensive-thank-ai/",
-      "published_at": "2026-10-03T18:00:00+00:00",
-      "summary_raw": "The price of anything with memory is skyrocketing thanks to AI. Aging streaming devices are no exception.",
-      "id": "3c68d8856e53"
-    },
-    {
-      "source": "NPR Politics",
-      "title": "Pro-Trump Influencer Benny Johnson is being sued for defamation by ICE protesters",
-      "link": "https://www.npr.org/2026/10/02/nx-s1-5989413/benny-johnson-defamation-lawsuit-ice-protesters",
-      "published_at": "2026-10-02T18:43:30+00:00",
-      "summary_raw": "The lawsuit says the prominent conservative podcaster falsely claimed the protesters were assaulting ICE officers during demonstrations at an ICE facility in Illinois last year.",
-      "id": "fa5354d1f8c7"
-    },
-    {
-      "source": "NPR National",
-      "title": "Can the Cornell lawsuit force changes that make students safer?",
-      "link": "https://www.npr.org/2026/10/03/nx-s1-5989313/can-the-cornell-lawsuit-force-changes-that-make-students-safer",
-      "published_at": "2026-10-03T21:57:34+00:00",
-      "summary_raw": "Universities have responsibilities when students report sexual assault, even if prosecutors don't bring charges. Attorney Baine Kerr explains how those protections work.",
-      "id": "be8462e0ed7c"
-    },
-    {
-      "source": "BBC World",
-      "title": "Rare tornado whips through small Australian town",
-      "link": "https://www.bbc.co.uk/news/videos/c69qzvggzppro?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-04T04:15:36+00:00",
-      "summary_raw": "The twister was caught on camera in Ulladulla, New South Wales, damaging property and downing trees.",
-      "id": "d291e30adbc3"
+      "title": "Ethiopian rebel forces withdraw from Tigray regional capital",
+      "link": "https://www.bbc.co.uk/news/articles/cqm249v07j4xo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-04T13:33:05+00:00",
+      "summary_raw": "Two residents in Mekelle tell the BBC pro-government forces have taken control of the city.",
+      "id": "bc36b2d2d0da"
     },
     {
       "source": "Science Daily",
@@ -404,59 +404,11 @@
     },
     {
       "source": "WRAL Local",
-      "title": "Iredell County students hospitalized after eating cookies from classmate",
-      "link": "https://www.wral.com/news/state/iredell-county-students-hospitalized-eating-homemade-cookies-october-2026/",
-      "published_at": "2026-10-03T15:10:32+00:00",
-      "summary_raw": "Several students became ill after eating a homemade cookie brought in by another student",
-      "id": "a6307b7e2501"
-    },
-    {
-      "source": "Wired",
-      "title": "Muse Creates Detailed Profiles of All Your Friends and Family",
-      "link": "https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family/",
-      "published_at": "2026-10-03T12:00:00+00:00",
-      "summary_raw": "Millions have downloaded Meta’s AI agent Muse. But getting it to do your bidding comes with privacy costs.",
-      "id": "f60003d615b9"
-    },
-    {
-      "source": "NPR Politics",
-      "title": "San Francisco's car crime has plunged. How much credit does Flock deserve?",
-      "link": "https://www.npr.org/sections/planet-money/2026/10/02/g-s1-146060/san-franciscos-car-crime-has-plunged-how-much-credit-does-flock-deserve",
-      "published_at": "2026-10-02T10:30:00+00:00",
-      "summary_raw": "San Francisco leaders say AI-powered cameras helped drive a dramatic decline in car crime. We examine the evidence — and whether the city can keep its high-tech dragnet without sacrificing civil liberties.",
-      "id": "7b77df603753"
-    },
-    {
-      "source": "NPR National",
-      "title": "From saunas to psychedelics, how a health reporter sorts science from hype",
-      "link": "https://www.npr.org/2026/10/03/nx-s1-5986258/from-saunas-to-psychedelics-how-a-health-reporter-sorts-science-from-hype",
-      "published_at": "2026-10-03T21:57:32+00:00",
-      "summary_raw": "A reporting trip to a sauna conference in Oslo found NPR's Will Stone in a sauna with his clothes and recording gear. In this reporter's notebook, he explains how he investigates the science behind wellness claims.",
-      "id": "e8c64de6ec73"
-    },
-    {
-      "source": "BBC World",
-      "title": "Debris found from plane that went missing off US coast",
-      "link": "https://www.bbc.co.uk/news/articles/cme3x85013llo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-04T03:49:06+00:00",
-      "summary_raw": "The aircraft lost communication with flight controllers after significantly dropping in altitude, according to flight data.",
-      "id": "91b82e25144c"
-    },
-    {
-      "source": "Science Daily",
-      "title": "This protective enzyme could help stop fatty liver disease from getting worse",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261002080020.htm",
-      "published_at": "2026-10-03T13:46:11+00:00",
-      "summary_raw": "Scientists have identified an enzyme that may act as a natural defense against the worsening of fatty liver disease, which affects an estimated 100 million Americans. The enzyme, called UBE2N, helps liver cells clear away damaged mitochondria and break down fat, potentially preventing the inflammation, scarring, and cell damage associated with the more dangerous condition MASH.",
-      "id": "685a0642af25"
-    },
-    {
-      "source": "WRAL Local",
-      "title": "Security on the minds of high school football spectators in Wake County",
-      "link": "https://www.wral.com/news/local/security-questions-linger-at-wake-county-football-games-oct-2026/",
-      "published_at": "2026-10-03T02:24:39+00:00",
-      "summary_raw": "One week after the Millbrook-Rolesville game ended early from fights, fans are still asking what added security measures are being taken.",
-      "id": "e0ee5fa733f3"
+      "title": "Car hit by bullet on N. Roxboro Street in Durham Friday afternoon",
+      "link": "https://www.wral.com/news/local/car-hit-by-bullet-north-roxboro-october-2026/",
+      "published_at": "2026-10-03T16:52:44+00:00",
+      "summary_raw": "Just before 3:30 p.m., Durham police responded to a call of a shooting from inside a vehicle in the area. A vehicle driving southbound on Duke Street near Horton Road was hit by a bullet.",
+      "id": "c4891051d9df"
     },
     {
       "source": "Wired",
@@ -468,27 +420,75 @@
     },
     {
       "source": "NPR Politics",
-      "title": "Failed 'torturous' execution attempt on Christa Pike reignites death penalty debate",
-      "link": "https://www.npr.org/2026/10/02/nx-s1-5988832/christa-pike-reignites-death-penalty-debate",
-      "published_at": "2026-10-02T10:25:03+00:00",
-      "summary_raw": "The botched execution in Tennessee of Christa Pike, who survived despite being subject to two doses of lethal injection on Wednesday, has reignited furious debate about the death penalty in the U.S.",
-      "id": "2a532dc0d4e7"
+      "title": "Pro-Trump Influencer Benny Johnson is being sued for defamation by ICE protesters",
+      "link": "https://www.npr.org/2026/10/02/nx-s1-5989413/benny-johnson-defamation-lawsuit-ice-protesters",
+      "published_at": "2026-10-02T18:43:30+00:00",
+      "summary_raw": "The lawsuit says the prominent conservative podcaster falsely claimed the protesters were assaulting ICE officers during demonstrations at an ICE facility in Illinois last year.",
+      "id": "fa5354d1f8c7"
     },
     {
       "source": "NPR National",
-      "title": "Year-end countdown: The federal ban threatening to upend the THC drink boom",
-      "link": "https://www.npr.org/2026/10/03/nx-s1-5973280/year-end-countdown-the-federal-ban-threatening-to-upend-the-thc-drink-boom",
-      "published_at": "2026-10-03T11:46:59+00:00",
-      "summary_raw": "Farmers and businesses face a looming federal ban on hemp-derived THC products. It is set to go into effect at the by year-end, threatening to upend a multibillion-dollar market for low-dose drinks.",
-      "id": "4879c5ad5647"
+      "title": "Do fraternities fuel sexual assaults on campus?",
+      "link": "https://www.npr.org/2026/10/04/nx-s1-5985089/do-fraternities-fuel-sexual-assaults-on-campus",
+      "published_at": "2026-10-04T12:06:03+00:00",
+      "summary_raw": "Fraternities are at the center of recent debate over sexual assault on campus. Studies show Greek life is linked to higher rates of sexual assault, but researchers say it's a broader systemic problem.",
+      "id": "2e4013d2d328"
     },
     {
       "source": "BBC World",
-      "title": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
-      "link": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-04T03:42:15+00:00",
-      "summary_raw": "More than 50 protests took place on Saturday after the government failed to get emergency legislation through parliament.",
-      "id": "c2ce3cd04de0"
+      "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
+      "link": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-04T12:09:04+00:00",
+      "summary_raw": "Footage shows a drone hitting the Pivnichyi (Northern) Bridge as vehicles move across it, creating a large fireball.",
+      "id": "ca17cebf0868"
+    },
+    {
+      "source": "Science Daily",
+      "title": "This protective enzyme could help stop fatty liver disease from getting worse",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261002080020.htm",
+      "published_at": "2026-10-03T13:46:11+00:00",
+      "summary_raw": "Scientists have identified an enzyme that may act as a natural defense against the worsening of fatty liver disease, which affects an estimated 100 million Americans. The enzyme, called UBE2N, helps liver cells clear away damaged mitochondria and break down fat, potentially preventing the inflammation, scarring, and cell damage associated with the more dangerous condition MASH.",
+      "id": "685a0642af25"
+    },
+    {
+      "source": "WRAL Local",
+      "title": "Apex seminar educates and calls for e-bike regulation",
+      "link": "https://www.wral.com/news/local/apex-e-bike-safety-beaver-creek-october-2026/",
+      "published_at": "2026-10-03T16:41:46+00:00",
+      "summary_raw": "This is an opportunity for bike riders, families and community members to learn more about bike safety, the rules of the road and address the growing hazards associated with e-bike riding.",
+      "id": "06db5dddd5ac"
+    },
+    {
+      "source": "Wired",
+      "title": "ICE Has Been Dumping Protester Photos Into a Palantir Database",
+      "link": "https://www.wired.com/story/ice-has-been-dumping-protester-photos-into-a-palantir-database/",
+      "published_at": "2026-10-02T19:52:36+00:00",
+      "summary_raw": "DHS agents not only tracked and intimidated people observing ICE activity in Maine, but stored information about them in a Palantir-built database, newly unsealed court filings say.",
+      "id": "584d281a5bf0"
+    },
+    {
+      "source": "NPR Politics",
+      "title": "San Francisco's car crime has plunged. How much credit does Flock deserve?",
+      "link": "https://www.npr.org/sections/planet-money/2026/10/02/g-s1-146060/san-franciscos-car-crime-has-plunged-how-much-credit-does-flock-deserve",
+      "published_at": "2026-10-02T10:30:00+00:00",
+      "summary_raw": "San Francisco leaders say AI-powered cameras helped drive a dramatic decline in car crime. We examine the evidence — and whether the city can keep its high-tech dragnet without sacrificing civil liberties.",
+      "id": "7b77df603753"
+    },
+    {
+      "source": "NPR National",
+      "title": "Latter-day Saints women turn away from scandal-plagued Republican candidate in Arizona",
+      "link": "https://www.npr.org/2026/10/04/nx-s1-5950536/arizona-house-race-mark-lamb-lds-church",
+      "published_at": "2026-10-04T09:00:00+00:00",
+      "summary_raw": "Arizona Republican candidate for Congress Mark Lamb has been accused of sexual misconduct while sheriff. His controversy is turning many voters away as Democrats see an opportunity in the red seat.",
+      "id": "fbe9393e9480"
+    },
+    {
+      "source": "BBC World",
+      "title": "Australia investigating Flydubai co-pilot's links to country",
+      "link": "https://www.bbc.co.uk/news/articles/cxly4nym57q9o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-04T06:19:17+00:00",
+      "summary_raw": "State police and the country's security agency are looking into the co-pilot, who attempted to take control of a Flydubai plane travelling to Israel.",
+      "id": "d6532a02423f"
     },
     {
       "source": "Science Daily",
@@ -500,27 +500,27 @@
     },
     {
       "source": "WRAL Local",
-      "title": "Alamance County man arrested after gunfire reported near UNC campus",
-      "link": "https://www.wral.com/news/local/man-arrested-after-gunfire-reported-near-unc-campus-oct-2-2026/",
-      "published_at": "2026-10-03T00:26:32+00:00",
-      "summary_raw": "A man was arrested after police say he fired a gun on W. Franklin Street in Chapel Hill Friday evening. No injuries were reported, and police said there is no ongoing threat to the community.",
-      "id": "5301a295e3ac"
+      "title": "Iredell County students hospitalized after eating cookies from classmate",
+      "link": "https://www.wral.com/news/state/iredell-county-students-hospitalized-eating-homemade-cookies-october-2026/",
+      "published_at": "2026-10-03T15:10:32+00:00",
+      "summary_raw": "Several students became ill after eating a homemade cookie brought in by another student",
+      "id": "a6307b7e2501"
     },
     {
       "source": "Wired",
-      "title": "The Best E-Readers That Aren't a Kindle (2026): Kobo, Boox",
-      "link": "https://www.wired.com/gallery/best-ereaders/",
-      "published_at": "2026-10-03T11:05:00+00:00",
-      "summary_raw": "Want to untether your reading from Amazon? These Kindle alternatives deserve a spot on your nightstand.",
-      "id": "1212d37a397a"
+      "title": "This Shoe Company’s Instagram Ad With a Frat Is Pissing People Off",
+      "link": "https://www.wired.com/story/this-shoe-companys-instagram-ad-with-a-frat-is-pissing-people-off/",
+      "published_at": "2026-10-02T18:19:53+00:00",
+      "summary_raw": "A collaborative Instagram post between footwear line HeyDude and a University of Florida frat is sparking backlash due to sexual cyber-harassment allegations against two former members.",
+      "id": "bef2b4b3d5a8"
     },
     {
       "source": "BBC World",
-      "title": "Cornell president says university 'must do better' after frat house rape allegations",
-      "link": "https://www.bbc.co.uk/news/articles/ckly0leelnz4o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-04T00:11:25+00:00",
-      "summary_raw": "Michael Kotlikoff described the allegations of a woman who says she was drugged and gang raped as \"deeply disturbing\".",
-      "id": "74bee2cd6f60"
+      "title": "Rare tornado whips through small Australian town",
+      "link": "https://www.bbc.co.uk/news/videos/c69qzvggzppro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-04T04:15:36+00:00",
+      "summary_raw": "The twister was caught on camera in Ulladulla, New South Wales, damaging property and downing trees.",
+      "id": "d291e30adbc3"
     },
     {
       "source": "Science Daily",
@@ -532,19 +532,19 @@
     },
     {
       "source": "Wired",
-      "title": "Best Mosquito Repellents for Your Yard: What Works and What Doesn’t (2026)",
-      "link": "https://www.wired.com/story/best-mosquito-repellents/",
-      "published_at": "2026-10-03T10:03:00+00:00",
-      "summary_raw": "After years of testing repellents, traps, and sprays, I found a few ways to keep the bugs at bay—and plenty that aren’t worth the effort.",
-      "id": "28572c1c7ae1"
+      "title": "These AI Experts Want to Do High-Stakes Research Out in the Open",
+      "link": "https://www.wired.com/story/trillium-labs-wants-to-do-high-risk-ai-research-in-the-open/",
+      "published_at": "2026-10-02T16:00:00+00:00",
+      "summary_raw": "Many frontier labs keep their risky research locked away. Trillium Labs wants to show off its work when it comes to self-improvement and model behavior.",
+      "id": "2a5d3f3965a4"
     },
     {
       "source": "BBC World",
-      "title": "Why pastors may not be seen - or heard - preaching on Ghana's buses for much longer",
-      "link": "https://www.bbc.co.uk/news/articles/cwnvln99v2ygo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-03T23:37:46+00:00",
-      "summary_raw": "Ghana is a predominantly Christian country where preaching on public transport is widespread.",
-      "id": "df8f64646cad"
+      "title": "Debris found from plane that went missing off US coast",
+      "link": "https://www.bbc.co.uk/news/articles/cme3x85013llo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-04T03:49:06+00:00",
+      "summary_raw": "The aircraft lost communication with flight controllers after significantly dropping in altitude, according to flight data.",
+      "id": "91b82e25144c"
     },
     {
       "source": "Science Daily",
@@ -556,19 +556,19 @@
     },
     {
       "source": "Wired",
-      "title": "A Decade-Long Experiment Is Unlocking the Mysteries of the Ocean’s ‘Deep Reefs’",
-      "link": "https://www.wired.com/story/inside-decade-long-experiment-to-understand-oceans-mysterious-deep-reefs/",
-      "published_at": "2026-10-03T09:00:00+00:00",
-      "summary_raw": "Scientists left structures up to 100 meters under the surface. Here’s what they found when they retrieved them 10 years later.",
-      "id": "948a0bda93cb"
+      "title": "Trump’s Crazy AI Rebrand Was a Loyalty Test for Tech Execs—and It Worked",
+      "link": "https://www.wired.com/story/trumps-crazy-ai-rebrand-was-a-loyalty-test-for-tech-execs-and-it-worked/",
+      "published_at": "2026-10-02T15:00:00+00:00",
+      "summary_raw": "For years these billionaires gushed obsessively about AI. But they meekly went along when Trump canceled the term.",
+      "id": "e0b37885fd6d"
     },
     {
       "source": "BBC World",
-      "title": "Why Canada is preparing for a (long shot) US invasion",
-      "link": "https://www.bbc.co.uk/news/articles/c9m2mjj3yvg4o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-03T23:30:06+00:00",
-      "summary_raw": "Prime Minister Mark Carney has said the military is running scenarios in the unlikely case the US invades Canada.",
-      "id": "4a7aa9426ac5"
+      "title": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
+      "link": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-04T03:42:15+00:00",
+      "summary_raw": "More than 50 protests took place on Saturday after the government failed to get emergency legislation through parliament.",
+      "id": "c2ce3cd04de0"
     },
     {
       "source": "Science Daily",
@@ -580,19 +580,19 @@
     },
     {
       "source": "Wired",
-      "title": "50% Off DoorDash Promo Code | October 2026",
-      "link": "https://www.wired.com/story/doordash-promo-code/",
-      "published_at": "2026-10-03T05:00:00+00:00",
-      "summary_raw": "Explore today’s top DoorDash promo codes for $25 off your first order, free delivery, and 50% off DashPass for students and select users.",
-      "id": "8d03c2796ba5"
+      "title": "Amazon Says It’s No Longer Using NDAs for Data Centers",
+      "link": "https://www.wired.com/story/amazon-says-it-is-going-to-stop-using-ndas-for-data-centers/",
+      "published_at": "2026-10-02T11:47:58+00:00",
+      "summary_raw": "The company announced it has stopped using secret agreements with county officials and acknowledged that community backlash is leading to data center moratoriums across the country.",
+      "id": "9303efc785ee"
     },
     {
       "source": "BBC World",
-      "title": "US father and son arrested after 'gas station heroin' deaths",
-      "link": "https://www.bbc.co.uk/news/articles/c6qjnlk4r2jjo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-03T22:39:06+00:00",
-      "summary_raw": "They are accused of selling at least one student derivatives of kratom, often called \"gas station heroin\" in the US.",
-      "id": "e95915f91e92"
+      "title": "Cornell president says university 'must do better' after frat house rape allegations",
+      "link": "https://www.bbc.co.uk/news/articles/ckly0leelnz4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-04T00:11:25+00:00",
+      "summary_raw": "Michael Kotlikoff described the allegations of a woman who says she was drugged and gang raped as \"deeply disturbing\".",
+      "id": "74bee2cd6f60"
     },
     {
       "source": "Science Daily",
@@ -604,19 +604,19 @@
     },
     {
       "source": "Wired",
-      "title": "Surfshark Promo Codes: 87% Off | October 2026",
-      "link": "https://www.wired.com/story/surfshark-coupon/",
-      "published_at": "2026-10-03T05:00:00+00:00",
-      "summary_raw": "Save up to 87% with a Surfshark coupon code, 3 months of VPN free today, and more from WIRED.",
-      "id": "7137b7e584d5"
+      "title": "Election Deniers Think the GOP’s Terrible Midterm Polling Is a ‘Psyop’",
+      "link": "https://www.wired.com/story/election-deniers-think-the-gops-terrible-midterm-polling-is-a-psyop/",
+      "published_at": "2026-10-02T10:00:00+00:00",
+      "summary_raw": "Dozens and dozens of high-profile MAGA influencers and pundits have weighed in. “The laughable fake polls are rolling out,” Catturd posted on X.",
+      "id": "175a22ea1b14"
     },
     {
       "source": "BBC World",
-      "title": "Tennessee prison chief to resign after Christa Pike's failed execution",
-      "link": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-03T17:48:42+00:00",
-      "summary_raw": "Pike's lawyers said the failure \"goes far beyond any one person\". Pike is in critical condition after surviving two lethal injections.",
-      "id": "bcd0fb798f72"
+      "title": "Why pastors may not be seen - or heard - preaching on Ghana's buses for much longer",
+      "link": "https://www.bbc.co.uk/news/articles/cwnvln99v2ygo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-03T23:37:46+00:00",
+      "summary_raw": "Ghana is a predominantly Christian country where preaching on public transport is widespread.",
+      "id": "df8f64646cad"
     },
     {
       "source": "Science Daily",
@@ -628,19 +628,19 @@
     },
     {
       "source": "Wired",
-      "title": "Klook Promo Code: 25% Off October 2026",
-      "link": "https://www.wired.com/story/klook-promo-code/",
-      "published_at": "2026-10-03T05:00:00+00:00",
-      "summary_raw": "Maximize your travel budget with our expert guide to finding Klook coupons, app-exclusive deals, and payment discounts on tours, hotels, and transport.",
-      "id": "d0b5b0db15ce"
+      "title": "31 Best STEM Toys for Kids (2026): Learning Made Fun",
+      "link": "https://www.wired.com/gallery/best-stem-toys-for-kids/",
+      "published_at": "2026-10-02T09:30:00+00:00",
+      "summary_raw": "We found lots of math-filled and science-rich toys for tiny nerds to assemble, bake, squish—or even tear apart and rebuild.",
+      "id": "a835c9d6b446"
     },
     {
       "source": "BBC World",
-      "title": "Why has Brazil accused the US of election interference?",
-      "link": "https://www.bbc.co.uk/news/videos/c3eweld0nddeo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-03T13:52:13+00:00",
-      "summary_raw": "The Latin American country will vote for its next president, as Lula da Silva and Bolsonaro clash over sovereignty, security and ties with Washington.",
-      "id": "b2eeb3a69b3b"
+      "title": "Why Canada is wargaming a (long shot) US invasion",
+      "link": "https://www.bbc.co.uk/news/articles/c9m2mjj3yvg4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-03T23:30:06+00:00",
+      "summary_raw": "Prime Minister Mark Carney has said the military is running scenarios in the unlikely case the US invades Canada.",
+      "id": "4a7aa9426ac5"
     }
   ]
 }

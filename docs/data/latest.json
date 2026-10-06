@@ -1,14 +1,14 @@
 {
   "mode": "raw",
-  "generated_at": "2026-10-05T19:34:21.587865+00:00",
+  "generated_at": "2026-10-06T01:07:38.484888+00:00",
   "items": [
     {
       "source": "WRAL Local",
-      "title": "Fact-check: Has the US tried permanent daylight saving time? Here's what happened.",
-      "link": "https://www.wral.com/news/state/fact-check-permanent-daylight-saving-time-october-5/",
-      "published_at": "2026-10-05T19:21:33+00:00",
-      "summary_raw": "President Donald Trump supports permanent daylight saving time. Sen. Tom Cotton, R-Ark., says the idea has been tried and repealed because Americans didn't like it.",
-      "id": "64f7f6f0c280"
+      "title": "Raleigh police consider driverless patrol cars that can stream live video, raising privacy concerns",
+      "link": "https://www.wral.com/news/local/raleigh-police-consider-driverless-patrol-cars-that-can-stream-live-video-raising-privacy-concerns-october-2026/",
+      "published_at": "2026-10-06T01:05:12+00:00",
+      "summary_raw": "Raleigh police are exploring autonomous patrol vehicles that could monitor city streets, raising questions about surveillance, privacy, data collection and oversight.",
+      "id": "fda26bae6656"
     },
     {
       "source": "WRAL Weather",
@@ -17,6 +17,62 @@
       "published_at": "2026-10-05T08:15:19+00:00",
       "summary_raw": "Is there a connection between a quiet hurricane season and what's to come in the winter? We dive into that theory.",
       "id": "7d966e0d74ef"
+    },
+    {
+      "source": "Wired",
+      "title": "Elon Musk’s Exes Are the Most Damning Part of a Massive New Documentary",
+      "link": "https://www.wired.com/story/elon-musks-exes-are-the-most-damning-part-of-a-massive-new-documentary/",
+      "published_at": "2026-10-05T19:58:38+00:00",
+      "summary_raw": "Interviews with Justine Wilson and Ashley St. Clair in the nearly four-hour-long Musk paint the world’s richest man as capricious and cruel even toward those closest to him.",
+      "id": "31f3e78face4"
+    },
+    {
+      "source": "NPR Politics",
+      "title": "Supreme Court's new term kicks off with blockbuster climate change case",
+      "link": "https://www.npr.org/2026/10/05/nx-s1-5970070/supreme-court-climate-change-boulder-county",
+      "published_at": "2026-10-05T09:00:00+00:00",
+      "summary_raw": "The case centers on whether local governments can hold giant energy companies accountable for the local harms of climate change, but it has repercussions beyond climate.",
+      "id": "40e29c3837fe"
+    },
+    {
+      "source": "NPR National",
+      "title": "Dennis Hastert, longtime Republican House speaker who went to prison, dies at age 84",
+      "link": "https://www.npr.org/2026/10/05/g-s1-146452/dennis-hastert-republican-house-speaker-dies-obit",
+      "published_at": "2026-10-05T14:24:31+00:00",
+      "summary_raw": "ennis Hastert, whose political legacy as Congress' longest-serving Republican House speaker was later fouled by allegations that he had molested high school athletes during his prior career as a teacher and wrestling coach, has died, a coroner said Monday. He was 84.",
+      "id": "0f3054228213"
+    },
+    {
+      "source": "BBC World",
+      "title": "Yemeni military says it has 'secured' Red Sea waterway",
+      "link": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-06T01:05:00+00:00",
+      "summary_raw": "Saudi-backed forces gave conflicting reports of whether they had also seized the port city of Mokha, near the Bab al-Mandab Strait.",
+      "id": "def698135af4"
+    },
+    {
+      "source": "Science Daily",
+      "title": "Scientists reveal what seven days of fasting does to the human body",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261005012444.htm",
+      "published_at": "2026-10-05T12:26:03+00:00",
+      "summary_raw": "Scientists found that prolonged fasting triggers major changes throughout the body, but many of the most interesting effects only appeared after about three days without food. The results suggest fasting may influence health in ways that go beyond weight loss and could eventually inspire treatments that mimic its effects.",
+      "id": "ed6df4348f6a"
+    },
+    {
+      "source": "WRAL Local",
+      "title": "\"Fire Damage\" appears in inspection, permit records for North Hills balcony collapse",
+      "link": "https://www.wral.com/news/local/balcony-restrictions-lassiter-raleigh-apartment-north-hills-collapse-repairs-october-2026/",
+      "published_at": "2026-10-05T22:10:36+00:00",
+      "summary_raw": "After several anonymous complaints from tenants living at the Lassiter at North Hills, claiming a fourth-floor balcony had collapsed this summer, a spokesperson for the building's management confirmed balcony access has been temporarily restricted for residents.",
+      "id": "6ddf542bfdd6"
+    },
+    {
+      "source": "WRAL Weather",
+      "title": "Ask the Meteorologist: Why a late season storm may form this week",
+      "link": "https://www.wral.com/weather/ask-the-meteorologist-late-season-tropical-storm-2026/",
+      "published_at": "2026-10-05T08:05:21+00:00",
+      "summary_raw": "The Central American Gyre can sometimes spawn tropical systems in the southern Gulf.",
+      "id": "24096f6e4dcd"
     },
     {
       "source": "Wired",
@@ -36,62 +92,6 @@
     },
     {
       "source": "NPR National",
-      "title": "Dennis Hastert, longtime Republican House speaker who went to prison, dies at age 84",
-      "link": "https://www.npr.org/2026/10/05/g-s1-146452/dennis-hastert-republican-house-speaker-dies-obit",
-      "published_at": "2026-10-05T14:24:31+00:00",
-      "summary_raw": "ennis Hastert, whose political legacy as Congress' longest-serving Republican House speaker was later fouled by allegations that he had molested high school athletes during his prior career as a teacher and wrestling coach, has died, a coroner said Monday. He was 84.",
-      "id": "0f3054228213"
-    },
-    {
-      "source": "BBC World",
-      "title": "Yemeni military says it has retaken Mokha and 'secured' Red Sea waterway",
-      "link": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-05T17:49:59+00:00",
-      "summary_raw": "Saudi-backed forces say they seized the port city of Mocha, near the Bab al-Mandab Strait, at the start of an offensive against the Houthis.",
-      "id": "def698135af4"
-    },
-    {
-      "source": "Science Daily",
-      "title": "Scientists reveal what seven days of fasting does to the human body",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261005012444.htm",
-      "published_at": "2026-10-05T12:26:03+00:00",
-      "summary_raw": "Scientists found that prolonged fasting triggers major changes throughout the body, but many of the most interesting effects only appeared after about three days without food. The results suggest fasting may influence health in ways that go beyond weight loss and could eventually inspire treatments that mimic its effects.",
-      "id": "ed6df4348f6a"
-    },
-    {
-      "source": "WRAL Local",
-      "title": "Michael Jordan donates $10 million to UNC School of Social Work, school renamed for his mother",
-      "link": "https://www.wral.com/news/local/michael-jordan-donates-10-million-unc-school-social-work-october-2026/",
-      "published_at": "2026-10-05T18:49:22+00:00",
-      "summary_raw": "The money will fund the renovation and expansion of the Global Social Development Innovations Center and will be renamed to the Deloris P. Jordan Global Social Development Innovations Center, in honor of Jordan's mother.",
-      "id": "7eebba526fa2"
-    },
-    {
-      "source": "WRAL Weather",
-      "title": "Ask the Meteorologist: Why a late season storm may form this week",
-      "link": "https://www.wral.com/weather/ask-the-meteorologist-late-season-tropical-storm-2026/",
-      "published_at": "2026-10-05T08:05:21+00:00",
-      "summary_raw": "The Central American Gyre can sometimes spawn tropical systems in the southern Gulf.",
-      "id": "24096f6e4dcd"
-    },
-    {
-      "source": "Wired",
-      "title": "The Best Early Amazon Prime Day Deals 2026: WIRED-Tested Picks to Shop Now",
-      "link": "https://www.wired.com/story/amazon-prime-day-early-deals-10-05-2026/",
-      "published_at": "2026-10-05T17:36:00+00:00",
-      "summary_raw": "Amazon Prime Big Deal Days officially begin tomorrow, but I’ve already spotted early discounts on gear our team recommends.",
-      "id": "232eab8d8ac6"
-    },
-    {
-      "source": "NPR Politics",
-      "title": "Supreme Court's new term kicks off with blockbuster climate change case",
-      "link": "https://www.npr.org/2026/10/05/nx-s1-5970070/supreme-court-climate-change-boulder-county",
-      "published_at": "2026-10-05T09:00:00+00:00",
-      "summary_raw": "The case centers on whether local governments can hold giant energy companies accountable for the local harms of climate change, but it has repercussions beyond climate.",
-      "id": "40e29c3837fe"
-    },
-    {
-      "source": "NPR National",
       "title": "FBI arrests a woman accused of spying on Taiwan leader's family for China",
       "link": "https://www.npr.org/2026/10/05/g-s1-146410/fbi-arrests-a-woman-accused-of-spying-on-taiwan-leaders-family-for-china",
       "published_at": "2026-10-05T11:47:36+00:00",
@@ -100,11 +100,11 @@
     },
     {
       "source": "BBC World",
-      "title": "Teenager's hand blown off during confrontation between France school protesters and police",
-      "link": "https://www.bbc.co.uk/news/articles/c9zrdmxp4vy6o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-05T16:32:18+00:00",
-      "summary_raw": "The prefect of Pas-de-Calais says the 15-year-old's life is \"not in danger\" after the \"very serious\" incident.",
-      "id": "b1816fc67db0"
+      "title": "Right-wing Flávio Bolsonaro wins first round of Brazil election",
+      "link": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-05T23:19:14+00:00",
+      "summary_raw": "With neither candidate getting more than 50% of the vote, the election will go to a run-off on 25 October.",
+      "id": "509f6b58e491"
     },
     {
       "source": "Science Daily",
@@ -116,11 +116,11 @@
     },
     {
       "source": "WRAL Local",
-      "title": "Settlement expected in lawsuits tied to Hedingham mass shooting",
-      "link": "https://www.wral.com/news/local/settlement-expected-in-lawsuits-tied-to-hedingham-mass-shooting-october-2026/",
-      "published_at": "2026-10-05T18:39:00+00:00",
-      "summary_raw": "A Wake County judge is being asked to approve confidential settlements in lawsuits filed by victims and families impacted by the Hedingham mass shooting.",
-      "id": "857a9159329f"
+      "title": "Teacher union reps' access to Wake schools up for first vote Tuesday",
+      "link": "https://www.wral.com/news/local/teacher-union-reps-access-to-wake-schools-first-vote-october-2026/",
+      "published_at": "2026-10-05T21:37:35+00:00",
+      "summary_raw": "The proposal came from school board members who had heard from teachers that their principals wouldn't allow a representative to visit their campus. The policy revision would apply to all employee associations, but in limited contexts.",
+      "id": "c7e5e3256b12"
     },
     {
       "source": "WRAL Weather",
@@ -132,11 +132,11 @@
     },
     {
       "source": "Wired",
-      "title": "Best Power Banks (2026): My Picks After Testing Over 100",
-      "link": "https://www.wired.com/gallery/best-portable-chargers-power-banks/",
-      "published_at": "2026-10-05T11:00:00+00:00",
-      "summary_raw": "Keep your phone, laptop, handheld gaming console, and other electronics running with these travel-friendly power banks.",
-      "id": "f883c4875878"
+      "title": "The Best Early Amazon Prime Day Deals 2026: WIRED-Tested Picks to Shop Now",
+      "link": "https://www.wired.com/story/amazon-prime-day-early-deals-10-05-2026/",
+      "published_at": "2026-10-05T17:36:00+00:00",
+      "summary_raw": "Amazon Prime Big Deal Days officially begin tomorrow, but I’ve already spotted early discounts on gear our team recommends.",
+      "id": "232eab8d8ac6"
     },
     {
       "source": "NPR Politics",
@@ -148,19 +148,19 @@
     },
     {
       "source": "NPR National",
-      "title": "Super El Niño is here. What's so super about it?",
-      "link": "https://www.npr.org/2026/10/05/nx-s1-5981261/super-el-nino-floods-droughts",
+      "title": "Supreme Court's new term kicks off with blockbuster climate change case",
+      "link": "https://www.npr.org/2026/10/05/nx-s1-5970070/supreme-court-climate-change-boulder-county",
       "published_at": "2026-10-05T09:00:00+00:00",
-      "summary_raw": "This year, federal forecasters say the planet could see the strongest El Niño event on record. Here's what you need to know.",
-      "id": "b3102ccf49fa"
+      "summary_raw": "The case centers on whether local governments can hold giant energy companies accountable for the local harms of climate change, but it has repercussions beyond climate.",
+      "id": "40e29c3837fe"
     },
     {
       "source": "BBC World",
-      "title": "No10 insists UK military base RAF Fairford is safe after US withdraws bombers",
-      "link": "https://www.bbc.co.uk/news/articles/cmy56yvv1kxxo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-05T16:13:35+00:00",
-      "summary_raw": "US media reported a new threat led to the bombers being removed on Sunday, following an incident near the base last week.",
-      "id": "4a3fe3c42be3"
+      "title": "Trump says 'threat' led US to pull bombers from RAF Fairford",
+      "link": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-05T21:46:22+00:00",
+      "summary_raw": "The Pentagon confirmed on Sunday it had removed the B1 bombers from the base in England back to their home stations in America.",
+      "id": "9decc9d09293"
     },
     {
       "source": "Science Daily",
@@ -172,19 +172,19 @@
     },
     {
       "source": "WRAL Local",
-      "title": "Are your taste buds ready for the ride? Liquid cotton candy and 80+ new foods at NC State Fair",
-      "link": "https://www.wral.com/news/local/new-state-fair-foods-october-2026/",
-      "published_at": "2026-10-05T16:11:59+00:00",
-      "summary_raw": "Biscoff, Pickles and Hot Honey: Check out more than 80 new foods this year at the North Carolina State Fair",
-      "id": "b41369a6dc20"
+      "title": "18-year-old charged with murder after 16-year-old killed in Goldsboro shooting",
+      "link": "https://www.wral.com/news/local/18-year-old-charged-with-murder-after-16-year-old-killed-goldsboro-shooting-october-2026/",
+      "published_at": "2026-10-05T21:28:48+00:00",
+      "summary_raw": "An 18-year-old woman is charged with second-degree murder after a 16-year-old boy was shot and killed early Monday in Goldsboro.",
+      "id": "a7df8fccc833"
     },
     {
       "source": "Wired",
-      "title": "Withings BodyScan 2 Review: Worth Its Weight",
-      "link": "https://www.wired.com/review/withings-bodyscan-2/",
-      "published_at": "2026-10-05T10:36:00+00:00",
-      "summary_raw": "After months of testing, this high-end smart scale has made me rethink how much a bathroom weigh-in can tell me.",
-      "id": "f16717bf0d0f"
+      "title": "Best Power Banks (2026): My Picks After Testing Over 100",
+      "link": "https://www.wired.com/gallery/best-portable-chargers-power-banks/",
+      "published_at": "2026-10-05T11:00:00+00:00",
+      "summary_raw": "Keep your phone, laptop, handheld gaming console, and other electronics running with these travel-friendly power banks.",
+      "id": "f883c4875878"
     },
     {
       "source": "NPR Politics",
@@ -196,19 +196,19 @@
     },
     {
       "source": "NPR National",
-      "title": "Supreme Court's new term kicks off with blockbuster climate change case",
-      "link": "https://www.npr.org/2026/10/05/nx-s1-5970070/supreme-court-climate-change-boulder-county",
+      "title": "People are asking ChatGPT to help them decide how to vote in the midterms",
+      "link": "https://www.npr.org/2026/10/05/nx-s1-5977852/ai-chatbots-midterm-election",
       "published_at": "2026-10-05T09:00:00+00:00",
-      "summary_raw": "The case centers on whether local governments can hold giant energy companies accountable for the local harms of climate change, but it has repercussions beyond climate.",
-      "id": "40e29c3837fe"
+      "summary_raw": "Voters are already voting in the midterms. This year, some voters are trying something new to get ready for the election: asking AI to help research their ballot and even decide who to vote for.",
+      "id": "72236f657ed4"
     },
     {
       "source": "BBC World",
-      "title": "Pentagon stops using Anthropic AI tools after blacklisting company, BBC told",
-      "link": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-05T16:13:21+00:00",
-      "summary_raw": "It labelled Anthropic a \"supply chain risk\" in February after the firm refused to remove safety guardrails from its tools.",
-      "id": "fd26c385842d"
+      "title": "US 'watching closely' after plague researcher dies in Russia",
+      "link": "https://www.bbc.co.uk/news/articles/cv5yn3nwp5n5o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-05T21:33:49+00:00",
+      "summary_raw": "Donald Trump says the US was looking \"very strongly\" at the case of a lab technician who died at a research centre in Siberia.",
+      "id": "97bf8e79f2b0"
     },
     {
       "source": "Science Daily",
@@ -220,19 +220,19 @@
     },
     {
       "source": "WRAL Local",
-      "title": "Man charged in downtown Raleigh nightclub shooting that injured 4",
-      "link": "https://www.wral.com/news/local/man-charged-downtown-raleigh-august-nightclub-shooting-october-2026/",
-      "published_at": "2026-10-05T15:23:12+00:00",
-      "summary_raw": "A 33-year-old man is facing four felony assault charges in connection with an Aug. 23 shooting at Club Alive in downtown Raleigh that injured four people.",
-      "id": "93d63fb5e40a"
+      "title": "Why Your TV Is Overrun by Political Ads (Hint: It’s the Law) | In Depth",
+      "link": "https://www.wral.com/news/local/why-your-tv-overrun-by-political-ads-october-2026/",
+      "published_at": "2026-10-05T21:23:57+00:00",
+      "summary_raw": "When it comes to candidate ads, the rule is simple, TV stations can't say no. They can say anything they want, and TV stations must air it.",
+      "id": "1892b2f7f9d6"
     },
     {
       "source": "Wired",
-      "title": "Omega Has New Bond Watches Even if There Isn’t a New James Bond",
-      "link": "https://www.wired.com/story/omega-has-new-bond-watches-even-if-we-dont-have-a-new-bond/",
-      "published_at": "2026-10-05T10:00:00+00:00",
-      "summary_raw": "With no new 007 actor named and no film in the near future, Omega has had to get creative to keep its lucrative spy-watch train running.",
-      "id": "cfd9e8c03b22"
+      "title": "Withings BodyScan 2 Review: Worth Its Weight",
+      "link": "https://www.wired.com/review/withings-bodyscan-2/",
+      "published_at": "2026-10-05T10:36:00+00:00",
+      "summary_raw": "After months of testing, this high-end smart scale has made me rethink how much a bathroom weigh-in can tell me.",
+      "id": "f16717bf0d0f"
     },
     {
       "source": "NPR Politics",
@@ -244,19 +244,19 @@
     },
     {
       "source": "NPR National",
-      "title": "People are asking ChatGPT to help them decide how to vote in the midterms",
-      "link": "https://www.npr.org/2026/10/05/nx-s1-5977852/ai-chatbots-midterm-election",
+      "title": "Super El Niño is here. What's so super about it?",
+      "link": "https://www.npr.org/2026/10/05/nx-s1-5981261/super-el-nino-floods-droughts",
       "published_at": "2026-10-05T09:00:00+00:00",
-      "summary_raw": "Voters are already voting in the midterms. This year, some voters are trying something new to get ready for the election: asking AI to help research their ballot and even decide who to vote for.",
-      "id": "72236f657ed4"
+      "summary_raw": "This year, federal forecasters say the planet could see the strongest El Niño event on record. Here's what you need to know.",
+      "id": "b3102ccf49fa"
     },
     {
       "source": "BBC World",
-      "title": "Zelensky condemns 'horrific' Russian strike on boat carrying corn in Black Sea",
-      "link": "https://www.bbc.co.uk/news/articles/cr0j0w3p8453o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-05T15:17:23+00:00",
-      "summary_raw": "The vessel's captain was killed and 11 crew members were rescued after the attack on the Turkish-owned ship, Ukraine's leader says.",
-      "id": "c9b73768e1f4"
+      "title": "France braces for national day of school protests after injuries and mass arrests",
+      "link": "https://www.bbc.co.uk/news/articles/cr4g1q1elxnjo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-05T21:18:10+00:00",
+      "summary_raw": "France prepares for a day of protests in support of students who’ve been demanding more investment in education.",
+      "id": "c4449d43a514"
     },
     {
       "source": "Science Daily",
@@ -268,19 +268,19 @@
     },
     {
       "source": "WRAL Local",
-      "title": "Recall: Squishy toys could lead to serious injury or death from water bead ingestion",
-      "link": "https://www.wral.com/news/local/recall-squicky-toys-could-lead-to-serious-injury-or-death-from-water-bead-ingestion-october-2026/",
-      "published_at": "2026-10-05T14:53:32+00:00",
-      "summary_raw": "ABC Trading recalls crazy squib balls, which contain water beads that can pose a hazard if ingested",
-      "id": "6d4c33e8c0db"
+      "title": "Museum of Life and Science seeks additional $2M from Durham County as costs rise",
+      "link": "https://www.wral.com/news/local/museum-of-life-and-science-seek-durham-costs-rise-october-2026/",
+      "published_at": "2026-10-05T21:01:55+00:00",
+      "summary_raw": "The Museum of Life and Science is asking Durham County for an additional $2 million as rising construction costs have left the museum facing a $3.5 million funding gap.",
+      "id": "a5f7fff5e333"
     },
     {
       "source": "Wired",
-      "title": "A Prediction Market About the Past? Sure, Why Not!",
-      "link": "https://www.wired.com/story/a-prediction-market-about-the-past-sure-why-not/",
-      "published_at": "2026-10-05T09:30:00+00:00",
-      "summary_raw": "As prediction markets surge in popularity, a new platform called Verifact Markets is pushing the concept even further, letting users trade on “disputed facts.”",
-      "id": "26e169a79fd7"
+      "title": "Omega Has New Bond Watches Even if There Isn’t a New James Bond",
+      "link": "https://www.wired.com/story/omega-has-new-bond-watches-even-if-we-dont-have-a-new-bond/",
+      "published_at": "2026-10-05T10:00:00+00:00",
+      "summary_raw": "With no new 007 actor named and no film in the near future, Omega has had to get creative to keep its lucrative spy-watch train running.",
+      "id": "cfd9e8c03b22"
     },
     {
       "source": "NPR Politics",
@@ -300,11 +300,11 @@
     },
     {
       "source": "BBC World",
-      "title": "Bombs preventing rescue of kidnapped youths, Nigerian police say",
-      "link": "https://www.bbc.co.uk/news/articles/c6gqw8jg7k3go?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-05T12:59:56+00:00",
-      "summary_raw": "The father of one of the 19 young abductees tells the BBC he hasn't eaten in three days out of worry.",
-      "id": "8b38ef6bffe7"
+      "title": "Spain PM pins hopes on housing crisis to help win snap election",
+      "link": "https://www.bbc.co.uk/news/articles/ck5yn81qqde0o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-05T19:30:50+00:00",
+      "summary_raw": "Calling of a snap election was not a knee-jerk reaction from Pedro Sánchez but a carefully thought-out manoeuvre, Guy Hedgecoe reports from Madrid.",
+      "id": "7316358cf00f"
     },
     {
       "source": "Science Daily",
@@ -316,19 +316,19 @@
     },
     {
       "source": "WRAL Local",
-      "title": "Attorneys in UNC student murder trial agree on jury, still selecting alternates",
-      "link": "https://www.wral.com/news/local/attorneys-agree-jury-12-unc-student-murder-faith-hedgepeth-trial-october-2026/",
-      "published_at": "2026-10-05T14:29:57+00:00",
-      "summary_raw": "Attorneys in the UNC student murder trial have agreed on a jury of 12 Durham residents. Those jurors will decide whether Miguel Salguero-Olivares is guilty of the murder of Faith Hedgepeth.",
-      "id": "dac5a5ae3731"
+      "title": "Raleigh-area wedding photography company ordered to pay nearly $1.7M",
+      "link": "https://www.wral.com/news/local/raleigh-area-wedding-photography-company-ordered-pay-october-2026/",
+      "published_at": "2026-10-05T20:45:45+00:00",
+      "summary_raw": "A judge sided with the North Carolina Attorney General's Office in its default judgment motion, which sought $1.7M in refunds and civil penalties against Holly Christina Photography after customers said they never received services they paid for.",
+      "id": "187fdbb935fb"
     },
     {
       "source": "Wired",
-      "title": "Staples Print and Marketing Services Review: Fast Holiday Gifts",
-      "link": "https://www.wired.com/story/staples-print-and-marketing-services/",
-      "published_at": "2026-10-05T09:00:00+00:00",
-      "summary_raw": "Staples’s printing service offers fast pickup and in-store experts who can help you get your family photos, novelty gifts, and business documents looking exactly how you want.",
-      "id": "11b066598cdb"
+      "title": "A Prediction Market About the Past? Sure, Why Not!",
+      "link": "https://www.wired.com/story/a-prediction-market-about-the-past-sure-why-not/",
+      "published_at": "2026-10-05T09:30:00+00:00",
+      "summary_raw": "As prediction markets surge in popularity, a new platform called Verifact Markets is pushing the concept even further, letting users trade on “disputed facts.”",
+      "id": "26e169a79fd7"
     },
     {
       "source": "NPR Politics",
@@ -348,11 +348,11 @@
     },
     {
       "source": "BBC World",
-      "title": "Georgia officials hunt for suspect in shooting that killed two and injured 35",
-      "link": "https://www.bbc.co.uk/news/articles/c6e9lj5r3ej7o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-05T12:08:21+00:00",
-      "summary_raw": "A homecoming celebration turned into a scene of deadly violence, as dozens of shots were fired into a crowd.",
-      "id": "697063b75524"
+      "title": "Pentagon stops using Anthropic AI tools after blacklisting company, BBC told",
+      "link": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-05T16:13:21+00:00",
+      "summary_raw": "It labelled Anthropic a \"supply chain risk\" in February after the firm refused to remove safety guardrails from its tools.",
+      "id": "fd26c385842d"
     },
     {
       "source": "Science Daily",
@@ -364,19 +364,19 @@
     },
     {
       "source": "WRAL Local",
-      "title": "16-year-old killed in Goldsboro shooting, woman arrested",
-      "link": "https://www.wral.com/news/local/teen-killed-goldsboro-shooting-october-2026/",
-      "published_at": "2026-10-05T14:15:44+00:00",
-      "summary_raw": "Police said an 18-year-old woman is facing a second-degree murder charge in a shooting that killed a 16-year-old early Monday morning.",
-      "id": "7832c3443441"
+      "title": "Fact-check: Has the US tried permanent daylight saving time? Here's what happened.",
+      "link": "https://www.wral.com/news/state/fact-check-permanent-daylight-saving-time-october-5/",
+      "published_at": "2026-10-05T19:21:33+00:00",
+      "summary_raw": "President Donald Trump supports permanent daylight saving time. Sen. Tom Cotton, R-Ark., says the idea has been tried and repealed because Americans didn't like it.",
+      "id": "64f7f6f0c280"
     },
     {
       "source": "Wired",
-      "title": "15 Best Office Chairs of 2026—We Tested 70 to Pick Them",
-      "link": "https://www.wired.com/gallery/best-office-chairs/",
-      "published_at": "2026-10-04T11:03:00+00:00",
-      "summary_raw": "Upgrade your WFH setup and work in style with these comfy, WIRED-tested seats.",
-      "id": "1bc422c229c0"
+      "title": "Staples Print and Marketing Services Review: Fast Holiday Gifts",
+      "link": "https://www.wired.com/story/staples-print-and-marketing-services/",
+      "published_at": "2026-10-05T09:00:00+00:00",
+      "summary_raw": "Staples’s printing service offers fast pickup and in-store experts who can help you get your family photos, novelty gifts, and business documents looking exactly how you want.",
+      "id": "11b066598cdb"
     },
     {
       "source": "NPR Politics",
@@ -396,11 +396,11 @@
     },
     {
       "source": "BBC World",
-      "title": "Flydubai co-pilot planned to crash plane into Tel Aviv airport or building, reports say",
-      "link": "https://www.bbc.co.uk/news/articles/cm3691y79xp5o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-05T11:34:59+00:00",
-      "summary_raw": "The Omani national was a \"lone wolf\" extremist, according to the reports.",
-      "id": "3e4bab9d3a60"
+      "title": "Zelensky condemns 'horrific' Russian strike on boat carrying corn in Black Sea",
+      "link": "https://www.bbc.co.uk/news/articles/cr0j0w3p8453o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-05T15:17:23+00:00",
+      "summary_raw": "The vessel's captain was killed and 11 crew members were rescued after the attack on the Turkish-owned ship, Ukraine's leader says.",
+      "id": "c9b73768e1f4"
     },
     {
       "source": "Science Daily",
@@ -412,19 +412,19 @@
     },
     {
       "source": "WRAL Local",
-      "title": "Water main break in Durham blasts fountain of water into the air",
-      "link": "https://www.wral.com/news/local/water-main-break-ellis-road-durham-october-2026/",
-      "published_at": "2026-10-05T10:03:51+00:00",
-      "summary_raw": "The WRAL Breaking News Tracker is at a water main break in Durham on Ellis Road near East Pettigrew Street.",
-      "id": "07b0821fca27"
+      "title": "Michael Jordan donates $10 million to UNC School of Social Work, center renamed for his mother",
+      "link": "https://www.wral.com/news/local/michael-jordan-donates-10-million-unc-school-social-work-october-2026/",
+      "published_at": "2026-10-05T18:49:22+00:00",
+      "summary_raw": "The money will fund the renovation and expansion of the Global Social Development Innovations Center and will be renamed the Deloris P. Jordan Global Social Development Innovations Center, in honor of Michael Jordan's mother.",
+      "id": "7eebba526fa2"
     },
     {
       "source": "Wired",
-      "title": "The Best Gifts Under $25 for Everyone on Your List (2026)",
-      "link": "https://www.wired.com/story/best-gifts-under-25-2026/",
-      "published_at": "2026-10-04T11:00:00+00:00",
-      "summary_raw": "We found genuinely good presents for home cooks, teens, coffee lovers, and the person who already has everything.",
-      "id": "8953b8636aec"
+      "title": "15 Best Office Chairs of 2026—We Tested 70 to Pick Them",
+      "link": "https://www.wired.com/gallery/best-office-chairs/",
+      "published_at": "2026-10-04T11:03:00+00:00",
+      "summary_raw": "Upgrade your WFH setup and work in style with these comfy, WIRED-tested seats.",
+      "id": "1bc422c229c0"
     },
     {
       "source": "NPR Politics",
@@ -444,11 +444,11 @@
     },
     {
       "source": "BBC World",
-      "title": "Indian singer Anuv Jain on finding success without the Bollywood boost",
-      "link": "https://www.bbc.co.uk/news/articles/c933xnneg2zvo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-05T11:10:28+00:00",
-      "summary_raw": "The star reveals why he is \"very selective\" about releasing music - and shares his future collab hopes.",
-      "id": "2da46683a989"
+      "title": "Bombs preventing rescue of kidnapped youths, Nigerian police say",
+      "link": "https://www.bbc.co.uk/news/articles/c6gqw8jg7k3go?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-05T12:59:56+00:00",
+      "summary_raw": "The father of one of the 19 young abductees tells the BBC he hasn't eaten in three days out of worry.",
+      "id": "8b38ef6bffe7"
     },
     {
       "source": "Science Daily",
@@ -460,27 +460,19 @@
     },
     {
       "source": "WRAL Local",
-      "title": "Missing 14-year-old boy last seen Saturday at Fayetteville-area home",
-      "link": "https://www.wral.com/news/local/missing-14-year-old-fayetteville-andrew-fountain-october-2026/",
-      "published_at": "2026-10-05T09:26:38+00:00",
-      "summary_raw": "Deputies with the Cumberland County Sheriff's Office are searching for a missing 14-year-old boy.",
-      "id": "8010d648c904"
+      "title": "Settlement expected in lawsuits tied to Hedingham mass shooting",
+      "link": "https://www.wral.com/news/local/settlement-expected-in-lawsuits-tied-to-hedingham-mass-shooting-october-2026/",
+      "published_at": "2026-10-05T18:39:00+00:00",
+      "summary_raw": "A Wake County judge is being asked to approve confidential settlements in lawsuits filed by victims and families impacted by the Hedingham mass shooting.",
+      "id": "857a9159329f"
     },
     {
       "source": "Wired",
-      "title": "Meta Glasses Nova (Gen 3) Review: Not Much New",
-      "link": "https://www.wired.com/review/meta-glasses-gen-3/",
-      "published_at": "2026-10-04T10:30:00+00:00",
-      "summary_raw": "Meta and Ray-Ban’s new smart glasses have slightly better batteries and mics. And yes, they still have cameras.",
-      "id": "021afdcd1854"
-    },
-    {
-      "source": "NPR Politics",
-      "title": "As Trump's proposed arch looms over D.C., protesters pin their hopes on the midterms",
-      "link": "https://www.npr.org/2026/10/02/nx-s1-5985789/trump-arch-protest-veterans-midterms",
-      "published_at": "2026-10-02T21:44:07+00:00",
-      "summary_raw": "Democratic lawmakers, veterans and concerned citizens gathered in Memorial Circle to protest the arch Trump wants to build there. Their hopes lie primarily in a lawsuit and next month's midterms.",
-      "id": "f08519ed983f"
+      "title": "The Best Gifts Under $25 for Everyone on Your List (2026)",
+      "link": "https://www.wired.com/story/best-gifts-under-25-2026/",
+      "published_at": "2026-10-04T11:00:00+00:00",
+      "summary_raw": "We found genuinely good presents for home cooks, teens, coffee lovers, and the person who already has everything.",
+      "id": "8953b8636aec"
     },
     {
       "source": "NPR National",
@@ -492,11 +484,11 @@
     },
     {
       "source": "BBC World",
-      "title": "Nobel Prize awarded for revealing inner workings of the brain",
-      "link": "https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-05T11:04:37+00:00",
-      "summary_raw": "US psychiatrist and neurologist Karl Deisseroth and his German colleagues Peter Hegemann and Georg Nagel have been awarded for their work.",
-      "id": "56dab639fd69"
+      "title": "Georgia officials hunt for suspect in shooting that killed two and injured 35",
+      "link": "https://www.bbc.co.uk/news/articles/c6e9lj5r3ej7o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-05T12:08:21+00:00",
+      "summary_raw": "A homecoming celebration turned into a scene of deadly violence, as dozens of shots were fired into a crowd.",
+      "id": "697063b75524"
     },
     {
       "source": "Science Daily",
@@ -508,27 +500,27 @@
     },
     {
       "source": "WRAL Local",
-      "title": "One person in custody after reports of vehicle break-ins in Raleigh",
-      "link": "https://www.wral.com/news/local/raleigh-garner-road-investigation-october-2026/",
-      "published_at": "2026-10-05T08:33:10+00:00",
-      "summary_raw": "Raleigh police are investigating attempted vehicle break-ins near Garner Road early Monday morning. At least one person was detained connected to the investigation.",
-      "id": "c646a04ce6f9"
+      "title": "Are your taste buds ready for the ride? Liquid cotton candy and 80+ new foods at NC State Fair",
+      "link": "https://www.wral.com/news/local/new-state-fair-foods-october-2026/",
+      "published_at": "2026-10-05T16:11:59+00:00",
+      "summary_raw": "Biscoff, Pickles and Hot Honey: Check out more than 80 new foods this year at the North Carolina State Fair",
+      "id": "b41369a6dc20"
     },
     {
       "source": "Wired",
-      "title": "The Best Online Gift Cards and Digital Gift Ideas (2026)",
-      "link": "https://www.wired.com/story/gift-cards-and-digital-gift-ideas/",
+      "title": "Meta Glasses Nova (Gen 3) Review: Not Much New",
+      "link": "https://www.wired.com/review/meta-glasses-gen-3/",
       "published_at": "2026-10-04T10:30:00+00:00",
-      "summary_raw": "Forget the wrapping paper and shipping. Go digital this year with subscriptions, ebooks, apps, and more.",
-      "id": "5957038c4aad"
+      "summary_raw": "Meta and Ray-Ban’s new smart glasses have slightly better batteries and mics. And yes, they still have cameras.",
+      "id": "021afdcd1854"
     },
     {
       "source": "BBC World",
-      "title": "Spanish PM Sánchez calls early election after housing protests",
-      "link": "https://www.bbc.co.uk/news/articles/cmdx39k49xw0o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-05T10:18:47+00:00",
-      "summary_raw": "Sánchez says Spain will head to the polls on 29 November after recent defeats on measures aimed at addressing the country's housing crisis.",
-      "id": "a0f9bf08cdcf"
+      "title": "Flydubai co-pilot planned to crash plane into Tel Aviv airport or building, reports say",
+      "link": "https://www.bbc.co.uk/news/articles/cm3691y79xp5o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-05T11:34:59+00:00",
+      "summary_raw": "The Omani national was a \"lone wolf\" extremist, according to the reports.",
+      "id": "3e4bab9d3a60"
     },
     {
       "source": "Science Daily",
@@ -540,19 +532,19 @@
     },
     {
       "source": "Wired",
-      "title": "Rural Data Centers Are in for a Big Federal Tax Break",
-      "link": "https://www.wired.com/story/rural-data-centers-are-in-for-a-big-federal-tax-break/",
-      "published_at": "2026-10-04T10:00:00+00:00",
-      "summary_raw": "Under the One Big Beautiful Bill Act, data center projects in rural areas could be eligible for major tax benefits starting next year. Some hyperscalers do not seem eager to take the free cash.",
-      "id": "130c86b0426f"
+      "title": "The Best Online Gift Cards and Digital Gift Ideas (2026)",
+      "link": "https://www.wired.com/story/gift-cards-and-digital-gift-ideas/",
+      "published_at": "2026-10-04T10:30:00+00:00",
+      "summary_raw": "Forget the wrapping paper and shipping. Go digital this year with subscriptions, ebooks, apps, and more.",
+      "id": "5957038c4aad"
     },
     {
       "source": "BBC World",
-      "title": "Trump chooses top spy boss to run new AI taskforce",
-      "link": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-05T10:03:38+00:00",
-      "summary_raw": "The US president said his national intelligence chief will lead the group as worries over AI grow.",
-      "id": "b8cf05035b23"
+      "title": "Indian singer Anuv Jain on finding success without the Bollywood boost",
+      "link": "https://www.bbc.co.uk/news/articles/c933xnneg2zvo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-05T11:10:28+00:00",
+      "summary_raw": "The star reveals why he is \"very selective\" about releasing music - and shares his future collab hopes.",
+      "id": "2da46683a989"
     },
     {
       "source": "Science Daily",
@@ -561,6 +553,30 @@
       "published_at": "2026-10-04T12:05:54+00:00",
       "summary_raw": "Tiny magnetic fields created shortly after the Big Bang may help explain the long-running disagreement over how fast the universe is expanding. Detailed simulations show that these primordial fields could have changed the formation of hydrogen in the early universe, affecting the cosmic microwave background and the expansion rate inferred from it.",
       "id": "f2557d284722"
+    },
+    {
+      "source": "Wired",
+      "title": "Rural Data Centers Are in for a Big Federal Tax Break",
+      "link": "https://www.wired.com/story/rural-data-centers-are-in-for-a-big-federal-tax-break/",
+      "published_at": "2026-10-04T10:00:00+00:00",
+      "summary_raw": "Under the One Big Beautiful Bill Act, data center projects in rural areas could be eligible for major tax benefits starting next year. Some hyperscalers do not seem eager to take the free cash.",
+      "id": "130c86b0426f"
+    },
+    {
+      "source": "BBC World",
+      "title": "Nobel Prize awarded for revealing inner workings of the brain",
+      "link": "https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-05T11:04:37+00:00",
+      "summary_raw": "US psychiatrist and neurologist Karl Deisseroth and his German colleagues Peter Hegemann and Georg Nagel have been awarded for their work.",
+      "id": "135fa3ea7aa2"
+    },
+    {
+      "source": "Science Daily",
+      "title": "A forgotten 30-year forest experiment just delivered a huge surprise",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261001214120.htm",
+      "published_at": "2026-10-04T11:50:46+00:00",
+      "summary_raw": "A 30-year forestry experiment in Australia found that heavily thinned mountain ash forests grew unusually large trees while recovering enough carbon to match or exceed untouched areas. The results suggest carefully managed thinning could support timber production, wildlife habitat, and carbon storage at the same time.",
+      "id": "ea3bc6f2124f"
     },
     {
       "source": "Wired",
@@ -580,11 +596,11 @@
     },
     {
       "source": "Science Daily",
-      "title": "A forgotten 30-year forest experiment just delivered a huge surprise",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261001214120.htm",
-      "published_at": "2026-10-04T11:50:46+00:00",
-      "summary_raw": "A 30-year forestry experiment in Australia found that heavily thinned mountain ash forests grew unusually large trees while recovering enough carbon to match or exceed untouched areas. The results suggest carefully managed thinning could support timber production, wildlife habitat, and carbon storage at the same time.",
-      "id": "ea3bc6f2124f"
+      "title": "Your gut bacteria may reveal how fast your brain is aging",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261001214106.htm",
+      "published_at": "2026-10-04T11:28:03+00:00",
+      "summary_raw": "A UCLA study links faster brain aging to specific gut bacteria and chemical byproducts, with older-looking brains also associated with poorer memory, focus, and mood. The findings suggest that biological signs of brain aging may appear decades before obvious symptoms and could eventually make the gut a target for prevention.",
+      "id": "2387d0cbec8a"
     },
     {
       "source": "Wired",
@@ -604,11 +620,11 @@
     },
     {
       "source": "Science Daily",
-      "title": "Your gut bacteria may reveal how fast your brain is aging",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261001214106.htm",
-      "published_at": "2026-10-04T11:28:03+00:00",
-      "summary_raw": "A UCLA study links faster brain aging to specific gut bacteria and chemical byproducts, with older-looking brains also associated with poorer memory, focus, and mood. The findings suggest that biological signs of brain aging may appear decades before obvious symptoms and could eventually make the gut a target for prevention.",
-      "id": "2387d0cbec8a"
+      "title": "Scientists just found a new way to make hydrogen from water",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261001214017.htm",
+      "published_at": "2026-10-04T11:11:24+00:00",
+      "summary_raw": "A new light-activated material can efficiently produce hydrogen from water without requiring an additional expensive metal catalyst. Researchers say its unusual sulfur-based chemistry could point toward cheaper and more practical ways to turn sunlight into clean fuel.",
+      "id": "78605fb4717e"
     },
     {
       "source": "Wired",
@@ -625,22 +641,6 @@
       "published_at": "2026-10-05T08:08:02+00:00",
       "summary_raw": "Manchester City's owners have been found guilty of injecting money into the club. At Manchester United, fans are frustrated at how much has been taken out.",
       "id": "15f3475b724d"
-    },
-    {
-      "source": "Science Daily",
-      "title": "Scientists just found a new way to make hydrogen from water",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261001214017.htm",
-      "published_at": "2026-10-04T11:11:24+00:00",
-      "summary_raw": "A new light-activated material can efficiently produce hydrogen from water without requiring an additional expensive metal catalyst. Researchers say its unusual sulfur-based chemistry could point toward cheaper and more practical ways to turn sunlight into clean fuel.",
-      "id": "78605fb4717e"
-    },
-    {
-      "source": "Wired",
-      "title": "Muse Creates Detailed Profiles of All Your Friends and Family",
-      "link": "https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family/",
-      "published_at": "2026-10-03T12:00:00+00:00",
-      "summary_raw": "Millions have downloaded Meta’s AI agent Muse. But getting it to do your bidding comes with privacy costs.",
-      "id": "f60003d615b9"
     }
   ]
 }

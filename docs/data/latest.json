@@ -1,14 +1,70 @@
 {
   "mode": "raw",
-  "generated_at": "2026-10-06T23:34:28.129866+00:00",
+  "generated_at": "2026-10-07T17:44:06.369845+00:00",
   "items": [
     {
       "source": "WRAL Local",
-      "title": "Can \"Public Assistance\" offices update your voter registration? Here's what to know",
-      "link": "https://www.wral.com/news/local/elections-social-services-voter-registrations-october-2026/",
-      "published_at": "2026-10-06T22:55:59+00:00",
-      "summary_raw": "5 On Your Side received a viewer inquiry asking whether a government document they received regarding their voter registration was legitimate. This is what WRAL found out about the letter.",
-      "id": "c872edb9a50c"
+      "title": "Body found partially submerged in water behind Sanford Walmart",
+      "link": "https://www.wral.com/news/local/body-death-submerged-sanford-walmart-october-2026/",
+      "published_at": "2026-10-07T17:12:17+00:00",
+      "summary_raw": "Sanford police are investigating after a man’s body was discovered in a wooded area behind a local department store on Tuesday morning.",
+      "id": "c035f0398cbf"
+    },
+    {
+      "source": "WRAL Weather",
+      "title": "Ask the Meteorologist: Do I really live in a weather bubble?",
+      "link": "https://www.wral.com/weather/ask-the-meteorologist-weather-bubble-north-carolina-october-2026/",
+      "published_at": "2026-10-07T09:10:10+00:00",
+      "summary_raw": "I've heard this everywhere I've worked, but is there any truth to living in a \"weather bubble?\"",
+      "id": "002b0b747b33"
+    },
+    {
+      "source": "Wired",
+      "title": "115 Best Prime Day Deals We’re Shopping This October (2026)",
+      "link": "https://www.wired.com/story/absolute-best-amazon-prime-day-deals-10-07-2026/",
+      "published_at": "2026-10-07T17:17:00+00:00",
+      "summary_raw": "Amazon Prime Big Deal Days are here, and we’ve tracked down the best discounts on all the gear our team recommends.",
+      "id": "232eab8d8ac6"
+    },
+    {
+      "source": "NPR Politics",
+      "title": "She got Trump's $500 check for health insurance. To her, it's a 'political stunt'",
+      "link": "https://www.npr.org/2026/10/07/nx-s1-5991687/trump-medicare-aca-payments-midterms",
+      "published_at": "2026-10-07T16:15:26+00:00",
+      "summary_raw": "As checks from President Trump for health costs hit millions of mailboxes, a poll shows Americans don't trust Republicans on healthcare. Experts doubt it will move the needle and say it is likely illegal.",
+      "id": "c559e5aabd94"
+    },
+    {
+      "source": "NPR National",
+      "title": "How Defense Secretary Pete Hegseth has brought the culture wars to the military",
+      "link": "https://www.npr.org/2026/10/07/nx-s1-5992775/how-defense-secretary-pete-hegseth-has-brought-the-culture-wars-to-the-military",
+      "published_at": "2026-10-07T16:55:19+00:00",
+      "summary_raw": "The New York Times reporter Greg Jaffe says Hegseth has disproportionately blocked promotions of Black and women senior officers, and he's also been purging the military of transgender people.",
+      "id": "afaacb2ed3bb"
+    },
+    {
+      "source": "BBC World",
+      "title": "Canada suspends plans to expand assisted dying to people with mental illness",
+      "link": "https://www.bbc.co.uk/news/articles/cqd09g0gj50ko?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-07T17:29:46+00:00",
+      "summary_raw": "People with mental illness alone were to be eligible for assisted dying in Canada in March 2027, but that has now been paused indefinitely.",
+      "id": "81f2e7d80c6a"
+    },
+    {
+      "source": "Science Daily",
+      "title": "NASA’s Webb finds signs of Mars-sized worlds smashing together",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261007042108.htm",
+      "published_at": "2026-10-07T13:09:15+00:00",
+      "summary_raw": "NASA’s James Webb Space Telescope is giving astronomers a glimpse of the kinds of violent collisions that may have shaped our own solar system, including the giant impact thought to have created the Moon. By studying 21 rare “extreme debris disks” around young stars, researchers found that their dust can reveal the scale and intensity of planetary collisions.",
+      "id": "12d568f68ffd"
+    },
+    {
+      "source": "WRAL Local",
+      "title": "‘Noise’ or ‘evidence?’: Opening statements in UNC student murder trial",
+      "link": "https://www.wral.com/news/local/opening-statements-in-unc-student-murder-trial-october-2026/",
+      "published_at": "2026-10-07T17:05:27+00:00",
+      "summary_raw": "Opening statements took place Wednesday morning in the trial of the man accused of killing UNC student Faith Hedgepeth inside her Chapel Hill apartment in September 2012.",
+      "id": "177cbe580984"
     },
     {
       "source": "WRAL Weather",
@@ -20,51 +76,51 @@
     },
     {
       "source": "Wired",
-      "title": "You Probably Aren’t Going to Get the Plague",
-      "link": "https://www.wired.com/story/what-we-know-about-plague-russia/",
-      "published_at": "2026-10-06T23:09:20+00:00",
-      "summary_raw": "The death of a lab worker in Russia has authorities looking at whether plague played a role. Even if it did, though, the odds of it spreading are very low.",
-      "id": "cc52e0686177"
+      "title": "14 Best Prime Day Wearable Deals: Apple, Google, Samsung (2026)",
+      "link": "https://www.wired.com/story/amazon-prime-day-wearable-deals-10-07-2026/",
+      "published_at": "2026-10-07T15:47:12+00:00",
+      "summary_raw": "I’ve tested the wearables, tracked the prices, and found the Prime Day deals worth grabbing.",
+      "id": "0215f8d5e04a"
     },
     {
       "source": "NPR Politics",
-      "title": "Dems have edge in midterms, poll shows. And, Paramount-Warner Bros. merger to close",
-      "link": "https://www.npr.org/2026/10/06/g-s1-146626/up-first-newsletter-election-day-skydance-christa-pike-russia-plague-scare",
-      "published_at": "2026-10-06T11:19:25+00:00",
-      "summary_raw": "Polls are showing that Democrats have a clear advantage heading into the midterms, but that doesn't tell the whole story. And, today, a mega merger between Paramount and Warner Bros. is set to close.",
-      "id": "e3140a270e5a"
+      "title": "'Medicare for All' message attracts midterm voters buckling under medical bills",
+      "link": "https://www.npr.org/2026/10/07/nx-s1-5992772/medicare-for-all-midterm-voters-medical-bills-affordability",
+      "published_at": "2026-10-07T09:00:00+00:00",
+      "summary_raw": "Midterm candidates are talking up Medicare for All, and in a poll 2 out of 3 Americans said they support it. The phrase speaks to a desire for radical change, though many don't really know what it is.",
+      "id": "0ef1ca1bb43f"
     },
     {
       "source": "NPR National",
-      "title": "Trump says Fort Hood shooter can be executed by firing squad",
-      "link": "https://www.npr.org/2026/10/06/nx-s1-5992606/trump-says-fort-hood-shooter-can-be-executed-by-firing-squad",
-      "published_at": "2026-10-06T19:50:39+00:00",
-      "summary_raw": "The last time the U.S. military held an execution was in 1961, by hanging. The last military execution by firing squad was in 1945, when an American soldier was shot for desertion in World War II.",
-      "id": "cbb8e96a880e"
+      "title": "Deep in Appalachia, a rail-to-trail project builds bipartisan support for a bridge",
+      "link": "https://www.npr.org/2026/10/07/nx-s1-5980349/rail-trail-bridge-ohio-river",
+      "published_at": "2026-10-07T09:00:00+00:00",
+      "summary_raw": "The Trump administration has been hostile to federal spending on bicycle and pedestrian infrastructure. But there's bipartisan support for a multiuse trail that would connect Ohio and West Virginia.",
+      "id": "91d21ddfd152"
     },
     {
       "source": "BBC World",
-      "title": "Many Nepalis swept away in the floods aren't officially dead, leaving families in limbo",
-      "link": "https://www.bbc.co.uk/news/articles/ck054zm1701qo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-06T22:17:56+00:00",
-      "summary_raw": "Relatives are finding themselves with no compensation and facing an administrative nightmare.",
-      "id": "4511b75c0975"
+      "title": "France halts use of stun grenades after boy's hand blown off in student protests",
+      "link": "https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-07T16:41:57+00:00",
+      "summary_raw": "The step comes after several groups complained of police using disproportionate force towards teenagers.",
+      "id": "d72c709d3338"
     },
     {
       "source": "Science Daily",
-      "title": "Colorectal cancer is rising in young people and often found too late",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261003234019.htm",
-      "published_at": "2026-10-06T13:20:15+00:00",
-      "summary_raw": "Colorectal cancer in young people is often diagnosed at an advanced stage, with researchers finding most patients age 21 or younger already had Stage III or IV disease. Because symptoms like rectal bleeding, weight loss, abdominal pain, and bowel changes may be overlooked, researchers are calling for greater vigilance.",
-      "id": "7c896ef6b1cc"
+      "title": "Taking antibiotics? Sugar may be making the damage worse",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261007042059.htm",
+      "published_at": "2026-10-07T13:06:21+00:00",
+      "summary_raw": "Eating more sugar while taking antibiotics was linked to greater disruption of the gut microbiome and increased growth of potentially harmful bacteria. Researchers say temporarily cutting back on sweets during and after antibiotic treatment could be a simple way to reduce this damage, though clinical trials are still needed.",
+      "id": "97f0a4299419"
     },
     {
       "source": "WRAL Local",
-      "title": "Woman arrested, charged with assaulting child at Pittsboro daycare facility",
-      "link": "https://www.wral.com/news/local/woman-arrested-charged-abusing-child-pittsboro-daycare-facility-october-2026/",
-      "published_at": "2026-10-06T22:27:35+00:00",
-      "summary_raw": "According to Pittsboro Police Chief Clarence Johnson, the department is looking into a physical assault on a child at Amazing Explorers Academy. Johnson said the investigation is focused on one employee, identified in court documents as Violetta Wolovic, and not the daycare as a whole.",
-      "id": "ac73448e0f30"
+      "title": "Three years after Oct.7, Chapel Hill native Keith Siegel and his wife reflect on survival and hope",
+      "link": "https://www.wral.com/news/local/three-years-after-oct-7-chapel-hill-native-keith-siegel-and-his-wife-reflect-on-survival-and-hope-october-2026/",
+      "published_at": "2026-10-07T16:14:22+00:00",
+      "summary_raw": "Chapel Hill native Keith Siegel and his wife, Aviva, speak out exactly three years after Hamas militants kidnapped them and dozens of others, killing 1,200 people.",
+      "id": "3e8c96c68748"
     },
     {
       "source": "WRAL Weather",
@@ -76,51 +132,51 @@
     },
     {
       "source": "Wired",
-      "title": "Best Prime Day Digital Wall Calendar Deals: Skylight, Everblog, Apolosign (2026)",
-      "link": "https://www.wired.com/story/prime-day-digital-wall-calendar-deals-10-06-2026/",
-      "published_at": "2026-10-06T21:30:41+00:00",
-      "summary_raw": "Digital wall calendars can organize multiple family calendars, meal plans, chores, and to-do lists, and even double as a digital photo frame. And best of all, they’re on sale.",
-      "id": "da50792d5bc6"
+      "title": "The Pentagon Hopes to Speed Up ‘Kill Chain’ AI Buys With 5-Minute Videos",
+      "link": "https://www.wired.com/story/the-pentagon-hopes-to-speed-up-kill-chain-ai-buys-with-5-minute-videos/",
+      "published_at": "2026-10-07T15:34:33+00:00",
+      "summary_raw": "The US government’s Tradewinds initiative has made it easier to throw millions of dollars at “nontraditional” defense contractors, including OpenAI, Anthropic, and Google.",
+      "id": "64b84c52f0fe"
     },
     {
       "source": "NPR Politics",
-      "title": "What voters in 6 key states could tell us about the 2026 midterms",
-      "link": "https://www.npr.org/2026/10/06/g-s1-146559/morning-edition-2026-midterms-election-voters-states",
-      "published_at": "2026-10-06T11:00:00+00:00",
-      "summary_raw": "Morning Edition is heading to Maine, Texas, North Carolina, Georgia, Ohio and Michigan to hear what voters say is shaping their choices ahead of the midterm elections.",
-      "id": "7162d8bab811"
+      "title": "Carpetbagger allegation, misplaced valor make Nevada's safe red House seat competitive",
+      "link": "https://www.npr.org/2026/10/07/nx-s1-5984671/nevada-midterm-election-valor-carpetbagger-reno",
+      "published_at": "2026-10-07T09:00:00+00:00",
+      "summary_raw": "Northern Nevada has a reliably red congressional seat, represented by a Republican since it was drawn in the early 1980s. A complicated candidate and a potential blue wave this year could change that.",
+      "id": "71c36f13df82"
     },
     {
       "source": "NPR National",
-      "title": "Cornell names former acting U.S. attorney general to review rape case",
-      "link": "https://www.npr.org/2026/10/06/nx-s1-5992799/cornell-yates-rape-case-updates-review",
-      "published_at": "2026-10-06T18:31:45+00:00",
-      "summary_raw": "Cornell University names Sally Yates, former acting U.S. attorney general and career federal prosecutor, to lead an independent review into how the school handled a former student's rape allegations.",
-      "id": "b4a3a228baee"
+      "title": "Carpetbagger allegation, misplaced valor make Nevada's safe red House seat competitive",
+      "link": "https://www.npr.org/2026/10/07/nx-s1-5984671/nevada-midterm-election-valor-carpetbagger-reno",
+      "published_at": "2026-10-07T09:00:00+00:00",
+      "summary_raw": "Northern Nevada has a reliably red congressional seat, represented by a Republican since it was drawn in the early 1980s. A complicated candidate and a potential blue wave this year could change that.",
+      "id": "71c36f13df82"
     },
     {
       "source": "BBC World",
-      "title": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say",
-      "link": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-06T22:00:43+00:00",
-      "summary_raw": "Experts say her survival after the lethal injections is highly unusual.",
-      "id": "109cb427154e"
+      "title": "Israelis demand accountability over 7 October failures three years after attacks",
+      "link": "https://www.bbc.co.uk/news/articles/c5zjx7xx3487o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-07T16:00:18+00:00",
+      "summary_raw": "Prime Minister Benjamin Netanyahu has refused to take any personal responsibility for what happened or order a state inquiry.",
+      "id": "d10db059e93a"
     },
     {
       "source": "Science Daily",
-      "title": "Goodbye joint replacements? Stanford scientists found a way to regrow cartilage and stop arthritis",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261005011249.htm",
-      "published_at": "2026-10-06T13:03:47+00:00",
-      "summary_raw": "Scientists have found a surprising way to regrow damaged knee cartilage by blocking a protein that becomes more abundant with age. In old mice, the treatment restored naturally lost cartilage and also helped prevent osteoarthritis after ACL-like knee injuries, while human cartilage taken from knee replacement patients began producing new, functional joint cartilage after exposure to the same inhibitor.",
-      "id": "d4d79fc4655e"
+      "title": "Scientists changed how zoo lions eat. Their wild side came out",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261005071535.htm",
+      "published_at": "2026-10-07T12:46:44+00:00",
+      "summary_raw": "Giving zoo lions whole carcasses on a feast-and-fast schedule appears to bring out more natural behavior. The lions spent nearly three times longer feeding, engaged in more tearing and manipulating of food, and rested more heavily after meals. Their activity then increased gradually during the fasting period, closely resembling the rhythm seen in wild lions.",
+      "id": "a5b204169f0f"
     },
     {
       "source": "WRAL Local",
-      "title": "Stein highlights affordable housing during tour of new Raleigh complex",
-      "link": "https://www.wral.com/news/local/gov-stein-affordable-housing-legislation-tour-raleigh-complex-october-2026/",
-      "published_at": "2026-10-06T22:08:13+00:00",
-      "summary_raw": "North Carolina Gov. Josh Stein toured Southeast Raleigh Promise's new affordable housing complex Tuesday while he highlighted recent efforts to expand affordable housing across the state.",
-      "id": "7f5f1d63954d"
+      "title": "Chapel Hill-Carrboro City Schools bus carrying 5th graders involved in accident",
+      "link": "https://www.wral.com/news/local/school-bus-crash-chapel-hill-carrboro-city-schools-october-2026/",
+      "published_at": "2026-10-07T16:09:42+00:00",
+      "summary_raw": "A McDougle Elementary School bus carrying 5th graders has been involved in an accident.",
+      "id": "bf5909c09580"
     },
     {
       "source": "WRAL Weather",
@@ -132,11 +188,107 @@
     },
     {
       "source": "Wired",
-      "title": "The Best Anti–Prime Day Deals for Amazon Haters",
-      "link": "https://www.wired.com/story/anti-prime-day-deals-october-2026/",
-      "published_at": "2026-10-06T21:17:39+00:00",
-      "summary_raw": "Want to save money without supporting Amazon? This roundup is full of deals on WIRED-approved favorites.",
-      "id": "8768f8fbb18e"
+      "title": "Save Up to 50% on the Best Amazon Prime Day Espresso and Coffee Machine Deals (2026)",
+      "link": "https://www.wired.com/story/prime-day-espresso-machine-deals-10-07-2026/",
+      "published_at": "2026-10-07T15:14:45+00:00",
+      "summary_raw": "Breville, Keurig, Fellow, and AeroPress gear we recommend is on sale, with options for espresso enthusiasts and one-button brewers alike.",
+      "id": "e645d48ea0dc"
+    },
+    {
+      "source": "NPR Politics",
+      "title": "Dems have edge in midterms, poll shows. And, Paramount-Warner Bros. merger to close",
+      "link": "https://www.npr.org/2026/10/06/g-s1-146626/up-first-newsletter-election-day-skydance-christa-pike-russia-plague-scare",
+      "published_at": "2026-10-06T11:19:25+00:00",
+      "summary_raw": "Polls are showing that Democrats have a clear advantage heading into the midterms, but that doesn't tell the whole story. And, today, a mega merger between Paramount and Warner Bros. is set to close.",
+      "id": "e3140a270e5a"
+    },
+    {
+      "source": "NPR National",
+      "title": "5 things civil rights data says about public schools",
+      "link": "https://www.npr.org/2026/10/07/nx-s1-5988314/civil-rights-data-public-schools-trump",
+      "published_at": "2026-10-07T09:00:00+00:00",
+      "summary_raw": "The federal Civil Rights Data Collection, for the first time in decades, tells us about the teacher workforce and reminds us racial disparities are still stark in American public schools.",
+      "id": "d87bf264e73b"
+    },
+    {
+      "source": "BBC World",
+      "title": "Zelensky condemns 'vile' large-scale Russian attacks that killed 24",
+      "link": "https://www.bbc.co.uk/news/articles/ckr5ym098vdeo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-07T14:53:43+00:00",
+      "summary_raw": "Rescue workers are continuing a search for residents after an apartment building in Pryluky was destroyed.",
+      "id": "e2d50fff8f2e"
+    },
+    {
+      "source": "Science Daily",
+      "title": "Physicists just found the ‘ghost’ of superconductivity",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261005071517.htm",
+      "published_at": "2026-10-07T12:34:39+00:00",
+      "summary_raw": "Physicists have found striking evidence for an unusual form of superconducting behavior in uranium ditelluride, where electron pairs organize into rippling patterns called pair density waves. Even more surprisingly, these patterns appear to survive after ordinary superconductivity disappears, suggesting that the electron pairs responsible for superconductivity may begin forming before the material actually becomes superconducting.",
+      "id": "26bc3795066e"
+    },
+    {
+      "source": "WRAL Local",
+      "title": "'He chose profit over human life:' Raleigh dealer sentenced to 27 years for fatal fentanyl overdose",
+      "link": "https://www.wral.com/news/local/drug-dealer-sentenced-fentanyl-overdose-death-october-2026/",
+      "published_at": "2026-10-07T15:56:38+00:00",
+      "summary_raw": "A federal judge sentenced 53-year-old Kenneth Omar Roger Chung to 27 years in federal prison for distributing fentanyl that led to the overdose death of a 26-year-old Raleigh man.",
+      "id": "f5ad7f34c990"
+    },
+    {
+      "source": "Wired",
+      "title": "19 Best Prime Day Deals on Phone Accessories (2026)",
+      "link": "https://www.wired.com/story/best-prime-day-mobile-accessories-deals-10-6-2026/",
+      "published_at": "2026-10-07T14:26:07+00:00",
+      "summary_raw": "Just bought a new phone or looking to enhance an existing one? Prime Day is the time to save on accessories like batteries, chargers, and more.",
+      "id": "ac63be22e43b"
+    },
+    {
+      "source": "NPR Politics",
+      "title": "What voters in 6 key states could tell us about the 2026 midterms",
+      "link": "https://www.npr.org/2026/10/06/g-s1-146559/morning-edition-2026-midterms-election-voters-states",
+      "published_at": "2026-10-06T11:00:00+00:00",
+      "summary_raw": "Morning Edition is heading to Maine, Texas, North Carolina, Georgia, Ohio and Michigan to hear what voters say is shaping their choices ahead of the midterm elections.",
+      "id": "7162d8bab811"
+    },
+    {
+      "source": "NPR National",
+      "title": "Over 1,000 children are buried at juvenile detention centers nationwide",
+      "link": "https://www.npr.org/2026/10/07/nx-s1-5986124/over-1-000-children-are-buried-at-juvenile-detention-centers-nationwide",
+      "published_at": "2026-10-07T09:00:00+00:00",
+      "summary_raw": "Researchers uncovered the graves of more than 1,000 children next to juvenile detention facilities in 29 states. At one Maryland gravesite, 230 Black boys are buried.",
+      "id": "135efc868072"
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump to speak to Putin about plague lab worker's death in Russia",
+      "link": "https://www.bbc.co.uk/news/articles/cqgm0vrl3xp7o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-07T14:50:28+00:00",
+      "summary_raw": "Fears that the death may have been caused by pneumonic plague has prompted calls for more transparency from Russia.",
+      "id": "cd4a6fa03488"
+    },
+    {
+      "source": "Science Daily",
+      "title": "Drug target could block brain inflammation linked to Alzheimer’s and Parkinson’s",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261005071515.htm",
+      "published_at": "2026-10-07T12:13:35+00:00",
+      "summary_raw": "Blocking a receptor called P2X7 significantly reduced inflammation in human brain tissue, revealing a potential new treatment strategy for neurological and psychiatric disorders. The discovery could help researchers repurpose existing drugs for conditions including traumatic brain injury, Alzheimer’s, Parkinson’s, depression, and schizophrenia.",
+      "id": "2cfeb9c44ba5"
+    },
+    {
+      "source": "WRAL Local",
+      "title": "UNC-Chapel Hill police stop sharing Flock camera data with NC law enforcement agencies",
+      "link": "https://www.wral.com/news/local/unc-police-flock-data-sharing-october-2026/",
+      "published_at": "2026-10-07T14:34:35+00:00",
+      "summary_raw": "On Monday, UNC Police Chief Brian James informed the Faculty Executive Committee about his decision to turn off the default sharing feature for data collected from its Flock cameras.",
+      "id": "7b37d5afcf05"
+    },
+    {
+      "source": "Wired",
+      "title": "Take Up to 44% Off the 17 Best Prime Day Fitness Tech Deals (2026)",
+      "link": "https://www.wired.com/story/amazon-prime-day-fitness-deals-10-07-2026/",
+      "published_at": "2026-10-07T14:02:56+00:00",
+      "summary_raw": "I’ve rounded up the best Amazon Prime Big Deal Days discounts on fitness trackers, percussive therapy, LED masks, and more.",
+      "id": "a2b9d3b355fb"
     },
     {
       "source": "NPR Politics",
@@ -148,51 +300,43 @@
     },
     {
       "source": "NPR National",
-      "title": "What voters in 6 key states could tell us about the 2026 midterms",
-      "link": "https://www.npr.org/2026/10/06/g-s1-146559/morning-edition-2026-midterms-election-voters-states",
-      "published_at": "2026-10-06T11:00:00+00:00",
-      "summary_raw": "Morning Edition is heading to Maine, Texas, North Carolina, Georgia, Ohio and Michigan to hear what voters say is shaping their choices ahead of the midterm elections.",
-      "id": "7162d8bab811"
+      "title": "Cornell students plan sit-in to protest handling of former student's rape allegations",
+      "link": "https://www.npr.org/2026/10/07/nx-s1-5992907/cornell-students-plan-sit-in-to-protest-handling-of-former-students-rape-allegations",
+      "published_at": "2026-10-07T08:44:42+00:00",
+      "summary_raw": "Former U.S. Deputy Attorney General Sally Yates will lead an independent inquiry into Cornell's handling of a former student's rape allegations. Students are preparing for a sit-in Wednesday.",
+      "id": "728b74d8e38a"
     },
     {
       "source": "BBC World",
-      "title": "Watch: Riot police clash with school protesters and use tear gas in France",
-      "link": "https://www.bbc.co.uk/news/videos/cwm26078pkepo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-06T21:22:22+00:00",
-      "summary_raw": "Hundreds of thousands of people have taken to the streets across France amid a wave of protests by high-school pupils.",
-      "id": "65531c04c4b6"
+      "title": "Ten people linked to Kenya's first-ever Ebola case quarantined as screening concerns grow",
+      "link": "https://www.bbc.co.uk/news/articles/c6eq3x3v11d5o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-07T12:46:39+00:00",
+      "summary_raw": "The patient passed through multiple cities in DR Congo, drove to Uganda and eventually flew to Kenya.",
+      "id": "0b51e35350aa"
     },
     {
       "source": "Science Daily",
-      "title": "Archaeologists may have finally solved a 100-year-old Florida mystery",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261004001835.htm",
-      "published_at": "2026-10-06T12:41:48+00:00",
-      "summary_raw": "Ancient pottery from Tampa Bay appears to have been made by migrant craftspeople who brought specialized Mississippian pottery-making knowledge hundreds of miles south. Remarkably, they even incorporated crushed fragments of older homeland pottery into new vessels, preserving a physical link to their past across generations.",
-      "id": "03c5a4305054"
+      "title": "Webb finds a surprising atmosphere on a scorching lava world",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261005071526.htm",
+      "published_at": "2026-10-07T11:58:25+00:00",
+      "summary_raw": "The James Webb Space Telescope has found strong evidence that the rocky lava world HD 3167 b has an atmosphere, despite circling its star every 24 hours under extreme heat. The surprising discovery could help scientists understand how rocky planets retain atmospheres and what the young, molten Earth may once have looked like.",
+      "id": "9a9e295e70e8"
     },
     {
       "source": "WRAL Local",
-      "title": "One alternate juror still needed in UNC student murder trial",
-      "link": "https://www.wral.com/news/local/one-alternate-still-needed-in-unc-student-murder-trial-october-2026/",
-      "published_at": "2026-10-06T21:22:18+00:00",
-      "summary_raw": "Jury selection will spill into its eighth day on Wednesday in the Faith Hedgepeth murder trial, after attorneys agreed on two more alternate jurors on Tuesday. Both sides agreed on a jury of 12 Monday morning, but selecting four alternate jurors is taking longer.",
-      "id": "d86e3b761272"
-    },
-    {
-      "source": "WRAL Weather",
-      "title": "Watch Jupiter disappear behind the Moon Tuesday",
-      "link": "https://www.wral.com/weather/lunar-occultation-jupiter-oct-2026/",
-      "published_at": "2026-10-04T04:10:09+00:00",
-      "summary_raw": "The crescent moon will pass directly in front of Jupiter, creating a rare celestial disappearing act before sunrise.",
-      "id": "7042d36045ba"
+      "title": "Jury, alternates seated in UNC student murder trial after eight days",
+      "link": "https://www.wral.com/news/local/jury-seated-in-unc-student-murder-trial-october-2026/",
+      "published_at": "2026-10-07T14:10:07+00:00",
+      "summary_raw": "Attorneys agreed on the final alternate juror for the Faith Hedgepeth murder trial Wednesday morning.",
+      "id": "a7d87820b8ea"
     },
     {
       "source": "Wired",
-      "title": "Best Prime Day Laptop Deals: Save Up to $500 (2026)",
-      "link": "https://www.wired.com/story/best-prime-day-laptop-deals/",
-      "published_at": "2026-10-06T21:15:00+00:00",
-      "summary_raw": "My favorite MacBook, gaming PC, and budget laptop are all on sale for Prime Day, some at the lowest prices I’ve seen in months.",
-      "id": "5f3b375ea685"
+      "title": "We’re Tracking October Prime Day Live (2026)",
+      "link": "https://www.wired.com/live/amazon-prime-day-live-tracker-october-06-2026/",
+      "published_at": "2026-10-07T13:52:21+00:00",
+      "summary_raw": "Our team is tracking Prime Day price drops live to find all the best discounts. Check here for the latest coverage on all the sales we’re shopping ourselves.",
+      "id": "32f77c0879d3"
     },
     {
       "source": "NPR Politics",
@@ -204,43 +348,43 @@
     },
     {
       "source": "NPR National",
-      "title": "Disney, ABC battle Trump's FCC in court over free speech protections",
-      "link": "https://www.npr.org/2026/10/06/nx-s1-5991831/disney-battles-fcc",
-      "published_at": "2026-10-06T09:17:00+00:00",
-      "summary_raw": "President Trump has repeatedly called for Disney's ABC to fire late night comedian Jimmy Kimmel, for mocking him. Trump has also routinely denounced ABC's The View , accusing it of being unfair.",
-      "id": "9c81a4a3beb0"
+      "title": "Former Tennessee prisons chief also oversaw botched executions in Arizona",
+      "link": "https://www.npr.org/2026/10/07/nx-s1-5991884/former-tennessee-prisons-chief-also-oversaw-botched-executions-in-arizona",
+      "published_at": "2026-10-07T08:44:37+00:00",
+      "summary_raw": "Before Tennessee's prisons chief stepped down in the aftermath of a horrific failed execution, he oversaw botched executions in Arizona. A review of protocols there spelled out serious issues.",
+      "id": "8a0b3925b63c"
     },
     {
       "source": "BBC World",
-      "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
-      "link": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-06T20:15:31+00:00",
-      "summary_raw": "Gavin Newsom called the remarks \"deranged\", but the White House said Trump was warning of the risk of a nuclear Iran.",
-      "id": "97ac546b6acf"
+      "title": "Japan beer giants raided over alleged price-fixing cartel",
+      "link": "https://www.bbc.co.uk/news/articles/cm5yn3592xk9o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-07T12:09:59+00:00",
+      "summary_raw": "Asahi, Kirin and Suntory confirmed their premises were searched by Japanese competition authorities.",
+      "id": "682d04020fb8"
     },
     {
       "source": "Science Daily",
-      "title": "Scientists say this simple habit could strengthen your marriage",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261004001843.htm",
-      "published_at": "2026-10-06T12:23:37+00:00",
-      "summary_raw": "Couples who exercise together report better communication, healthier conflict resolution, and lower marital stress than those who work out alone. Even something as simple as taking a walk together may create valuable opportunities to talk, listen, and feel more connected.",
-      "id": "22eec10c22f0"
+      "title": "Earth’s center is moving, and NASA just measured it",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261005071520.htm",
+      "published_at": "2026-10-07T11:30:51+00:00",
+      "summary_raw": "Earth’s center of mass is constantly on the move, shifting by a few millimeters as enormous amounts of water, ice, and even air migrate around the planet with the seasons. NASA scientists have developed a more precise way to track these tiny swings using laser-ranging satellites, GPS data, and measurements of how water and ice deform Earth’s crust.",
+      "id": "7174213d8bf4"
     },
     {
       "source": "WRAL Local",
-      "title": "Fact-check: How long did Trump say the Iran war would last?",
-      "link": "https://www.wral.com/news/state/fact-check-trump-iran-war-timeline-comments-october-6/",
-      "published_at": "2026-10-06T20:32:01+00:00",
-      "summary_raw": "President Donald Trump said the war in Iran would last 4-6 weeks. Then he changed his story and blamed the media.",
-      "id": "1eca7a9fe20a"
+      "title": "Firefighter injured in Durham house fire on Garrett Road",
+      "link": "https://www.wral.com/news/local/large-fire-response-garrett-road-durham-october-2026/",
+      "published_at": "2026-10-07T10:43:52+00:00",
+      "summary_raw": "A firefighter was hurt while battling a fire at a home on Garrett Road in Durham.",
+      "id": "200f10067ca4"
     },
     {
       "source": "Wired",
-      "title": "102 Best Prime Day Deals We’re Shopping This October (2026)",
-      "link": "https://www.wired.com/story/absolute-best-amazon-prime-day-deals-10-06-2026/",
-      "published_at": "2026-10-06T20:54:57+00:00",
-      "summary_raw": "Amazon Prime Big Deal Days are here, and we’ve tracked down the best discounts on all the gear our team recommends.",
-      "id": "232eab8d8ac6"
+      "title": "‘The Social Reckoning’ Already Feels Irrelevant",
+      "link": "https://www.wired.com/story/the-social-reckoning-movie-review/",
+      "published_at": "2026-10-07T13:00:00+00:00",
+      "summary_raw": "Aaron Sorkin’s sequel to The Social Network attempts to shame a ruling class that has proved itself shameless.",
+      "id": "4dec1b6b7a6e"
     },
     {
       "source": "NPR Politics",
@@ -252,43 +396,43 @@
     },
     {
       "source": "NPR National",
-      "title": "Elon Musk and Palmer Luckey's new Pentagon roles raise ethics worries",
-      "link": "https://www.npr.org/2026/10/06/nx-s1-5991899/elon-musk-palmer-luckey-pentagon-drones-ai",
-      "published_at": "2026-10-06T09:00:00+00:00",
-      "summary_raw": "Musk's company, SpaceX, and Luckey's company Anduril, could potentially benefit from recommendations made in the study about future autonomous weapon systems.",
-      "id": "5acf3c7c379a"
+      "title": "Trump approves execution by firing squad for 2009 Fort Hood shooter",
+      "link": "https://www.npr.org/2026/10/07/nx-s1-5992824/trump-approves-execution-by-firing-squad-for-2009-fort-hood-shooter",
+      "published_at": "2026-10-07T08:44:04+00:00",
+      "summary_raw": "President Trump has approved an execution by firing squad for the former Army psychiatrist who opened fire and killed 13 people at Fort Hood in 2009.",
+      "id": "fbde70797fc8"
     },
     {
       "source": "BBC World",
-      "title": "Lawyer for one of Cornell 7 calls for special prosecutor to be removed over previous comments",
-      "link": "https://www.bbc.co.uk/news/articles/c9p8gxygvpg6o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-06T18:05:53+00:00",
-      "summary_raw": "New York Attorney General Letitia James is investigating the rape allegations, but the lawyer says comments she made on the case should disqualify her.",
-      "id": "38ab8240515c"
+      "title": "Chemistry Nobel awarded for solving mystery of life's asymmetry",
+      "link": "https://www.bbc.co.uk/news/articles/c6ly038jg0d4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-07T11:51:52+00:00",
+      "summary_raw": "The prize was given to the French and Japanese scientists for solving the mystery of life's asymmetry.",
+      "id": "a1fdb93ec38c"
     },
     {
       "source": "Science Daily",
-      "title": "Physicists just saw quarks make waves in the Big Bang’s primordial soup",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261004002556.htm",
-      "published_at": "2026-10-06T12:04:50+00:00",
-      "summary_raw": "Physicists at CERN’s Large Hadron Collider have captured the clearest evidence yet that quark-gluon plasma, the scorching-hot matter that filled the newborn universe, behaves like a true liquid. By tracking individual quarks as they blasted through the plasma, researchers saw them leave behind ripples, splashes, and swirling wakes much like a duck moving through water. The finding suggests this primordial “soup” is so dense that it can slow speeding quarks and respond collectively as a fluid.",
-      "id": "aad2fbab257c"
+      "title": "Scientists reprogram immune cells inside the body to fight cancer",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261005071532.htm",
+      "published_at": "2026-10-07T09:50:16+00:00",
+      "summary_raw": "Scientists at UC San Francisco have developed a way to create cancer-fighting CAR-T cells directly inside the body, potentially avoiding the slow and extremely expensive process of removing, engineering, and reinfusing a patient’s immune cells. Using a two-particle delivery system, the researchers sent CRISPR gene-editing tools and new cancer-targeting DNA specifically into T cells, where the DNA was inserted at a precise location in the genome.",
+      "id": "f904b37da5a9"
     },
     {
       "source": "WRAL Local",
-      "title": "How county property appraisers assess new values for homes",
-      "link": "https://www.wral.com/news/local/how-county-property-appraisers-assess-new-values-for-homes-october-2026/",
-      "published_at": "2026-10-06T20:27:10+00:00",
-      "summary_raw": "Wake County is reassessing properties more often. WRAL went along with an appraiser to see how home values are determined.",
-      "id": "eeca9ad95f49"
+      "title": "Ask the Meteorologist: What made Matthew one of North Carolina's worst storms a decade ago?",
+      "link": "https://www.wral.com/news/local/ask-the-meteorologist-hurricane-matthew-north-carolina-2016/",
+      "published_at": "2026-10-07T10:30:03+00:00",
+      "summary_raw": "Matthew was one of the strongest storms since 2007, and it clobbered parts of the Carolinas.",
+      "id": "172e91d2330a"
     },
     {
       "source": "Wired",
-      "title": "We’re Tracking October Prime Day Live (2026)",
-      "link": "https://www.wired.com/live/amazon-prime-day-live-tracker-october-06-2026/",
-      "published_at": "2026-10-06T20:47:43+00:00",
-      "summary_raw": "Our team is tracking Prime Day deals in real time. Here’s what’s worth buying today.",
-      "id": "32f77c0879d3"
+      "title": "I Put on Meta and Xreal’s XR Glasses. Face Computers Are Finally Getting Good",
+      "link": "https://www.wired.com/story/weve-tried-meta-and-xreals-xr-glasses-is-there-a-winner/",
+      "published_at": "2026-10-07T12:00:00+00:00",
+      "summary_raw": "Xreal’s long-hyped Aura glasses arrive soon for $1,279. Here’s how they fare against Meta’s recently announced VR Glasses.",
+      "id": "682e5557c63e"
     },
     {
       "source": "NPR Politics",
@@ -300,43 +444,43 @@
     },
     {
       "source": "NPR National",
-      "title": "New Hollywood era begins with an epic mega merger between Paramount and Warner Bros.",
-      "link": "https://www.npr.org/2026/10/06/nx-s1-5988283/paramount-warner-bros-skydance-merger-david-ellison",
-      "published_at": "2026-10-06T09:00:00+00:00",
-      "summary_raw": "The Paramount and Warner Bros. merger has survived court challenges, public protests and regulatory scrutiny. Now, the Hollywood heavyweight, named Skydance, begins operating.",
-      "id": "e22fec8271f4"
+      "title": "Former CIA officer on modern espionage and the case against a former German spy chief",
+      "link": "https://www.npr.org/2026/10/07/nx-s1-5992747/former-cia-officer-on-modern-espionage-and-the-case-against-a-former-german-spy-chief",
+      "published_at": "2026-10-07T08:43:53+00:00",
+      "summary_raw": "NPR's A Martinez speaks with former CIA senior executive clandestine service officer Daniel Hoffman about the espionage allegations against the former German spy chief and modern espionage.",
+      "id": "e4bd81b1cc67"
     },
     {
       "source": "BBC World",
-      "title": "Tear gas in Paris and Marseille as school protests grow across France",
-      "link": "https://www.bbc.co.uk/news/articles/c8x23706pvz3o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-06T18:03:19+00:00",
-      "summary_raw": "Crowds of mainly teenagers called for more resources for schools and an end to what they called police repression.",
-      "id": "aa8b1a48df18"
+      "title": "How did Christa Pike survive two lethal injections - and what happens now?",
+      "link": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-07T10:01:47+00:00",
+      "summary_raw": "The convicted killer of Colleen Slemmer is said to be awake and speaking in hospital in Tennessee after an execution attempt.",
+      "id": "66759a3a41d6"
     },
     {
       "source": "Science Daily",
-      "title": "One simple addition to postpartum care made a major difference",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261003234017.htm",
-      "published_at": "2026-10-06T11:25:14+00:00",
-      "summary_raw": "New mothers paired with patient navigators were much more likely to receive postpartum care, depression screening, preventive testing, and ongoing primary care. By helping with barriers such as transportation, childcare, scheduling, and confusing medical information, navigators may provide a powerful way to improve women’s long-term health.",
-      "id": "3ed5b5727ced"
+      "title": "A new way to fight gum disease without wiping out good bacteria",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261005012230.htm",
+      "published_at": "2026-10-07T03:55:00+00:00",
+      "summary_raw": "Scientists discovered that disrupting the chemical messages bacteria use to communicate can push dental plaque toward a healthier microbial balance. The approach could lead to new treatments for gum disease that control harmful bacteria without destroying beneficial species.",
+      "id": "28ba7d91424c"
     },
     {
       "source": "WRAL Local",
-      "title": "Riverside High School lockdown lifted",
-      "link": "https://www.wral.com/news/local/riverside-high-lockdown-durham-october-2026/",
-      "published_at": "2026-10-06T20:13:25+00:00",
-      "summary_raw": "Riverside High School was placed on lockdown on Tuesday afternoon. It was lifted around 4:30 p.m.",
-      "id": "751e57893f2d"
+      "title": "Design to be unveiled for Western BRT, a bus rapid transit line connecting Raleigh and Cary",
+      "link": "https://www.wral.com/news/local/western-brt-design-unveiled-connecting-raleigh-cary-downtowns-october-2026/",
+      "published_at": "2026-10-07T09:11:04+00:00",
+      "summary_raw": "The official design for the Western BRT, a bus rapid transit system meant to improve access between downtown Cary and Raleigh, will be unveiled Wednesday.",
+      "id": "2b040540f8e5"
     },
     {
       "source": "Wired",
-      "title": "Amazon Prime Day Deals Under $50 in October 2026",
-      "link": "https://www.wired.com/story/best-amazon-prime-day-deals-under-50-10-06-2026/",
-      "published_at": "2026-10-06T20:43:38+00:00",
-      "summary_raw": "Everything is expensive. Treat yourself to one of these WIRED-approved Prime Day picks under $50.",
-      "id": "3a3cf9b34669"
+      "title": "Save Up to 44% With the 18 Best Prime Day Toy Deals (2026)",
+      "link": "https://www.wired.com/story/amazon-prime-day-lego-deals-10-07-2026/",
+      "published_at": "2026-10-07T11:40:49+00:00",
+      "summary_raw": "Snag some gifts for your kiddos or unleash your inner child with the best Prime Day toy deals, including Lego, STEM toys, and board games.",
+      "id": "c4b259fee6e6"
     },
     {
       "source": "NPR Politics",
@@ -348,299 +492,155 @@
     },
     {
       "source": "NPR National",
-      "title": "As Trump focuses the FBI on immigration, counterintelligence is falling behind",
-      "link": "https://www.npr.org/2026/10/06/g-s1-145511/fbi-trump-counterintelligence-units-cuts",
-      "published_at": "2026-10-06T09:00:00+00:00",
-      "summary_raw": "The cuts come as a consequence of President Trump and FBI Director Kash Patel's focus on violent crime and immigration, leaving other priorities understaffed.",
-      "id": "e3c0d8e310b2"
+      "title": "Former CIA official accused of stealing $40M in gold bars pleads guilty",
+      "link": "https://www.npr.org/2026/10/07/nx-s1-5993468/cia-official-stealing-gold-bars-pleads-guilty",
+      "published_at": "2026-10-07T06:52:18+00:00",
+      "summary_raw": "A former senior CIA official pleaded guilty Tuesday to a charge that he abused his position to enrich himself by acquiring Florida real estate and hundreds of gold bars worth over $40 million.",
+      "id": "355d700af97d"
     },
     {
       "source": "BBC World",
-      "title": "Finland orders halt to work on two Google data centres",
-      "link": "https://www.bbc.co.uk/news/articles/cvj6jkx6g1r0o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-06T17:15:46+00:00",
-      "summary_raw": "The order affecting two planned data centres follows concerns over forest clearance.",
-      "id": "418b1d3a3f73"
+      "title": "Sri Lanka's ex-first lady arrested over alleged misuse of children's hospital donations",
+      "link": "https://www.bbc.co.uk/news/articles/ck0e0n3xzvp4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-07T09:49:31+00:00",
+      "summary_raw": "The 73-year-old has been arrested over allegations that a charity she is linked to misused donations.",
+      "id": "c3432e11cd70"
     },
     {
       "source": "Science Daily",
-      "title": "Scientists finally see how nature moves energy so efficiently",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261004001841.htm",
-      "published_at": "2026-10-06T07:49:51+00:00",
-      "summary_raw": "Researchers have captured key steps in a chemical reaction that helps nature transfer energy with remarkable efficiency. Ultrafast X-rays revealed how changes involving electrons and protons are closely linked to the rearrangement of surrounding water molecules. Because similar reactions drive photosynthesis and other energy-conversion processes, the technique could help scientists develop better catalysts, fuel cells, and flow batteries.",
-      "id": "094a23e6cb0c"
+      "title": "Humans may not be as hardwired for violence as we thought",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261005071529.htm",
+      "published_at": "2026-10-07T03:22:55+00:00",
+      "summary_raw": "A study comparing 100 primate species, including humans, suggests that everyday aggression and lethal violence did not evolve as part of the same simple behavioral spectrum. Species that frequently fight or show mild aggression are not necessarily more likely to kill rivals, while extreme acts such as infanticide and lethal attacks appear to follow their own evolutionary patterns.",
+      "id": "48a9945033de"
     },
     {
       "source": "WRAL Local",
-      "title": "Raleigh weighs six-month data center pause as advocates demand more time",
-      "link": "https://www.wral.com/news/local/raleigh-weighs-six-month-data-center-pause-as-advocates-demand-more-time-october-2026/",
-      "published_at": "2026-10-06T20:08:04+00:00",
-      "summary_raw": "Raleigh could pause larger data centers for six months Tuesday night. Some community advocates want 32 months, saying more time is needed to study impacts and involve residents.",
-      "id": "a6859275648c"
+      "title": "Fire damages vacant state-owned building along Garner Road",
+      "link": "https://www.wral.com/news/local/garner-road-state-owned-building-fire-raleigh-october-2026/",
+      "published_at": "2026-10-07T08:15:04+00:00",
+      "summary_raw": "Crews said the old state-owned building was not occupied and no one was hurt. It's unclear how the fire started.",
+      "id": "05ab5c04bec0"
     },
     {
       "source": "Wired",
-      "title": "Best Amazon Prime Day Vacuum Deals: Dyson, Shark, and Robot Vacuums (2026)",
-      "link": "https://www.wired.com/story/prime-day-vacuum-deals-10-06-2026/",
-      "published_at": "2026-10-06T20:06:46+00:00",
-      "summary_raw": "I’ve compared cordless sticks, watched robot vacuums chase stains, and cleaned plenty of car crumbs. These discounts get my recommendation.",
-      "id": "d4f62cc2b450"
-    },
-    {
-      "source": "NPR Politics",
-      "title": "Democrats' advantage is clear with less than a month to go in the midterm elections",
-      "link": "https://www.npr.org/2026/10/06/nx-s1-5989694/midterm-elections-control-congress",
-      "published_at": "2026-10-06T09:00:00+00:00",
-      "summary_raw": "President Trump is facing low approval ratings, and voters are blaming him for rising costs. Republicans are likely to pay the price at the ballot box next month.",
-      "id": "61c7cb686f94"
-    },
-    {
-      "source": "NPR National",
-      "title": "Dennis Hastert, longtime Republican House speaker who went to prison, dies at age 84",
-      "link": "https://www.npr.org/2026/10/05/g-s1-146452/dennis-hastert-republican-house-speaker-dies-obit",
-      "published_at": "2026-10-05T14:24:31+00:00",
-      "summary_raw": "ennis Hastert, whose political legacy as Congress' longest-serving Republican House speaker was later fouled by allegations that he had molested high school athletes during his prior career as a teacher and wrestling coach, has died, a coroner said Monday. He was 84.",
-      "id": "0f3054228213"
+      "title": "I Found the 25 Best Prime Day Tech and Gadget Deals (October 2026)",
+      "link": "https://www.wired.com/story/best-prime-day-tech-deals-10-07-2026/",
+      "published_at": "2026-10-07T11:11:05+00:00",
+      "summary_raw": "Never pay full price. Bag yourself some Prime Day tech deals on our favorite WIRED-tested gadgets.",
+      "id": "86c5a21f0b14"
     },
     {
       "source": "BBC World",
-      "title": "Separatist party projected to win Quebec election, adding new test to Canada's unity",
-      "link": "https://www.bbc.co.uk/news/articles/crly09gz7ew4o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-06T16:51:59+00:00",
-      "summary_raw": "The Parti Québécois, which secured a minority, has vowed to hold an independence referendum in the years to come.",
-      "id": "6beb7ba63857"
+      "title": "California pair charged with abusing at least 14 surrogate-born children",
+      "link": "https://www.bbc.co.uk/news/articles/crx23dvnp8vxo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-07T09:38:00+00:00",
+      "summary_raw": "Guojun Xuan and Silvia Zhang were arrested at their Arcadia mansion after 21 children were removed from their custody last year.",
+      "id": "2e97000b0ddb"
     },
     {
       "source": "Science Daily",
-      "title": "A few drops of this Japanese tree oil may help you sleep more soundly",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261002080030.htm",
-      "published_at": "2026-10-06T04:33:58+00:00",
-      "summary_raw": "In a small study, sleeping near the scent of Hinoki root essential oil was linked to fewer nighttime awakenings, better morning alertness, and brain-wave changes associated with smoother sleep onset. The findings suggest an overlooked forestry byproduct could someday become a natural ingredient in sleep and relaxation products.",
-      "id": "99d5214c16e9"
-    },
-    {
-      "source": "WRAL Local",
-      "title": "Brunswick County deputy charged with misusing Flock cameras",
-      "link": "https://www.wral.com/news/local/brunswick-county-deputy-flock-misuse-october-2026/",
-      "published_at": "2026-10-06T19:33:08+00:00",
-      "summary_raw": "Indictments filed against Daniel Little allege he used a county-issued cellphone to access the Flock system and obtain information on several different license plate numbers.",
-      "id": "203e643fa44c"
+      "title": "Animals may have evolved 200 million years earlier than we thought",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261003234023.htm",
+      "published_at": "2026-10-07T02:29:56+00:00",
+      "summary_raw": "New research suggests animals could have evolved as early as 800 to 700 million years ago, roughly 200 million years earlier than some previous estimates. If so, the first animals may have lived before or during Snowball Earth, leaving behind little trace because their soft bodies were rarely preserved.",
+      "id": "200671f3f67f"
     },
     {
       "source": "Wired",
-      "title": "Everybody’s Favorite Art TV Is Nearly Half Off for Prime Day (2026)",
-      "link": "https://www.wired.com/story/samsung-the-frame-tv-deal-prime-day-10-6-2026/",
-      "published_at": "2026-10-06T18:55:16+00:00",
-      "summary_raw": "Samsung’s The Frame is the leading art TV for a reason. The matte display makes paintings look like museum pieces, not a glossy screensaver.",
-      "id": "98a992764a68"
-    },
-    {
-      "source": "NPR Politics",
-      "title": "As Trump focuses the FBI on immigration, counterintelligence is falling behind",
-      "link": "https://www.npr.org/2026/10/06/g-s1-145511/fbi-trump-counterintelligence-units-cuts",
-      "published_at": "2026-10-06T09:00:00+00:00",
-      "summary_raw": "The cuts come as a consequence of President Trump and FBI Director Kash Patel's focus on violent crime and immigration, leaving other priorities understaffed.",
-      "id": "e3c0d8e310b2"
-    },
-    {
-      "source": "NPR National",
-      "title": "FBI arrests a woman accused of spying on Taiwan leader's family for China",
-      "link": "https://www.npr.org/2026/10/05/g-s1-146410/fbi-arrests-a-woman-accused-of-spying-on-taiwan-leaders-family-for-china",
-      "published_at": "2026-10-05T11:47:36+00:00",
-      "summary_raw": "The FBI and U.S. prosecutors say Wanying Zhang, also know as Heather, surveilled the Taiwanese president's son and his family.",
-      "id": "e108c390dac3"
+      "title": "I Found The Best Amazon Prime Day Headphone Deals (2026)",
+      "link": "https://www.wired.com/story/best-prime-day-headphone-deals-10-07-2026/",
+      "published_at": "2026-10-07T11:10:17+00:00",
+      "summary_raw": "I’ve tested more than 100 headphones and covered nearly a dozen Prime Days. Here are some actually good headphone deals from the sale.",
+      "id": "72f1f610402a"
     },
     {
       "source": "BBC World",
-      "title": "Kenya confirms its first Ebola death as outbreak spreads",
-      "link": "https://www.bbc.co.uk/news/articles/cqzrd7v1j163o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-06T16:02:32+00:00",
-      "summary_raw": "The patient had been living in DR Congo, where more than 4,000 people have died from the disease this year.",
-      "id": "c63dd9f801a7"
+      "title": "Oscar-winning actress Eva Marie Saint dies aged 102",
+      "link": "https://www.bbc.co.uk/news/articles/cqze43ky1xgdo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-07T07:37:16+00:00",
+      "summary_raw": "She starred opposite Marlon Brando in On the Waterfront, then alongside Cary Grant in Hitchcock's North by Northwest.",
+      "id": "3488db553163"
     },
     {
       "source": "Science Daily",
-      "title": "Tropical trees built homes for ants. Wasps are taking them over",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261004001832.htm",
-      "published_at": "2026-10-06T03:12:36+00:00",
-      "summary_raw": "Predatory wasps are hijacking shelters built by tropical trees for their ant defenders, potentially disrupting an ancient partnership that protects the plants from hungry insects. The takeover is far more common in disturbed landscapes such as oil palm plantations and could have lasting consequences for forest recovery and evolution.",
-      "id": "13081755628d"
-    },
-    {
-      "source": "WRAL Local",
-      "title": "State Fair to showcase $60 million renovation, biggest Ferris wheel yet. But traffic issues remain",
-      "link": "https://www.wral.com/news/local/nc-state-fair-2026-new-rides-food-renovations-troxler-farley-stein-safety/",
-      "published_at": "2026-10-06T19:15:29+00:00",
-      "summary_raw": "While fairgoers will be greeted by new renovations, new rides and new foods this year, they’ll also deal with some of the same traffic headaches that recent years have brought.",
-      "id": "6548a999da9d"
+      "title": "What happens in the brain when cannabis makes you anxious?",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261003234021.htm",
+      "published_at": "2026-10-07T01:26:07+00:00",
+      "summary_raw": "Cannabinoids may intensify anxiety by removing a natural brake on specific neurons in the brain’s fear center, particularly during stressful situations. In mice, shutting down those neurons sharply reduced cannabinoid-related anxious behavior.",
+      "id": "64a1d5487fe5"
     },
     {
       "source": "Wired",
-      "title": "‘Artificial’ Roasts AI’s Creators—and Sends a Dark Warning About Its Dangers",
-      "link": "https://www.wired.com/story/artificial-roasts-ais-creators-and-sends-a-dark-warning-about-its-dangers/",
-      "published_at": "2026-10-06T18:45:39+00:00",
-      "summary_raw": "From their dorky parties to their weird walks, the movie holds OpenAI CEO Sam Altman and other stakeholders with contempt, while demonstrating their recklessness.",
-      "id": "913fe1d08b0b"
-    },
-    {
-      "source": "NPR Politics",
-      "title": "Democrats need to reel in more men. These Mainers say the party needs better bait",
-      "link": "https://www.npr.org/2026/10/06/nx-s1-5989427/maine-men-democrats-male-voters-midterms",
-      "published_at": "2026-10-06T08:50:17+00:00",
-      "summary_raw": "Democrats are trying to win back male voters ahead of the midterms. In Maine, some fly fishermen say frustration with both parties is shaping their votes.",
-      "id": "af3e4b7c7458"
-    },
-    {
-      "source": "NPR National",
-      "title": "Supreme Court's new term kicks off with blockbuster climate change case",
-      "link": "https://www.npr.org/2026/10/05/nx-s1-5970070/supreme-court-climate-change-boulder-county",
-      "published_at": "2026-10-05T09:00:00+00:00",
-      "summary_raw": "The case centers on whether local governments can hold giant energy companies accountable for the local harms of climate change, but it has repercussions beyond climate.",
-      "id": "40e29c3837fe"
+      "title": "OpenAI Wants Its New Agent to Run Your Life. Mine Said It Loved Me",
+      "link": "https://www.wired.com/story/openai-wants-its-new-agent-to-run-your-life-mine-said-it-loved-me/",
+      "published_at": "2026-10-07T11:00:00+00:00",
+      "summary_raw": "Dots are designed to automate online tasks, like buying furniture. In my initial experience, the always-on agent was a bit buggy and couldn’t complete a captcha.",
+      "id": "6c82dee12bad"
     },
     {
       "source": "BBC World",
-      "title": "AfD candidate elected speaker of German regional parliament for first time",
-      "link": "https://www.bbc.co.uk/news/articles/c54g1m2g1pg3o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-06T14:44:03+00:00",
-      "summary_raw": "Although Tobias Rausch's role is largely symbolic, opponents have described the result as a watershed moment.",
-      "id": "299b9594ba7e"
+      "title": "The Republican candidates walking a Trump tightrope",
+      "link": "https://www.bbc.co.uk/news/articles/cm93z74e0n9zo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-07T05:00:21+00:00",
+      "summary_raw": "Some running in November's elections are deciding whether to distance themselves from an unpopular president who still dominates his party.",
+      "id": "a844c3feb212"
     },
     {
       "source": "Science Daily",
-      "title": "MIT scientists find a hidden cancer risk of the keto diet",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261002080037.htm",
-      "published_at": "2026-10-06T01:18:45+00:00",
-      "summary_raw": "A ketogenic diet increased small-intestinal tumors in cancer-prone mice while reducing tumors in the colon, revealing a strikingly different response within neighboring parts of the gut. Researchers traced the increased risk not to ketones, but to the way intestinal stem cells processed the diet’s high levels of fat. That fat-burning activity pushed the cells to multiply more rapidly, potentially raising the chance of cancerous changes.",
-      "id": "a610575b0998"
-    },
-    {
-      "source": "WRAL Local",
-      "title": "WRAL-TV honored by North Carolina Association of Broadcasters for Breaking News coverage",
-      "link": "https://www.wral.com/news/local/wral-tv-honored-north-carolina-association-broadcasters-breaking-news-october-2026/",
-      "published_at": "2026-10-06T18:00:00+00:00",
-      "summary_raw": "The North Carolina Association of Broadcasters honored WRAL-TV for Breaking News coverage at its annual luncheon on October 6.",
-      "id": "c30c3cc9390d"
+      "title": "Colorectal cancer is rising in young people and often found too late",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261003234019.htm",
+      "published_at": "2026-10-06T13:20:15+00:00",
+      "summary_raw": "Colorectal cancer in young people is often diagnosed at an advanced stage, with researchers finding most patients age 21 or younger already had Stage III or IV disease. Because symptoms like rectal bleeding, weight loss, abdominal pain, and bowel changes may be overlooked, researchers are calling for greater vigilance.",
+      "id": "7c896ef6b1cc"
     },
     {
       "source": "Wired",
-      "title": "Apple AirPods Max 2 Are $120 Off Right Now During Prime Day (2026)",
-      "link": "https://www.wired.com/story/apple-airpods-max-2-deal-october-2026/",
-      "published_at": "2026-10-06T18:43:27+00:00",
-      "summary_raw": "They’re the best over-ear headphones for Apple loyalists, and over 20 percent off at multiple retailers right now.",
-      "id": "6beed9b173cb"
+      "title": "Save Up to $200 on the Best Prime Day Apple Deals (2026)",
+      "link": "https://www.wired.com/story/best-prime-day-apple-deals-10-07-2026/",
+      "published_at": "2026-10-07T10:48:04+00:00",
+      "summary_raw": "We’re already seeing some discounts on our favorite Apple tech, whether its devices or third-party accessories.",
+      "id": "6bf39e79266a"
     },
     {
       "source": "BBC World",
-      "title": "Watch: How Russia responded to US after plague researcher death",
-      "link": "https://www.bbc.co.uk/news/videos/c8e36y796enno?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-06T13:32:42+00:00",
-      "summary_raw": "The US and Russia have each offered to help each other tackling infectious diseases.",
-      "id": "b3c52a6075ac"
+      "title": "What we know about Christa Pike’s ‘unprecedented' recovery after failed execution",
+      "link": "https://www.bbc.co.uk/news/videos/c5398nwe9lzlo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-06T23:42:35+00:00",
+      "summary_raw": "The BBC's Sarah Smith details the injuries sustained by the US death row inmate after two failed lethal injections, and what comes next.",
+      "id": "061b334524fb"
     },
     {
       "source": "Science Daily",
-      "title": "Scientists reveal what seven days of fasting does to the human body",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261005012444.htm",
-      "published_at": "2026-10-05T12:26:03+00:00",
-      "summary_raw": "Scientists found that prolonged fasting triggers major changes throughout the body, but many of the most interesting effects only appeared after about three days without food. The results suggest fasting may influence health in ways that go beyond weight loss and could eventually inspire treatments that mimic its effects.",
-      "id": "ed6df4348f6a"
+      "title": "Goodbye joint replacements? Stanford scientists found a way to regrow cartilage and stop arthritis",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261005011249.htm",
+      "published_at": "2026-10-06T13:03:47+00:00",
+      "summary_raw": "Scientists have found a surprising way to regrow damaged knee cartilage by blocking a protein that becomes more abundant with age. In old mice, the treatment restored naturally lost cartilage and also helped prevent osteoarthritis after ACL-like knee injuries, while human cartilage taken from knee replacement patients began producing new, functional joint cartilage after exposure to the same inhibitor.",
+      "id": "d4d79fc4655e"
     },
     {
       "source": "Wired",
-      "title": "The Best Prime Day Smart Home Deals Are Up to 50% Off (2026)",
-      "link": "https://www.wired.com/story/best-smart-home-prime-day-10-6-2026/",
-      "published_at": "2026-10-06T18:30:00+00:00",
-      "summary_raw": "The right gadgets can make your house feel smarter. After extensive testing and price checks, these are the Prime Day smart home deals worth bagging.",
-      "id": "e9d52c98d557"
+      "title": "‘Digger’ is a Box Office Flop. It Might Be the Most Relevant Film of the Year",
+      "link": "https://www.wired.com/story/digger-is-a-box-office-flop-it-might-be-the-most-relevant-film-of-the-year/",
+      "published_at": "2026-10-07T10:45:00+00:00",
+      "summary_raw": "Sold by its trailer as a gag reel, Tom Cruise’s strangest movie may be the most unsettling portrait of our tech and climate moment yet.",
+      "id": "7b48764a6ea8"
     },
     {
       "source": "BBC World",
-      "title": "US televangelist Jim Bakker, disgraced from sex scandal and fraud, dies at 86",
-      "link": "https://www.bbc.co.uk/news/articles/ckly02gd1xppo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-06T13:31:56+00:00",
-      "summary_raw": "Jim Bakker co-founded The PTL Club with his then-wife Tammy Faye before being jailed for fraud and conspiracy.",
-      "id": "966c7656345d"
+      "title": "Many Nepalis swept away in the floods aren't officially dead, leaving families in limbo",
+      "link": "https://www.bbc.co.uk/news/articles/ck054zm1701qo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-06T22:17:56+00:00",
+      "summary_raw": "Relatives are finding themselves with no compensation and facing an administrative nightmare.",
+      "id": "4511b75c0975"
     },
     {
       "source": "Science Daily",
-      "title": "Vagus Nerve Stimulation Could Help New Skills Stick",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261002080034.htm",
-      "published_at": "2026-10-05T12:13:07+00:00",
-      "summary_raw": "Stimulating the vagus nerve after practice helped mice develop stronger long-term motor learning, revealing a potentially important window when the brain is still locking in a new skill. The effect was linked to rhythmic changes in brain blood vessels, hinting that body-to-brain signals may help prepare the brain for lasting change.",
-      "id": "3f4cf9f981fb"
-    },
-    {
-      "source": "Wired",
-      "title": "Yeti Coolers and Cups Are Up to $100 Off for Amazon Prime Day (2026)",
-      "link": "https://www.wired.com/story/amazon-prime-day-2026-yeti-deals/",
-      "published_at": "2026-10-06T18:26:53+00:00",
-      "summary_raw": "Snag some new Yeti gear in your choice of eye-popping colors while supplies last (which won't be long).",
-      "id": "40966e9c0d66"
-    },
-    {
-      "source": "BBC World",
-      "title": "Nigeria mourns 25 killed as military plane crashes into swamp",
-      "link": "https://www.bbc.co.uk/news/articles/ck1wvjer20qqo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-06T12:51:05+00:00",
-      "summary_raw": "President Bola Tinubu describes the crash as a \"painful moment\" for the military and the entire nation.",
-      "id": "69493faba1c6"
-    },
-    {
-      "source": "Science Daily",
-      "title": "Don't miss: Watch Saturn shine and Halley’s Comet debris streak across the sky",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261005071523.htm",
-      "published_at": "2026-10-05T11:59:17+00:00",
-      "summary_raw": "October skywatchers can see Saturn at opposition, catch meteors from Halley’s Comet during the Orionid peak, and watch the Moon sweep past the famous Pleiades star cluster. Moonlight may obscure some Orionids, but the best viewing should come before dawn after the Moon sets.",
-      "id": "c02db0856be5"
-    },
-    {
-      "source": "Wired",
-      "title": "Save Up to 50% on the Best Amazon Prime Day Espresso and Coffee Machine Deals (2026)",
-      "link": "https://www.wired.com/story/prime-day-espresso-machine-deals-10-06-2026/",
-      "published_at": "2026-10-06T18:25:33+00:00",
-      "summary_raw": "Breville, Keurig, Fellow, and AeroPress gear we recommend is on sale, with options for espresso enthusiasts and one-button brewers alike.",
-      "id": "e645d48ea0dc"
-    },
-    {
-      "source": "BBC World",
-      "title": "Seven arrested for using Ghanaian banknotes to make 'money bouquets'",
-      "link": "https://www.bbc.co.uk/news/articles/c65yn3g53dkqo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-06T12:00:10+00:00",
-      "summary_raw": "The arrests are part of the country's efforts to curb the misuse and abuse of the national currency.",
-      "id": "db1121cc3e09"
-    },
-    {
-      "source": "Science Daily",
-      "title": "A new kind of magnetism could unlock faster, more efficient computers",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261002080015.htm",
-      "published_at": "2026-10-05T11:35:24+00:00",
-      "summary_raw": "Scientists have discovered evidence of altermagnetism in a thin, highly tunable material that could help electronics use electron spin instead of relying only on electrical charge. The unusual magnetic state may enable faster, more energy-efficient devices without the unwanted magnetic interference caused by conventional magnets.",
-      "id": "c1fadc9fe44a"
-    },
-    {
-      "source": "Wired",
-      "title": "8 Best Prime Day Wearable Deals: Apple, Google, Samsung (2026)",
-      "link": "https://www.wired.com/story/amazon-prime-day-wearable-deals-10-6-2026/",
-      "published_at": "2026-10-06T18:08:23+00:00",
-      "summary_raw": "I’ve tested the wearables, tracked the prices, and found the Prime Day deals worth grabbing.",
-      "id": "0215f8d5e04a"
-    },
-    {
-      "source": "BBC World",
-      "title": "Ship sinks and crew missing after Black Sea drone attack",
-      "link": "https://www.bbc.co.uk/news/articles/c8ly0v5r602eo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-06T11:53:21+00:00",
-      "summary_raw": "It is not clear who is behind the attacks which come as Russia intensifies strikes in the Black Sea as part of its war against Ukraine.",
-      "id": "8059ca15890b"
-    },
-    {
-      "source": "Science Daily",
-      "title": "Scientists just found a way to fight lung cancer and muscle wasting at the same time",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261001214129.htm",
-      "published_at": "2026-10-05T11:11:21+00:00",
-      "summary_raw": "A new nanoparticle therapy reduced lung tumors in mice while also targeting cachexia, the severe muscle wasting that can accompany cancer. By delivering follistatin mRNA directly to tumors, the approach could eventually offer a way to fight both the disease and one of its most dangerous complications.",
-      "id": "c71270c62000"
+      "title": "Archaeologists may have finally solved a 100-year-old Florida mystery",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261004001835.htm",
+      "published_at": "2026-10-06T12:41:48+00:00",
+      "summary_raw": "Ancient pottery from Tampa Bay appears to have been made by migrant craftspeople who brought specialized Mississippian pottery-making knowledge hundreds of miles south. Remarkably, they even incorporated crushed fragments of older homeland pottery into new vessels, preserving a physical link to their past across generations.",
+      "id": "03c5a4305054"
     }
   ]
 }

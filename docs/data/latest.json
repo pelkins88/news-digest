@@ -1,14 +1,22 @@
 {
   "mode": "raw",
-  "generated_at": "2026-10-10T16:09:51.467509+00:00",
+  "generated_at": "2026-10-10T23:14:53.960034+00:00",
   "items": [
     {
       "source": "WRAL Local",
-      "title": "Deputies investigate a double homicide in Franklin County",
-      "link": "https://www.wral.com/news/local/franklinton-double-homicide-october-2026/",
-      "published_at": "2026-10-10T14:35:00+00:00",
-      "summary_raw": "The Franklin County Sheriff's Department is investigating a double homicide.",
-      "id": "60f9b4923bae"
+      "title": "Person killed in Fayetteville shooting, police investigating homicide",
+      "link": "https://www.wral.com/news/local/fayetteville-deadly-shooting-maloney-avenue-october-2026/",
+      "published_at": "2026-10-10T22:25:13+00:00",
+      "summary_raw": "Officers were called to Maloney Avenue and Lamon Street to respond to a shooting. When they arrived, they said they found a male victim had been shot.",
+      "id": "e79c0be390af"
+    },
+    {
+      "source": "WRAL Weather",
+      "title": "Feds allow companies to borrow from oil reserve to help with supply issues after Hurricane Isaias",
+      "link": "https://www.wral.com/weather/hurricane-isaias-gas-supply-issues-reserve-borrowing-october-2026/",
+      "published_at": "2026-10-10T20:20:36+00:00",
+      "summary_raw": "ExxonMobil and BP America are participating in the emergency exchange and must return any borrowed crude oil with additional premium barrels in 2027. It said this should help with immediate supply issues from Isaias.",
+      "id": "e99e52e433cb"
     },
     {
       "source": "Wired",
@@ -20,43 +28,43 @@
     },
     {
       "source": "NPR Politics",
-      "title": "U.S. imposes sweeping sanctions on International Criminal Court",
-      "link": "https://www.npr.org/2026/10/10/nx-s1-5996606/u-s-imposes-sweeping-sanctions-on-international-criminal-court",
-      "published_at": "2026-10-10T11:40:51+00:00",
-      "summary_raw": "The U.S. has announced sanctions against the International Criminal Court, with Secretary of State Marco Rubio vowing to dismantle the world's only permanent war crimes tribunal.",
-      "id": "e93d61558a69"
+      "title": "Trump's economic strategy resemble similar policies in East Asia",
+      "link": "https://www.npr.org/2026/10/10/nx-s1-5992884/trumps-economic-strategy-resemble-similar-policies-in-east-asia",
+      "published_at": "2026-10-10T21:40:18+00:00",
+      "summary_raw": "Much of the Trump administration's economic policy has been inspired by successful industrial policies successful in East Asia, including those of competitor, China. Will those policies work in the U.S.?",
+      "id": "d6c0a0860e6d"
     },
     {
       "source": "NPR National",
-      "title": "Parallel parking is now a sport in Philly, complete with speed and flair",
-      "link": "https://www.npr.org/2026/10/10/nx-s1-5992995/parallel-parking-is-now-a-sport-in-philly-complete-with-speed-and-flair",
-      "published_at": "2026-10-10T11:40:47+00:00",
-      "summary_raw": "Philadelphia recently held its first-ever Parallel Parking Association Championship. Hundreds of people came out to see drivers compete for speed, accuracy and even flair.",
-      "id": "1de33373c5d2"
+      "title": "Christa Pike discharged from the hospital and back in prison",
+      "link": "https://www.npr.org/2026/10/10/nx-s1-5997504/christa-pike-hospital-prison-after-botched-execution",
+      "published_at": "2026-10-10T22:15:04+00:00",
+      "summary_raw": "Pike's attorneys say she is grateful for the care of first responders and her medical team.",
+      "id": "e6d319d672aa"
     },
     {
       "source": "BBC World",
-      "title": "Several injured as Saudi capital airport reportedly hit again",
+      "title": "Twelve killed in attack on airport in Saudi capital Riyadh",
       "link": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-10T16:05:18+00:00",
-      "summary_raw": "The suspected attack comes a day after Yemen's Houthi rebels claimed two deadly attacks on the Riyadh airport.",
+      "published_at": "2026-10-10T22:40:56+00:00",
+      "summary_raw": "Another 309 people are injured in the attack on the airport, which come days after Yemen's Houthis said they had struck it.",
       "id": "a950b71a9a52"
     },
     {
       "source": "Science Daily",
-      "title": "Only one workout helped older adults lose fat and keep muscle",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261007233348.htm",
-      "published_at": "2026-10-09T10:57:40+00:00",
-      "summary_raw": "A six-month study suggests that high-intensity interval training (HIIT) may offer older adults a powerful advantage: losing body fat while keeping their muscle. Unlike moderate-intensity workouts, which led to a small loss of lean muscle, HIIT preserved it while also improving body composition around the waist.",
-      "id": "fd38771abdad"
+      "title": "Scientists may have found a shortcut to fusion energy",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261008005242.htm",
+      "published_at": "2026-10-10T18:57:27+00:00",
+      "summary_raw": "Princeton Plasma Physics Laboratory may have found a dramatically more efficient route to fusion energy by reversing the traditional approach: heating plasma first, then increasing its density. Their calculations could help future reactors reach self-sustaining fusion with far less energy while avoiding hidden problems that make ignition harder.",
+      "id": "7fc025d7c2b2"
     },
     {
       "source": "WRAL Local",
-      "title": "Police: Two men hurt in shooting on GoDurham bus",
-      "link": "https://www.wral.com/news/local/two-men-hurt-shooting-godurham-bus-october-2026/",
-      "published_at": "2026-10-10T03:19:20+00:00",
-      "summary_raw": "Police officers were called to reports of a shooting on a GoDurham bus around 10:20 p.m. along North Roxboro and Edwards streets. When they arrived, they found men with gunshot wounds.",
-      "id": "6feb5ca58e7d"
+      "title": "Raleigh man accused of extorting woman, grabbing arresting officer's genitals",
+      "link": "https://www.wral.com/news/local/raleigh-man-extortion-sexual-battery-of-officer-october-2026/",
+      "published_at": "2026-10-10T21:41:20+00:00",
+      "summary_raw": "Police arrested 42-year-old Kelly Langley on Saturday. He is accused of assault, sexual battery, extortion, soliciting alms and possessing drug paraphernalia.",
+      "id": "a13c60c21886"
     },
     {
       "source": "Wired",
@@ -68,43 +76,43 @@
     },
     {
       "source": "NPR Politics",
-      "title": "Week in Politics: Hegseth's livestream backlash; Greece ambassador Guilfoyle scandal",
-      "link": "https://www.npr.org/2026/10/10/nx-s1-5995114/week-in-politics-hegseths-livestream-backlash-greece-ambassador-guilfoyle-scandal",
-      "published_at": "2026-10-10T11:40:48+00:00",
-      "summary_raw": "Bipartisan blowback on Defense Secretary Pete Hegseth's plans to livestream a military execution, plus a scandal involving Kimberly Guilfoyle, the US Ambassador to Greece.",
-      "id": "9038326161eb"
+      "title": "U.S. imposes sweeping sanctions on International Criminal Court",
+      "link": "https://www.npr.org/2026/10/10/nx-s1-5996606/u-s-imposes-sweeping-sanctions-on-international-criminal-court",
+      "published_at": "2026-10-10T11:40:51+00:00",
+      "summary_raw": "The U.S. has announced sanctions against the International Criminal Court, with Secretary of State Marco Rubio vowing to dismantle the world's only permanent war crimes tribunal.",
+      "id": "e93d61558a69"
     },
     {
       "source": "NPR National",
-      "title": "How a retired Navajo Nation doctor earned a MacArthur 'genius' grant for public art",
-      "link": "https://www.npr.org/2026/10/10/nx-s1-5779751/how-a-retired-navajo-nation-doctor-earned-a-macarthur-genius-grant-for-public-art",
-      "published_at": "2026-10-10T11:40:44+00:00",
-      "summary_raw": "Chip Thomas, a retired physician on the Navajo Reservation, is well known for his large photograhpic murals. Now, he's been recognized with a MacArthur \"genius\" grant.",
-      "id": "7625049a6924"
+      "title": "Why aren't men talking about Cornell?",
+      "link": "https://www.npr.org/2026/10/10/nx-s1-5995216/why-arent-men-talking-about-cornell",
+      "published_at": "2026-10-10T21:33:16+00:00",
+      "summary_raw": "NPR's Joel Rose speaks with culture writer Louis Staples about his piece for Harper's Bazaar titled: Women Everywhere Are Talking About Cornell. Why Aren't Men?",
+      "id": "b64fe162b93f"
     },
     {
       "source": "BBC World",
-      "title": "Christa Pike discharged from hospital and returned to prison, her lawyers say",
-      "link": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-10T15:58:06+00:00",
-      "summary_raw": "The convicted murderer was left in a critical condition after she survived two lethal injections.",
-      "id": "16c3da119de4"
+      "title": "Four dead and thousands without power after Hurricane Isaias lashes US",
+      "link": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-10T22:02:07+00:00",
+      "summary_raw": "Roofs were ripped off buildings after Isaias barrelled into the US on Friday evening, before it weakened to a post-tropical cyclone.",
+      "id": "e6648fbf0efc"
     },
     {
       "source": "Science Daily",
-      "title": "Scientists find hidden materials that could improve batteries and solar fuels",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261007042118.htm",
-      "published_at": "2026-10-09T10:20:23+00:00",
-      "summary_raw": "Scientists have uncovered a hidden world of “in-between” materials that briefly form as chemical ingredients are heated, revealing structures that conventional methods can miss. Among the discoveries is a previously unknown form of bismuth vanadate, a material widely studied for using sunlight to help produce clean hydrogen. The new version has a different atomic structure and interacts with light in a strikingly different way, potentially opening new possibilities for solar fuels, catalysts, and electronics.",
-      "id": "fecd05bdfe1f"
+      "title": "Loneliness may steal nearly 6 years of good health",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261006234514.htm",
+      "published_at": "2026-10-10T18:57:02+00:00",
+      "summary_raw": "A large study suggests loneliness and social isolation can cost people years of healthy life, especially when it comes to mental health. Men experiencing both lost about 5.8 years free from depression and anxiety, while women lost roughly 3.7 years.",
+      "id": "a8cc9636a0e2"
     },
     {
       "source": "WRAL Local",
-      "title": "Murphy USA offers compensation to Nashville drivers who pumped contaminated gas",
-      "link": "https://www.wral.com/news/local/murphy-usa-offerscompensasion-nashville-drivers-pumped-contaminated-gas-october-2026/",
-      "published_at": "2026-10-10T01:25:42+00:00",
-      "summary_raw": "In September, the Murphy Express off Eastern Ave. Nashville shut down its gas pumps after a state inspector found high concentrations of water mixed with gasoline. One month later, some gas pumps are still wrapped in plastic, and the parent company is offering help to drivers who were impacted.",
-      "id": "6499f7712ddb"
+      "title": "Deputies investigate a double homicide in Franklin County",
+      "link": "https://www.wral.com/news/local/franklinton-double-homicide-october-2026/",
+      "published_at": "2026-10-10T14:35:00+00:00",
+      "summary_raw": "The Franklin County Sheriff's Department is investigating a double homicide.",
+      "id": "60f9b4923bae"
     },
     {
       "source": "Wired",
@@ -116,43 +124,43 @@
     },
     {
       "source": "NPR Politics",
-      "title": "On the ground in Ohio's 9th District: The battleground shaping next month's midterms",
-      "link": "https://www.npr.org/2026/10/10/nx-s1-5965798/on-the-ground-in-ohios-9th-district-the-battleground-shaping-next-months-midterms",
-      "published_at": "2026-10-10T11:40:46+00:00",
-      "summary_raw": "Ohio is a critical battleground in next month's midterms elections. NPR's Scott Simon traveled to the state's 9th Congressional District to hear from voters about their priorities.",
-      "id": "4e5972eee3a8"
+      "title": "Week in Politics: Hegseth's livestream backlash; Greece ambassador Guilfoyle scandal",
+      "link": "https://www.npr.org/2026/10/10/nx-s1-5995114/week-in-politics-hegseths-livestream-backlash-greece-ambassador-guilfoyle-scandal",
+      "published_at": "2026-10-10T11:40:48+00:00",
+      "summary_raw": "Bipartisan blowback on Defense Secretary Pete Hegseth's plans to livestream a military execution, plus a scandal involving Kimberly Guilfoyle, the US Ambassador to Greece.",
+      "id": "9038326161eb"
     },
     {
       "source": "NPR National",
-      "title": "ICE shooting in NYC fuels tension between New York officials and Trump administration",
-      "link": "https://www.npr.org/2026/10/09/nx-s1-5996654/ice-shooting-in-nyc-fuels-tension-between-new-york-officials-and-trump-administration",
-      "published_at": "2026-10-09T20:38:50+00:00",
-      "summary_raw": "U.S. Immigration and Customs Enforcement shot a man in New York City. It raised tensions between the Trump administration and New York officials over the state's sanctuary policies.",
-      "id": "21ba59422e5c"
+      "title": "Isaias becomes tropical storm, heads towards Tennessee Valley",
+      "link": "https://www.npr.org/2026/10/10/nx-s1-5996919/isaias-becomes-tropical-storm-heads-towards-tennessee-valley",
+      "published_at": "2026-10-10T21:20:02+00:00",
+      "summary_raw": "Isaias has become a tropical storm, moving towards the Tennessee Valley. Residents in the Florida Panhandle react to the destruction.",
+      "id": "50c66b122cee"
     },
     {
       "source": "BBC World",
-      "title": "Nobel peace laureate says US sanctions on ICC 'unacceptable'",
-      "link": "https://www.bbc.co.uk/news/articles/cqkgjrpmr47vo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-10T15:23:47+00:00",
-      "summary_raw": "Navi Pillay says the Trump administrations' sweeping penalties on the international tribunal were \"unheard of\".",
-      "id": "645236f763d0"
+      "title": "Russian glide bomb attack on Zaporizhzhia kills at least 20 people",
+      "link": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-10T20:51:12+00:00",
+      "summary_raw": "Volodymyr Zelensky says the attack, which left children dead, was Russia expressing its \"thanks\" for a US diesel deal.",
+      "id": "305be0994ca6"
     },
     {
       "source": "Science Daily",
-      "title": "Bacteria turn a virus’ own weapon against it",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261007042100.htm",
-      "published_at": "2026-10-09T09:51:19+00:00",
-      "summary_raw": "Researchers have uncovered a new way bacteria detect viral attacks: a virus-produced enzyme cuts a bacterial sensor protein, triggering a self-destructing immune response. The discovery could lead to more effective phage therapies against antibiotic-resistant bacteria and provide insight into ancient immune mechanisms shared with humans.",
-      "id": "b5cc9b4f9b22"
+      "title": "MIT astronomers catch a star in a feast that could last billions of years",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261008005240.htm",
+      "published_at": "2026-10-10T18:56:25+00:00",
+      "summary_raw": "Astronomers have discovered a bizarre star system about 300 light-years from Earth where a small star is slowly devouring a nearby brown dwarf, an object too massive to be a planet but too small to be a true star. Unlike stars that rapidly swallow their companions, this one is gradually stealing material in a process that could continue for billions of years.",
+      "id": "d01a561841e3"
     },
     {
       "source": "WRAL Local",
-      "title": "North Carolina World War II veteran, who treated wounded soldiers, celebrates 104th birthday",
-      "link": "https://www.wral.com/news/local/veteran-world-war-2-medical-treatment-penicillin-october-2026/",
-      "published_at": "2026-10-09T23:08:26+00:00",
-      "summary_raw": "From World War II battlefields to Pittsboro, North Carolina, George Chall turned 104-years-old surrounded by friends, family and community who came to honor the veteran's milestone.",
-      "id": "ed2d2bd60d30"
+      "title": "Police: Two men hurt in shooting on GoDurham bus",
+      "link": "https://www.wral.com/news/local/two-men-hurt-shooting-godurham-bus-october-2026/",
+      "published_at": "2026-10-10T03:19:20+00:00",
+      "summary_raw": "Police officers were called to reports of a shooting on a GoDurham bus around 10:20 p.m. along North Roxboro and Edwards streets. When they arrived, they found men with gunshot wounds.",
+      "id": "6feb5ca58e7d"
     },
     {
       "source": "Wired",
@@ -164,43 +172,43 @@
     },
     {
       "source": "NPR Politics",
-      "title": "After losing ground with Latino voters, Democrats are turning to influencers for help",
-      "link": "https://www.npr.org/2026/10/10/nx-s1-5991897/democrats-latino-voters-influencers-bold-pac",
-      "published_at": "2026-10-10T09:00:00+00:00",
-      "summary_raw": "Democrats are hoping to win back Latino voters who have soured on both parties. They hope Latino content creators will bridge the gap.",
-      "id": "bdb1db0c1b52"
+      "title": "On the ground in Ohio's 9th District: The battleground shaping next month's midterms",
+      "link": "https://www.npr.org/2026/10/10/nx-s1-5965798/on-the-ground-in-ohios-9th-district-the-battleground-shaping-next-months-midterms",
+      "published_at": "2026-10-10T11:40:46+00:00",
+      "summary_raw": "Ohio is a critical battleground in next month's midterms elections. NPR's Scott Simon traveled to the state's 9th Congressional District to hear from voters about their priorities.",
+      "id": "4e5972eee3a8"
     },
     {
       "source": "NPR National",
-      "title": "The U.S. last held a public execution in the 1930s. The Pentagon wants to change that",
-      "link": "https://www.npr.org/2026/10/09/nx-s1-5996529/firing-squad-livestream-execution-fort-hood-shooter",
-      "published_at": "2026-10-09T18:55:38+00:00",
-      "summary_raw": "The Pentagon says it will livestream the firing squad execution of Nidal Hasan at Fort Hood, the site of his 2009 mass shooting. That would be the first public execution in the U.S. since the 1930s.",
-      "id": "728cfa4e8ac1"
+      "title": "The Kennedy Center names new artistic director, amid concerns",
+      "link": "https://www.npr.org/2026/10/10/nx-s1-5996934/kennedy-center-rick-canny-new-artistic-director",
+      "published_at": "2026-10-10T18:17:12+00:00",
+      "summary_raw": "The center's executive director has named an agent who has worked with ZZ Top and Motley Crue drummer Tommy Lee as the head of programming for the arts institution.",
+      "id": "1735e75dd256"
     },
     {
       "source": "BBC World",
-      "title": "Woman injures three people in third Poland school knife attack in a week",
-      "link": "https://www.bbc.co.uk/news/articles/cv8ezd246z1wo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-10T14:58:55+00:00",
-      "summary_raw": "Polish police had already deployed to schools after a female caretaker was killed and several others injured in two earlier attacks in two days.",
-      "id": "2262d201b41d"
+      "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
+      "link": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-10T19:28:28+00:00",
+      "summary_raw": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
+      "id": "82825f5342d4"
     },
     {
       "source": "Science Daily",
-      "title": "A 9-billion-year-old signal could help explain dark energy",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261007042102.htm",
-      "published_at": "2026-10-09T08:53:28+00:00",
-      "summary_raw": "A Canadian radio telescope has detected the faint glow of hydrogen from billions of years ago using only its own observations, proving a long-awaited way to map the distant universe can actually work. CHIME can use this hydrogen signal to trace how matter is spread across space and measure how the universe has expanded over time, offering a powerful new way to investigate dark energy.",
-      "id": "4933ec0534e7"
+      "title": "Bowel cancer “melted away” after immunotherapy, then stayed away",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261007042115.htm",
+      "published_at": "2026-10-10T18:42:35+00:00",
+      "summary_raw": "A short course of immunotherapy before surgery may offer remarkably durable protection for some patients with stage two or three bowel cancer. In the NEOPRISM-CRC trial, 32 patients with a specific genetic form of bowel cancer received pembrolizumab for up to nine weeks before surgery instead of the usual post-surgery chemotherapy. After nearly three years of follow-up, none of the patients had experienced a cancer recurrence, including those who still had small traces of disease after treatment.",
+      "id": "d6294c7d3a22"
     },
     {
       "source": "WRAL Local",
-      "title": "'He’s that angel': Residents displaced by deadly Durham fire remember fallen firefighter",
-      "link": "https://www.wral.com/news/local/durham-fire-death-remembering-firefighter-october-2026/",
-      "published_at": "2026-10-09T22:03:55+00:00",
-      "summary_raw": "A day after a devastating fire in Durham, residents shared what they experienced, raising questions about the building’s conditions and thanking the responding fire crews, especially Andrew Brokes.",
-      "id": "5db25b01a229"
+      "title": "Murphy USA offers compensation to Nashville drivers who pumped contaminated gas",
+      "link": "https://www.wral.com/news/local/murphy-usa-offerscompensasion-nashville-drivers-pumped-contaminated-gas-october-2026/",
+      "published_at": "2026-10-10T01:25:42+00:00",
+      "summary_raw": "In September, the Murphy Express off Eastern Ave. Nashville shut down its gas pumps after a state inspector found high concentrations of water mixed with gasoline. One month later, some gas pumps are still wrapped in plastic, and the parent company is offering help to drivers who were impacted.",
+      "id": "6499f7712ddb"
     },
     {
       "source": "Wired",
@@ -212,6 +220,54 @@
     },
     {
       "source": "NPR Politics",
+      "title": "After losing ground with Latino voters, Democrats are turning to influencers for help",
+      "link": "https://www.npr.org/2026/10/10/nx-s1-5991897/democrats-latino-voters-influencers-bold-pac",
+      "published_at": "2026-10-10T09:00:00+00:00",
+      "summary_raw": "Democrats are hoping to win back Latino voters who have soured on both parties. They hope Latino content creators will bridge the gap.",
+      "id": "bdb1db0c1b52"
+    },
+    {
+      "source": "NPR National",
+      "title": "At least 2 deaths attributed to Isaias after hurricane bashes Florida and Alabama",
+      "link": "https://www.npr.org/2026/10/10/g-s1-147632/at-least-2-deaths-attributed-to-isaias-after-hurricane-bashes-florida-and-alabama",
+      "published_at": "2026-10-10T17:14:03+00:00",
+      "summary_raw": "Hurricane Isaias is blamed for at least two deaths, after the storm made landfall on the Florida coast and ran through Alabama. There are numerous reports of downed trees, with hundreds of thousands of people without power.",
+      "id": "0d223d1169c8"
+    },
+    {
+      "source": "BBC World",
+      "title": "Watch: 'Time for Ukraine to get a new president', says Trump",
+      "link": "https://www.bbc.co.uk/news/videos/cwkg50dgpml7o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-10T19:25:03+00:00",
+      "summary_raw": "The US president's said President Volodymyr Zelensky \"wants to make problems for the world\".",
+      "id": "2e47c98d212e"
+    },
+    {
+      "source": "Science Daily",
+      "title": "Scientists may have found why diabetic wounds refuse to heal",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261006234534.htm",
+      "published_at": "2026-10-10T03:00:35+00:00",
+      "summary_raw": "Chronic diabetic wounds may fail to heal because immune cells remain locked in damaging inflammatory states instead of transitioning toward tissue repair. Researchers are exploring treatments that reprogram these immune responses, raising hopes for more targeted and effective therapies for diabetic ulcers.",
+      "id": "009b81035622"
+    },
+    {
+      "source": "WRAL Local",
+      "title": "North Carolina World War II veteran, who treated wounded soldiers, celebrates 104th birthday",
+      "link": "https://www.wral.com/news/local/veteran-world-war-2-medical-treatment-penicillin-october-2026/",
+      "published_at": "2026-10-09T23:08:26+00:00",
+      "summary_raw": "From World War II battlefields to Pittsboro, North Carolina, George Chall turned 104-years-old surrounded by friends, family and community who came to honor the veteran's milestone.",
+      "id": "ed2d2bd60d30"
+    },
+    {
+      "source": "Wired",
+      "title": "Home Depot Promo Codes: 30% Off in October 2026",
+      "link": "https://www.wired.com/story/home-depot-promo-code/",
+      "published_at": "2026-10-10T05:00:00+00:00",
+      "summary_raw": "Save up to 50% today with the latest Home Depot promo codes for appliances, power tools, and more this October.",
+      "id": "fd83ac84a012"
+    },
+    {
+      "source": "NPR Politics",
       "title": "Trump says U.S. to get diesel from Russia, relaxing pressure on Moscow to ease prices before midterms",
       "link": "https://www.npr.org/2026/10/09/nx-s1-5996912/trump-says-u-s-to-get-diesel-from-russia-relaxing-pressure-on-moscow-to-ease-prices-before-midterms",
       "published_at": "2026-10-09T21:24:13+00:00",
@@ -220,35 +276,35 @@
     },
     {
       "source": "NPR National",
-      "title": "U.S. working to reverse an Egyptian man's third-country deportation to Africa",
-      "link": "https://www.npr.org/2026/10/09/g-s1-147476/trump-third-country-deportation-africa-reverse",
-      "published_at": "2026-10-09T17:49:28+00:00",
-      "summary_raw": "The Trump administration's effort to return Ahmed Soliman to the U.S. come after an Arizona judge said his deportation violated due process.",
-      "id": "630bc1f4b34d"
+      "title": "Parallel parking is now a sport in Philly, complete with speed and flair",
+      "link": "https://www.npr.org/2026/10/10/nx-s1-5992995/parallel-parking-is-now-a-sport-in-philly-complete-with-speed-and-flair",
+      "published_at": "2026-10-10T11:40:47+00:00",
+      "summary_raw": "Philadelphia recently held its first-ever Parallel Parking Association Championship. Hundreds of people came out to see drivers compete for speed, accuracy and even flair.",
+      "id": "1de33373c5d2"
     },
     {
       "source": "BBC World",
-      "title": "Drone strike by Sudan paramilitary kills 41 near Ethiopian border, rights group says",
-      "link": "https://www.bbc.co.uk/news/articles/c8vgx9ew571wo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-10T14:49:32+00:00",
-      "summary_raw": "Eight children are said to be among those killed by the strike, which hit a gathering of displaced people.",
-      "id": "b0a189428a3e"
+      "title": "Expedition hopes to find aviator Amelia Earhart's plane on remote island",
+      "link": "https://www.bbc.co.uk/news/articles/c3y0e871rk4vo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-10T18:22:29+00:00",
+      "summary_raw": "The team en route to the suspected crash site aim finally to solve the mystery of her 1937 disappearance.",
+      "id": "152a2159e64d"
     },
     {
       "source": "Science Daily",
-      "title": "A quantum prediction from 1931 just came to life",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261006234517.htm",
-      "published_at": "2026-10-09T08:25:24+00:00",
-      "summary_raw": "Nearly a century after physicist Hans Bethe predicted them, scientists have created and directly observed unusual quantum states known as “Bethe strings” in an ultracold gas. By cooling cesium atoms to near absolute zero and trapping them in thousands of tiny one-dimensional tubes, researchers were able to make groups of atoms bind together without ordinary chemical bonds. These strange clusters could contain six or more particles and even collide with one another without falling apart.",
-      "id": "d07071b62169"
+      "title": "A famous quantum effect can finally be predicted in real materials",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261006234520.htm",
+      "published_at": "2026-10-10T01:59:39+00:00",
+      "summary_raw": "Scientists have developed a powerful new way to calculate the Kondo effect, a strange quantum phenomenon that appears when magnetic atoms are embedded in metals. Instead of relying on simplified models, the method uses the real atomic and electronic structures of materials, allowing researchers to predict their behavior with far greater accuracy.",
+      "id": "9eac9ed1aab7"
     },
     {
       "source": "WRAL Local",
-      "title": "Judge maintains $2M bond for former NC State sports medicine director facing 32 sex crime charges",
-      "link": "https://www.wral.com/news/local/robert-murphy-bond-2-million-nc-state-october-2026/",
-      "published_at": "2026-10-09T21:33:38+00:00",
-      "summary_raw": "A judge maintained a $2 million bond for former NC State sports medicine director Robert Murphy during his first Wake County court appearance Friday, more than two weeks after his arrest on 32 sex crime charges involving allegations from former male student-athletes.",
-      "id": "e46f767e1fe7"
+      "title": "'He’s that angel': Residents displaced by deadly Durham fire remember fallen firefighter",
+      "link": "https://www.wral.com/news/local/durham-fire-death-remembering-firefighter-october-2026/",
+      "published_at": "2026-10-09T22:03:55+00:00",
+      "summary_raw": "A day after a devastating fire in Durham, residents shared what they experienced, raising questions about the building’s conditions and thanking the responding fire crews, especially Andrew Brokes.",
+      "id": "5db25b01a229"
     },
     {
       "source": "Wired",
@@ -268,35 +324,35 @@
     },
     {
       "source": "NPR National",
-      "title": "Fill in the blank in the quiz: A plague research employee in Russia died from ____",
-      "link": "https://www.npr.org/2026/10/09/g-s1-147111/trump-bts-paramount-tv-el-nino-news-quiz",
-      "published_at": "2026-10-09T09:00:00+00:00",
-      "summary_raw": "Plus: Nobels! Protests! Ambiguous quotes! A mysterious death in Russia!",
-      "id": "8ee0874d5fc4"
+      "title": "How a retired Navajo Nation doctor earned a MacArthur 'genius' grant for public art",
+      "link": "https://www.npr.org/2026/10/10/nx-s1-5779751/how-a-retired-navajo-nation-doctor-earned-a-macarthur-genius-grant-for-public-art",
+      "published_at": "2026-10-10T11:40:44+00:00",
+      "summary_raw": "Chip Thomas, a retired physician on the Navajo Reservation, is well known for his large photograhpic murals. Now, he's been recognized with a MacArthur \"genius\" grant.",
+      "id": "7625049a6924"
     },
     {
       "source": "BBC World",
-      "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
-      "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-10T14:24:14+00:00",
-      "summary_raw": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
-      "id": "72c787fee32f"
+      "title": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
+      "link": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-10T17:44:26+00:00",
+      "summary_raw": "Pike's lawyers say she is \"grateful\" to the medical team who cared for her after she survived two lethal injections last month.",
+      "id": "16c3da119de4"
     },
     {
       "source": "Science Daily",
-      "title": "NASA astronauts splash down after 100 million miles in space",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261008232629.htm",
-      "published_at": "2026-10-09T03:56:28+00:00",
-      "summary_raw": "NASA’s SpaceX Crew-12 astronauts have returned to Earth after 237 days in space, traveling more than 100 million miles and completing over 3,792 orbits while conducting research to prepare for future missions to the Moon and Mars. The mission also made history with record-setting spacewalk achievements and experiments that could transform medicine both in space and on Earth.",
-      "id": "39ed6b43c23d"
+      "title": "Scientists discover 5 hidden brain patterns behind depression",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261008005251.htm",
+      "published_at": "2026-10-09T18:34:02+00:00",
+      "summary_raw": "Depression may not be one biological condition, but several distinct patterns of brain activity hiding under the same diagnosis. Researchers studying 263 people with depression identified five brain profiles, each showing different patterns of communication between brain regions and associations with symptoms such as anxiety, trauma, and substance abuse.",
+      "id": "ddb51a005025"
     },
     {
       "source": "WRAL Local",
-      "title": "Police: Juvenile arrested after man killed in weekend shooting in Durham",
-      "link": "https://www.wral.com/news/local/police-juvenile-arrested-after-man-killed-in-weekend-shooting-durham-october-2026/",
-      "published_at": "2026-10-09T20:33:34+00:00",
-      "summary_raw": "According to the Durham Police Department, officers were called to reports of a shooting around 7:50 p.m. on Saturday at Sherron Road. When they arrived, they found a man, later identified as 23-year-old Daveon Thompson, with a gunshot wound.",
-      "id": "391ba792ecba"
+      "title": "Judge maintains $2M bond for former NC State sports medicine director facing 32 sex crime charges",
+      "link": "https://www.wral.com/news/local/robert-murphy-bond-2-million-nc-state-october-2026/",
+      "published_at": "2026-10-09T21:33:38+00:00",
+      "summary_raw": "A judge maintained a $2 million bond for former NC State sports medicine director Robert Murphy during his first Wake County court appearance Friday, more than two weeks after his arrest on 32 sex crime charges involving allegations from former male student-athletes.",
+      "id": "e46f767e1fe7"
     },
     {
       "source": "Wired",
@@ -316,35 +372,35 @@
     },
     {
       "source": "NPR National",
-      "title": "In Central African Republic, deported immigrants find themselves in limbo",
-      "link": "https://www.npr.org/2026/10/09/nx-s1-5993805/third-country-deportations-cuba",
-      "published_at": "2026-10-09T09:00:00+00:00",
-      "summary_raw": "The Trump administration says it has deported more than 25,000 people to countries to which they have no ties. NPR spoke to three men who say it feels like they've lost control over their own lives.",
-      "id": "a52504118bdd"
+      "title": "ICE shooting in NYC fuels tension between New York officials and Trump administration",
+      "link": "https://www.npr.org/2026/10/09/nx-s1-5996654/ice-shooting-in-nyc-fuels-tension-between-new-york-officials-and-trump-administration",
+      "published_at": "2026-10-09T20:38:50+00:00",
+      "summary_raw": "U.S. Immigration and Customs Enforcement shot a man in New York City. It raised tensions between the Trump administration and New York officials over the state's sanctuary policies.",
+      "id": "21ba59422e5c"
     },
     {
       "source": "BBC World",
-      "title": "Russian glide bomb attack on Zaporizhzhia kills at least 15 people",
-      "link": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-10T14:16:50+00:00",
-      "summary_raw": "Volodymyr Zelensky says the attack, which left children dead, was Russia expressing its \"thanks\" for a US diesel deal.",
-      "id": "305be0994ca6"
+      "title": "Nobel peace laureate says US sanctions on ICC 'unacceptable'",
+      "link": "https://www.bbc.co.uk/news/articles/cqkgjrpmr47vo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-10T15:23:47+00:00",
+      "summary_raw": "Navi Pillay says the Trump administrations' sweeping penalties on the international tribunal were \"unheard of\".",
+      "id": "645236f763d0"
     },
     {
       "source": "Science Daily",
-      "title": "October’s night sky is full of cosmic tricks and treats",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261008102704.htm",
-      "published_at": "2026-10-09T02:37:22+00:00",
-      "summary_raw": "October’s skies are packed with celestial surprises, from Jupiter disappearing behind the Moon to two meteor showers lighting up the darkness. NASA highlights four must-see events, including shooting stars from Halley’s Comet and a glowing Hunter’s Moon just before Halloween.",
-      "id": "1e012ab8390f"
+      "title": "Scientists create a lightsaber-like laser antenna that transmits radio waves",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261008005239.htm",
+      "published_at": "2026-10-09T17:55:59+00:00",
+      "summary_raw": "Scientists have demonstrated a remarkable new antenna that resembles a lightsaber, using a laser to create a tunable beam of plasma capable of transmitting radio waves. The technology could revolutionize wireless communications by allowing antennas to change their size and direction on demand, with promising applications in satellites, radar, and space exploration.",
+      "id": "663d663a1f06"
     },
     {
       "source": "WRAL Local",
-      "title": "Riverside High School placed on lockdown for third time this week",
-      "link": "https://www.wral.com/news/local/riverside-high-school-lockdown-3-october-2026/",
-      "published_at": "2026-10-09T20:13:30+00:00",
-      "summary_raw": "Authorities confirmed Riverside High School in Durham was under lockdown on Friday afternoon. It was the third such incident of the week.",
-      "id": "949ba8cc65b9"
+      "title": "Police: Juvenile arrested after man killed in weekend shooting in Durham",
+      "link": "https://www.wral.com/news/local/police-juvenile-arrested-after-man-killed-in-weekend-shooting-durham-october-2026/",
+      "published_at": "2026-10-09T20:33:34+00:00",
+      "summary_raw": "According to the Durham Police Department, officers were called to reports of a shooting around 7:50 p.m. on Saturday at Sherron Road. When they arrived, they found a man, later identified as 23-year-old Daveon Thompson, with a gunshot wound.",
+      "id": "391ba792ecba"
     },
     {
       "source": "Wired",
@@ -364,83 +420,35 @@
     },
     {
       "source": "NPR National",
-      "title": "Why we remember: One student's journey into memory",
-      "link": "https://www.npr.org/2026/10/09/nx-s1-5986352/memory-family-burger-king-grandfather",
-      "published_at": "2026-10-09T09:00:00+00:00",
-      "summary_raw": "Why one teen can't let go of the time he ate fries with his great-grandpa.",
-      "id": "1aed96418700"
+      "title": "The U.S. last held a public execution in the 1930s. The Pentagon wants to change that",
+      "link": "https://www.npr.org/2026/10/09/nx-s1-5996529/firing-squad-livestream-execution-fort-hood-shooter",
+      "published_at": "2026-10-09T18:55:38+00:00",
+      "summary_raw": "The Pentagon says it will livestream the firing squad execution of Nidal Hasan at Fort Hood, the site of his 2009 mass shooting. That would be the first public execution in the U.S. since the 1930s.",
+      "id": "728cfa4e8ac1"
     },
     {
       "source": "BBC World",
-      "title": "'Cockroach' group leaders among hundreds detained in Delhi protest",
-      "link": "https://www.bbc.co.uk/news/articles/c65yn7xvde7vo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-10T12:29:31+00:00",
-      "summary_raw": "The group - who are not registered as a political party in India - want electoral reforms ahead of crucial state elections.",
-      "id": "da1b179794e6"
+      "title": "Woman injures three people in third Poland school knife attack in a week",
+      "link": "https://www.bbc.co.uk/news/articles/cv8ezd246z1wo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-10T14:58:55+00:00",
+      "summary_raw": "Polish police had already deployed to schools after a female caretaker was killed and several others injured in two earlier attacks in two days.",
+      "id": "2262d201b41d"
     },
     {
       "source": "Science Daily",
-      "title": "Nearly 30,000 people tested quit-smoking methods. One stood out",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261006234524.htm",
-      "published_at": "2026-10-09T02:07:28+00:00",
-      "summary_raw": "Nicotine e-cigarettes appear to help more smokers quit than patches, gum, and several other common approaches, according to a major review of 80 clinical trials. Researchers say regulated vaping products are not risk-free, but may be a significantly less harmful alternative for people who would otherwise continue smoking.",
-      "id": "e88fa7149710"
+      "title": "Hubble Space Telescope may have found a planet born after its star died",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261007042106.htm",
+      "published_at": "2026-10-09T17:31:02+00:00",
+      "summary_raw": "A strange chemical signature in old Hubble observations may point to a planet that formed after its star had already died. Astronomers found unusually high levels of niobium around the white dwarf HS 0209+0832, suggesting some of the star’s expelled material may have assembled into a new gas giant. TESS data also hints at a Jupiter-sized planet orbiting just 3.7 million miles from the star.",
+      "id": "5c20c12f952a"
     },
     {
       "source": "WRAL Local",
-      "title": "'Step was missed': Witness testifies about missing blood evidence in Faith Hedgepeth murder case",
-      "link": "https://www.wral.com/news/local/missing-blood-evidence-testimony-faith-hedgepeth-trial-october-2026/",
-      "published_at": "2026-10-09T19:36:07+00:00",
-      "summary_raw": "The issue of a missing blood sample was the focus of testimony on Friday in Durham County Court during the murder trial of UNC-Chapel Hill student Faith Hedgepeth.",
-      "id": "84cc6b25c78a"
-    },
-    {
-      "source": "Wired",
-      "title": "Home Depot Promo Codes: 30% Off in October 2026",
-      "link": "https://www.wired.com/story/home-depot-promo-code/",
-      "published_at": "2026-10-10T05:00:00+00:00",
-      "summary_raw": "Save up to 50% today with the latest Home Depot promo codes for appliances, power tools, and more this October.",
-      "id": "fd83ac84a012"
-    },
-    {
-      "source": "NPR Politics",
-      "title": "Republican congressman tries to outrun a potential blue wave in New York toss-up seat",
-      "link": "https://www.npr.org/2026/10/09/nx-s1-5986150/lawler-new-york-congress-trump",
-      "published_at": "2026-10-09T09:00:00+00:00",
-      "summary_raw": "Rep. Mike Lawler, R-NY, is in a tight race for re-election in a toss-up district that could help determine control of Congress in November.",
-      "id": "8a7c9fbd3829"
-    },
-    {
-      "source": "NPR National",
-      "title": "A student hated reading for years. Her podcast explores finding the right diagnosis",
-      "link": "https://www.npr.org/2026/10/09/nx-s1-5977043/dyslexia-teenager-diagnosis-reading",
-      "published_at": "2026-10-09T09:00:00+00:00",
-      "summary_raw": "Middle schooler Cora Walsh of Long Island, N.Y., has won the 2026 NPR Student Podcast Challenge with a story about her journey with dyslexia.",
-      "id": "99817125d906"
-    },
-    {
-      "source": "BBC World",
-      "title": "Headmaster detained after BBC investigation into alleged sexual abuse of students",
-      "link": "https://www.bbc.co.uk/news/articles/cwy8lx1r2vrro?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-10T12:28:51+00:00",
-      "summary_raw": "Former students launched their own investigation, spending years collecting evidence and testimonies from others who say they were abused by the headteacher.",
-      "id": "00728de0c008"
-    },
-    {
-      "source": "Science Daily",
-      "title": "Scientists tested 5 natural compounds on cancer cells. One stood out",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261006234531.htm",
-      "published_at": "2026-10-09T01:15:59+00:00",
-      "summary_raw": "Five natural compounds, including curcumin and berberine, were tested for their effects on cancer cells and healthy muscle cells. All disrupted cancer cell energy production and pushed many of the cells into a non-dividing state, with curcumin producing the strongest overall effect. Curcumin also showed a relatively favorable safety profile, while some other compounds caused more toxicity.",
-      "id": "340f2b6927b9"
-    },
-    {
-      "source": "WRAL Local",
-      "title": "Mystery manufacturers eye Sanford for factories that could add 670 jobs. Tax breaks are on the table",
-      "link": "https://www.wral.com/news/local/manufacturers-target-sanford-for-factories-that-could-add-670-jobs-as-officials-weigh-tax-breaks-october-2026/",
-      "published_at": "2026-10-09T17:24:56+00:00",
-      "summary_raw": "Sanford and Lee County officials are considering economic incentives worth up to $8.4 million for companies planning factories for healthcare, food-service and energy products. They’re the latest in a string of major economic development deals for the area.",
-      "id": "493903cdda6e"
+      "title": "Riverside High School placed on lockdown for third time this week",
+      "link": "https://www.wral.com/news/local/riverside-high-school-lockdown-3-october-2026/",
+      "published_at": "2026-10-09T20:13:30+00:00",
+      "summary_raw": "Authorities confirmed Riverside High School in Durham was under lockdown on Friday afternoon. It was the third such incident of the week.",
+      "id": "949ba8cc65b9"
     },
     {
       "source": "Wired",
@@ -452,43 +460,43 @@
     },
     {
       "source": "NPR Politics",
-      "title": "25 years later an Afghan couple looks back at the invasion",
-      "link": "https://www.npr.org/2026/10/09/nx-s1-5989180/25-years-later-an-afghan-couple-looks-back-at-the-invasion",
-      "published_at": "2026-10-09T08:24:04+00:00",
-      "summary_raw": "Twenty-five years ago this week, the U.S. invaded Afghanistan. For StoryCorps, one Afghan couple offers an account of their experience after the invasion and eventual U.S. withdrawal.",
-      "id": "f22b286e16e2"
+      "title": "Republican congressman tries to outrun a potential blue wave in New York toss-up seat",
+      "link": "https://www.npr.org/2026/10/09/nx-s1-5986150/lawler-new-york-congress-trump",
+      "published_at": "2026-10-09T09:00:00+00:00",
+      "summary_raw": "Rep. Mike Lawler, R-NY, is in a tight race for re-election in a toss-up district that could help determine control of Congress in November.",
+      "id": "8a7c9fbd3829"
     },
     {
       "source": "NPR National",
-      "title": "Long-deployed USS Lincoln servicemembers reunited with families",
-      "link": "https://www.npr.org/2026/10/09/nx-s1-5995172/long-deployed-uss-lincoln-servicemembers-reunited-with-families",
-      "published_at": "2026-10-09T08:27:28+00:00",
-      "summary_raw": "On Thursday in San Diego, servicemembers who have been on an extended deployment on the USS Abraham Lincoln were reunited with family members.",
-      "id": "3d82f5dde729"
+      "title": "U.S. working to reverse an Egyptian man's third-country deportation to Africa",
+      "link": "https://www.npr.org/2026/10/09/g-s1-147476/trump-third-country-deportation-africa-reverse",
+      "published_at": "2026-10-09T17:49:28+00:00",
+      "summary_raw": "The Trump administration's effort to return Ahmed Soliman to the U.S. come after an Arizona judge said his deportation violated due process.",
+      "id": "630bc1f4b34d"
     },
     {
       "source": "BBC World",
-      "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
-      "link": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-10T10:06:23+00:00",
-      "summary_raw": "Philadelphia police said the tip was \"flagged as spam\", but criticised the tech company for taking more than two months to detect and report the breach.",
-      "id": "effe63dfea63"
+      "title": "Drone strike by Sudan paramilitary kills 41 near Ethiopian border, rights group says",
+      "link": "https://www.bbc.co.uk/news/articles/c8vgx9ew571wo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-10T14:49:32+00:00",
+      "summary_raw": "Eight children are said to be among those killed by the strike, which hit a gathering of displaced people.",
+      "id": "b0a189428a3e"
     },
     {
       "source": "Science Daily",
-      "title": "FDA-approved epilepsy drug may help reverse osteoarthritis damage",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261006234528.htm",
-      "published_at": "2026-10-08T13:52:56+00:00",
-      "summary_raw": "Researchers at Yale have identified a promising new approach to osteoarthritis that could do more than simply ease pain. The epilepsy drug lacosamide appears to block a protein involved in both pain signaling and cartilage destruction, helping damaged joints shift back toward repair in preclinical studies.",
-      "id": "2f058269d49e"
+      "title": "Only one workout helped older adults lose fat and keep muscle",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261007233348.htm",
+      "published_at": "2026-10-09T10:57:40+00:00",
+      "summary_raw": "A six-month study suggests that high-intensity interval training (HIIT) may offer older adults a powerful advantage: losing body fat while keeping their muscle. Unlike moderate-intensity workouts, which led to a small loss of lean muscle, HIIT preserved it while also improving body composition around the waist.",
+      "id": "fd38771abdad"
     },
     {
       "source": "WRAL Local",
-      "title": "Aversboro Elementary teacher arrested, accused of being impaired while teaching",
-      "link": "https://www.wral.com/news/local/aversboro-school-teacher-thc-alcohol-october-2026/",
-      "published_at": "2026-10-09T15:43:00+00:00",
-      "summary_raw": "A physical education teacher at Aversboro Elementary School faces multiple charges after allegedly teaching first-grade students while under the influence of alcohol and THC, according to court documents.",
-      "id": "26b1f5737431"
+      "title": "'Step was missed': Witness testifies about missing blood evidence in Faith Hedgepeth murder case",
+      "link": "https://www.wral.com/news/local/missing-blood-evidence-testimony-faith-hedgepeth-trial-october-2026/",
+      "published_at": "2026-10-09T19:36:07+00:00",
+      "summary_raw": "The issue of a missing blood sample was the focus of testimony on Friday in Durham County Court during the murder trial of UNC-Chapel Hill student Faith Hedgepeth.",
+      "id": "84cc6b25c78a"
     },
     {
       "source": "Wired",
@@ -500,19 +508,19 @@
     },
     {
       "source": "BBC World",
-      "title": "Public executions in the US stopped nearly a century ago - why are they resuming now?",
-      "link": "https://www.bbc.co.uk/news/articles/c6kgq7rqdql7o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-10T09:17:36+00:00",
-      "summary_raw": "The Pentagon says the execution of Fort Hood shooter Nidal Hasan will be livestreamed, but experts suggest officials are reading the country wrong.",
-      "id": "d5669457d6b0"
+      "title": "'Cockroach' group leaders among hundreds detained in Delhi protest",
+      "link": "https://www.bbc.co.uk/news/articles/c65yn7xvde7vo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-10T12:29:31+00:00",
+      "summary_raw": "The group - who are not registered as a political party in India - want electoral reforms ahead of crucial state elections.",
+      "id": "cbb754d8a888"
     },
     {
       "source": "Science Daily",
-      "title": "Scientists accidentally discover a genetic code that breaks the rules of life",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261007233136.htm",
-      "published_at": "2026-10-08T13:31:39+00:00",
-      "summary_raw": "Scientists accidentally discovered a microscopic organism with a genetic code that breaks a rule researchers thought was nearly universal. While testing a new DNA sequencing technique, they examined a previously unknown protist collected from a freshwater pond at Oxford University. To their surprise, the organism uses two genetic signals that normally mark the end of a gene to encode two entirely different amino acids instead. These signals were previously thought to evolve together, making the discovery particularly remarkable.",
-      "id": "4865bae711bc"
+      "title": "Scientists find hidden materials that could improve batteries and solar fuels",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261007042118.htm",
+      "published_at": "2026-10-09T10:20:23+00:00",
+      "summary_raw": "Scientists have uncovered a hidden world of “in-between” materials that briefly form as chemical ingredients are heated, revealing structures that conventional methods can miss. Among the discoveries is a previously unknown form of bismuth vanadate, a material widely studied for using sunlight to help produce clean hydrogen. The new version has a different atomic structure and interacts with light in a strikingly different way, potentially opening new possibilities for solar fuels, catalysts, and electronics.",
+      "id": "fecd05bdfe1f"
     },
     {
       "source": "Wired",
@@ -524,19 +532,19 @@
     },
     {
       "source": "BBC World",
-      "title": "How the trial of murdered Australian brothers and US friend unfolded",
-      "link": "https://www.bbc.co.uk/news/videos/cr86z34vz95yo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-10T06:04:35+00:00",
-      "summary_raw": "The mother of two Australian surfers murdered in Mexico two years ago with their American friend said \"accountability matters\".",
-      "id": "51714217f904"
+      "title": "Headmaster detained after BBC investigation into alleged sexual abuse of students",
+      "link": "https://www.bbc.co.uk/news/articles/cwy8lx1r2vrro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-10T12:28:51+00:00",
+      "summary_raw": "Former students launched their own investigation, spending years collecting evidence and testimonies from others who say they were abused by the headteacher.",
+      "id": "00728de0c008"
     },
     {
       "source": "Science Daily",
-      "title": "This “golden tree” coral was too strange for any known family",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261007042116.htm",
-      "published_at": "2026-10-08T13:18:54+00:00",
-      "summary_raw": "A brilliant yellow coral discovered off Costa Rica proved so unusual that scientists had to create an entirely new family to classify it. The meter-tall colonies rise from seafloors covered in brittle stars, inspiring the Tolkien-inspired name Laurinque elenya, or “golden tree of the stars.” Advanced genetic analysis revealed that the coral belongs to a previously unknown evolutionary lineage.",
-      "id": "65c09097ec3d"
+      "title": "Bacteria turn a virus’ own weapon against it",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261007042100.htm",
+      "published_at": "2026-10-09T09:51:19+00:00",
+      "summary_raw": "Researchers have uncovered a new way bacteria detect viral attacks: a virus-produced enzyme cuts a bacterial sensor protein, triggering a self-destructing immune response. The discovery could lead to more effective phage therapies against antibiotic-resistant bacteria and provide insight into ancient immune mechanisms shared with humans.",
+      "id": "b5cc9b4f9b22"
     },
     {
       "source": "Wired",
@@ -548,19 +556,19 @@
     },
     {
       "source": "BBC World",
-      "title": "Nord Stream trial: How German police followed the evidence - to Ukraine",
-      "link": "https://www.bbc.co.uk/news/articles/c317ke5ngrq7o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-10T04:51:57+00:00",
-      "summary_raw": "After four years, a Ukrainian man is set to stand trial in Hamburg accused of sabotaging the Nord Stream pipelines.",
-      "id": "3ba81c2f8fb9"
+      "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
+      "link": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-10T10:06:23+00:00",
+      "summary_raw": "Philadelphia police said the tip was \"flagged as spam\", but criticised the tech company for taking more than two months to detect and report the breach.",
+      "id": "effe63dfea63"
     },
     {
       "source": "Science Daily",
-      "title": "Scientists found Homo erectus 200,000 years earlier than expected",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261007042113.htm",
-      "published_at": "2026-10-08T12:47:46+00:00",
-      "summary_raw": "New fossils from South Africa are reshaping the story of early human evolution. Researchers have described 18 hominin fossils from Drimolen Cave, including an adult Homo erectus skull fragment dated to about 2 million years ago, supporting evidence that the species appeared in southern Africa roughly 200,000 years earlier than long thought. The finds also reveal that Paranthropus robustus, which lived alongside Homo erectus, was gradually evolving even larger teeth and stronger chewing muscles as the climate changed.",
-      "id": "05bbc81dcefc"
+      "title": "A 9-billion-year-old signal could help explain dark energy",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261007042102.htm",
+      "published_at": "2026-10-09T08:53:28+00:00",
+      "summary_raw": "A Canadian radio telescope has detected the faint glow of hydrogen from billions of years ago using only its own observations, proving a long-awaited way to map the distant universe can actually work. CHIME can use this hydrogen signal to trace how matter is spread across space and measure how the universe has expanded over time, offering a powerful new way to investigate dark energy.",
+      "id": "4933ec0534e7"
     },
     {
       "source": "Wired",
@@ -572,19 +580,19 @@
     },
     {
       "source": "BBC World",
-      "title": "Flydubai attacker began a 'drift towards extremism and terrorism' in Australia, UAE says",
-      "link": "https://www.bbc.co.uk/news/articles/cw3dj5n538jpo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-10T04:34:55+00:00",
-      "summary_raw": "The United Arab Emirates' attorney-general also alleges the co-pilot was trying to crash the plane into Tel Aviv's airport.",
-      "id": "b55898b4016d"
+      "title": "Public executions in the US stopped nearly a century ago - why are they resuming now?",
+      "link": "https://www.bbc.co.uk/news/articles/c6kgq7rqdql7o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-10T09:17:36+00:00",
+      "summary_raw": "The Pentagon says the execution of Fort Hood shooter Nidal Hasan will be livestreamed, but experts suggest officials are reading the country wrong.",
+      "id": "d5669457d6b0"
     },
     {
       "source": "Science Daily",
-      "title": "NASA is searching for hidden caves to build its first Moon base",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261008005247.htm",
-      "published_at": "2026-10-08T12:19:20+00:00",
-      "summary_raw": "NASA is preparing for humanity’s first Moon base with three investigations that will hunt for underground shelters, uncover hidden ice, and track dangerous conditions on the lunar surface. The findings could reveal how astronauts can survive and thrive on the Moon while laying the groundwork for future journeys to Mars.",
-      "id": "0a256c82bde6"
+      "title": "A quantum prediction from 1931 just came to life",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261006234517.htm",
+      "published_at": "2026-10-09T08:25:24+00:00",
+      "summary_raw": "Nearly a century after physicist Hans Bethe predicted them, scientists have created and directly observed unusual quantum states known as “Bethe strings” in an ultracold gas. By cooling cesium atoms to near absolute zero and trapping them in thousands of tiny one-dimensional tubes, researchers were able to make groups of atoms bind together without ordinary chemical bonds. These strange clusters could contain six or more particles and even collide with one another without falling apart.",
+      "id": "d07071b62169"
     },
     {
       "source": "Wired",
@@ -596,19 +604,19 @@
     },
     {
       "source": "BBC World",
-      "title": "US country music star Ella Langley cancels show due to 'security threat'",
-      "link": "https://www.bbc.co.uk/news/articles/cm79pdlywqd4o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-10T02:02:54+00:00",
-      "summary_raw": "Police say they checked the concert venue in Tulsa, Oklahoma but \"could not find any threat\".",
-      "id": "6de0242383d7"
+      "title": "How the trial of murdered Australian brothers and US friend unfolded",
+      "link": "https://www.bbc.co.uk/news/videos/cr86z34vz95yo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-10T06:04:35+00:00",
+      "summary_raw": "The mother of two Australian surfers murdered in Mexico two years ago with their American friend said \"accountability matters\".",
+      "id": "51714217f904"
     },
     {
       "source": "Science Daily",
-      "title": "Einstein Probe reveals a hidden phase of neutron star collisions",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261006234511.htm",
-      "published_at": "2026-10-08T10:06:06+00:00",
-      "summary_raw": "Einstein Probe revealed nearly 10 minutes of soft X-ray activity following a short gamma-ray burst, exposing a phase of neutron star mergers that previous missions may have missed. The prolonged emission could have been powered by a newly formed magnetar and may provide a valuable new counterpart to gravitational-wave signals.",
-      "id": "5069bf02ccd0"
+      "title": "NASA astronauts splash down after 100 million miles in space",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261008232629.htm",
+      "published_at": "2026-10-09T03:56:28+00:00",
+      "summary_raw": "NASA’s SpaceX Crew-12 astronauts have returned to Earth after 237 days in space, traveling more than 100 million miles and completing over 3,792 orbits while conducting research to prepare for future missions to the Moon and Mars. The mission also made history with record-setting spacewalk achievements and experiments that could transform medicine both in space and on Earth.",
+      "id": "39ed6b43c23d"
     },
     {
       "source": "Wired",
@@ -620,27 +628,19 @@
     },
     {
       "source": "BBC World",
-      "title": "Questions remain over Ebola patient who travelled across three nations undetected",
-      "link": "https://www.bbc.co.uk/news/articles/cqp8gknl1njjo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-10T00:00:08+00:00",
-      "summary_raw": "Fresh details reveal how the 40-year-old businessman flew and crossed regional borders while seriously ill.",
-      "id": "03d2cde93d47"
+      "title": "Nord Stream trial: How German police followed the evidence - to Ukraine",
+      "link": "https://www.bbc.co.uk/news/articles/c317ke5ngrq7o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-10T04:51:57+00:00",
+      "summary_raw": "After four years, a Ukrainian man is set to stand trial in Hamburg accused of sabotaging the Nord Stream pipelines.",
+      "id": "3ba81c2f8fb9"
     },
     {
       "source": "Science Daily",
-      "title": "Just 7 days of strength training started shrinking fat cells in mice",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261006234509.htm",
-      "published_at": "2026-10-08T08:33:40+00:00",
-      "summary_raw": "Just seven strength-training sessions helped obese mice shrink visceral fat cells and reactivate molecular pathways involved in burning stored fat, despite no change in overall body weight. The findings suggest some benefits of resistance exercise may begin long before weight loss becomes visible, though the results still need to be confirmed in humans.",
-      "id": "387bebe3df64"
-    },
-    {
-      "source": "Wired",
-      "title": "Dunking on Dating App Profiles Is Content Gold. People Are Getting Sick of It",
-      "link": "https://www.wired.com/story/dunking-on-dating-app-profiles-is-content-gold-people-are-getting-sick-of-it/",
-      "published_at": "2026-10-09T11:00:00+00:00",
-      "summary_raw": "Relationship coaches, TikTokers, and disgruntled singles alike frequently shame bad profiles, as more apps experiment with blocking screenshots.",
-      "id": "3bc4664adb03"
+      "title": "October’s night sky is full of cosmic tricks and treats",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261008102704.htm",
+      "published_at": "2026-10-09T02:37:22+00:00",
+      "summary_raw": "October’s skies are packed with celestial surprises, from Jupiter disappearing behind the Moon to two meteor showers lighting up the darkness. NASA highlights four must-see events, including shooting stars from Halley’s Comet and a glowing Hunter’s Moon just before Halloween.",
+      "id": "1e012ab8390f"
     }
   ]
 }

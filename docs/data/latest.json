@@ -1,14 +1,14 @@
 {
   "mode": "raw",
-  "generated_at": "2026-10-11T16:36:32.070475+00:00",
+  "generated_at": "2026-10-11T23:27:14.187953+00:00",
   "items": [
     {
       "source": "WRAL Local",
-      "title": "Mobile home destoyed in fire in Sampson County",
-      "link": "https://www.wral.com/news/local/mobile-home-destroyed-fire-sampson-county-october-2026/",
-      "published_at": "2026-10-11T10:33:19+00:00",
-      "summary_raw": "A mobile home in Sampson County was destroyed in a fire early Sunday morning.",
-      "id": "e5d6642c42b0"
+      "title": "Missing endangered child reported in Burlington",
+      "link": "https://www.wral.com/news/local/missing-endangered-child-burlington-alamance-county-october-2026/",
+      "published_at": "2026-10-11T23:21:04+00:00",
+      "summary_raw": "Police are searching for 16-year-old Mikal Jones, who was last seen on Sunday around noon in the 1700 block of Sykes Street in Burlington.",
+      "id": "ee8cb8a01626"
     },
     {
       "source": "WRAL Weather",
@@ -28,6 +28,54 @@
     },
     {
       "source": "NPR Politics",
+      "title": "Justice Department investigates TV networks, citing possible anti-trust violations",
+      "link": "https://www.npr.org/2026/10/11/nx-s1-5997574/the-doj-is-investigating-5-tv-networks-for-suspending-pool-coverage-of-trump",
+      "published_at": "2026-10-11T12:04:00+00:00",
+      "summary_raw": "The move escalates Trump's fight with the press amid court battle over barring CNN, Politico and MS NOW from the White House.",
+      "id": "1998a0d8bfbe"
+    },
+    {
+      "source": "NPR National",
+      "title": "Demand rising for death doulas, who help with end-of-life care",
+      "link": "https://www.npr.org/2026/10/11/nx-s1-5843096/demand-rising-for-death-doulas-who-help-with-end-of-life-care",
+      "published_at": "2026-10-11T21:16:33+00:00",
+      "summary_raw": "Death doulas are non-medical professionals who help with end-of-life care. And their numbers are growing.",
+      "id": "d6237039533f"
+    },
+    {
+      "source": "BBC World",
+      "title": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
+      "link": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-11T22:45:58+00:00",
+      "summary_raw": "The Saudi capital has been hit by multiple attacks from the Iran-backed Yemeni group over the weekend.",
+      "id": "432a9c137e67"
+    },
+    {
+      "source": "Science Daily",
+      "title": "The eye has a hidden cleanup system scientists never knew existed",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261008005254.htm",
+      "published_at": "2026-10-11T06:01:54+00:00",
+      "summary_raw": "Scientists have discovered a hidden cleanup system at the back of the eye that drains fluid and waste through a previously unknown pathway. The surprising finding, demonstrated in mice, could open the door to new treatments for glaucoma, macular degeneration, and other causes of blindness.",
+      "id": "2bbcb6556ab2"
+    },
+    {
+      "source": "WRAL Local",
+      "title": "At least 5 tornadoes strike Central NC, uprooting trees and damaging homes in northeast Raleigh",
+      "link": "https://www.wral.com/news/local/raleigh-fayetteville-north-carolina-tornado-damage-october-2026/",
+      "published_at": "2026-10-11T20:39:00+00:00",
+      "summary_raw": "A northeast Raleigh neighborhood and part of Fayetteville are assessing the damage after at least five tornadoes were confirmed to have struck Central North Carolina on Sunday.",
+      "id": "38a063212232"
+    },
+    {
+      "source": "Wired",
+      "title": "13 Best Gifts for Every Traveler Should Have (2026)",
+      "link": "https://www.wired.com/story/best-gifts-for-travelers/",
+      "published_at": "2026-10-11T10:33:00+00:00",
+      "summary_raw": "Travel smarter with gifts packed by WIRED’s globe-trotting staffers.",
+      "id": "8c1f220ab0a1"
+    },
+    {
+      "source": "NPR Politics",
       "title": "Politics chat: Trump announces fuel deal with Russia. What does it mean for sanctions?",
       "link": "https://www.npr.org/2026/10/11/nx-s1-5996550/politics-chat-trump-announces-fuel-deal-with-russia-what-does-it-mean-for-sanctions",
       "published_at": "2026-10-11T12:03:56+00:00",
@@ -44,59 +92,11 @@
     },
     {
       "source": "BBC World",
-      "title": "Riyadh airport attack another dangerous moment in already tense conflict",
-      "link": "https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-11T15:32:32+00:00",
-      "summary_raw": "The Houthis have stepped up their attacks on Saudi Arabian soil, and while the physical damage can be quickly repaired, its reputation for stability is taking a battering.",
-      "id": "e172234453a5"
-    },
-    {
-      "source": "Science Daily",
-      "title": "The eye has a hidden cleanup system scientists never knew existed",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261008005254.htm",
-      "published_at": "2026-10-11T06:01:54+00:00",
-      "summary_raw": "Scientists have discovered a hidden cleanup system at the back of the eye that drains fluid and waste through a previously unknown pathway. The surprising finding, demonstrated in mice, could open the door to new treatments for glaucoma, macular degeneration, and other causes of blindness.",
-      "id": "2bbcb6556ab2"
-    },
-    {
-      "source": "WRAL Local",
-      "title": "Man shot after trying to break into woman's apartment, Durham police say",
-      "link": "https://www.wral.com/news/local/man-shot-durham-break-in-october-2026/",
-      "published_at": "2026-10-11T02:06:46+00:00",
-      "summary_raw": "Police said the man was trying to break into the woman's apartment when her brother intervened and shot him in what appeared to be self-defense.",
-      "id": "3c9490d26227"
-    },
-    {
-      "source": "Wired",
-      "title": "13 Best Gifts for Every Traveler Should Have (2026)",
-      "link": "https://www.wired.com/story/best-gifts-for-travelers/",
-      "published_at": "2026-10-11T10:33:00+00:00",
-      "summary_raw": "Travel smarter with gifts packed by WIRED’s globe-trotting staffers.",
-      "id": "8c1f220ab0a1"
-    },
-    {
-      "source": "NPR Politics",
-      "title": "Reshaped civil rights mission at Justice Department transforms its work, workforce",
-      "link": "https://www.npr.org/2026/10/11/g-s1-145063/justice-department-civil-rights-transformed",
-      "published_at": "2026-10-11T09:00:00+00:00",
-      "summary_raw": "Harmeet Dhillon has pushed out hundreds of longtime attorneys, replaced many with inexperienced ideological allies, and used the division's enforcement powers to pursue the president's agenda.",
-      "id": "b39b237aaaa4"
-    },
-    {
-      "source": "NPR National",
-      "title": "How Trump reshaped the DOJ's Civil Rights Division to serve his agenda",
-      "link": "https://www.npr.org/2026/10/11/nx-s1-5963204/how-trump-reshaped-the-dojs-civil-rights-division-to-serve-his-agenda",
-      "published_at": "2026-10-11T12:03:55+00:00",
-      "summary_raw": "The Civil Rights Division, long the crown jewel of the Justice Department, has been radically reshaped under President Trump, using its enforcement powers to pursue the president's MAGA agenda.",
-      "id": "d5b6727155b0"
-    },
-    {
-      "source": "BBC World",
-      "title": "Children among 139 dead after boat capsizes off Djibouti, UN says",
-      "link": "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-11T15:32:23+00:00",
-      "summary_raw": "The boat was travelling from Djibouti to Yemen with 305 people on board, when it capsized near the port town of Obock on Thursday night.",
-      "id": "0a52373ba20d"
+      "title": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
+      "link": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-11T21:36:40+00:00",
+      "summary_raw": "Zelensky says Kyiv would support such a truce. Moscow has yet to comment.",
+      "id": "14ee18a9e62f"
     },
     {
       "source": "Science Daily",
@@ -108,11 +108,11 @@
     },
     {
       "source": "WRAL Local",
-      "title": "Rocky Mount councilman arrested, accused of bringing gun on NC Central's campus",
-      "link": "https://www.wral.com/news/local/rocky-mount-councilman-arrested-gun-charges-nc-central-october-2026/",
-      "published_at": "2026-10-11T00:22:42+00:00",
-      "summary_raw": "According to arrest reports, councilman Timothy Jerome Walker Jr. is facing two gun charges after bringing a gun on NC Central's campus in Durham.",
-      "id": "2d58ae581744"
+      "title": "Photos: Storms in NC cause crashes, damage, possible tornadoes",
+      "link": "https://www.wral.com/news/local/photos-nc-storm-damage-tornado-warnings-october-2026/",
+      "published_at": "2026-10-11T18:02:15+00:00",
+      "summary_raw": "Photos captured by WRAL viewers on Oct. 11, 2026, show weather-related crashes, damage to fences and buildings, cars stranded in standing water, uprooted trees and more.",
+      "id": "95330b821413"
     },
     {
       "source": "Wired",
@@ -132,19 +132,19 @@
     },
     {
       "source": "NPR National",
-      "title": "Reshaped civil rights mission at Justice Department transforms its work, workforce",
-      "link": "https://www.npr.org/2026/10/11/g-s1-145063/justice-department-civil-rights-transformed",
-      "published_at": "2026-10-11T09:00:00+00:00",
-      "summary_raw": "Harmeet Dhillon has pushed out hundreds of longtime attorneys, replaced many with inexperienced ideological allies, and used the division's enforcement powers to pursue the president's agenda.",
-      "id": "b39b237aaaa4"
+      "title": "Justice Department investigates TV networks, citing possible anti-trust violations",
+      "link": "https://www.npr.org/2026/10/11/nx-s1-5997574/the-doj-is-investigating-5-tv-networks-for-suspending-pool-coverage-of-trump",
+      "published_at": "2026-10-11T12:04:00+00:00",
+      "summary_raw": "The move escalates Trump's fight with the press amid court battle over barring CNN, Politico and MS NOW from the White House.",
+      "id": "1998a0d8bfbe"
     },
     {
       "source": "BBC World",
-      "title": "Poland stabbings driven by online glorification of violence, Tusk says",
-      "link": "https://www.bbc.co.uk/news/articles/ckp8gyd65z2go?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-11T15:18:52+00:00",
-      "summary_raw": "The PM was speaking after violent attacks at Polish schools this week left one dead and others injured.",
-      "id": "96d44a2fc079"
+      "title": "Dozens of gold prospectors killed in strikes on Egypt-Sudan border, rights group says",
+      "link": "https://www.bbc.co.uk/news/articles/cqy43vrk8wv8o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-11T21:12:44+00:00",
+      "summary_raw": "Neither Egypt nor Sudan has commented on the alleged strikes on an artisanal mining camp on Saturday.",
+      "id": "1477afd7c2c9"
     },
     {
       "source": "Science Daily",
@@ -156,11 +156,11 @@
     },
     {
       "source": "WRAL Local",
-      "title": "How Isaias could impact North Carolina's ongoing drought",
-      "link": "https://www.wral.com/news/local/drought-conditions-and-hurricane-isaias-october-2026/",
-      "published_at": "2026-10-10T23:33:10+00:00",
-      "summary_raw": "Most of our area has now been in a drought for a year. WRAL Meteorologist Chris Michaels said it's going to take more than Isaias' remnants to exit this long-term drought.",
-      "id": "86a3230bee38"
+      "title": "Mobile home destoyed in fire in Sampson County",
+      "link": "https://www.wral.com/news/local/mobile-home-destroyed-fire-sampson-county-october-2026/",
+      "published_at": "2026-10-11T10:33:19+00:00",
+      "summary_raw": "A mobile home in Sampson County was destroyed in a fire early Sunday morning.",
+      "id": "e5d6642c42b0"
     },
     {
       "source": "Wired",
@@ -169,6 +169,54 @@
       "published_at": "2026-10-11T10:00:00+00:00",
       "summary_raw": "From the Senate to governors’ mansions, candidates are trying to outcompete each other to be the most anti–data center in races across the US.",
       "id": "98144216328f"
+    },
+    {
+      "source": "NPR Politics",
+      "title": "Reshaped civil rights mission at Justice Department transforms its work, workforce",
+      "link": "https://www.npr.org/2026/10/11/g-s1-145063/justice-department-civil-rights-transformed",
+      "published_at": "2026-10-11T09:00:00+00:00",
+      "summary_raw": "Harmeet Dhillon has pushed out hundreds of longtime attorneys, replaced many with inexperienced ideological allies, and used the division's enforcement powers to pursue the president's agenda.",
+      "id": "b39b237aaaa4"
+    },
+    {
+      "source": "NPR National",
+      "title": "How Trump reshaped the DOJ's Civil Rights Division to serve his agenda",
+      "link": "https://www.npr.org/2026/10/11/nx-s1-5963204/how-trump-reshaped-the-dojs-civil-rights-division-to-serve-his-agenda",
+      "published_at": "2026-10-11T12:03:55+00:00",
+      "summary_raw": "The Civil Rights Division, long the crown jewel of the Justice Department, has been radically reshaped under President Trump, using its enforcement powers to pursue the president's MAGA agenda.",
+      "id": "d5b6727155b0"
+    },
+    {
+      "source": "BBC World",
+      "title": "Watch: What's behind Trump's energy ceasefire claim?",
+      "link": "https://www.bbc.co.uk/news/videos/cwvgde9vrdd9o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-11T20:55:02+00:00",
+      "summary_raw": "The US president made the announcement in a social media post, which was an apparent surprise to Ukraine and Russia is yet to comment.",
+      "id": "9816b16a471e"
+    },
+    {
+      "source": "Science Daily",
+      "title": "A plastic once thought harmless may be fueling fatty liver disease",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261008102718.htm",
+      "published_at": "2026-10-11T00:47:05+00:00",
+      "summary_raw": "One of the world's most common plastics may pose a hidden threat to liver health. Texas A&M researchers discovered that polyethylene microplastics can contribute to fatty liver disease, with potentially worse effects when combined with an unhealthy diet. Even more surprising, this widely used plastic was previously considered relatively harmless.",
+      "id": "7deb232eded2"
+    },
+    {
+      "source": "WRAL Local",
+      "title": "Man shot after trying to break into woman's apartment, Durham police say",
+      "link": "https://www.wral.com/news/local/man-shot-durham-break-in-october-2026/",
+      "published_at": "2026-10-11T02:06:46+00:00",
+      "summary_raw": "Police said the man was trying to break into the woman's apartment when her brother intervened and shot him in what appeared to be self-defense.",
+      "id": "3c9490d26227"
+    },
+    {
+      "source": "Wired",
+      "title": "How the 2026 Super El Niño and Climate Change Are Related",
+      "link": "https://www.wired.com/story/super-el-nino-climate-change-connections/",
+      "published_at": "2026-10-11T09:30:00+00:00",
+      "summary_raw": "Here’s what we know about the record-setting El Niño on a record-hot planet, and the most important questions scientists are trying to answer.",
+      "id": "3d941f2e915e"
     },
     {
       "source": "NPR Politics",
@@ -188,59 +236,11 @@
     },
     {
       "source": "BBC World",
-      "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
-      "link": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-11T14:38:10+00:00",
-      "summary_raw": "It is the third time this week that Ukraine has targeted Russian tech giant Yandex, forcing the company to suspend its operations.",
-      "id": "a6612d57f603"
-    },
-    {
-      "source": "Science Daily",
-      "title": "A plastic once thought harmless may be fueling fatty liver disease",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261008102718.htm",
-      "published_at": "2026-10-11T00:47:05+00:00",
-      "summary_raw": "One of the world's most common plastics may pose a hidden threat to liver health. Texas A&M researchers discovered that polyethylene microplastics can contribute to fatty liver disease, with potentially worse effects when combined with an unhealthy diet. Even more surprising, this widely used plastic was previously considered relatively harmless.",
-      "id": "7deb232eded2"
-    },
-    {
-      "source": "WRAL Local",
-      "title": "17-year-old killed in Fayetteville shooting",
-      "link": "https://www.wral.com/news/local/fayetteville-deadly-shooting-maloney-avenue-october-2026/",
-      "published_at": "2026-10-10T22:25:13+00:00",
-      "summary_raw": "A teenager was killed in a shooting in Fayetteville on Saturday afternoon.",
-      "id": "e79c0be390af"
-    },
-    {
-      "source": "Wired",
-      "title": "How the 2026 Super El Niño and Climate Change Are Related",
-      "link": "https://www.wired.com/story/super-el-nino-climate-change-connections/",
-      "published_at": "2026-10-11T09:30:00+00:00",
-      "summary_raw": "Here’s what we know about the record-setting El Niño on a record-hot planet, and the most important questions scientists are trying to answer.",
-      "id": "3d941f2e915e"
-    },
-    {
-      "source": "NPR Politics",
-      "title": "U.S. imposes sweeping sanctions on International Criminal Court",
-      "link": "https://www.npr.org/2026/10/10/nx-s1-5996606/u-s-imposes-sweeping-sanctions-on-international-criminal-court",
-      "published_at": "2026-10-10T11:40:51+00:00",
-      "summary_raw": "The U.S. has announced sanctions against the International Criminal Court, with Secretary of State Marco Rubio vowing to dismantle the world's only permanent war crimes tribunal.",
-      "id": "e93d61558a69"
-    },
-    {
-      "source": "NPR National",
-      "title": "Christa Pike discharged from the hospital and back in prison",
-      "link": "https://www.npr.org/2026/10/10/nx-s1-5997504/christa-pike-hospital-prison-after-botched-execution",
-      "published_at": "2026-10-10T22:15:04+00:00",
-      "summary_raw": "Pike's attorneys say she is grateful for the care of first responders and her medical team.",
-      "id": "e6d319d672aa"
-    },
-    {
-      "source": "BBC World",
-      "title": "Pope Leo to have surgery after lump found on lung",
-      "link": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-11T13:38:55+00:00",
-      "summary_raw": "The 71-year-old pontiff said the nodule was identified \"at a very early stage\".",
-      "id": "8701dcd0a0f2"
+      "title": "Orangutans released back into Borneo forest after devastating fires",
+      "link": "https://www.bbc.co.uk/news/articles/cwvgde0m2d73o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-11T19:08:04+00:00",
+      "summary_raw": "Rescuers moved the apes after their habitats were threatened by intense wildfires over the summer.",
+      "id": "6763046e1b9f"
     },
     {
       "source": "Science Daily",
@@ -252,11 +252,11 @@
     },
     {
       "source": "WRAL Local",
-      "title": "Raleigh man accused of extorting woman, grabbing arresting officer's genitals",
-      "link": "https://www.wral.com/news/local/raleigh-man-extortion-sexual-battery-of-officer-october-2026/",
-      "published_at": "2026-10-10T21:41:20+00:00",
-      "summary_raw": "Police arrested 42-year-old Kelly Langley on Saturday. He is accused of assault, sexual battery, extortion, soliciting alms and possessing drug paraphernalia.",
-      "id": "a13c60c21886"
+      "title": "Rocky Mount councilman arrested, accused of bringing gun on NC Central's campus",
+      "link": "https://www.wral.com/news/local/rocky-mount-councilman-arrested-gun-charges-nc-central-october-2026/",
+      "published_at": "2026-10-11T00:22:42+00:00",
+      "summary_raw": "According to arrest reports, councilman Timothy Jerome Walker Jr. is facing two gun charges after bringing a gun on NC Central's campus in Durham.",
+      "id": "2d58ae581744"
     },
     {
       "source": "Wired",
@@ -268,27 +268,27 @@
     },
     {
       "source": "NPR Politics",
-      "title": "Week in Politics: Hegseth's livestream backlash; Greece ambassador Guilfoyle scandal",
-      "link": "https://www.npr.org/2026/10/10/nx-s1-5995114/week-in-politics-hegseths-livestream-backlash-greece-ambassador-guilfoyle-scandal",
-      "published_at": "2026-10-10T11:40:48+00:00",
-      "summary_raw": "Bipartisan blowback on Defense Secretary Pete Hegseth's plans to livestream a military execution, plus a scandal involving Kimberly Guilfoyle, the US Ambassador to Greece.",
-      "id": "9038326161eb"
+      "title": "U.S. imposes sweeping sanctions on International Criminal Court",
+      "link": "https://www.npr.org/2026/10/10/nx-s1-5996606/u-s-imposes-sweeping-sanctions-on-international-criminal-court",
+      "published_at": "2026-10-10T11:40:51+00:00",
+      "summary_raw": "The U.S. has announced sanctions against the International Criminal Court, with Secretary of State Marco Rubio vowing to dismantle the world's only permanent war crimes tribunal.",
+      "id": "e93d61558a69"
     },
     {
       "source": "NPR National",
-      "title": "Why aren't men talking about Cornell?",
-      "link": "https://www.npr.org/2026/10/10/nx-s1-5995216/why-arent-men-talking-about-cornell",
-      "published_at": "2026-10-10T21:33:16+00:00",
-      "summary_raw": "NPR's Joel Rose speaks with culture writer Louis Staples about his piece for Harper's Bazaar titled: Women Everywhere Are Talking About Cornell. Why Aren't Men?",
-      "id": "b64fe162b93f"
+      "title": "Reshaped civil rights mission at Justice Department transforms its work, workforce",
+      "link": "https://www.npr.org/2026/10/11/g-s1-145063/justice-department-civil-rights-transformed",
+      "published_at": "2026-10-11T09:00:00+00:00",
+      "summary_raw": "Harmeet Dhillon has pushed out hundreds of longtime attorneys, replaced many with inexperienced ideological allies, and used the division's enforcement powers to pursue the president's agenda.",
+      "id": "b39b237aaaa4"
     },
     {
       "source": "BBC World",
-      "title": "Homes and bridges swept away as fresh floods hit Nepal",
-      "link": "https://www.bbc.co.uk/news/articles/ck86zppejjw3o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-11T12:03:52+00:00",
-      "summary_raw": "Nepal is still trying to recover from catastrophic floods that hit less than two months ago, leaving thousands dead and missing.",
-      "id": "85faa65005e1"
+      "title": "Poland detains man suspected of planning assassination of PM Tusk",
+      "link": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-11T17:27:24+00:00",
+      "summary_raw": "Police received credible information about possible attacks against Donald Tusk and his defence minister.",
+      "id": "121e4a2f269f"
     },
     {
       "source": "Science Daily",
@@ -300,11 +300,11 @@
     },
     {
       "source": "WRAL Local",
-      "title": "Deputies investigate a double homicide in Franklin County",
-      "link": "https://www.wral.com/news/local/franklinton-double-homicide-october-2026/",
-      "published_at": "2026-10-10T14:35:00+00:00",
-      "summary_raw": "The Franklin County Sheriff's Department is investigating a double homicide.",
-      "id": "60f9b4923bae"
+      "title": "How Isaias could impact North Carolina's ongoing drought",
+      "link": "https://www.wral.com/news/local/drought-conditions-and-hurricane-isaias-october-2026/",
+      "published_at": "2026-10-10T23:33:10+00:00",
+      "summary_raw": "Most of our area has now been in a drought for a year. WRAL Meteorologist Chris Michaels said it's going to take more than Isaias' remnants to exit this long-term drought.",
+      "id": "86a3230bee38"
     },
     {
       "source": "Wired",
@@ -316,27 +316,27 @@
     },
     {
       "source": "NPR Politics",
-      "title": "On the ground in Ohio's 9th District: The battleground shaping next month's midterms",
-      "link": "https://www.npr.org/2026/10/10/nx-s1-5965798/on-the-ground-in-ohios-9th-district-the-battleground-shaping-next-months-midterms",
-      "published_at": "2026-10-10T11:40:46+00:00",
-      "summary_raw": "Ohio is a critical battleground in next month's midterms elections. NPR's Scott Simon traveled to the state's 9th Congressional District to hear from voters about their priorities.",
-      "id": "4e5972eee3a8"
+      "title": "Week in Politics: Hegseth's livestream backlash; Greece ambassador Guilfoyle scandal",
+      "link": "https://www.npr.org/2026/10/10/nx-s1-5995114/week-in-politics-hegseths-livestream-backlash-greece-ambassador-guilfoyle-scandal",
+      "published_at": "2026-10-10T11:40:48+00:00",
+      "summary_raw": "Bipartisan blowback on Defense Secretary Pete Hegseth's plans to livestream a military execution, plus a scandal involving Kimberly Guilfoyle, the US Ambassador to Greece.",
+      "id": "9038326161eb"
     },
     {
       "source": "NPR National",
-      "title": "Isaias becomes tropical storm, heads towards Tennessee Valley",
-      "link": "https://www.npr.org/2026/10/10/nx-s1-5996919/isaias-becomes-tropical-storm-heads-towards-tennessee-valley",
-      "published_at": "2026-10-10T21:20:02+00:00",
-      "summary_raw": "Isaias has become a tropical storm, moving towards the Tennessee Valley. Residents in the Florida Panhandle react to the destruction.",
-      "id": "50c66b122cee"
+      "title": "Christa Pike discharged from the hospital and back in prison",
+      "link": "https://www.npr.org/2026/10/10/nx-s1-5997504/christa-pike-hospital-prison-after-botched-execution",
+      "published_at": "2026-10-10T22:15:04+00:00",
+      "summary_raw": "Pike's attorneys say she is grateful for the care of first responders and her medical team.",
+      "id": "e6d319d672aa"
     },
     {
       "source": "BBC World",
-      "title": "Delhi sees more protests as freed 'cockroach' group's leaders vow to fight on",
-      "link": "https://www.bbc.co.uk/news/articles/c84g179n2393o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-11T11:11:42+00:00",
-      "summary_raw": "Hundreds of people who came out on the streets despite the police's restrictions were detained on Sunday.",
-      "id": "2903d2d2a5d5"
+      "title": "Riyadh airport attacks another dangerous moment in already tense conflict",
+      "link": "https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-11T15:32:32+00:00",
+      "summary_raw": "While the physical damage from Houthi attacks can be quickly repaired, the Saudi reputation for stability is taking a battering.",
+      "id": "e172234453a5"
     },
     {
       "source": "Science Daily",
@@ -348,11 +348,11 @@
     },
     {
       "source": "WRAL Local",
-      "title": "Police: Two men hurt in shooting on GoDurham bus",
-      "link": "https://www.wral.com/news/local/two-men-hurt-shooting-godurham-bus-october-2026/",
-      "published_at": "2026-10-10T03:19:20+00:00",
-      "summary_raw": "Police officers were called to reports of a shooting on a GoDurham bus around 10:20 p.m. along North Roxboro and Edwards streets. When they arrived, they found men with gunshot wounds.",
-      "id": "6feb5ca58e7d"
+      "title": "17-year-old killed in Fayetteville shooting",
+      "link": "https://www.wral.com/news/local/fayetteville-deadly-shooting-maloney-avenue-october-2026/",
+      "published_at": "2026-10-10T22:25:13+00:00",
+      "summary_raw": "A teenager was killed in a shooting in Fayetteville on Saturday afternoon.",
+      "id": "e79c0be390af"
     },
     {
       "source": "Wired",
@@ -364,27 +364,27 @@
     },
     {
       "source": "NPR Politics",
-      "title": "After losing ground with Latino voters, Democrats are turning to influencers for help",
-      "link": "https://www.npr.org/2026/10/10/nx-s1-5991897/democrats-latino-voters-influencers-bold-pac",
-      "published_at": "2026-10-10T09:00:00+00:00",
-      "summary_raw": "Democrats are hoping to win back Latino voters who have soured on both parties. They hope Latino content creators will bridge the gap.",
-      "id": "bdb1db0c1b52"
+      "title": "On the ground in Ohio's 9th District: The battleground shaping next month's midterms",
+      "link": "https://www.npr.org/2026/10/10/nx-s1-5965798/on-the-ground-in-ohios-9th-district-the-battleground-shaping-next-months-midterms",
+      "published_at": "2026-10-10T11:40:46+00:00",
+      "summary_raw": "Ohio is a critical battleground in next month's midterms elections. NPR's Scott Simon traveled to the state's 9th Congressional District to hear from voters about their priorities.",
+      "id": "4e5972eee3a8"
     },
     {
       "source": "NPR National",
-      "title": "The Kennedy Center names new artistic director, amid concerns",
-      "link": "https://www.npr.org/2026/10/10/nx-s1-5996934/kennedy-center-rick-canny-new-artistic-director",
-      "published_at": "2026-10-10T18:17:12+00:00",
-      "summary_raw": "The center's executive director has named an agent who has worked with ZZ Top and Motley Crue drummer Tommy Lee as the head of programming for the arts institution.",
-      "id": "1735e75dd256"
+      "title": "Why aren't men talking about Cornell?",
+      "link": "https://www.npr.org/2026/10/10/nx-s1-5995216/why-arent-men-talking-about-cornell",
+      "published_at": "2026-10-10T21:33:16+00:00",
+      "summary_raw": "NPR's Joel Rose speaks with culture writer Louis Staples about his piece for Harper's Bazaar titled: Women Everywhere Are Talking About Cornell. Why Aren't Men?",
+      "id": "b64fe162b93f"
     },
     {
       "source": "BBC World",
-      "title": "Buildings swept away as flash floods hit central Nepal",
-      "link": "https://www.bbc.co.uk/news/videos/cwzrdnljedx0o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-11T10:34:02+00:00",
-      "summary_raw": "A flash flood at the Budhi Gandaki River has swept away several buildings and bridges, two months after catastrophic floods hit the country.",
-      "id": "f76a8c6efa2b"
+      "title": "Children among 139 dead after boat capsizes off Djibouti, UN says",
+      "link": "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-11T15:32:23+00:00",
+      "summary_raw": "The boat was travelling from Djibouti to Yemen with 305 people on board, when it capsized near the port town of Obock on Thursday night.",
+      "id": "2eb4a52f236b"
     },
     {
       "source": "Science Daily",
@@ -396,11 +396,11 @@
     },
     {
       "source": "WRAL Local",
-      "title": "Murphy USA offers compensation to Nashville drivers who pumped contaminated gas",
-      "link": "https://www.wral.com/news/local/murphy-usa-offerscompensasion-nashville-drivers-pumped-contaminated-gas-october-2026/",
-      "published_at": "2026-10-10T01:25:42+00:00",
-      "summary_raw": "In September, the Murphy Express off Eastern Ave. Nashville shut down its gas pumps after a state inspector found high concentrations of water mixed with gasoline. One month later, some gas pumps are still wrapped in plastic, and the parent company is offering help to drivers who were impacted.",
-      "id": "6499f7712ddb"
+      "title": "Raleigh man accused of extorting woman, grabbing arresting officer's genitals",
+      "link": "https://www.wral.com/news/local/raleigh-man-extortion-sexual-battery-of-officer-october-2026/",
+      "published_at": "2026-10-10T21:41:20+00:00",
+      "summary_raw": "Police arrested 42-year-old Kelly Langley on Saturday. He is accused of assault, sexual battery, extortion, soliciting alms and possessing drug paraphernalia.",
+      "id": "a13c60c21886"
     },
     {
       "source": "Wired",
@@ -412,27 +412,27 @@
     },
     {
       "source": "NPR Politics",
-      "title": "Trump says U.S. to get diesel from Russia, relaxing pressure on Moscow to ease prices before midterms",
-      "link": "https://www.npr.org/2026/10/09/nx-s1-5996912/trump-says-u-s-to-get-diesel-from-russia-relaxing-pressure-on-moscow-to-ease-prices-before-midterms",
-      "published_at": "2026-10-09T21:24:13+00:00",
-      "summary_raw": "Trump says the U.S. will obtain diesel from Russia, relaxing years of U.S. pressure on Moscow, to combat prices before midterms. He said he struck the deal with Russian President Vladimir Putin in a phone call.",
-      "id": "8c1e4d4a5747"
+      "title": "After losing ground with Latino voters, Democrats are turning to influencers for help",
+      "link": "https://www.npr.org/2026/10/10/nx-s1-5991897/democrats-latino-voters-influencers-bold-pac",
+      "published_at": "2026-10-10T09:00:00+00:00",
+      "summary_raw": "Democrats are hoping to win back Latino voters who have soured on both parties. They hope Latino content creators will bridge the gap.",
+      "id": "bdb1db0c1b52"
     },
     {
       "source": "NPR National",
-      "title": "At least 2 deaths attributed to Isaias after hurricane bashes Florida and Alabama",
-      "link": "https://www.npr.org/2026/10/10/g-s1-147632/at-least-2-deaths-attributed-to-isaias-after-hurricane-bashes-florida-and-alabama",
-      "published_at": "2026-10-10T17:14:03+00:00",
-      "summary_raw": "Hurricane Isaias is blamed for at least two deaths, after the storm made landfall on the Florida coast and ran through Alabama. There are numerous reports of downed trees, with hundreds of thousands of people without power.",
-      "id": "0d223d1169c8"
+      "title": "Isaias becomes tropical storm, heads towards Tennessee Valley",
+      "link": "https://www.npr.org/2026/10/10/nx-s1-5996919/isaias-becomes-tropical-storm-heads-towards-tennessee-valley",
+      "published_at": "2026-10-10T21:20:02+00:00",
+      "summary_raw": "Isaias has become a tropical storm, moving towards the Tennessee Valley. Residents in the Florida Panhandle react to the destruction.",
+      "id": "50c66b122cee"
     },
     {
       "source": "BBC World",
-      "title": "US justice department investigates TV networks over Trump pool coverage",
-      "link": "https://www.bbc.co.uk/news/articles/c9vgregzk6gro?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-11T05:05:43+00:00",
-      "summary_raw": "The White House had blocked access for CNN, MS Now and Politico, leading them to restrict pool coverage.",
-      "id": "b0903d9df7d6"
+      "title": "Poland stabbings driven by online glorification of violence, Tusk says",
+      "link": "https://www.bbc.co.uk/news/articles/ckp8gyd65z2go?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-11T15:18:52+00:00",
+      "summary_raw": "The PM was speaking after violent attacks at Polish schools this week left one dead and others injured.",
+      "id": "3f023ec14e37"
     },
     {
       "source": "Science Daily",
@@ -444,11 +444,11 @@
     },
     {
       "source": "WRAL Local",
-      "title": "North Carolina World War II veteran, who treated wounded soldiers, celebrates 104th birthday",
-      "link": "https://www.wral.com/news/local/veteran-world-war-2-medical-treatment-penicillin-october-2026/",
-      "published_at": "2026-10-09T23:08:26+00:00",
-      "summary_raw": "From World War II battlefields to Pittsboro, North Carolina, George Chall turned 104-years-old surrounded by friends, family and community who came to honor the veteran's milestone.",
-      "id": "ed2d2bd60d30"
+      "title": "Deputies investigate a double homicide in Franklin County",
+      "link": "https://www.wral.com/news/local/franklinton-double-homicide-october-2026/",
+      "published_at": "2026-10-10T14:35:00+00:00",
+      "summary_raw": "The Franklin County Sheriff's Department is investigating a double homicide.",
+      "id": "60f9b4923bae"
     },
     {
       "source": "Wired",
@@ -460,27 +460,27 @@
     },
     {
       "source": "NPR Politics",
-      "title": "Trump's Affordable Suit",
-      "link": "https://www.npr.org/2026/10/09/nx-s1-5996586/trumps-affordable-suit",
-      "published_at": "2026-10-09T20:03:22+00:00",
-      "summary_raw": "NPR's Mary Louise Kelly speaks with New York Times fashion reporter Jacob Gallagher about President Trump's apparent choice to wear a suit from the budget menswear chain Jos. A. Bank.",
-      "id": "b430f8be2472"
+      "title": "Trump says U.S. to get diesel from Russia, relaxing pressure on Moscow to ease prices before midterms",
+      "link": "https://www.npr.org/2026/10/09/nx-s1-5996912/trump-says-u-s-to-get-diesel-from-russia-relaxing-pressure-on-moscow-to-ease-prices-before-midterms",
+      "published_at": "2026-10-09T21:24:13+00:00",
+      "summary_raw": "Trump says the U.S. will obtain diesel from Russia, relaxing years of U.S. pressure on Moscow, to combat prices before midterms. He said he struck the deal with Russian President Vladimir Putin in a phone call.",
+      "id": "8c1e4d4a5747"
     },
     {
       "source": "NPR National",
-      "title": "Parallel parking is now a sport in Philly, complete with speed and flair",
-      "link": "https://www.npr.org/2026/10/10/nx-s1-5992995/parallel-parking-is-now-a-sport-in-philly-complete-with-speed-and-flair",
-      "published_at": "2026-10-10T11:40:47+00:00",
-      "summary_raw": "Philadelphia recently held its first-ever Parallel Parking Association Championship. Hundreds of people came out to see drivers compete for speed, accuracy and even flair.",
-      "id": "1de33373c5d2"
+      "title": "The Kennedy Center names new artistic director, amid concerns",
+      "link": "https://www.npr.org/2026/10/10/nx-s1-5996934/kennedy-center-rick-canny-new-artistic-director",
+      "published_at": "2026-10-10T18:17:12+00:00",
+      "summary_raw": "The center's executive director has named an agent who has worked with ZZ Top and Motley Crue drummer Tommy Lee as the head of programming for the arts institution.",
+      "id": "1735e75dd256"
     },
     {
       "source": "BBC World",
-      "title": "Inside the room: What it was like to be with Blackpink's Lisa as race scandal erupted",
-      "link": "https://www.bbc.co.uk/news/articles/cjzxl56q30k7o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-10T23:31:35+00:00",
-      "summary_raw": "Film-maker Sue Kim talks about having unprecedented access to K-Pop idol Lisa Manobal at her most candid.",
-      "id": "6a2b837154de"
+      "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
+      "link": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-11T14:38:10+00:00",
+      "summary_raw": "It is the third time this week that Ukraine has targeted Russian tech giant Yandex, forcing the company to suspend its operations.",
+      "id": "a6612d57f603"
     },
     {
       "source": "Science Daily",
@@ -492,11 +492,11 @@
     },
     {
       "source": "WRAL Local",
-      "title": "'He’s that angel': Residents displaced by deadly Durham fire remember fallen firefighter",
-      "link": "https://www.wral.com/news/local/durham-fire-death-remembering-firefighter-october-2026/",
-      "published_at": "2026-10-09T22:03:55+00:00",
-      "summary_raw": "A day after a devastating fire in Durham, residents shared what they experienced, raising questions about the building’s conditions and thanking the responding fire crews, especially Andrew Brokes.",
-      "id": "5db25b01a229"
+      "title": "Police: Two men hurt in shooting on GoDurham bus",
+      "link": "https://www.wral.com/news/local/two-men-hurt-shooting-godurham-bus-october-2026/",
+      "published_at": "2026-10-10T03:19:20+00:00",
+      "summary_raw": "Police officers were called to reports of a shooting on a GoDurham bus around 10:20 p.m. along North Roxboro and Edwards streets. When they arrived, they found men with gunshot wounds.",
+      "id": "6feb5ca58e7d"
     },
     {
       "source": "Wired",
@@ -508,11 +508,11 @@
     },
     {
       "source": "BBC World",
-      "title": "Young men live in fear of being snatched off the streets and sold to Myanmar's army",
-      "link": "https://www.bbc.co.uk/news/articles/c680zlny0gk4o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-10T22:13:08+00:00",
-      "summary_raw": "A desperate junta is in a war of attrition against ethnic militias and and civilian resistance.",
-      "id": "958cd52f7403"
+      "title": "Pope Leo to have surgery after lump found on lung",
+      "link": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-11T13:38:55+00:00",
+      "summary_raw": "The 71-year-old pontiff said the nodule was identified \"at a very early stage\".",
+      "id": "398edd354c2b"
     },
     {
       "source": "Science Daily",
@@ -524,19 +524,19 @@
     },
     {
       "source": "Wired",
-      "title": "Home Depot Promo Codes: 30% Off in October 2026",
-      "link": "https://www.wired.com/story/home-depot-promo-code/",
+      "title": "Disney Plus Discount Codes: 52% Off October 2026",
+      "link": "https://www.wired.com/story/disney-plus-discounts/",
       "published_at": "2026-10-10T05:00:00+00:00",
-      "summary_raw": "Save up to 50% today with the latest Home Depot promo codes for appliances, power tools, and more this October.",
-      "id": "fd83ac84a012"
+      "summary_raw": "Cut your subscription costs with the latest active Disney+ bundle deals, verified student offers, and partner promotions.",
+      "id": "cbc631806363"
     },
     {
       "source": "BBC World",
-      "title": "Russian glide bomb attack on Zaporizhzhia kills at least 20 people",
-      "link": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-10T20:51:12+00:00",
-      "summary_raw": "Volodymyr Zelensky says the attack, which left children dead, was Russia expressing its \"thanks\" for a US diesel deal.",
-      "id": "09905a3a20e6"
+      "title": "Homes and bridges swept away as fresh floods hit Nepal",
+      "link": "https://www.bbc.co.uk/news/articles/ck86zppejjw3o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-11T12:03:52+00:00",
+      "summary_raw": "Nepal is still trying to recover from catastrophic floods that hit less than two months ago, leaving thousands dead and missing.",
+      "id": "85faa65005e1"
     },
     {
       "source": "Science Daily",
@@ -556,11 +556,11 @@
     },
     {
       "source": "BBC World",
-      "title": "Watch: 'Time for Ukraine to get a new president', says Trump",
-      "link": "https://www.bbc.co.uk/news/videos/cwkg50dgpml7o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-10T19:25:03+00:00",
-      "summary_raw": "The US president's said President Volodymyr Zelensky \"wants to make problems for the world\".",
-      "id": "2e47c98d212e"
+      "title": "Delhi sees more protests as freed 'cockroach' group's leaders vow to fight on",
+      "link": "https://www.bbc.co.uk/news/articles/c84g179n2393o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-11T11:11:42+00:00",
+      "summary_raw": "Hundreds of people who came out on the streets despite the police's restrictions were detained on Sunday.",
+      "id": "2903d2d2a5d5"
     },
     {
       "source": "Science Daily",
@@ -580,11 +580,11 @@
     },
     {
       "source": "BBC World",
-      "title": "Expedition hopes to find aviator Amelia Earhart's plane on remote island",
-      "link": "https://www.bbc.co.uk/news/articles/c3y0e871rk4vo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-10T18:22:29+00:00",
-      "summary_raw": "The team en route to the suspected crash site aim finally to solve the mystery of her 1937 disappearance.",
-      "id": "9eb8731f6cbc"
+      "title": "Buildings swept away as flash floods hit central Nepal",
+      "link": "https://www.bbc.co.uk/news/videos/cwzrdnljedx0o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-11T10:34:02+00:00",
+      "summary_raw": "A flash flood at the Budhi Gandaki River has swept away several buildings and bridges, two months after catastrophic floods hit the country.",
+      "id": "f76a8c6efa2b"
     },
     {
       "source": "Science Daily",
@@ -596,19 +596,19 @@
     },
     {
       "source": "Wired",
-      "title": "Disney Plus Discount Codes: 52% Off October 2026",
-      "link": "https://www.wired.com/story/disney-plus-discounts/",
+      "title": "Home Depot Promo Codes: 30% Off in October 2026",
+      "link": "https://www.wired.com/story/home-depot-promo-code/",
       "published_at": "2026-10-10T05:00:00+00:00",
-      "summary_raw": "Cut your subscription costs with the latest active Disney+ bundle deals, verified student offers, and partner promotions.",
-      "id": "cbc631806363"
+      "summary_raw": "Save up to 50% today with the latest Home Depot promo codes for appliances, power tools, and more this October.",
+      "id": "fd83ac84a012"
     },
     {
       "source": "BBC World",
-      "title": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
-      "link": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-10T17:44:26+00:00",
-      "summary_raw": "Pike's lawyers say she is \"grateful\" to the medical team who cared for her after she survived two lethal injections last month.",
-      "id": "44a8aba49ca0"
+      "title": "US justice department investigates TV networks over Trump pool coverage",
+      "link": "https://www.bbc.co.uk/news/articles/c9vgregzk6gro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-11T05:05:43+00:00",
+      "summary_raw": "The White House had blocked access for CNN, MS Now and Politico, leading them to restrict pool coverage.",
+      "id": "b0903d9df7d6"
     },
     {
       "source": "Science Daily",
@@ -628,11 +628,11 @@
     },
     {
       "source": "BBC World",
-      "title": "Nobel peace laureate says US sanctions on ICC 'unacceptable'",
-      "link": "https://www.bbc.co.uk/news/articles/cqkgjrpmr47vo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-10T15:23:47+00:00",
-      "summary_raw": "Navi Pillay says the Trump administrations' sweeping penalties on the international tribunal were \"unheard of\".",
-      "id": "645236f763d0"
+      "title": "Inside the room: What it was like to be with Blackpink's Lisa as race scandal erupted",
+      "link": "https://www.bbc.co.uk/news/articles/cjzxl56q30k7o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-10T23:31:35+00:00",
+      "summary_raw": "Film-maker Sue Kim talks about having unprecedented access to K-Pop idol Lisa Manobal at her most candid.",
+      "id": "6a2b837154de"
     },
     {
       "source": "Science Daily",

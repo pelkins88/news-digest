@@ -1,14 +1,70 @@
 {
   "mode": "raw",
-  "generated_at": "2026-10-28T23:53:00.450603+00:00",
+  "generated_at": "2026-10-29T17:22:19.141041+00:00",
   "items": [
     {
       "source": "WRAL Local",
-      "title": "Two men plead guilty in Lenoir County affordable housing fraud scheme",
-      "link": "https://www.wral.com/news/state/two-men-defraud-federal-government-lenoir-county-oct-2026/",
-      "published_at": "2026-10-28T22:38:58+00:00",
-      "summary_raw": "Daquan Copeland, 35, of Houston, and Esless White Sr., 51, of Jamaica, New York, pleaded guilty to conspiracy to commit mail fraud, according to the North Carolina State Bureau of Investigation.",
-      "id": "1a628d211fe4"
+      "title": "Triangle trick-or-treating tips: Have a safe and happy Halloween!",
+      "link": "https://www.wral.com/news/local/halloween-triangle-trick-or-treat-guide-raleigh-apex-cary-october-2026/",
+      "published_at": "2026-10-29T17:07:34+00:00",
+      "summary_raw": "Halloween is supposed to be spooky, but also safe! Here are a few tips and things you should know before the kids roam the neighborhood in search of candy.",
+      "id": "cbd15c2d1d5e"
+    },
+    {
+      "source": "WRAL Weather",
+      "title": "Ask the Meteorologist: What was detected on radar when skies were completely clear?",
+      "link": "https://www.wral.com/weather/ask-the-meteorologist-cloud-streets-october-2026/",
+      "published_at": "2026-10-29T12:43:25+00:00",
+      "summary_raw": "On Wednesday, October 21st during the State Fair, we had clear skies, but radar was not completely quiet. We were possibly seeing Horizontal Convective Rolls (HCRs). Let's talk through this meteorological phenomena.",
+      "id": "324088de85ab"
+    },
+    {
+      "source": "Wired",
+      "title": "The ‘Pain in the Ass’ Math That Could Save Vibe Coding From Itself",
+      "link": "https://www.wired.com/story/software-verification-is-the-hot-new-answer-to-the-ai-safety-crisis/",
+      "published_at": "2026-10-29T15:00:00+00:00",
+      "summary_raw": "A new startup called &Truth is joining the race to automate formal verification, a painstaking process that uses math to prove software works as intended.",
+      "id": "92ebe2318614"
+    },
+    {
+      "source": "NPR Politics",
+      "title": "GDP report to give insight before Election Day. And, Israel's election is deadlocked",
+      "link": "https://www.npr.org/2026/10/29/g-s1-150614/up-first-newsletter-midterm-elections-gdp-inflation-israel-department-of-education-lawsuit",
+      "published_at": "2026-10-29T11:34:30+00:00",
+      "summary_raw": "Economists expect the GDP report to show economic growth, but say that growth is \"fragile.\" And, after 90% of the votes in Israel have been counted, no clear winner has emerged.",
+      "id": "a3e2ceae8f02"
+    },
+    {
+      "source": "NPR National",
+      "title": "With days to go before the midterms, data shows the U.S. economy is doing well",
+      "link": "https://www.npr.org/2026/10/29/nx-s1-6021008/economy-gdp-inflation-midterms-voters-affordability",
+      "published_at": "2026-10-29T13:05:03+00:00",
+      "summary_raw": "GDP grew at an annual rate of 3.4% in the third quarter in the last major read on the economy ahead of the midterm elections — but many Americans continue to struggle with affordability.",
+      "id": "4bee2034b55d"
+    },
+    {
+      "source": "BBC World",
+      "title": "EU chief lays out vision for new Canada partnership at Montreal summit",
+      "link": "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-29T17:02:59+00:00",
+      "summary_raw": "Ursula von der Leyen continued to use the term \"associate member\" for Canada despite some opposition of the bloc's members, including Germany.",
+      "id": "8f42db1e76f1"
+    },
+    {
+      "source": "Science Daily",
+      "title": "A single brain signal may explain schizophrenia's most puzzling symptoms",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261028232659.htm",
+      "published_at": "2026-10-29T13:14:52+00:00",
+      "summary_raw": "Scientists have identified a weakened brain signal that may connect several seemingly unrelated symptoms of schizophrenia, including sensory processing difficulties, disorganized speech, and greater symptom severity. The surprising discovery could help explain the disorder's underlying mechanisms and potentially lead to earlier detection and new treatments.",
+      "id": "980221234b03"
+    },
+    {
+      "source": "WRAL Local",
+      "title": "State psychologist finds Zoe Welsh murder suspect incapable of proceeding to trial",
+      "link": "https://www.wral.com/news/local/ryan-camacho-incapable-trial-mental-health-examination-october-2026/",
+      "published_at": "2026-10-29T14:03:04+00:00",
+      "summary_raw": "A state forensic psychologist has determined that Ryan Camacho, the man charged with murdering Raleigh teacher Zoe Welsh, is incapable of proceeding to trial, though a judge must make the final determination.",
+      "id": "3db9077ae5fb"
     },
     {
       "source": "WRAL Weather",
@@ -20,51 +76,51 @@
     },
     {
       "source": "Wired",
-      "title": "The 2,000-Nit OLED in Apple’s New MacBook Is a Big Deal",
-      "link": "https://www.wired.com/story/the-2000-nit-oled-in-apples-new-macbook-pro-is-a-big-deal/",
-      "published_at": "2026-10-28T22:54:16+00:00",
-      "summary_raw": "The touchscreen in the new MacBook Pro is crazily bright with very deep blacks. Here’s why it’s unlike anything else you can currently buy.",
-      "id": "b52856996bb0"
+      "title": "Mistral Says Its AI Model ‘Le Chonk’ Has Leapfrogged China in the Open-Weight Race",
+      "link": "https://www.wired.com/story/mistral-says-le-chonk-surpasses-chinese-models-cybersecurity/",
+      "published_at": "2026-10-29T14:00:00+00:00",
+      "summary_raw": "The French AI lab claims its latest release matches or outperforms even the best models from DeepSeek and Z.ai in coding and cybersecurity.",
+      "id": "a3637b51e448"
     },
     {
       "source": "NPR Politics",
-      "title": "A breakthrough for the group on the trail of Chinese hackers",
-      "link": "https://www.npr.org/2026/10/28/nx-s1-6019538/a-breakthrough-for-the-group-on-the-trail-of-chinese-hackers",
-      "published_at": "2026-10-28T21:53:22+00:00",
-      "summary_raw": "Chinese government hackers are secretly burrowing into critical networks using creative new methods.",
-      "id": "0cfb6241169d"
+      "title": "State ballots let voters decide on abortion, taxes, transgender restrictions",
+      "link": "https://www.npr.org/2026/10/29/nx-s1-6019363/state-ballot-referendum-abortion-taxes",
+      "published_at": "2026-10-29T09:00:00+00:00",
+      "summary_raw": "Missouri voters could ban abortion - after they just removed a ban two years ago. California voters could tax billionaires 5% of their wealth.",
+      "id": "df86c7c378bf"
     },
     {
       "source": "NPR National",
-      "title": "Trump administration wants to remove regulations on a super planet-heating gas",
-      "link": "https://www.npr.org/2026/10/28/nx-s1-5995910/trump-wants-remove-regulations-planet-heating-methane",
-      "published_at": "2026-10-28T21:15:09+00:00",
-      "summary_raw": "The Trump administration wants to undo a Biden-era rule that would reduce methane emissions from the oil and gas industry.",
-      "id": "00e599ec89b3"
+      "title": "These are the House races to watch in the 2026 midterm election on Nov. 3",
+      "link": "https://www.npr.org/2026/10/29/nx-s1-6020921/2026-house-map-democrats-flip-republicans-tossup-triage",
+      "published_at": "2026-10-29T09:00:00+00:00",
+      "summary_raw": "An NPR analysis finds 70 House districts where Democrats and Republicans are each investing more than six figures in advertising during the final few days of the election, including in deep red areas.",
+      "id": "49676c9c58dc"
     },
     {
       "source": "BBC World",
-      "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
-      "link": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-28T23:21:48+00:00",
-      "summary_raw": "The defeated Brazilian candidate claims to be the victim of a coup d’état and political persecution, recycling unsubstantiated allegations of “electoral fraud”.",
-      "id": "71fac003d4b8"
+      "title": "Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate",
+      "link": "https://www.bbc.co.uk/news/articles/c8vgx0zrpk6no?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-29T16:26:02+00:00",
+      "summary_raw": "The Republican governor was responding to allegations in the New York Times that Democrats recruited a spoiler candidate, Dan Sullivan.",
+      "id": "04b719df51ae"
     },
     {
       "source": "Science Daily",
-      "title": "Scientists discover a hidden reason why muscles weaken with age",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261027063704.htm",
-      "published_at": "2026-10-28T13:04:55+00:00",
-      "summary_raw": "Scientists have uncovered a hidden defense mechanism in aging muscles that sacrifices strength to protect cells from damage. In mice, partially restoring a crucial molecule reversed signs of muscle wasting and prevented premature death, raising hopes for new treatments for age-related muscle decline.",
-      "id": "c123df6c2c1c"
+      "title": "Six popular sugar substitutes linked to faster brain aging",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261028234238.htm",
+      "published_at": "2026-10-29T13:04:04+00:00",
+      "summary_raw": "A study of nearly 13,000 adults found that people consuming the most artificial sweeteners experienced a 62% faster decline in memory and thinking skills, equivalent to approximately 1.6 additional years of brain aging. Six popular sweeteners were linked to faster cognitive decline, raising concerns about the long-term brain health effects of common sugar substitutes, although causation was not established.",
+      "id": "2891d0ce69d5"
     },
     {
       "source": "WRAL Local",
-      "title": "Raleigh tries new approach to pedestrian safety on Glenwood South after posts fail",
-      "link": "https://www.wral.com/news/local/raleigh-pedestrian-safety-plan-glenwood-south-october-2026/",
-      "published_at": "2026-10-28T22:08:59+00:00",
-      "summary_raw": "The city plans to replace damaged or missing flexible posts with wedges as part of a $200,000 safety pilot.",
-      "id": "2d79ab411e68"
+      "title": "Shots fired into home in Northeast Raleigh neighborhood",
+      "link": "https://www.wral.com/news/local/shots-fired-northeast-raleigh-home-massey-preserve-trail-october-2026/",
+      "published_at": "2026-10-29T11:03:19+00:00",
+      "summary_raw": "Raleigh police and a forensics team could be seen investigating what appeared to be shots fired into a home on Thursday morning.",
+      "id": "5a74ab896d5c"
     },
     {
       "source": "WRAL Weather",
@@ -76,19 +132,163 @@
     },
     {
       "source": "Wired",
-      "title": "This Is What the GOP’s Final Midterms Push Looks Like",
-      "link": "https://www.wired.com/story/this-is-what-the-gops-final-midterms-push-looks-like/",
-      "published_at": "2026-10-28T21:00:00+00:00",
-      "summary_raw": "Republicans are spending their time and money on Senate races in historically red states—a sign they’re more nervous than ever as Election Day looms.",
-      "id": "d711b5c130a3"
+      "title": "Petkit Automatic Cat Litter Box Sale (2026)",
+      "link": "https://www.wired.com/story/petkit-sale-october-2026/",
+      "published_at": "2026-10-29T13:41:26+00:00",
+      "summary_raw": "As WIRED’s resident pet tech tester, I have lots of opinions on what’s worth your money. Petkit’s automatic litter boxes are my top picks—and my favorite models are $100 off right now.",
+      "id": "2cd440511d8f"
     },
     {
       "source": "NPR Politics",
-      "title": "Israel's election too close to call. And, the Ebola outbreak reaches grim milestone",
-      "link": "https://www.npr.org/2026/10/28/g-s1-150313/up-first-newsletter-midterm-campaign-trump-israel-elections-federal-reserve-ebola-outbreak",
-      "published_at": "2026-10-28T11:28:55+00:00",
-      "summary_raw": "Israeli voters turned out in record numbers, and the results remain too close to call. And, more than 10,000 people have been infected with Ebola since the outbreak was first declared in May.",
-      "id": "382de5bc4735"
+      "title": "These are the House races to watch in the 2026 midterm election on Nov. 3",
+      "link": "https://www.npr.org/2026/10/29/nx-s1-6020921/2026-house-map-democrats-flip-republicans-tossup-triage",
+      "published_at": "2026-10-29T09:00:00+00:00",
+      "summary_raw": "An NPR analysis finds 70 House districts where Democrats and Republicans are each investing more than six figures in advertising during the final few days of the election, including in deep red areas.",
+      "id": "49676c9c58dc"
+    },
+    {
+      "source": "NPR National",
+      "title": "Hackers expose the identities of more than 40,000 DHS employees",
+      "link": "https://www.npr.org/2026/10/28/nx-s1-6021497/dhs-hack-ice",
+      "published_at": "2026-10-29T03:28:50+00:00",
+      "summary_raw": "A group of hacktivists calling themselves Distributed Denial of Secrets, said the unmasking of ICE agents, DHS operatives and contractors was fair play, given the government's lack of transparency.",
+      "id": "c2445b7c7031"
+    },
+    {
+      "source": "BBC World",
+      "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+      "link": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-29T15:47:20+00:00",
+      "summary_raw": "With 99% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.",
+      "id": "4def5e465beb"
+    },
+    {
+      "source": "Science Daily",
+      "title": "A 700,000-year-old elephant tooth reveals a lost world where early humans lived",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261028232709.htm",
+      "published_at": "2026-10-29T12:38:53+00:00",
+      "summary_raw": "A remarkably preserved elephant tooth dating back nearly 700,000 years has revealed a surprisingly lush prehistoric world where giant elephants and early humans lived side by side. Discovered in northern Israel alongside ancient stone tools, the tooth belonged to a straight-tusked elephant, one of the largest land mammals of the Ice Age.",
+      "id": "4d91e1b6a638"
+    },
+    {
+      "source": "WRAL Local",
+      "title": "Carrboro community to discuss potential police merger with Chapel Hill",
+      "link": "https://www.wral.com/news/local/chapel-hill-carrboro-proposed-police-merger-october-2026/",
+      "published_at": "2026-10-29T09:42:54+00:00",
+      "summary_raw": "A community conversation is happening in Carrboro Thursday over the town consolidating its police services with Chapel Hill, which will focus on what that change could look like.",
+      "id": "bea7d4359fc4"
+    },
+    {
+      "source": "Wired",
+      "title": "The Kindle Accessories I Never Want to Read Without (2026)",
+      "link": "https://www.wired.com/story/best-kindle-accessories/",
+      "published_at": "2026-10-29T11:03:00+00:00",
+      "summary_raw": "Looking to better protect your Kindle or add a little personality to your favorite e-reader? From cases and covers to page-turners and stickers, this is the guide for you.",
+      "id": "c3bba4adb237"
+    },
+    {
+      "source": "NPR Politics",
+      "title": "Support for Trump among white evangelicals has plummeted, polls reveal",
+      "link": "https://www.npr.org/2026/10/29/nx-s1-6012410/support-for-trump-among-white-evangelicals-has-plummeted-polls-reveal",
+      "published_at": "2026-10-29T08:44:52+00:00",
+      "summary_raw": "Three new polls suggest that President Trump is losing ground among white evangelicals. What explains this drop — and will it affect the midterm elections?",
+      "id": "ee7d56840774"
+    },
+    {
+      "source": "NPR National",
+      "title": "Forecasters are predicting a warmer and wetter winter. Here's how El Niño will affect your region",
+      "link": "https://www.npr.org/2026/10/28/nx-s1-6009547/el-nino-forecast-us-winter",
+      "published_at": "2026-10-29T02:20:45+00:00",
+      "summary_raw": "El Niño years typically lead to more precipitation and higher-than-average temperatures. The latest data shows the different potential impacts by region.",
+      "id": "f6c0b0ec5ae5"
+    },
+    {
+      "source": "BBC World",
+      "title": "Flávio Bolsonaro calls himself 'leader of Brazil' after election loss",
+      "link": "https://www.bbc.co.uk/news/articles/c3x2w4109pj8o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-29T14:58:28+00:00",
+      "summary_raw": "The defeated presidential candidate says he will lead the opposition from the US.",
+      "id": "d648f7699434"
+    },
+    {
+      "source": "Science Daily",
+      "title": "NASA discovers Jupiter’s invisible shield is more complex than Earth’s",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261028232715.htm",
+      "published_at": "2026-10-29T12:26:25+00:00",
+      "summary_raw": "NASA’s Juno spacecraft has discovered that Jupiter uses a surprisingly complex system of powerful plasma waves and multiple shock regions to defend against the solar wind. The findings reveal major differences between Jupiter and Earth and could help scientists understand the enormous shock waves produced by exploding stars.",
+      "id": "82355b31bc9b"
+    },
+    {
+      "source": "WRAL Local",
+      "title": "Electrical hazard closes road near NC 55 in Durham",
+      "link": "https://www.wral.com/news/local/electrical-hazard-cornwallis-road-durham-october-2026/",
+      "published_at": "2026-10-29T08:23:13+00:00",
+      "summary_raw": "Part of NC 55 reopened after being shut down for hours due to a reported electrical issue early Thursday morning in Durham.",
+      "id": "f20bac73ea4f"
+    },
+    {
+      "source": "Wired",
+      "title": "An AI Breakthrough Has Made Decades of Computer Science Research ‘Irrelevant’",
+      "link": "https://www.wired.com/story/ai-made-decades-of-computer-science-research-irrelevant/",
+      "published_at": "2026-10-29T10:45:00+00:00",
+      "summary_raw": "Anthropic and OpenAI say they’ve disproved a key tenet of computer science. Researchers are struggling with the fall but also feel like “overexcited bunnies” as they look at new questions to explore.",
+      "id": "5d492a6ff8ad"
+    },
+    {
+      "source": "NPR Politics",
+      "title": "Hackers expose the identities of more than 40,000 DHS employees",
+      "link": "https://www.npr.org/2026/10/28/nx-s1-6021497/dhs-hack-ice",
+      "published_at": "2026-10-29T03:28:50+00:00",
+      "summary_raw": "A group of hacktivists calling themselves Distributed Denial of Secrets, said the unmasking of ICE agents, DHS operatives and contractors was fair play, given the government's lack of transparency.",
+      "id": "c2445b7c7031"
+    },
+    {
+      "source": "NPR National",
+      "title": "Trump administration wants to remove regulations on a super planet-heating gas",
+      "link": "https://www.npr.org/2026/10/28/nx-s1-5995910/trump-wants-remove-regulations-planet-heating-methane",
+      "published_at": "2026-10-28T21:15:09+00:00",
+      "summary_raw": "The Trump administration wants to undo a Biden-era rule that would reduce methane emissions from the oil and gas industry.",
+      "id": "00e599ec89b3"
+    },
+    {
+      "source": "BBC World",
+      "title": "Watch: VHS tapes and computers handed to police as Thomas Markle is investigated",
+      "link": "https://www.bbc.co.uk/news/videos/cm0rlxxpng5eo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-29T14:49:25+00:00",
+      "summary_raw": "The BBC's Jonathan Head is in Cebu, reporting from outside the home where Markle resided.",
+      "id": "64537271eb24"
+    },
+    {
+      "source": "Science Daily",
+      "title": "Einstein's equations may explain the universe without dark energy",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261028232719.htm",
+      "published_at": "2026-10-29T12:07:58+00:00",
+      "summary_raw": "Mathematicians have uncovered what they argue is a fundamental flaw in the standard model of the universe, potentially challenging the need for dark energy. Their calculations suggest that the mathematical framework used to describe cosmic expansion is inherently unstable and that the universe could accelerate naturally under Einstein's original theory of gravity. The findings also raise surprising questions about whether our location in the universe is as ordinary as scientists have long assumed.",
+      "id": "bda9ea8203f5"
+    },
+    {
+      "source": "WRAL Local",
+      "title": "Wake County deputies investigating shots fired into home near Garner",
+      "link": "https://www.wral.com/news/local/shots-fired-wake-county-plaza-drive-october-2026/",
+      "published_at": "2026-10-29T08:00:28+00:00",
+      "summary_raw": "The Wake County Sheriff's Office responded around 1 a.m. to a report of shots fired near 100 Plaza Drive.",
+      "id": "10acb7d63f38"
+    },
+    {
+      "source": "Wired",
+      "title": "Hisense UR8 RGB MiniLED TV: Midrange Quality, Upscale Color Accuracy",
+      "link": "https://www.wired.com/review/review-hisense-ur8/",
+      "published_at": "2026-10-29T10:30:00+00:00",
+      "summary_raw": "The Hisense UR8 RGB MiniLED is more affordable than competitors and offers exceptional color accuracy, but is otherwise just OK.",
+      "id": "33ebf661cfa7"
+    },
+    {
+      "source": "NPR Politics",
+      "title": "Judge denies the Justice Department's bid to stop processing California ballots",
+      "link": "https://www.npr.org/2026/10/28/nx-s1-6021478/doj-california-ballots-denied",
+      "published_at": "2026-10-29T00:52:50+00:00",
+      "summary_raw": "While the judge rejected the Department of Justice's unprecedented demand in California, the case isn't over yet. The federal government immediately filed notice that it will appeal.",
+      "id": "77f745bdfb4d"
     },
     {
       "source": "NPR National",
@@ -100,43 +300,43 @@
     },
     {
       "source": "BBC World",
-      "title": "Girl seriously injured in wolf attack at German wildlife park",
-      "link": "https://www.bbc.co.uk/news/articles/c678prm55gzzo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-28T22:08:52+00:00",
-      "summary_raw": "The eight-year-old was in an enclosure with other children and a staff member when she was attacked.",
-      "id": "063da0e5116d"
+      "title": "Russian drone attack on Ukrainian train station kills at least 14, officials say",
+      "link": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-29T14:17:35+00:00",
+      "summary_raw": "At least 14 others were wounded in the attack in the central city of Dnipro, including an 11-year-old boy.",
+      "id": "19cd5d67e78b"
     },
     {
       "source": "Science Daily",
-      "title": "A single sauna session sends immune cells surging through your body",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261027231021.htm",
-      "published_at": "2026-10-28T12:37:31+00:00",
-      "summary_raw": "A new Finnish study reveals that just 30 minutes in a sauna can temporarily flood the bloodstream with additional white blood cells, potentially helping the immune system patrol the body and detect threats. The surprising response resembles the immune boost seen during exercise and may help explain some of the health benefits linked to sauna bathing.",
-      "id": "ee3db0076608"
+      "title": "Less than 42 minutes of bright daylight linked to higher dementia risk",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261028232707.htm",
+      "published_at": "2026-10-29T11:30:32+00:00",
+      "summary_raw": "Getting more daylight could be linked to a surprisingly powerful benefit for brain health. In a study of more than 87,000 adults, researchers found that higher daytime light exposure was associated with a 16% lower risk of dementia, with longer exposure to bright light linked to even greater reductions. Remarkably, getting less than 42 minutes of bright daylight daily was a stronger predictor of dementia than six established risk factors.",
+      "id": "2cbcb8fa39ef"
     },
     {
       "source": "WRAL Local",
-      "title": "Wake County student arrested during class, charged with attempted murder in Burlington shooting",
-      "link": "https://www.wral.com/news/local/wake-county-student-arrested-during-class-connection-burlington-police-investigation-october-2026/",
-      "published_at": "2026-10-28T21:49:03+00:00",
-      "summary_raw": "According to a spokesperson for the Wake County Public School System, East Wake Magnet High School went into a holding period around 10:20 a.m. During that time, deputies with the Wake County Sheriff's Office arrested a student in class.",
-      "id": "cfd7f780b443"
+      "title": "Goldsboro mother remembers son killed by wrong-way driver",
+      "link": "https://www.wral.com/news/local/man-killed-motorcycle-wrong-way-crash-goldsboro-mother-speaks-october-2026/",
+      "published_at": "2026-10-29T03:14:17+00:00",
+      "summary_raw": "A mother is mourning the loss of her son after he was killed in a crash in Goldsboro on US-70.",
+      "id": "3c2ec6c5d8bb"
     },
     {
       "source": "Wired",
-      "title": "Most Servers on the Planet Are Vulnerable to This Firmware Code-Execution Flaw",
-      "link": "https://www.wired.com/story/most-servers-on-the-planet-are-vulnerable-to-a-code-execution-flaw-in-uefi-firmware/",
-      "published_at": "2026-10-28T20:30:00+00:00",
-      "summary_raw": "The critical flaw in UEFI firmware—used by most server vendors and data centers—allows attackers to execute code early in the boot process.",
-      "id": "fff708a1dcef"
+      "title": "A Hacker Targeted High-Stakes Poker Players With Malware That Exposed Their Cards",
+      "link": "https://www.wired.com/story/a-hacker-targeted-high-stakes-poker-players-with-malware-that-exposed-their-cards/",
+      "published_at": "2026-10-29T10:30:00+00:00",
+      "summary_raw": "Illicit software on the computers of some of the world’s best online poker players allowed the accused cheater to see what cards were in the victims’ hands—and trounce them at the tables.",
+      "id": "9ff847ec873b"
     },
     {
       "source": "NPR Politics",
-      "title": "How a lifelong Republican came to lead the data center battle in Ohio",
-      "link": "https://www.npr.org/2026/10/28/nx-s1-6019276/data-centers-ai-midterms-ohio",
-      "published_at": "2026-10-28T09:00:00+00:00",
-      "summary_raw": "In Ohio, many people are displeased with the state's rapid buildout of data centers. It's a hot issue in the midterms, as political candidates from both parties try to ease voter concerns.",
-      "id": "23a4aa9aa5d4"
+      "title": "A breakthrough for the group on the trail of Chinese hackers",
+      "link": "https://www.npr.org/2026/10/28/nx-s1-6019538/a-breakthrough-for-the-group-on-the-trail-of-chinese-hackers",
+      "published_at": "2026-10-28T21:53:22+00:00",
+      "summary_raw": "Chinese government hackers are secretly burrowing into critical networks using creative new methods.",
+      "id": "0cfb6241169d"
     },
     {
       "source": "NPR National",
@@ -148,43 +348,43 @@
     },
     {
       "source": "BBC World",
-      "title": "High-speed train crash kills at least 68 people in Spain",
-      "link": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-28T21:38:54+00:00",
-      "summary_raw": "The crash, between a moving train and another that was stopped further up the track, was caused by an \"inexplicable\" error, the transport minister said.",
-      "id": "f994ea1f5734"
+      "title": "Rock collapse kills two in Turkey's Cappadocia, local media reports",
+      "link": "https://www.bbc.co.uk/news/articles/cknv08nvzld4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-29T13:44:39+00:00",
+      "summary_raw": "One of the region's famous rock formations, known as \"fairy chimneys\", reportedly collapsed outside an open-air museum.",
+      "id": "9127d7ef9e0f"
     },
     {
       "source": "Science Daily",
-      "title": "Smaller EV batteries, longer range? Scientists may have found a way",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261027063708.htm",
-      "published_at": "2026-10-28T12:25:43+00:00",
-      "summary_raw": "Scientists have developed a new technology that could make electric vehicle batteries smaller, lighter, and longer-lasting, potentially allowing cars to travel farther on a single charge. By borrowing precision manufacturing techniques from computer chip production, they found a way to prevent damaging lithium buildup that has held back next-generation batteries.",
-      "id": "659de29a97aa"
+      "title": "Scientists discover that cranberry juice may help fight tooth decay",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261028232701.htm",
+      "published_at": "2026-10-29T11:12:06+00:00",
+      "summary_raw": "Cranberry juice may offer an unexpected benefit beyond its reputation for helping prevent urinary tract infections: protecting teeth from decay. Researchers at the University of Illinois Chicago discovered that pure, unsweetened cranberry juice slowed the regrowth of dental plaque bacteria and reduced their production of acids that damage tooth enamel. The secret may lie in naturally occurring compounds called proanthocyanidins, which interfere with harmful bacteria.",
+      "id": "69724cc3cbbc"
     },
     {
       "source": "WRAL Local",
-      "title": "Why the man behind the Cary stand-off was arrested, not committed",
-      "link": "https://www.wral.com/news/local/why-cary-man-arrested-after-standoff-was-not-committed-oct-2026/",
-      "published_at": "2026-10-28T21:29:47+00:00",
-      "summary_raw": "The man arrested following an hours-long SWAT standoff in Cary on Monday has not received a mental health evaluation, and prosecutors did not seek to involuntarily commit him. Jonathan Miller remains in custody after a judge set his bond at $50,000.",
-      "id": "9b7576a92d9c"
+      "title": "SBI: Two Lee County men arrested, charged with child sex crimes",
+      "link": "https://www.wral.com/news/local/sbi-two-lee-county-men-arrested-charged-with-child-sex-crimes-october-2026/",
+      "published_at": "2026-10-29T02:48:09+00:00",
+      "summary_raw": "According to the State Bureau of Investigation, SBI agents, along with the Lee County Sheriff's Office and Sanford Police Department, arrested 75-year-old Barney Layton Bunnell and 36-year-old Brandon Mitchell Carter for various child sex crimes.",
+      "id": "f71d5fc96ba2"
     },
     {
       "source": "Wired",
-      "title": "Massive Leak Exposes 41,000 Homeland Security Workers—Including Undercover ICE Agents",
-      "link": "https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/",
-      "published_at": "2026-10-28T20:00:00+00:00",
-      "summary_raw": "The leaked records include the locations of ICE and CBP facilities, workers’ cell phone numbers, and the members of groups tied to wiretap programs, Palantir software, and xAI’s Grok chatbot.",
-      "id": "13f027b066e6"
+      "title": "I Did Push-Ups With Snap’s Chunky AR Glasses",
+      "link": "https://www.wired.com/story/i-did-push-ups-with-snaps-chunky-ar-glasses/",
+      "published_at": "2026-10-29T10:15:00+00:00",
+      "summary_raw": "They fit better than they look and stay put when you move, but Snap’s $2,195 Specs still feel like a developer prototype in search of a purpose.",
+      "id": "d01155ef1656"
     },
     {
       "source": "NPR Politics",
-      "title": "Why many student voters have a right to choose where to register to vote",
-      "link": "https://www.npr.org/2026/10/28/nx-s1-5793936/college-student-voting",
-      "published_at": "2026-10-28T09:00:00+00:00",
-      "summary_raw": "Student voters studying outside their hometown have a right to choose where they register to vote. Advocates say a Montana legal fight is a reminder of a misunderstanding of those students' rights.",
-      "id": "a9ed8cd812dd"
+      "title": "Israel's election too close to call. And, the Ebola outbreak reaches grim milestone",
+      "link": "https://www.npr.org/2026/10/28/g-s1-150313/up-first-newsletter-midterm-campaign-trump-israel-elections-federal-reserve-ebola-outbreak",
+      "published_at": "2026-10-28T11:28:55+00:00",
+      "summary_raw": "Israeli voters turned out in record numbers, and the results remain too close to call. And, more than 10,000 people have been infected with Ebola since the outbreak was first declared in May.",
+      "id": "382de5bc4735"
     },
     {
       "source": "NPR National",
@@ -196,83 +396,35 @@
     },
     {
       "source": "BBC World",
-      "title": "Bloodied, dazed and angry - how passengers' rail journey turned to disaster in Spain",
-      "link": "https://www.bbc.co.uk/news/articles/cm9qzd47ng98o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-28T21:24:41+00:00",
-      "summary_raw": "Survivors of the train crash in Spain have spoken of their shock, panic and anger at the accident in Toledo province on Wednesday.",
-      "id": "163fce1b8e62"
+      "title": "Philippine police obtain warrant to search Thomas Markle's devices",
+      "link": "https://www.bbc.co.uk/news/articles/cm0j06y3pn75o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-29T13:25:07+00:00",
+      "summary_raw": "Images of child sexual abuse allegedly belonging to Meghan's father had reportedly been found in his former home in the Philippines.",
+      "id": "2420a45bf0c1"
     },
     {
       "source": "Science Daily",
-      "title": "Scientists discover a secret glow in toxic fire salamanders",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261027063707.htm",
-      "published_at": "2026-10-28T12:11:52+00:00",
-      "summary_raw": "Researchers have discovered a surprising hidden ability in Europe's familiar black-and-yellow fire salamanders: they glow green and cyan under ultraviolet light. The mysterious fluorescence comes mainly from glands in their skin and their toxic secretions, which can continue glowing for more than 24 hours after being released.",
-      "id": "2f0061a0ccd0"
+      "title": "128,000-year-old ice in Tibet could rewrite climate history",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261028232713.htm",
+      "published_at": "2026-10-29T08:10:47+00:00",
+      "summary_raw": "Ancient ice discovered high in Tibet may be more than 128,000 years old, preserving an extraordinary record of Earth's climate that scientists previously thought had been lost. The discovery reveals a rare glimpse into the last ice age and could reshape our understanding of how glaciers survive dramatic changes in global climate.",
+      "id": "07d6881f3015"
     },
     {
       "source": "WRAL Local",
-      "title": "Hayden Panettiere death ruled accidental, investigation closed by police in South Carolina",
-      "link": "https://www.wral.com/news/local/hayden-panettiere-death-accidental-investigation-october-2026/",
-      "published_at": "2026-10-28T21:27:13+00:00",
-      "summary_raw": "Police in South Carolina closed the investigation into actress Hayden Panettiere’s death after it was determined she died of an accidental drug overdose, the Greenville police department said Wednesday.",
-      "id": "4440ddea2307"
+      "title": "Oh deer! Deer hits woman, crashes through window at Winston-Salem laundromat",
+      "link": "https://www.wral.com/news/state/deer-hits-woman-crashes-through-window-winston-salem-laundromat-october-2026/",
+      "published_at": "2026-10-29T02:47:26+00:00",
+      "summary_raw": "Security footage from The Wishy Washy Laundry on South Main Street showed the deer running through the parking lot and running into a woman who had just left the business. It then crashed through a window and climbed onto the machines before escaping through the broken window.",
+      "id": "223e6f1081bb"
     },
     {
       "source": "Wired",
-      "title": "The New M6 MacBook Pro Has a Serious Price Problem",
-      "link": "https://www.wired.com/story/m6-macbook-pro-price-problem/",
-      "published_at": "2026-10-28T18:57:22+00:00",
-      "summary_raw": "For $1,999, you could own an M6 Mac Mini and an M5 MacBook Air instead, both of which are on sale right now.",
-      "id": "6b3dbff04d9a"
-    },
-    {
-      "source": "NPR Politics",
-      "title": "Here's how Democrats in Congress are preparing for election fraud claims",
-      "link": "https://www.npr.org/2026/10/28/g-s1-150095/democrats-prepare-election-fraud-claims",
-      "published_at": "2026-10-28T09:00:00+00:00",
-      "summary_raw": "Congressional Democrats are working with good governance groups to create an action plan for any potential claims of election fraud.",
-      "id": "b5110552e926"
-    },
-    {
-      "source": "NPR National",
-      "title": "Partnerships between ICE and local police surge, report finds",
-      "link": "https://www.npr.org/2026/10/28/g-s1-150296/287g-local-police-immigration-ice",
-      "published_at": "2026-10-28T09:00:00+00:00",
-      "summary_raw": "The number of state and local officers working with Immigration and Customs Enforcement has doubled in size in the last eight months, according to a new report from the immigration reform advocacy group FWD.us.",
-      "id": "26b61c58b73f"
-    },
-    {
-      "source": "BBC World",
-      "title": "Death of US actress Hayden Panettiere ruled accidental, ending local police probe",
-      "link": "https://www.bbc.co.uk/news/articles/c6lylxjkkp0vo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-28T21:16:30+00:00",
-      "summary_raw": "The Heroes and Nashville star died in August from the toxic effects of fentanyl, Xanax and several other drugs.",
-      "id": "e9f5911c5b62"
-    },
-    {
-      "source": "Science Daily",
-      "title": "Scientists discover a hidden 100-million-year-old volcanic system",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261026225615.htm",
-      "published_at": "2026-10-28T12:00:17+00:00",
-      "summary_raw": "Scientists have uncovered a long-lost volcanic system in Iran that dates back roughly 100 million years, revealing a hidden chapter in Earth's tectonic history. The discovery sheds new light on the disappearance of an ancient ocean and the powerful geological forces that reshaped the Middle East.",
-      "id": "ce917f69af25"
-    },
-    {
-      "source": "WRAL Local",
-      "title": "Durham police seek driver in deadly hit-and-run on Durham Freeway",
-      "link": "https://www.wral.com/news/local/durham-police-search-driver-deadly-hit-and-run-durham-freeway-october-2026/",
-      "published_at": "2026-10-28T21:21:13+00:00",
-      "summary_raw": "Durham police are asking for help in identifying a vehicle and driver involved in a deadly hit-and-run accident on the Durham Freeway Sunday night.",
-      "id": "ebbe354022b6"
-    },
-    {
-      "source": "Wired",
-      "title": "I Put a Bunch of AI Agents in Charge of a Fantasy Soccer Team. They’re Not Better Than Humans—Yet",
-      "link": "https://www.wired.com/story/i-put-ai-agents-in-charge-of-a-fantasy-team/",
-      "published_at": "2026-10-28T18:30:00+00:00",
-      "summary_raw": "To experiment with AI’s predictive skills, I let Codex loose on a fantasy team. It tried to bench Erling Haaland at first, but it soon learned the error of its ways.",
-      "id": "bbef20143a2b"
+      "title": "I Gave My Blood to the AI Death Clock",
+      "link": "https://www.wired.com/story/i-gave-an-ai-death-clock-my-blood/",
+      "published_at": "2026-10-29T10:00:00+00:00",
+      "summary_raw": "Death Clock promises to predict when you’re going to die and help you extend your time on Earth. After a month, I felt like it was sucking the life out of me.",
+      "id": "715f46fa5285"
     },
     {
       "source": "NPR Politics",
@@ -284,6 +436,54 @@
     },
     {
       "source": "NPR National",
+      "title": "Partnerships between ICE and local police surge, report finds",
+      "link": "https://www.npr.org/2026/10/28/g-s1-150296/287g-local-police-immigration-ice",
+      "published_at": "2026-10-28T09:00:00+00:00",
+      "summary_raw": "The number of state and local officers working with Immigration and Customs Enforcement has doubled in size in the last eight months, according to a new report from the immigration reform advocacy group FWD.us.",
+      "id": "26b61c58b73f"
+    },
+    {
+      "source": "BBC World",
+      "title": "Record number of purges as Xi emphasises 'party discipline' at China political gathering",
+      "link": "https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-29T12:49:17+00:00",
+      "summary_raw": "Xi's anti-corruption campaign has become \"an effort to consolidate and maintain authority\", observers say.",
+      "id": "10f9bec1d137"
+    },
+    {
+      "source": "Science Daily",
+      "title": "Your blood pressure could be dangerous even when your numbers look normal",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261027063814.htm",
+      "published_at": "2026-10-29T03:54:37+00:00",
+      "summary_raw": "Researchers have discovered a small group of brain cells that prevents dangerous blood pressure swings, even when average readings appear normal. The finding reveals a hidden source of cardiovascular risk and could open the door to new treatments that protect the heart and brain.",
+      "id": "42fdcb4556bc"
+    },
+    {
+      "source": "WRAL Local",
+      "title": "Rescued chihuahuas begin recovery after Wake County animal cruelty case",
+      "link": "https://www.wral.com/news/local/rescued-chihuahuas-begin-recovery-after-wake-county-animal-cruelty-case-october-2026/",
+      "published_at": "2026-10-29T02:02:03+00:00",
+      "summary_raw": "Nineteen dogs that were rescued from a Wake County home are now in receiving medical care and showing signs of progress in foster homes throughout the Triangle.",
+      "id": "f6cf46d9f4d6"
+    },
+    {
+      "source": "Wired",
+      "title": "Reencle Essential Review: Same Scraps, Lower Price",
+      "link": "https://www.wired.com/review/reencle-essential-electric-composter/",
+      "published_at": "2026-10-29T10:00:00+00:00",
+      "summary_raw": "Reencle has made your favorite kitchen composter cheaper—with a few compromises.",
+      "id": "77c8488981e1"
+    },
+    {
+      "source": "NPR Politics",
+      "title": "Why many student voters have a right to choose where to register to vote",
+      "link": "https://www.npr.org/2026/10/28/nx-s1-5793936/college-student-voting",
+      "published_at": "2026-10-28T09:00:00+00:00",
+      "summary_raw": "Student voters studying outside their hometown have a right to choose where they register to vote. Advocates say a Montana legal fight is a reminder of a misunderstanding of those students' rights.",
+      "id": "a9ed8cd812dd"
+    },
+    {
+      "source": "NPR National",
       "title": "Trump says he's ending restrictions on climate-warming methane from oil drilling",
       "link": "https://www.npr.org/2026/10/28/g-s1-150299/trump-methane-restrictions",
       "published_at": "2026-10-28T06:15:31+00:00",
@@ -292,355 +492,155 @@
     },
     {
       "source": "BBC World",
-      "title": "Israel's election deadlock is a sign of the country's deep divisions",
-      "link": "https://www.bbc.co.uk/news/articles/cqz0ve94ygpjo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-28T20:53:02+00:00",
-      "summary_raw": "The election was a celebration of democracy in some ways - but it has left Israel with no clear path to a new government, writes James Landale.",
-      "id": "ddea68624080"
+      "title": "US sanctions Rwanda's defence ministry over DR Congo conflict",
+      "link": "https://www.bbc.co.uk/news/articles/cm87zw51qw0jo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-29T11:25:16+00:00",
+      "summary_raw": "Congo accuses Rwanda of backing M23 rebels and plundering minerals in its conflict hit East",
+      "id": "73a4bcc0d4d4"
     },
     {
       "source": "Science Daily",
-      "title": "Earth's ice ages may have been driven by a hidden ocean chain reaction",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261026225610.htm",
-      "published_at": "2026-10-28T11:08:25+00:00",
-      "summary_raw": "Scientists have uncovered a surprising connection between Earth's opposite poles that may help explain how the planet plunged into past ice ages. New research suggests that as massive ice sheets expanded across the Northern Hemisphere, they cooled Atlantic Ocean waters that eventually traveled south toward Antarctica. This cooling may have disrupted Southern Ocean circulation, allowing the ocean to absorb and store more carbon dioxide from the atmosphere, further cooling the planet.",
-      "id": "d8f6ffd452dd"
+      "title": "Scientists just broke a textbook rule of physics",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261027063713.htm",
+      "published_at": "2026-10-29T03:39:27+00:00",
+      "summary_raw": "Scientists have defied a long-standing rule of laser physics by generating X-rays with much higher energies than conventional theory predicts. The surprising discovery reveals how two electrons working together can overcome a previously accepted limit, opening new possibilities for quantum research.",
+      "id": "1f2b2a3c94be"
     },
     {
       "source": "WRAL Local",
-      "title": "St. Aug's real estate deal decision pushed to next month",
-      "link": "https://www.wral.com/news/state/where-does-st-augs-real-estate-deal-stand-october-2026/",
-      "published_at": "2026-10-28T21:20:11+00:00",
-      "summary_raw": "Both the bankruptcy administrator and the school’s lender said they have reservations about the current deal with Avison Young. Earlier this month, officials say the deal could be modified or withdrawn all together.",
-      "id": "70928d120f2e"
+      "title": "Two men plead guilty in Lenoir County affordable housing fraud scheme",
+      "link": "https://www.wral.com/news/state/two-men-defraud-federal-government-lenoir-county-oct-2026/",
+      "published_at": "2026-10-28T22:38:58+00:00",
+      "summary_raw": "Daquan Copeland, 35, of Houston, and Esless White Sr., 51, of Jamaica, New York, pleaded guilty to conspiracy to commit mail fraud, according to the North Carolina State Bureau of Investigation.",
+      "id": "1a628d211fe4"
     },
     {
       "source": "Wired",
-      "title": "The Inside Story of Why Apple Finally Brought a Touch Display to the Mac",
-      "link": "https://www.wired.com/story/the-inside-story-of-why-apple-finally-brought-a-touch-display-to-the-mac/",
-      "published_at": "2026-10-28T17:15:16+00:00",
-      "summary_raw": "An exclusive early look at Apple’s new touchscreen MacBook Pro—the computer Apple said would never happen.",
-      "id": "43fd743db211"
-    },
-    {
-      "source": "NPR Politics",
-      "title": "Minnesota becomes battleground as political clashes shape Senate race",
-      "link": "https://www.npr.org/2026/10/28/nx-s1-6019356/minnesota-becomes-battleground-as-political-clashes-shape-senate-race",
-      "published_at": "2026-10-28T08:45:25+00:00",
-      "summary_raw": "Minnesota has become a flashpoint in the political dispute between President Trump and Democrats. Clashes over immigration and recent accusations of fraud are spilling into the U.S. Senate race.",
-      "id": "a11fb5cb6195"
-    },
-    {
-      "source": "NPR National",
-      "title": "Southwest flood damage estimates are hundreds of millions for New Mexico alone",
-      "link": "https://www.npr.org/2026/10/27/nx-s1-6019352/southwest-flood-damage-estimates-are-hundreds-of-millions-for-new-mexico-alone",
-      "published_at": "2026-10-27T21:17:57+00:00",
-      "summary_raw": "Intense rainstorms linked to a very active El Niño-driven Pacific hurricane season have left thousands of people in the Four Corners states displaced.",
-      "id": "01386c06e01e"
+      "title": "Law Firm Linked to Elon Musk Started an ‘Election Integrity’ Organization",
+      "link": "https://www.wired.com/story/law-firm-linked-to-elon-musk-started-an-election-integrity-organization/",
+      "published_at": "2026-10-29T09:45:00+00:00",
+      "summary_raw": "The firm that helped set up Elon Musk’s America PAC is behind the new group, which will work with election officials to pursue policies aligned with Donald Trump’s false election fraud claims.",
+      "id": "d6751ddaf73a"
     },
     {
       "source": "BBC World",
-      "title": "Watch: King dances in the streets of the Bahamas capital",
-      "link": "https://www.bbc.co.uk/news/videos/cm87zwe3ydp1o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-28T20:44:10+00:00",
-      "summary_raw": "The monarch is in the Bahamas as part of a tour of the Caribbean during which he addressed the \"great suffering of the past\".",
-      "id": "575756879cf6"
+      "title": "Audio reveals exchanges between control centre and drivers before deadly Spain train crash",
+      "link": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-29T11:07:35+00:00",
+      "summary_raw": "The recordings appear to show one high-speed train was given clearance to move even though another up ahead had stalled.",
+      "id": "48a5119b9b15"
     },
     {
       "source": "Science Daily",
-      "title": "NASA’s Artemis I mission reveals surprising radiation levels near the Moon",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261027063659.htm",
-      "published_at": "2026-10-28T10:29:36+00:00",
-      "summary_raw": "NASA’s Artemis I mission has revealed that cosmic radiation near the Moon is higher than in Earth orbit, but not by as much as scientists might expect. Tiny experimental detectors also uncovered surprising details about how radiation passes through the human body, offering valuable insights for future lunar exploration.",
-      "id": "53df4a8cbbd9"
-    },
-    {
-      "source": "WRAL Local",
-      "title": "Second Pittsboro daycare employee charged with child abuse, police say",
-      "link": "https://www.wral.com/news/local/second-pittsboro-daycare-employee-charged-with-child-abuse-october-2026/",
-      "published_at": "2026-10-28T21:13:56+00:00",
-      "summary_raw": "According to court documents, Tammy Xara, 59, was charged with one count of misdemeanor child abuse. She is the second employee of Amazing Explorers Academy to face child abuse charges this month.",
-      "id": "389da964ff18"
+      "title": "Meteors don't just burn up. What really happens is far more violent",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261027063710.htm",
+      "published_at": "2026-10-29T03:06:41+00:00",
+      "summary_raw": "Scientists have uncovered seven surprising stages that space rocks go through as they hurtle toward Earth, revealing that melting and violent fragmentation, rather than simple evaporation, determine their fate. The discovery could help explain why meteorites scatter across the ground and how dangerous asteroids explode in Earth's atmosphere.",
+      "id": "80d7026d11d7"
     },
     {
       "source": "Wired",
-      "title": "Sony Wants You to Forget About Discs With Its Gorgeous Transparent Controllers",
-      "link": "https://www.wired.com/story/sony-wants-you-to-forget-about-discs-with-its-gorgeous-transparent-controller/",
-      "published_at": "2026-10-28T15:00:00+00:00",
-      "summary_raw": "Sony has new, spiffy see-through controllers and covers for its PlayStation 5 that let you see the hardware guts inside.",
-      "id": "dcf6be686dc1"
-    },
-    {
-      "source": "NPR Politics",
-      "title": "A judge halted D.C. golf course renovations. Trump says they'll still start next month",
-      "link": "https://www.npr.org/2026/10/27/nx-s1-6019192/east-potomac-golf-course-renovations-blocked-appeal",
-      "published_at": "2026-10-27T17:01:37+00:00",
-      "summary_raw": "A federal judge has barred the government from clearing more trees or making other alterations to D.C.'s East Potomac Park without proper notice. Trump says his administration will appeal.",
-      "id": "a8bda2df0af5"
-    },
-    {
-      "source": "NPR National",
-      "title": "A judge halted D.C. golf course renovations. Trump says they'll still start next month",
-      "link": "https://www.npr.org/2026/10/27/nx-s1-6019192/east-potomac-golf-course-renovations-blocked-appeal",
-      "published_at": "2026-10-27T17:01:37+00:00",
-      "summary_raw": "A federal judge has barred the government from clearing more trees or making other alterations to D.C.'s East Potomac Park without proper notice. Trump says his administration will appeal.",
-      "id": "a8bda2df0af5"
-    },
-    {
-      "source": "BBC World",
-      "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
-      "link": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-28T20:24:39+00:00",
-      "summary_raw": "With 85% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.",
-      "id": "4def5e465beb"
-    },
-    {
-      "source": "Science Daily",
-      "title": "Antarctica’s “Doomsday Glacier” could raise sea levels twice as much as predicted",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261027063701.htm",
-      "published_at": "2026-10-28T09:22:09+00:00",
-      "summary_raw": "Antarctica’s Thwaites Glacier may be melting twice as much as previously predicted, even without additional global warming. Scientists discovered that warm ocean water is penetrating miles beneath the ice, weakening its foundations and accelerating its retreat. A new model predicts that the glacier could add up to 30 millimeters to global sea levels by 2100, with a 60% chance of losing a crucial stabilizing ridge.",
-      "id": "263f14a88202"
-    },
-    {
-      "source": "WRAL Local",
-      "title": "Illegal moonshine distillery seized, man charged after NC explosion",
-      "link": "https://www.wral.com/news/local/illegal-moonshine-distillery-seized-explosion-october-2026/",
-      "published_at": "2026-10-28T21:09:26+00:00",
-      "summary_raw": "A man is facing multiple charges after an illegal moonshine distillery exploded in Wilkes County on Monday, Oct. 26.",
-      "id": "7269022ce2df"
-    },
-    {
-      "source": "Wired",
-      "title": "Senators Demand to Know if Dr. Oz Collaborated With Election Denial Groups",
-      "link": "https://www.wired.com/story/senators-demand-to-know-if-dr-oz-collaborated-with-election-denial-groups/",
-      "published_at": "2026-10-28T14:46:35+00:00",
-      "summary_raw": "A far-right campaign claiming leftists are stealing votes from nursing home residents has centered on changing guidance from Mehmet Oz’s Centers for Medicare and Medicaid Services.",
-      "id": "44348e0d51fa"
-    },
-    {
-      "source": "NPR Politics",
-      "title": "Democrats have a midterm edge, poll shows. And, Israelis vote in high-stakes election",
-      "link": "https://www.npr.org/2026/10/27/g-s1-150052/up-first-newsletter-midterms-polling-data-voter-fraud-israel-prime-minister-elections",
-      "published_at": "2026-10-27T11:39:52+00:00",
-      "summary_raw": "Democrats are still holding a slight edge with Election Day a week away, according to a new NPR/PBS News/Marist poll. And, Israelis are casting their votes in an election that could change leadership.",
-      "id": "4f3521a9cd3d"
-    },
-    {
-      "source": "NPR National",
-      "title": "Democrats still poised to make gains, but poll shows warning signs for just how many",
-      "link": "https://www.npr.org/2026/10/27/nx-s1-6017479/2026-midterms-npr-poll-democrats-trump-approval",
-      "published_at": "2026-10-27T09:00:00+00:00",
-      "summary_raw": "Democrats hold significant advantages going into Election Day, according to a new NPR/PBS News/Marist poll. But lagging enthusiasm among key groups is just one indicator that gains may not come easy.",
-      "id": "6ed77faf6a35"
-    },
-    {
-      "source": "BBC World",
-      "title": "How did Flávio Bolsonaro end up in Miami?",
-      "link": "https://www.bbc.co.uk/news/videos/ck4g1xe5xny4o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-28T18:51:05+00:00",
-      "summary_raw": "BBC Verify has pieced together defeated presidential candidate Flávio Bolsonaro's journey through Brazil, Argentina and Ecuador to reach Miami.",
-      "id": "fca9fd338d2b"
-    },
-    {
-      "source": "Science Daily",
-      "title": "A simple daily fiber supplement reduced arthritis pain and improved strength",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261027230715.htm",
-      "published_at": "2026-10-28T03:56:09+00:00",
-      "summary_raw": "A new clinical trial suggests that a simple daily fiber supplement could significantly reduce knee osteoarthritis pain, improve muscle strength, and make the body less sensitive to pain. Researchers discovered that the benefits may be linked to changes in gut bacteria and the hormone GLP-1, revealing a promising new approach to arthritis relief.",
-      "id": "a4696d32ebcc"
-    },
-    {
-      "source": "WRAL Local",
-      "title": "Where does St. Aug's real estate deal stand?",
-      "link": "https://www.wral.com/news/local/where-does-st-augs-real-estate-deal-stand-october-2026/",
-      "published_at": "2026-10-28T21:06:02+00:00",
-      "summary_raw": "Both the bankruptcy administrator and the school’s lender said they have reservations about the current deal with Avison Young. Earlier this month, officials say the deal could be modified or withdrawn all together.",
-      "id": "c3c053bb3093"
-    },
-    {
-      "source": "Wired",
-      "title": "What’s the Best Kindle of 2026 (So Far)?",
-      "link": "https://www.wired.com/gallery/best-kindle/",
-      "published_at": "2026-10-28T13:02:00+00:00",
-      "summary_raw": "I’ve tested every single Kindle, from Paperwhite and Colorsoft to the new aluminum models. Here’s how Amazon’s ebook readers stack up.",
-      "id": "f2cf16de2f7e"
-    },
-    {
-      "source": "NPR Politics",
-      "title": "Polymarket has investigated 'dozens' of election-related cases",
-      "link": "https://www.npr.org/2026/10/27/nx-s1-6012304/polymarket-election-betting-surveillance",
-      "published_at": "2026-10-27T09:00:00+00:00",
-      "summary_raw": "The prediction market has hired a former FBI official to make sure political insiders don't use the platform for profit from confidential election information.",
-      "id": "a95fa27c87fa"
-    },
-    {
-      "source": "NPR National",
-      "title": "Can Black voting power and Trump fatigue break Mississippi's red wall?",
-      "link": "https://www.npr.org/2026/10/27/nx-s1-6018592/mississippi-senate-trump-colom-black-voter-turnout",
-      "published_at": "2026-10-27T09:00:00+00:00",
-      "summary_raw": "Mississippi has the largest proportional Black population in the country. It's one reason the U.S. Senate race has seen millions in last-minute spending and high-profile campaign visits.",
-      "id": "e9ae4d1ffd88"
-    },
-    {
-      "source": "BBC World",
-      "title": "Myanmar diplomat breaks down as he urges world to 'end our suffering'",
-      "link": "https://www.bbc.co.uk/news/videos/cqz0ve10jxn2o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-28T17:34:41+00:00",
-      "summary_raw": "Kyaw Moe Tun - Myanmar's representative to the UN - makes an emotional appeal after saying the international community had failed the country's people.",
-      "id": "f1e962678798"
-    },
-    {
-      "source": "Science Daily",
-      "title": "The autistic brain processes faces differently than scientists thought",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261027063824.htm",
-      "published_at": "2026-10-28T03:02:38+00:00",
-      "summary_raw": "A major new study reveals that autistic children’s brains process faces differently, and those differences may begin earlier than scientists previously thought. Researchers found that brain signals associated with recognizing faces become more specialized as neurotypical children grow older, but show much less change in autistic children. The discovery could help explain why some autistic people have difficulty recognizing faces and reading emotions.",
-      "id": "2718276f993b"
-    },
-    {
-      "source": "WRAL Local",
-      "title": "Some residents who live near data centers may be more likely to tolerate them, research suggests",
-      "link": "https://www.wral.com/news/local/data-center-virginia-residents-mecklenburg-county-neighbor-concerns-october-2026/",
-      "published_at": "2026-10-28T21:01:05+00:00",
-      "summary_raw": "Recent research suggests residents may be more tolerant of data centers if the community they live in already has one. Years after the first data centers arrived in Mecklenburg County, Virginia, how have residents responded to them in their backyard?",
-      "id": "af1d27ec23ad"
-    },
-    {
-      "source": "Wired",
-      "title": "Amazon Kindle Paperwhite (2026) and Colorsoft (2026) Review: Best for Accessories",
-      "link": "https://www.wired.com/review/kindle-paperwhite-kindle-colorsoft-2026/",
-      "published_at": "2026-10-28T13:01:00+00:00",
-      "summary_raw": "The latest generation of Kindle’s 7-inch e-readers have a new look and new accessories. But are they worth the upgrade given Amazon’s new Kindle prices?",
-      "id": "fa4d2275f71f"
-    },
-    {
-      "source": "BBC World",
-      "title": "Watch: At the scene of Spain's deadly train crash",
-      "link": "https://www.bbc.co.uk/news/videos/cw5ynjgy3vvgo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-28T16:45:16+00:00",
-      "summary_raw": "People have been killed after a Spanish high-speed train collided with another train south of the capital Madrid, making this the country's worst disaster since 2013.",
-      "id": "6ef2ff1002e8"
-    },
-    {
-      "source": "Science Daily",
-      "title": "The asteroid that killed the dinosaurs may have helped ants conquer the world",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261026225608.htm",
-      "published_at": "2026-10-28T01:40:35+00:00",
-      "summary_raw": "The asteroid that killed the dinosaurs may have set the stage for ants to conquer the planet, with a surprising boost from “jumping genes” hidden in their DNA. Scientists discovered that bursts of activity from these mobile genetic elements coincided with the rise of major ant groups and may have helped sharpen their extraordinary ability to communicate through smell.",
-      "id": "35c53b47cfa6"
-    },
-    {
-      "source": "Wired",
-      "title": "Amazon Adds an Alexa Photo Frame and a Bedside Clock to Its Echo Family",
-      "link": "https://www.wired.com/story/amazon-adds-an-alexa-photo-frame-and-a-bedside-clock-to-its-echo-family/",
-      "published_at": "2026-10-28T12:01:00+00:00",
-      "summary_raw": "The new Echo Studio also gets a camera, and the Echo Show 16 debuts an AI-generated Alexa interface.",
-      "id": "c22572a50ef6"
+      "title": "Liquid Glass Finally Makes Sense on the iPhone Duo",
+      "link": "https://www.wired.com/story/liquid-glass-finally-makes-sense-on-the-iphone-duo/",
+      "published_at": "2026-10-29T09:30:00+00:00",
+      "summary_raw": "Liquid Glass was a divisive redesign. But with a radically different iPhone, the pieces are finally falling into place.",
+      "id": "954fb064a99d"
     },
     {
       "source": "BBC World",
       "title": "What we know so far about deadly Spain train crash",
       "link": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-28T15:36:11+00:00",
-      "summary_raw": "More than 500 passengers were on board the trains when the incident occurred in the province of Toledo, south of Madrid.",
+      "published_at": "2026-10-29T10:02:37+00:00",
+      "summary_raw": "More than 500 passengers were on board the trains when the crash occurred in the province of Toledo, south of Madrid.",
       "id": "19e93fd641f9"
     },
     {
       "source": "Science Daily",
-      "title": "Scientists discover the immune system’s hidden sense of touch",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261026225617.htm",
-      "published_at": "2026-10-28T00:54:54+00:00",
-      "summary_raw": "Scientists at McGill University have discovered a surprising new ability of immune cells that could change how we understand long-term immunity. Researchers found that T cells can actually sense how stiff their surrounding tissues are, using these physical signals to help determine whether they develop into long-lasting memory cells that protect against future infections.",
-      "id": "3801be1b1e84"
+      "title": "Scientists discover a hidden oxygen reservoir deep inside Earth",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261027063702.htm",
+      "published_at": "2026-10-29T01:13:05+00:00",
+      "summary_raw": "Scientists have discovered that magma deep inside Earth can store surprising amounts of extra oxygen, potentially revealing a hidden contributor to our planet's oxygen-rich atmosphere. The findings suggest that ancient volcanic eruptions may have helped transform Earth's atmosphere billions of years ago, with implications for understanding life on other planets.",
+      "id": "f3204a497e37"
     },
     {
       "source": "Wired",
-      "title": "Sauerkraut at Every Meal? These Fermentation Fanatics Tried That Long Before MAHA",
-      "link": "https://www.wired.com/story/portland-fermentation-festival-stinkfest/",
-      "published_at": "2026-10-28T11:00:00+00:00",
-      "summary_raw": "The annual Portland Fermentation Festival took place last week in Oregon, at a time when sauerkraut, kimchi, and other funky foods are in the social and political spotlight.",
-      "id": "7353c1d8c235"
+      "title": "Astronomers Discover a Possible New Dwarf Planet in Our Solar System",
+      "link": "https://www.wired.com/story/astronomers-discover-a-possible-new-dwarf-planet-in-our-solar-system/",
+      "published_at": "2026-10-29T09:00:00+00:00",
+      "summary_raw": "Lying beyond Pluto, 2026 ED138 could be as large as 1,500 kilometers in diameter. Astronomers are still working to confirm whether it meets the criteria for a dwarf planet.",
+      "id": "be6ab97e2a5b"
+    },
+    {
+      "source": "BBC World",
+      "title": "'I live with a ghost' - inside the haunted homes attracting bargain hunters",
+      "link": "https://www.bbc.co.uk/news/articles/cqwy78elyrlzo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-29T09:30:03+00:00",
+      "summary_raw": "Properties where someone has died in tragic circumstances can have big reductions in price.",
+      "id": "e567c05bee15"
+    },
+    {
+      "source": "Science Daily",
+      "title": "Scientists discover a hidden reason why muscles weaken with age",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261027063704.htm",
+      "published_at": "2026-10-28T13:04:55+00:00",
+      "summary_raw": "Scientists have uncovered a hidden defense mechanism in aging muscles that sacrifices strength to protect cells from damage. In mice, partially restoring a crucial molecule reversed signs of muscle wasting and prevented premature death, raising hopes for new treatments for age-related muscle decline.",
+      "id": "c123df6c2c1c"
+    },
+    {
+      "source": "Wired",
+      "title": "NZXT Discount Codes: 50% Off in November 2026",
+      "link": "https://www.wired.com/story/nzxt-discount-code/",
+      "published_at": "2026-10-29T05:00:00+00:00",
+      "summary_raw": "Save 50%, plus up to $250 with NZXT promo codes and discounts.",
+      "id": "6791a2794358"
+    },
+    {
+      "source": "BBC World",
+      "title": "Audacious Indian jailbreak saga ends with 17 prisoners recaptured",
+      "link": "https://www.bbc.co.uk/news/articles/cmx2qrgy591ro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-10-29T09:17:05+00:00",
+      "summary_raw": "The jailbreak began with a fake seizure and ended 36 hours later with all the inmates back behind bars.",
+      "id": "1b151b820c83"
+    },
+    {
+      "source": "Science Daily",
+      "title": "A single sauna session sends immune cells surging through your body",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261027231021.htm",
+      "published_at": "2026-10-28T12:37:31+00:00",
+      "summary_raw": "A new Finnish study reveals that just 30 minutes in a sauna can temporarily flood the bloodstream with additional white blood cells, potentially helping the immune system patrol the body and detect threats. The surprising response resembles the immune boost seen during exercise and may help explain some of the health benefits linked to sauna bathing.",
+      "id": "ee3db0076608"
+    },
+    {
+      "source": "Wired",
+      "title": "Norton Coupon Codes: Up to 58% Off",
+      "link": "https://www.wired.com/story/norton-coupon-code/",
+      "published_at": "2026-10-29T05:00:00+00:00",
+      "summary_raw": "Whether you’re looking to protect your small business or your personal computer, we have the top coupons and deals to help you save at Norton.",
+      "id": "702fb59fd94a"
     },
     {
       "source": "BBC World",
       "title": "How could Israel break election deadlock? Here are four scenarios",
       "link": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-28T14:30:31+00:00",
-      "summary_raw": "With 85% of votes counted, all signs point to an impasse. The most likely outcome may be new elections.",
-      "id": "c942de529a08"
+      "published_at": "2026-10-29T09:06:48+00:00",
+      "summary_raw": "With more than 90% of votes counted, all signs point to an impasse. The most likely outcome may be new elections.",
+      "id": "b036fa181823"
     },
     {
       "source": "Science Daily",
-      "title": "The secret to slower aging may be hiding in your gut",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261026225620.htm",
-      "published_at": "2026-10-27T11:53:24+00:00",
-      "summary_raw": "The secret to aging more slowly may be hiding in your gut. Scientists discovered that certain gut bacteria are strongly linked to how quickly the body ages, with microbial differences accounting for about 15% of the variation in biological aging rates. Some bacterial species were associated with slower aging, while others were linked to accelerated aging.",
-      "id": "05f93e9796bf"
+      "title": "Smaller EV batteries, longer range? Scientists may have found a way",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261027063708.htm",
+      "published_at": "2026-10-28T12:25:43+00:00",
+      "summary_raw": "Scientists have developed a new technology that could make electric vehicle batteries smaller, lighter, and longer-lasting, potentially allowing cars to travel farther on a single charge. By borrowing precision manufacturing techniques from computer chip production, they found a way to prevent damaging lithium buildup that has held back next-generation batteries.",
+      "id": "659de29a97aa"
     },
     {
       "source": "Wired",
-      "title": "Pornhub Stars Want to Teach You How to Make Dinner",
-      "link": "https://www.wired.com/story/adult-video-stars-want-to-teach-you-how-to-make-dinner/",
-      "published_at": "2026-10-28T10:45:00+00:00",
-      "summary_raw": "Faced with censorship and anti-porn laws, the adult site is encouraging creators to embrace cooking, gaming, podcasting, and other safe-for-work content.",
-      "id": "758d9a1bd2e1"
-    },
-    {
-      "source": "BBC World",
-      "title": "Israel's election result is messy - here's why",
-      "link": "https://www.bbc.co.uk/news/videos/c893zeknlvnno?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-28T14:26:24+00:00",
-      "summary_raw": "Despite having the highest voter turnout in nearly three decades, Israel's elections have had no clear winner. What does this mean for the country, asks the BBC's Yolande Knell.",
-      "id": "9fea84aafbfb"
-    },
-    {
-      "source": "Science Daily",
-      "title": "Low testosterone may make sugar far more harmful to your liver",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261026225622.htm",
-      "published_at": "2026-10-27T11:18:37+00:00",
-      "summary_raw": "Scientists have discovered that low testosterone and a high-fructose diet can work together to worsen fatty liver disease in mice. Unexpectedly, changes in gut bacteria appear to drive this harmful interaction, revealing a potential new target for preventing liver damage.",
-      "id": "132374d46dd5"
-    },
-    {
-      "source": "Wired",
-      "title": "Apple AirPods Max 2 Are $100 Off Ahead of Black Friday",
-      "link": "https://www.wired.com/story/apple-airpods-max-2-deal-november-2026/",
-      "published_at": "2026-10-28T10:30:00+00:00",
-      "summary_raw": "If Apple headphones have been sitting on your wish list, now might be the time to buy ahead of the holiday rush.",
-      "id": "665574d0c648"
-    },
-    {
-      "source": "BBC World",
-      "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
-      "link": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-28T10:31:22+00:00",
-      "summary_raw": "The Villa Vie Odyssey suspended its voyage and is working with passengers on \"temporary living arrangements\".",
-      "id": "bb3bf9954cca"
-    },
-    {
-      "source": "Science Daily",
-      "title": "Common drugs may help dangerous viruses spread through the body",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261026225606.htm",
-      "published_at": "2026-10-27T10:46:21+00:00",
-      "summary_raw": "A surprising discovery reveals that widely used anti-inflammatory drugs may unintentionally help dangerous viruses spread through the body. Scientists found that JAK inhibitors, prescribed for rheumatoid arthritis and other inflammatory diseases, can weaken a crucial immune defense against influenza, COVID-19, and other infections. By suppressing genes that normally fight viruses, these medications may leave patients more vulnerable to infection.",
-      "id": "a699114a3c95"
-    },
-    {
-      "source": "Wired",
-      "title": "Macmillan Staff Say the Publisher Threw a Party for a Workplace AI Assistant That Was Later Killed",
-      "link": "https://www.wired.com/story/macmillan-staff-say-the-publisher-threw-a-party-for-a-workplace-ai-assistant-that-was-later-killed/",
-      "published_at": "2026-10-28T10:15:00+00:00",
-      "summary_raw": "Workers tell WIRED that NOA—or “No Ordinary Assistant”—was unhelpful. Bestselling authors also say AI is ruining their relationships with Big Five publishers.",
-      "id": "8b485c69d607"
-    },
-    {
-      "source": "BBC World",
-      "title": "Tanzania celebrates first natural gas discovery in more than 10 years",
-      "link": "https://www.bbc.co.uk/news/articles/c5m2dry2xwwvo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-28T10:18:40+00:00",
-      "summary_raw": "The energy minister described it as a \"major milestone\" for the East African nation.",
-      "id": "ffd4c681b410"
+      "title": "Hungryroot Coupon Codes: 30% Off This November 2026",
+      "link": "https://www.wired.com/story/hungryroot-promo-code/",
+      "published_at": "2026-10-29T05:00:00+00:00",
+      "summary_raw": "Get up to 30% off your first order and free gifts using a Hungryroot promo code today. Discover our best coupons and discounts to let you save on your healthy groceries as a new or returning customer.",
+      "id": "cf287ace425f"
     }
   ]
 }

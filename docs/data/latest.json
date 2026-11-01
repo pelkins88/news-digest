@@ -1,22 +1,22 @@
 {
   "mode": "raw",
-  "generated_at": "2026-11-01T17:03:51.919601+00:00",
+  "generated_at": "2026-11-01T23:22:42.925525+00:00",
   "items": [
     {
       "source": "WRAL Local",
-      "title": "Sampson County hazmat team evacuate homes after tanker fire on US 421",
-      "link": "https://www.wral.com/news/local/sampson-county-hazmat-tanker-fire-us-421/",
-      "published_at": "2026-11-01T15:04:10+00:00",
-      "summary_raw": "Residents within a half-mile radius of US 421 at Bestwood Lane, near Clinton, are being evacuated after a tanker truck fire.",
-      "id": "39bf8f6a4523"
+      "title": "Woman dead from house party shooting on Halloween in Lillington",
+      "link": "https://www.wral.com/news/local/woman-shot-house-party-lillington-halloween-november-2026/",
+      "published_at": "2026-11-01T18:56:58+00:00",
+      "summary_raw": "Around 4:00 a.m., Harnett County Sheriff's deputies went back to the house for a shooting call. They found 40-year-old Justina Hodges of Lillington inside the home with a gunshot wound and bystanders were trying to save her life.",
+      "id": "a12e1689b05e"
     },
     {
       "source": "WRAL Weather",
-      "title": "From a creek bed to the solar system: JPL turns 90",
-      "link": "https://www.wral.com/weather/jpl-90th-anniversary-oct-2026/",
-      "published_at": "2026-10-31T17:56:11+00:00",
-      "summary_raw": "JPL’s story began with a Halloween rocket test in Pasadena in 1936. From those early experiments grew a laboratory that helped launch America’s first satellite and now sends robotic explorers across the solar system.",
-      "id": "8401b1a1a469"
+      "title": "Fiery return expected for NASA’s Swift telescope this week",
+      "link": "https://www.wral.com/weather/swift-reentry-nov-2026/",
+      "published_at": "2026-11-01T22:28:07+00:00",
+      "summary_raw": "NASA’s Swift observatory, after nearly 22 years studying cosmic explosions and a failed effort to boost its orbit, is expected to reenter Earth’s atmosphere within days, though its exact landing time and location remain uncertain.",
+      "id": "60876890c997"
     },
     {
       "source": "Wired",
@@ -28,11 +28,267 @@
     },
     {
       "source": "NPR Politics",
-      "title": "Politics chat: Data centers are on everyone's minds going into Election Day",
-      "link": "https://www.npr.org/2026/11/01/nx-s1-6023270/politics-chat-data-centers-are-on-everyones-minds-going-into-election-day",
-      "published_at": "2026-11-01T13:05:18+00:00",
-      "summary_raw": "With days until Election Day, polls show momentum for Democratic candidates and bipartisan distaste for data centers.",
-      "id": "77c967b6dc77"
+      "title": "Do you know signs of a stroke? BE FAST are the words to remember",
+      "link": "https://www.npr.org/2026/11/01/nx-s1-6025502/stroke-acronym-be-fast",
+      "published_at": "2026-11-01T22:22:12+00:00",
+      "summary_raw": "Sen. Chris Murphy is expected to fully recover from his stroke. The acronym BE FAST can help you remember the symptoms of stroke and what to do when it happens: Call 911 quickly.",
+      "id": "ef58a7b02961"
+    },
+    {
+      "source": "NPR National",
+      "title": "Democrats are running on affordability. Are voters buying it?",
+      "link": "https://www.npr.org/2026/11/01/nx-s1-6024693/democrats-are-running-on-affordability-are-voters-buying-it",
+      "published_at": "2026-11-01T22:25:28+00:00",
+      "summary_raw": "Republicans started the year believing tax cuts would benefit them in the midterms. Instead other affordability issues are driving voters to Democrats.",
+      "id": "5f28e70552f9"
+    },
+    {
+      "source": "BBC World",
+      "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
+      "link": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-01T21:55:01+00:00",
+      "summary_raw": "A rare humanitarian ceasefire allowed civilians to evacuate the Russian-occupied city of Oleshky.",
+      "id": "3e86e5ed3f68"
+    },
+    {
+      "source": "Science Daily",
+      "title": "Scientists discover a surprising brain benefit of eating peanuts every day",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261030003001.htm",
+      "published_at": "2026-11-01T13:24:51+00:00",
+      "summary_raw": "A surprising new study suggests that eating peanuts every day could help support brain health and memory in older adults. Researchers found that consuming about two servings of unsalted, skin-roasted peanuts daily for 16 weeks improved insulin responsiveness in brain regions important for memory, a function that often weakens with age and has been linked to Alzheimer's disease.",
+      "id": "e76d605a5017"
+    },
+    {
+      "source": "WRAL Local",
+      "title": "Man dies in high-speed crash, child in critical conditon in Wilson County",
+      "link": "https://www.wral.com/news/local/wilson-county-man-dies-in-crash-child-critical-condition-november-2026/",
+      "published_at": "2026-11-01T17:15:26+00:00",
+      "summary_raw": "The man was driving 82 mph in a 55 mph zone on Old Raleigh Road, according to the State Highway Patrol.",
+      "id": "9e253ee7b208"
+    },
+    {
+      "source": "WRAL Weather",
+      "title": "From a creek bed to the solar system: JPL turns 90",
+      "link": "https://www.wral.com/weather/jpl-90th-anniversary-oct-2026/",
+      "published_at": "2026-10-31T17:56:11+00:00",
+      "summary_raw": "JPL’s story began with a Halloween rocket test in Pasadena in 1936. From those early experiments grew a laboratory that helped launch America’s first satellite and now sends robotic explorers across the solar system.",
+      "id": "8401b1a1a469"
+    },
+    {
+      "source": "Wired",
+      "title": "There’s a Free Video Editor Inside Google Drive That Anyone Can Use",
+      "link": "https://www.wired.com/story/google-vids-free-video-editor-inside-google-drive/",
+      "published_at": "2026-11-01T12:00:00+00:00",
+      "summary_raw": "You may not have noticed everything Google’s free software suite offers—especially a web app called Google Vids.",
+      "id": "3d0b72d64b1b"
+    },
+    {
+      "source": "NPR Politics",
+      "title": "Haley Stevens endorses GOP candidate in Michigan Senate race, spurning Abdul El-Sayed",
+      "link": "https://www.npr.org/2026/11/01/nx-s1-6020993/michigan-senate-race-abdul-el-sayed-haley-stevens-mike-rogers",
+      "published_at": "2026-11-01T19:49:15+00:00",
+      "summary_raw": "Rep. Haley Stevens was scheduled to attend a unity event today with Abdul El-Sayed, who beat her in the Democratic primary. Instead, she endorsed his Republican opponent, Mike Rogers.",
+      "id": "d8b0142e3f47"
+    },
+    {
+      "source": "NPR National",
+      "title": "Willie the pony treats hospital patients with medicine for the soul",
+      "link": "https://www.npr.org/2026/11/01/nx-s1-6003808/willie-the-pony-treats-hospital-patients-with-medicine-for-the-soul",
+      "published_at": "2026-11-01T22:25:27+00:00",
+      "summary_raw": "Sometimes hospitals invite special guests to come visit patients in an effort to boost spirits. One \"mane\" attraction at an Ohio hospital is Willie Nelson- the pony.",
+      "id": "68a246c5a6d5"
+    },
+    {
+      "source": "BBC World",
+      "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
+      "link": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-01T21:16:45+00:00",
+      "summary_raw": "Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, endorses his opponent days before the vote.",
+      "id": "861bc35a3914"
+    },
+    {
+      "source": "Science Daily",
+      "title": "Common pesticide linked to 2.5 times the risk of Parkinson’s disease",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261031013035.htm",
+      "published_at": "2026-11-01T12:33:13+00:00",
+      "summary_raw": "A UCLA study found that long-term exposure to a common pesticide was linked to more than 2.5 times the risk of Parkinson's disease. Scientists also uncovered how the chemical damages brain cells and identified a promising way to protect them.",
+      "id": "858d08893264"
+    },
+    {
+      "source": "WRAL Local",
+      "title": "Woman killed in fiery tanker truck crash in Sampson County; nearby residents evacuated",
+      "link": "https://www.wral.com/news/local/sampson-county-hazmat-tanker-fire-us-421/",
+      "published_at": "2026-11-01T15:04:10+00:00",
+      "summary_raw": "A woman died from a head-on collision with a tanker truck early Sunday morning in Sampson County.",
+      "id": "39bf8f6a4523"
+    },
+    {
+      "source": "WRAL Weather",
+      "title": "Ask the Meteorologist: How does the Halloween forecast compare to previous Halloweens?",
+      "link": "https://www.wral.com/weather/ask-the-meteorologist-halloween-forecast-october-2026/",
+      "published_at": "2026-10-30T11:46:59+00:00",
+      "summary_raw": "A cold front is set to bring us cooler temperatures for the weekend. Let's check out that Halloween forecast, and we'll look at the forecast across the country and compare our forecast to previous Halloweens.",
+      "id": "11f5e7b9cc93"
+    },
+    {
+      "source": "Wired",
+      "title": "The Hollywood Color Nerd Who Shot ‘Knives Out’ Explains His Viral iPhone Camera App",
+      "link": "https://www.wired.com/story/the-hollywood-color-nerd-who-shot-knives-out-explains-his-viral-iphone-camera-app/",
+      "published_at": "2026-11-01T12:00:00+00:00",
+      "summary_raw": "The Chromagraph Camera app costs $13 dollars and processes iPhone photos with the same color math Rian Johnson’s cinematographer, Steve Yedlin, uses for film.",
+      "id": "03fa4bb38129"
+    },
+    {
+      "source": "NPR Politics",
+      "title": "Connecticut Senator Chris Murphy is hospitalized with a stroke",
+      "link": "https://www.npr.org/2026/11/01/nx-s1-6025467/chris-murphy-stroke",
+      "published_at": "2026-11-01T19:00:58+00:00",
+      "summary_raw": "Murphy's office says he was taken to the hospital this weekend after experiencing numbness in his arm. His chief of staff said he is responding well to treatment and expected to make a full recovery.",
+      "id": "c98af1e327c9"
+    },
+    {
+      "source": "NPR National",
+      "title": "How to think about the midterms — and the political moment the country is in",
+      "link": "https://www.npr.org/2026/11/01/g-s1-151146/how-to-think-about-the-midterms-and-the-political-moment-the-country-is-in",
+      "published_at": "2026-11-01T18:27:06+00:00",
+      "summary_raw": "Polls show Democrats with an advantage in the midterm election but there are potential limitations and results may take a while to roll in.",
+      "id": "cbffe98f293b"
+    },
+    {
+      "source": "BBC World",
+      "title": "Peaceful protests in Germany spiral into violence and looting",
+      "link": "https://www.bbc.co.uk/news/videos/cqgm0der7zkmo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-01T18:51:56+00:00",
+      "summary_raw": "Thousands joined largely orderly demonstrations earlier in the day, before violence erupted in Frankfurt, Berlin, Cologne and Hamburg.",
+      "id": "aa415c99e522"
+    },
+    {
+      "source": "Science Daily",
+      "title": "Scientists shrink Archimedes’ screw to the size of a single molecule",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261030002940.htm",
+      "published_at": "2026-11-01T11:55:46+00:00",
+      "summary_raw": "Scientists have built a groundbreaking molecular motor that spins in either direction using electricity, inspired by a machine invented more than 2,000 years ago. Even more remarkably, its rotation can boost electrical conductivity by up to 100 times, potentially transforming the future of molecular electronics.",
+      "id": "e74c395aaaaf"
+    },
+    {
+      "source": "WRAL Local",
+      "title": "Man dead from head-on crash in Wendell",
+      "link": "https://www.wral.com/news/local/man-died-wendell-crash-smithfield-road-november-2026/",
+      "published_at": "2026-11-01T13:54:04+00:00",
+      "summary_raw": "A black vehicle crossed the center line and collided head-on with a red car Sunday morning, according to the North Carolina State Highway Patrol. A man in the red car was killed, and his wife was taken to the hospital.",
+      "id": "bff66124d3a8"
+    },
+    {
+      "source": "Wired",
+      "title": "Lenovo LOQ 15: The Only Gaming Laptop Worth Buying Below $1,500",
+      "link": "https://www.wired.com/story/lenovo-loq-15-best-deal/",
+      "published_at": "2026-11-01T11:30:00+00:00",
+      "summary_raw": "As prices escalate on gaming laptops, there’s really only one affordable option still around: the Lenovo LOQ 15, which offers a better performance and display than its competitors.",
+      "id": "55891a5a90f7"
+    },
+    {
+      "source": "NPR Politics",
+      "title": "How to think about the midterms — and the political moment the country is in",
+      "link": "https://www.npr.org/2026/11/01/g-s1-151146/how-to-think-about-the-midterms-and-the-political-moment-the-country-is-in",
+      "published_at": "2026-11-01T18:27:06+00:00",
+      "summary_raw": "Polls show Democrats with an advantage in the midterm election but there are potential limitations and results may take a while to roll in.",
+      "id": "cbffe98f293b"
+    },
+    {
+      "source": "NPR National",
+      "title": "The midterms will test the nation's political direction and confidence",
+      "link": "https://www.npr.org/2026/11/01/nx-s1-6023380/midterms-test-confidence",
+      "published_at": "2026-11-01T17:57:58+00:00",
+      "summary_raw": "At least some portion of the nation is likely to have its political confidence — and perhaps even its sense of security — tested in the days and weeks ahead. That test could also continue for some time to come.",
+      "id": "1e75199a810d"
+    },
+    {
+      "source": "BBC World",
+      "title": "Armed police start patrols in Sydney after Bondi Beach attack",
+      "link": "https://www.bbc.co.uk/news/articles/c9kgj7k7ry0ro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-01T17:56:47+00:00",
+      "summary_raw": "The new police unit is a security measure in response to last year's deadly shooting attack at a Hanukkah festival.",
+      "id": "e84e500d9f89"
+    },
+    {
+      "source": "Science Daily",
+      "title": "The Great Barrier Reef's most notorious coral killer may actually be helping it",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261030002957.htm",
+      "published_at": "2026-11-01T11:45:10+00:00",
+      "summary_raw": "Crown-of-thorns starfish are notorious for devouring coral reefs, but surprising new research reveals these spiny predators may actually help reefs thrive when their populations are kept in check. Scientists studying Australia's Great Barrier Reef discovered that nearly 75% of observed starfish feeding events left behind living coral tissue, rather than destroying entire colonies. By feeding on fast-growing, dominant corals, the starfish create opportunities for slower-growing species to survive, potentially increasing coral biodiversity.",
+      "id": "a869731ca904"
+    },
+    {
+      "source": "WRAL Local",
+      "title": "City of Oaks Marathon in full swing on Sunday",
+      "link": "https://www.wral.com/news/local/city-of-oaks-marathon-november-2026/",
+      "published_at": "2026-11-01T13:31:10+00:00",
+      "summary_raw": "Glenwood Avenue from Peace Street to Hillsborough Street is closed for the event. The 26.2-mile course takes runners through several parts of the city, including downtown, Glenwood South, NC State University, Boylan Heights and Crabtree Valley areas.",
+      "id": "3ff51da09561"
+    },
+    {
+      "source": "Wired",
+      "title": "8 Best Space Heaters (2026): Tested, Measured, and Mistreated",
+      "link": "https://www.wired.com/gallery/the-best-space-heaters/",
+      "published_at": "2026-11-01T11:30:00+00:00",
+      "summary_raw": "These portable heaters will heat a room quickly, quietly, and safely.",
+      "id": "9853a8aabe95"
+    },
+    {
+      "source": "NPR Politics",
+      "title": "Judge tosses Trump's attempt to block Alaska Senate results if GOP incumbent loses",
+      "link": "https://www.npr.org/2026/11/01/nx-s1-6023766/doj-alaska-lawsuit-senate-race-dan-sullivan",
+      "published_at": "2026-11-01T18:00:37+00:00",
+      "summary_raw": "A federal judge has dismissed a highly unusual lawsuit by the Trump administration that tried to block the certification of results from Alaska's U.S. Senate race if the Republican incumbent lost.",
+      "id": "3b80dbee180b"
+    },
+    {
+      "source": "NPR National",
+      "title": "New York City Marathon: Sweden's Almgren and Kenya's Chepkirui win as 60,000 take part",
+      "link": "https://www.npr.org/2026/11/01/nx-s1-6025437/new-york-marathon-almgren-chepkirui-win",
+      "published_at": "2026-11-01T17:33:21+00:00",
+      "summary_raw": "Andreas Almgren of Sweden won the men's race of the New York City Marathon in his debut in the event while Sheila Chepkirui of Kenya won the women's race on Sunday for the second time.",
+      "id": "aa851a7b7a7f"
+    },
+    {
+      "source": "BBC World",
+      "title": "Lindsay Clancy is back in court - where will her case go next?",
+      "link": "https://www.bbc.co.uk/news/articles/ck3r5z3pw928o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-01T17:29:08+00:00",
+      "summary_raw": "The Massachusetts mother, accused of murdering her three children, is expected back in court as she awaits a decision on whether her case will be retried.",
+      "id": "6a8f16668f0b"
+    },
+    {
+      "source": "Science Daily",
+      "title": "Drinking tea may help protect your heart, but there’s a surprising catch",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261031221203.htm",
+      "published_at": "2026-11-01T11:29:04+00:00",
+      "summary_raw": "A massive study of nearly 486,000 adults found that regularly drinking tea was associated with an 11% lower risk of heart and blood vessel diseases. The lowest risk was linked to drinking roughly six to eight cups per day, with black tea showing more consistent benefits than green tea.",
+      "id": "9745b1c96c1d"
+    },
+    {
+      "source": "WRAL Local",
+      "title": "Police: 2 shot at Raleigh bar",
+      "link": "https://www.wral.com/news/local/two-shot-e-whitaker-mill-rd-raleigh-november-2026/",
+      "published_at": "2026-11-01T11:34:27+00:00",
+      "summary_raw": "Two people were taken to the hospital after being shot at a bar on E. Whitaker Mill Road in Raleigh.",
+      "id": "36c84545b399"
+    },
+    {
+      "source": "Wired",
+      "title": "What Democrats Can Learn From New York’s Data Center Moratorium",
+      "link": "https://www.wired.com/story/what-democrats-can-learn-new-york-data-center-moratorium/",
+      "published_at": "2026-11-01T11:00:00+00:00",
+      "summary_raw": "With a number of anti-data-center candidates poised to win on Tuesday, New York provides a glimpse at the tensions around actually having to do something about the digital infrastructure.",
+      "id": "686a670b3293"
+    },
+    {
+      "source": "NPR Politics",
+      "title": "The midterms will test the nation's political direction and confidence",
+      "link": "https://www.npr.org/2026/11/01/nx-s1-6023380/midterms-test-confidence",
+      "published_at": "2026-11-01T17:57:58+00:00",
+      "summary_raw": "At least some portion of the nation is likely to have its political confidence — and perhaps even its sense of security — tested in the days and weeks ahead. That test could also continue for some time to come.",
+      "id": "1e75199a810d"
     },
     {
       "source": "NPR National",
@@ -46,273 +302,9 @@
       "source": "BBC World",
       "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
       "link": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-01T16:25:33+00:00",
+      "published_at": "2026-11-01T17:06:32+00:00",
       "summary_raw": "Five officers from the Hamas-run police have been killed in Khan Younis and three people, including a child, killed in Gaza City, officials say.",
       "id": "e8dbcf1e16b1"
-    },
-    {
-      "source": "Science Daily",
-      "title": "Scientists discover a surprising brain benefit of eating peanuts every day",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261030003001.htm",
-      "published_at": "2026-11-01T13:24:51+00:00",
-      "summary_raw": "A surprising new study suggests that eating peanuts every day could help support brain health and memory in older adults. Researchers found that consuming about two servings of unsalted, skin-roasted peanuts daily for 16 weeks improved insulin responsiveness in brain regions important for memory, a function that often weakens with age and has been linked to Alzheimer's disease.",
-      "id": "e76d605a5017"
-    },
-    {
-      "source": "WRAL Local",
-      "title": "Man died in crash in Wendell on way to City of Oaks Marathon",
-      "link": "https://www.wral.com/news/local/man-died-wendell-crash-smithfield-road-november-2026/",
-      "published_at": "2026-11-01T13:54:04+00:00",
-      "summary_raw": "A black vehicle crossed the center line and ran head-on into a red car. A man in the red car died, and his wife was taken to the hospital.",
-      "id": "bff66124d3a8"
-    },
-    {
-      "source": "WRAL Weather",
-      "title": "Ask the Meteorologist: How does the Halloween forecast compare to previous Halloweens?",
-      "link": "https://www.wral.com/weather/ask-the-meteorologist-halloween-forecast-october-2026/",
-      "published_at": "2026-10-30T11:46:59+00:00",
-      "summary_raw": "A cold front is set to bring us cooler temperatures for the weekend. Let's check out that Halloween forecast, and we'll look at the forecast across the country and compare our forecast to previous Halloweens.",
-      "id": "11f5e7b9cc93"
-    },
-    {
-      "source": "Wired",
-      "title": "There’s a Free Video Editor Inside Google Drive That Anyone Can Use",
-      "link": "https://www.wired.com/story/google-vids-free-video-editor-inside-google-drive/",
-      "published_at": "2026-11-01T12:00:00+00:00",
-      "summary_raw": "You may not have noticed everything Google’s free software suite offers—especially a web app called Google Vids.",
-      "id": "3d0b72d64b1b"
-    },
-    {
-      "source": "NPR Politics",
-      "title": "What NPR's senior political correspondent is watching for on Election Night",
-      "link": "https://www.npr.org/2026/11/01/nx-s1-6019709/what-nprs-senior-political-correspondent-is-watching-for-on-election-night",
-      "published_at": "2026-11-01T13:05:14+00:00",
-      "summary_raw": "An NPR senior political editor/correspondent tells us what he will be looking out for as results roll in on Election Day.",
-      "id": "c6082a5d28b0"
-    },
-    {
-      "source": "NPR National",
-      "title": "Here's how to watch election night as the polls close, hour-by-hour",
-      "link": "https://www.npr.org/2026/11/01/g-s1-149978/midterms-election-night",
-      "published_at": "2026-11-01T09:00:00+00:00",
-      "summary_raw": "As polls close on election night, here's a look at what to expect each hour and which midterm races are key to deciding control of Congress.",
-      "id": "6c4d19360d79"
-    },
-    {
-      "source": "BBC World",
-      "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-      "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-01T13:11:37+00:00",
-      "summary_raw": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack.",
-      "id": "2e55c2cffa21"
-    },
-    {
-      "source": "Science Daily",
-      "title": "Common pesticide linked to 2.5 times the risk of Parkinson’s disease",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261031013035.htm",
-      "published_at": "2026-11-01T12:33:13+00:00",
-      "summary_raw": "A UCLA study found that long-term exposure to a common pesticide was linked to more than 2.5 times the risk of Parkinson's disease. Scientists also uncovered how the chemical damages brain cells and identified a promising way to protect them.",
-      "id": "858d08893264"
-    },
-    {
-      "source": "WRAL Local",
-      "title": "City of Oaks Marathon in full swing on Sunday",
-      "link": "https://www.wral.com/news/local/city-of-oaks-marathon-november-2026/",
-      "published_at": "2026-11-01T13:31:10+00:00",
-      "summary_raw": "Glenwood Avenue from Peace Street to Hillsborough Street is closed for the event. The 26.2-mile course takes runners through several parts of the city, including downtown, Glenwood South, NC State University, Boylan Heights and Crabtree Valley areas.",
-      "id": "3ff51da09561"
-    },
-    {
-      "source": "WRAL Weather",
-      "title": "Ancient meteorite holds clues to Mars' watery past",
-      "link": "https://www.wral.com/weather/mars-meteorite-oct-2026/",
-      "published_at": "2026-10-29T22:06:52+00:00",
-      "summary_raw": "A meteorite discovered in Mali is one of the oldest pieces of Mars ever found on Earth. Its minerals hold evidence of water interacting with the planet’s crust more than 4 billion years ago.",
-      "id": "030487618f89"
-    },
-    {
-      "source": "Wired",
-      "title": "The Hollywood Color Nerd Who Shot ‘Knives Out’ Explains His Viral iPhone Camera App",
-      "link": "https://www.wired.com/story/the-hollywood-color-nerd-who-shot-knives-out-explains-his-viral-iphone-camera-app/",
-      "published_at": "2026-11-01T12:00:00+00:00",
-      "summary_raw": "The Chromagraph Camera app costs $13 dollars and processes iPhone photos with the same color math Rian Johnson’s cinematographer, Steve Yedlin, uses for film.",
-      "id": "03fa4bb38129"
-    },
-    {
-      "source": "NPR Politics",
-      "title": "Living with high prices in Virginia's 1st Congressional District",
-      "link": "https://www.npr.org/2026/11/01/nx-s1-5945628/living-with-high-prices-in-virginias-1st-congressional-district",
-      "published_at": "2026-11-01T13:00:00+00:00",
-      "summary_raw": "High prices are straining budgets for both a small business owner and a single mom in a rural part of Va.'s 1st Congressional district. They explain how they're handling the economic stress of these times.",
-      "id": "bf4156c6f71f"
-    },
-    {
-      "source": "NPR National",
-      "title": "'Grasping at straws': Judge dismisses Trump suit against Wall Street Journal over Epstein letter",
-      "link": "https://www.npr.org/2026/11/01/nx-s1-6025342/judge-dismisses-trump-suit-against-wall-street-journal-epstein-letter",
-      "published_at": "2026-11-01T08:20:19+00:00",
-      "summary_raw": "Saying the president was \"grasping at straws,\" a federal judge on Saturday threw out Donald Trump's $10 billion lawsuit against The Wall Street Journal and media mogul Rupert Murdoch over a story reporting on his ties to Jeffrey Epstein.",
-      "id": "22fc29958fd4"
-    },
-    {
-      "source": "BBC World",
-      "title": "Shops looted as German cost-of-living protests turn violent",
-      "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-01T11:57:48+00:00",
-      "summary_raw": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
-      "id": "ff745a7d3f79"
-    },
-    {
-      "source": "Science Daily",
-      "title": "Scientists shrink Archimedes’ screw to the size of a single molecule",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261030002940.htm",
-      "published_at": "2026-11-01T11:55:46+00:00",
-      "summary_raw": "Scientists have built a groundbreaking molecular motor that spins in either direction using electricity, inspired by a machine invented more than 2,000 years ago. Even more remarkably, its rotation can boost electrical conductivity by up to 100 times, potentially transforming the future of molecular electronics.",
-      "id": "e74c395aaaaf"
-    },
-    {
-      "source": "WRAL Local",
-      "title": "Two injured in shooting at Bison Bar on Halloween",
-      "link": "https://www.wral.com/news/local/two-shot-e-whitaker-mill-rd-raleigh-november-2026/",
-      "published_at": "2026-11-01T11:34:27+00:00",
-      "summary_raw": "Two people were taken to the hospital after being shot at a bar on E. Whitaker Mill Road in Raleigh.",
-      "id": "36c84545b399"
-    },
-    {
-      "source": "WRAL Weather",
-      "title": "Why North Carolina’s drought is about more than missing rain",
-      "link": "https://www.wral.com/weather/why-north-carolinas-drought-is-about-more-than-missing-rain-october-2026/",
-      "published_at": "2026-10-29T21:56:18+00:00",
-      "summary_raw": "Drought now covers 62% of North Carolina. A warmer, thirstier atmosphere is adding to the strain by pulling moisture from soil, streams and plants.",
-      "id": "1d487dd3eda3"
-    },
-    {
-      "source": "Wired",
-      "title": "Lenovo LOQ 15: The Only Gaming Laptop Worth Buying Below $1,500",
-      "link": "https://www.wired.com/story/lenovo-loq-15-best-deal/",
-      "published_at": "2026-11-01T11:30:00+00:00",
-      "summary_raw": "As prices escalate on gaming laptops, there’s really only one affordable option still around: the Lenovo LOQ 15, which offers a better performance and display than its competitors.",
-      "id": "55891a5a90f7"
-    },
-    {
-      "source": "NPR Politics",
-      "title": "It's ACA open enrollment time. Here are the changes for health insurance shoppers",
-      "link": "https://www.npr.org/2026/11/01/nx-s1-6023423/aca-open-enrollment-health-insurance",
-      "published_at": "2026-11-01T12:00:00+00:00",
-      "summary_raw": "The ACA health insurance marketplaces — find yours at HealthCare.gov — open Nov. 1 for 2027 coverage. Getting an early start may be especially important this year.",
-      "id": "24e5368ca417"
-    },
-    {
-      "source": "NPR National",
-      "title": "Devastating storms continue to hit Southwest 'Four Corners' region",
-      "link": "https://www.npr.org/2026/10/31/nx-s1-6023454/devastating-storms-continue-to-hit-southwest-four-corners-region",
-      "published_at": "2026-10-31T21:14:37+00:00",
-      "summary_raw": "Communities in the Southwest are bracing for more flooding this weekend. This follows weeks of devastating storms that have pummeled parts of the region.",
-      "id": "803d2f3cf29b"
-    },
-    {
-      "source": "BBC World",
-      "title": "India's opposition holds mega rally seeking election chief's resignation",
-      "link": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-01T07:00:55+00:00",
-      "summary_raw": "Thousands gathered in the heart of delhi, calling for the chief election commissioner to step down.",
-      "id": "ea568eb7578c"
-    },
-    {
-      "source": "Science Daily",
-      "title": "The Great Barrier Reef's most notorious coral killer may actually be helping it",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261030002957.htm",
-      "published_at": "2026-11-01T11:45:10+00:00",
-      "summary_raw": "Crown-of-thorns starfish are notorious for devouring coral reefs, but surprising new research reveals these spiny predators may actually help reefs thrive when their populations are kept in check. Scientists studying Australia's Great Barrier Reef discovered that nearly 75% of observed starfish feeding events left behind living coral tissue, rather than destroying entire colonies. By feeding on fast-growing, dominant corals, the starfish create opportunities for slower-growing species to survive, potentially increasing coral biodiversity.",
-      "id": "a869731ca904"
-    },
-    {
-      "source": "WRAL Local",
-      "title": "Halloween shooting in Raleigh neighborhood sends 1 to hospital",
-      "link": "https://www.wral.com/news/local/raleigh-shooting-halloween-october-2026/",
-      "published_at": "2026-11-01T01:44:05+00:00",
-      "summary_raw": "One person was taken to the hospital after a shooting in a Raleigh neighborhood on Saturday night.",
-      "id": "5ee4669dcc83"
-    },
-    {
-      "source": "Wired",
-      "title": "8 Best Space Heaters (2026): Tested, Measured, and Mistreated",
-      "link": "https://www.wired.com/gallery/the-best-space-heaters/",
-      "published_at": "2026-11-01T11:30:00+00:00",
-      "summary_raw": "These portable heaters will heat a room quickly, quietly, and safely.",
-      "id": "9853a8aabe95"
-    },
-    {
-      "source": "NPR Politics",
-      "title": "How Gen Z Republicans running for Congress are thinking about the future of the party",
-      "link": "https://www.npr.org/2026/11/01/nx-s1-5946869/midterm-elections-gen-z-republicans",
-      "published_at": "2026-11-01T11:00:00+00:00",
-      "summary_raw": "On the eve of what may prove to be a tough election for the GOP, young conservatives vying to be part of the first class of Gen Z Republicans in Congress want a role shaping the party's next chapter.",
-      "id": "7ca0120b19d4"
-    },
-    {
-      "source": "NPR National",
-      "title": "Meet Mia Moroz, the Culver City high school senior fighting for teen voting rights",
-      "link": "https://www.npr.org/2026/10/31/nx-s1-6022129/meet-mia-moroz-the-culver-city-high-school-senior-fighting-for-teen-voting-rights",
-      "published_at": "2026-10-31T11:42:55+00:00",
-      "summary_raw": "NPR's Scott Simon talks to Mia Moroz, a high school senior and head of a group pushing to get 16 and 17 year-olds the vote in Culver City, Calif.",
-      "id": "681404bac91f"
-    },
-    {
-      "source": "BBC World",
-      "title": "Democrats are used to heartbreak in Texas - could Talarico turn the tide?",
-      "link": "https://www.bbc.co.uk/news/articles/cmy0r2y6zeddo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-01T06:03:57+00:00",
-      "summary_raw": "The state's $500m Senate race may be the most closely watched in the US midterms, and is about far more than control of Congress.",
-      "id": "f8969895151a"
-    },
-    {
-      "source": "Science Daily",
-      "title": "Drinking tea may help protect your heart, but there’s a surprising catch",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261031221203.htm",
-      "published_at": "2026-11-01T11:29:04+00:00",
-      "summary_raw": "A massive study of nearly 486,000 adults found that regularly drinking tea was associated with an 11% lower risk of heart and blood vessel diseases. The lowest risk was linked to drinking roughly six to eight cups per day, with black tea showing more consistent benefits than green tea.",
-      "id": "9745b1c96c1d"
-    },
-    {
-      "source": "WRAL Local",
-      "title": "Raleigh boosts police presence, closes Glenwood South to traffic for Halloween",
-      "link": "https://www.wral.com/news/local/halloween-glenwood-avenue-raleigh-road-close-oct-2026/",
-      "published_at": "2026-11-01T01:10:06+00:00",
-      "summary_raw": "Glenwood Avenue South was closed from Hillsborough to Peace Street as the nightlife hotspot anticipates higher foot traffic. Raleigh police also increased patrols.",
-      "id": "b61a5c4643c0"
-    },
-    {
-      "source": "Wired",
-      "title": "What Democrats Can Learn From New York’s Data Center Moratorium",
-      "link": "https://www.wired.com/story/what-democrats-can-learn-new-york-data-center-moratorium/",
-      "published_at": "2026-11-01T11:00:00+00:00",
-      "summary_raw": "With a number of anti-data-center candidates poised to win on Tuesday, New York provides a glimpse at the tensions around actually having to do something about the digital infrastructure.",
-      "id": "686a670b3293"
-    },
-    {
-      "source": "NPR Politics",
-      "title": "Here's how to watch election night as the polls close, hour-by-hour",
-      "link": "https://www.npr.org/2026/11/01/g-s1-149978/midterms-election-night",
-      "published_at": "2026-11-01T09:00:00+00:00",
-      "summary_raw": "As polls close on election night, here's a look at what to expect each hour and which midterm races are key to deciding control of Congress.",
-      "id": "6c4d19360d79"
-    },
-    {
-      "source": "NPR National",
-      "title": "Swept away: The artisan magic of Meckley Brooms in Pennsylvania",
-      "link": "https://www.npr.org/2026/10/31/nx-s1-6020605/swept-away-the-artisan-magic-of-meckley-brooms-in-pennsylvania",
-      "published_at": "2026-10-31T11:42:52+00:00",
-      "summary_raw": "NPR's Scott Simon talks to Briana Meckley, owner of Meckley Brooms in Lopez, Pennsylvania, about her business' surge in broom orders for Halloween.",
-      "id": "929c323a7b63"
-    },
-    {
-      "source": "BBC World",
-      "title": "Watch: Heidi Klum as giant severed hand for Halloween bash",
-      "link": "https://www.bbc.co.uk/news/videos/cj040yd1xdrlo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-01T05:26:02+00:00",
-      "summary_raw": "The supermodel and TV host provided a gory new shock at her New York event.",
-      "id": "1d20917c4dcb"
     },
     {
       "source": "Science Daily",
@@ -324,11 +316,11 @@
     },
     {
       "source": "WRAL Local",
-      "title": "Police focusing on making Chapel Hill Halloween celebration safe, fun",
-      "link": "https://www.wral.com/news/local/chapel-hill-halloween-franklin-street-football-game-october-2026/",
-      "published_at": "2026-11-01T00:05:44+00:00",
-      "summary_raw": "Chapel Hill police are preparing for another busy Halloween night on Franklin Street, with a focus on keeping celebrations safe and enjoyable for those visiting local businesses and Kenan Stadium.",
-      "id": "03f0556d8a3c"
+      "title": "Halloween shooting in Raleigh neighborhood sends 1 to hospital",
+      "link": "https://www.wral.com/news/local/raleigh-shooting-halloween-october-2026/",
+      "published_at": "2026-11-01T01:44:05+00:00",
+      "summary_raw": "One person was taken to the hospital after a shooting in a Raleigh neighborhood on Saturday night.",
+      "id": "5ee4669dcc83"
     },
     {
       "source": "Wired",
@@ -340,27 +332,27 @@
     },
     {
       "source": "NPR Politics",
-      "title": "What's it like to run for Congress when the odds are stacked heavily against you?",
-      "link": "https://www.npr.org/2026/11/01/nx-s1-5995461/midterm-elections-noncompetitive-districts",
-      "published_at": "2026-11-01T09:00:00+00:00",
-      "summary_raw": "The majority of congressional races this cycle are rated either solid Democrat or solid Republican. They're the opposite of tossups, where candidates from the minority party face near impossible odds.",
-      "id": "027ef3105b26"
+      "title": "Politics chat: Data centers are on everyone's minds going into Election Day",
+      "link": "https://www.npr.org/2026/11/01/nx-s1-6023270/politics-chat-data-centers-are-on-everyones-minds-going-into-election-day",
+      "published_at": "2026-11-01T13:05:18+00:00",
+      "summary_raw": "With days until Election Day, polls show momentum for Democratic candidates and bipartisan distaste for data centers.",
+      "id": "77c967b6dc77"
     },
     {
       "source": "NPR National",
-      "title": "Can I trust the polls? And other questions from listeners about the 2026 midterms",
-      "link": "https://www.npr.org/2026/10/31/g-s1-149981/listener-questions-npr-midterms-2026-election",
-      "published_at": "2026-10-31T09:00:00+00:00",
-      "summary_raw": "Ahead of Election Day, listeners send in questions about whether debates are dead, if polls are reliable for election coverage and how Trump might work with Democrats if they win control of Congress.",
-      "id": "504f5f91deee"
+      "title": "Here's how to watch election night as the polls close, hour-by-hour",
+      "link": "https://www.npr.org/2026/11/01/g-s1-149978/midterms-election-night",
+      "published_at": "2026-11-01T09:00:00+00:00",
+      "summary_raw": "As polls close on election night, here's a look at what to expect each hour and which midterm races are key to deciding control of Congress.",
+      "id": "6c4d19360d79"
     },
     {
       "source": "BBC World",
-      "title": "These firms you've never heard of are feeding fears the AI bubble could burst",
-      "link": "https://www.bbc.co.uk/news/articles/cje36degrgv5o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-01T01:37:26+00:00",
-      "summary_raw": "The amount of debt held by data centres is measured in the tens of billions of pounds.",
-      "id": "ad88eebfe262"
+      "title": "University of Cambridge scientist among those who died in Spanish train crash",
+      "link": "https://www.bbc.co.uk/news/articles/cq5ynzvkn1d8o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-01T17:05:18+00:00",
+      "summary_raw": "Marta Shahbazi was an \"inspiring, talented and passionate scientist\", says the laboratory where she worked.",
+      "id": "0cee605ddcbb"
     },
     {
       "source": "Science Daily",
@@ -372,11 +364,11 @@
     },
     {
       "source": "WRAL Local",
-      "title": "2 drivers killed in head-on crash during high-speed chase on US 421",
-      "link": "https://www.wral.com/news/local/us-421-crash-chatham-lee-chase-october-2026/",
-      "published_at": "2026-10-31T21:10:53+00:00",
-      "summary_raw": "Two young men died, and another person was taken to the hospital in a crash on Friday night on US 421 in Chatham County.",
-      "id": "5c979035cacf"
+      "title": "Raleigh boosts police presence, closes Glenwood South to traffic for Halloween",
+      "link": "https://www.wral.com/news/local/halloween-glenwood-avenue-raleigh-road-close-oct-2026/",
+      "published_at": "2026-11-01T01:10:06+00:00",
+      "summary_raw": "Glenwood Avenue South was closed from Hillsborough to Peace Street as the nightlife hotspot anticipates higher foot traffic. Raleigh police also increased patrols.",
+      "id": "b61a5c4643c0"
     },
     {
       "source": "Wired",
@@ -388,27 +380,27 @@
     },
     {
       "source": "NPR Politics",
-      "title": "Trump thanks supporters for the memories in final campaign stops for 2026 midterms",
-      "link": "https://www.npr.org/2026/11/01/nx-s1-6022128/trump-rally-2026-midterms-republicans",
-      "published_at": "2026-11-01T09:00:00+00:00",
-      "summary_raw": "President Trump has maintained a near-daily rally schedule as Election Day draws closer, playing his greatest hits for loyal crowds in red states in what is a sort-of goodbye to campaigning.",
-      "id": "49dd0f3a1946"
+      "title": "What NPR's senior political correspondent is watching for on Election Night",
+      "link": "https://www.npr.org/2026/11/01/nx-s1-6019709/what-nprs-senior-political-correspondent-is-watching-for-on-election-night",
+      "published_at": "2026-11-01T13:05:14+00:00",
+      "summary_raw": "An NPR senior political editor/correspondent tells us what he will be looking out for as results roll in on Election Day.",
+      "id": "c6082a5d28b0"
     },
     {
       "source": "NPR National",
-      "title": "Plans for a data center threaten scenic wilderness and dark skies in West Virginia",
-      "link": "https://www.npr.org/2026/10/31/nx-s1-5992790/data-centers-west-virginia-skiing-dark-skies",
-      "published_at": "2026-10-31T09:00:00+00:00",
-      "summary_raw": "Residents are fighting back against plans for a project that would span thousands of acres near the Monongahela National Forest and popular outdoor recreation, ski areas and dark sky sites.",
-      "id": "c87089fa99ba"
+      "title": "'Grasping at straws': Judge dismisses Trump suit against Wall Street Journal over Epstein letter",
+      "link": "https://www.npr.org/2026/11/01/nx-s1-6025342/judge-dismisses-trump-suit-against-wall-street-journal-epstein-letter",
+      "published_at": "2026-11-01T08:20:19+00:00",
+      "summary_raw": "Saying the president was \"grasping at straws,\" a federal judge on Saturday threw out Donald Trump's $10 billion lawsuit against The Wall Street Journal and media mogul Rupert Murdoch over a story reporting on his ties to Jeffrey Epstein.",
+      "id": "22fc29958fd4"
     },
     {
       "source": "BBC World",
-      "title": "How the downfall of Serbia's Vučiċ mirrored that of Hungary's Orbán",
-      "link": "https://www.bbc.co.uk/news/articles/c893z699q401o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-01T00:55:06+00:00",
-      "summary_raw": "Defeat for Serbia's Aleksandar Vučiċ in last weekend's vote was a carbon copy of Viktor Orbán's fall in Hungary.",
-      "id": "7685fcfdfedb"
+      "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+      "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-01T13:11:37+00:00",
+      "summary_raw": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack.",
+      "id": "4de7356653a4"
     },
     {
       "source": "Science Daily",
@@ -420,11 +412,11 @@
     },
     {
       "source": "WRAL Local",
-      "title": "Police: Man shot in Durham neighborhood",
-      "link": "https://www.wral.com/news/local/exum-street-durham-police-respond-october-2026/",
-      "published_at": "2026-10-31T18:20:56+00:00",
-      "summary_raw": "Durham police and fire teams responded to a shooting on Exum Street on Saturday afternoon.",
-      "id": "3ed49f3acb98"
+      "title": "Police focusing on making Chapel Hill Halloween celebration safe, fun",
+      "link": "https://www.wral.com/news/local/chapel-hill-halloween-franklin-street-football-game-october-2026/",
+      "published_at": "2026-11-01T00:05:44+00:00",
+      "summary_raw": "Chapel Hill police are preparing for another busy Halloween night on Franklin Street, with a focus on keeping celebrations safe and enjoyable for those visiting local businesses and Kenan Stadium.",
+      "id": "03f0556d8a3c"
     },
     {
       "source": "Wired",
@@ -436,27 +428,27 @@
     },
     {
       "source": "NPR Politics",
-      "title": "Supreme Court hears religious freedom case centered on universal pre-K program",
-      "link": "https://www.npr.org/2026/11/01/nx-s1-6000367/supreme-court-colorado-catholic-preschool-religious-freedom-lgbtq",
-      "published_at": "2026-11-01T09:00:00+00:00",
-      "summary_raw": "The Archdiocese of Denver wants to be able to turn away LGBTQ families from Catholic preschools that receive state funding.",
-      "id": "52d82dceda4b"
+      "title": "Living with high prices in Virginia's 1st Congressional District",
+      "link": "https://www.npr.org/2026/11/01/nx-s1-5945628/living-with-high-prices-in-virginias-1st-congressional-district",
+      "published_at": "2026-11-01T13:00:00+00:00",
+      "summary_raw": "High prices are straining budgets for both a small business owner and a single mom in a rural part of Va.'s 1st Congressional district. They explain how they're handling the economic stress of these times.",
+      "id": "bf4156c6f71f"
     },
     {
       "source": "NPR National",
-      "title": "Oyster stocks have plunged in the Chesapeake. This resident wants to bring them back",
-      "link": "https://www.npr.org/2026/10/31/nx-s1-6011228/oyster-farming-conservation-chesapeake-bay",
-      "published_at": "2026-10-31T09:00:00+00:00",
-      "summary_raw": "Oyster reefs once abounded in the Chesapeake, but overharvesting slashed their populations, leading to poorer water quality and less habitat for other species. Now, researchers and local residents are finding creative ways to bring their numbers back up.",
-      "id": "755c6f28be49"
+      "title": "Devastating storms continue to hit Southwest 'Four Corners' region",
+      "link": "https://www.npr.org/2026/10/31/nx-s1-6023454/devastating-storms-continue-to-hit-southwest-four-corners-region",
+      "published_at": "2026-10-31T21:14:37+00:00",
+      "summary_raw": "Communities in the Southwest are bracing for more flooding this weekend. This follows weeks of devastating storms that have pummeled parts of the region.",
+      "id": "803d2f3cf29b"
     },
     {
       "source": "BBC World",
-      "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
-      "link": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-01T00:46:12+00:00",
-      "summary_raw": "The incumbent Republican running for re-election and allies have accused the Democrats of trying to confuse voters by recruiting a second Dan Sullivan to also stand in the race.",
-      "id": "b26e9df25c78"
+      "title": "Shops looted as German cost-of-living protests turn violent",
+      "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-01T11:57:48+00:00",
+      "summary_raw": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
+      "id": "ff745a7d3f79"
     },
     {
       "source": "Science Daily",
@@ -468,11 +460,11 @@
     },
     {
       "source": "WRAL Local",
-      "title": "Onslow congressman responds to Trump linking Camp Lejeune toxic water payments to midterms",
-      "link": "https://www.wral.com/news/state/onslow-congressman-responds-to-trump-camp-lejeune-toxic-water-payments-october-2026/",
-      "published_at": "2026-10-31T17:37:52+00:00",
-      "summary_raw": "Onslow County congressman fires back against Trump for tying payments to midterm results",
-      "id": "b8fad12ea683"
+      "title": "2 drivers killed in head-on crash during high-speed chase on US 421",
+      "link": "https://www.wral.com/news/local/us-421-crash-chatham-lee-chase-october-2026/",
+      "published_at": "2026-10-31T21:10:53+00:00",
+      "summary_raw": "Two young men died, and another person was taken to the hospital in a crash on Friday night on US 421 in Chatham County.",
+      "id": "5c979035cacf"
     },
     {
       "source": "Wired",
@@ -484,27 +476,27 @@
     },
     {
       "source": "NPR Politics",
-      "title": "'Grasping at straws': Judge dismisses Trump suit against Wall Street Journal over Epstein letter",
-      "link": "https://www.npr.org/2026/11/01/nx-s1-6025342/judge-dismisses-trump-suit-against-wall-street-journal-epstein-letter",
-      "published_at": "2026-11-01T08:20:19+00:00",
-      "summary_raw": "Saying the president was \"grasping at straws,\" a federal judge on Saturday threw out Donald Trump's $10 billion lawsuit against The Wall Street Journal and media mogul Rupert Murdoch over a story reporting on his ties to Jeffrey Epstein.",
-      "id": "22fc29958fd4"
+      "title": "It's ACA open enrollment time. Here are the changes for health insurance shoppers",
+      "link": "https://www.npr.org/2026/11/01/nx-s1-6023423/aca-open-enrollment-health-insurance",
+      "published_at": "2026-11-01T12:00:00+00:00",
+      "summary_raw": "The ACA health insurance marketplaces — find yours at HealthCare.gov — open Nov. 1 for 2027 coverage. Getting an early start may be especially important this year.",
+      "id": "24e5368ca417"
     },
     {
       "source": "NPR National",
-      "title": "After last year's storm, this remote Alaska town is still picking up the pieces",
-      "link": "https://www.npr.org/2026/10/31/nx-s1-6021471/ex-typhoon-halong-damages-western-alaska-native-villages-kipnuk",
-      "published_at": "2026-10-31T09:00:00+00:00",
-      "summary_raw": "In October 2025, the remnants of a typhoon seriously damaged Alaska Native villages in the far western part of the state. A year later, one of the hardest hit communities is still recovering.",
-      "id": "161fb92c1a36"
+      "title": "Meet Mia Moroz, the Culver City high school senior fighting for teen voting rights",
+      "link": "https://www.npr.org/2026/10/31/nx-s1-6022129/meet-mia-moroz-the-culver-city-high-school-senior-fighting-for-teen-voting-rights",
+      "published_at": "2026-10-31T11:42:55+00:00",
+      "summary_raw": "NPR's Scott Simon talks to Mia Moroz, a high school senior and head of a group pushing to get 16 and 17 year-olds the vote in Culver City, Calif.",
+      "id": "681404bac91f"
     },
     {
       "source": "BBC World",
-      "title": "Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book",
-      "link": "https://www.bbc.co.uk/news/articles/cwr5yj2lj9myo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-01T00:41:24+00:00",
-      "summary_raw": "Trump had sued the media outlet after it published a letter to Epstein purportedly written and signed by the president as part of a birthday book.",
-      "id": "a54f6ed8dee9"
+      "title": "India's opposition holds mega rally seeking election chief's resignation",
+      "link": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-01T07:00:55+00:00",
+      "summary_raw": "Thousands gathered in the heart of delhi, calling for the chief election commissioner to step down.",
+      "id": "ea568eb7578c"
     },
     {
       "source": "Science Daily",
@@ -516,11 +508,11 @@
     },
     {
       "source": "WRAL Local",
-      "title": "Two women cut after GoRaleigh bus altercation",
-      "link": "https://www.wral.com/news/local/two-women-cut-go-raleigh-peace-street-october-2026/",
-      "published_at": "2026-10-31T13:16:44+00:00",
-      "summary_raw": "Around 7 p.m. on Friday, several women were arguing on a GoRaleigh bus. When they got off the bus on W. Peace Street, one woman pulled out a knife and cut two of the women.",
-      "id": "fd94a768e7d9"
+      "title": "Police: Man shot in Durham neighborhood",
+      "link": "https://www.wral.com/news/local/exum-street-durham-police-respond-october-2026/",
+      "published_at": "2026-10-31T18:20:56+00:00",
+      "summary_raw": "Durham police and fire teams responded to a shooting on Exum Street on Saturday afternoon.",
+      "id": "3ed49f3acb98"
     },
     {
       "source": "Wired",
@@ -532,11 +524,11 @@
     },
     {
       "source": "BBC World",
-      "title": "Judge orders Trump administration to stop threatening US election officials",
-      "link": "https://www.bbc.co.uk/news/articles/c8qln1539y37o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-01T00:27:33+00:00",
-      "summary_raw": "The order comes after election officials received letters demanding they set aside the ballots of possible non-citizen voters.",
-      "id": "3f48923fd637"
+      "title": "Democrats are used to heartbreak in Texas - could Talarico turn the tide?",
+      "link": "https://www.bbc.co.uk/news/articles/cmy0r2y6zeddo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-01T06:03:57+00:00",
+      "summary_raw": "The state's $500m Senate race may be the most closely watched in the US midterms, and is about far more than control of Congress.",
+      "id": "f8969895151a"
     },
     {
       "source": "Science Daily",
@@ -556,11 +548,11 @@
     },
     {
       "source": "BBC World",
-      "title": "I've been stuck on a tiny Pacific island for years and can't get a transit visa to fly home",
-      "link": "https://www.bbc.co.uk/news/articles/cmq5npz5l5geo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-31T23:06:13+00:00",
-      "summary_raw": "Ruchira Ranasingha, 50, has been stranded in the Cook Islands since 2023 and wants to return to Sri Lanka.",
-      "id": "b39444a43885"
+      "title": "Watch: Heidi Klum as giant severed hand for Halloween bash",
+      "link": "https://www.bbc.co.uk/news/videos/cj040yd1xdrlo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-01T05:26:02+00:00",
+      "summary_raw": "The supermodel and TV host provided a gory new shock at her New York event.",
+      "id": "1d20917c4dcb"
     },
     {
       "source": "Science Daily",
@@ -580,11 +572,11 @@
     },
     {
       "source": "BBC World",
-      "title": "Thousands demonstrate in Paris as protests spread across Europe",
-      "link": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-31T21:29:01+00:00",
-      "summary_raw": "More than 320,000 people demonstrated across France against the rising cost of living and poor public services, with clashes between some protesters and police.",
-      "id": "4294c1c20e4f"
+      "title": "These firms you've never heard of are feeding fears the AI bubble could burst",
+      "link": "https://www.bbc.co.uk/news/articles/cje36degrgv5o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-01T01:37:26+00:00",
+      "summary_raw": "The amount of debt held by data centres is measured in the tens of billions of pounds.",
+      "id": "ad88eebfe262"
     },
     {
       "source": "Science Daily",
@@ -604,11 +596,11 @@
     },
     {
       "source": "BBC World",
-      "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
-      "link": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-31T19:22:26+00:00",
-      "summary_raw": "One evacuated couple says they crossed minefields in Oleshky in search of food.",
-      "id": "b4e1d93f35a8"
+      "title": "How the downfall of Serbia's Vučiċ mirrored that of Hungary's Orbán",
+      "link": "https://www.bbc.co.uk/news/articles/c893z699q401o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-01T00:55:06+00:00",
+      "summary_raw": "Defeat for Serbia's Aleksandar Vučiċ in last weekend's vote was a carbon copy of Viktor Orbán's fall in Hungary.",
+      "id": "ab3b907a8f18"
     },
     {
       "source": "Science Daily",
@@ -628,11 +620,11 @@
     },
     {
       "source": "BBC World",
-      "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
-      "link": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-10-31T17:53:35+00:00",
-      "summary_raw": "Oleshky residents had been without food, water and electricity, with many resorting to cooking garden weeds to survive.",
-      "id": "cfc0e446b644"
+      "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
+      "link": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-01T00:46:12+00:00",
+      "summary_raw": "The incumbent Republican running for re-election and allies have accused the Democrats of trying to confuse voters by recruiting a second Dan Sullivan to also stand in the race.",
+      "id": "b26e9df25c78"
     },
     {
       "source": "Science Daily",
@@ -641,6 +633,14 @@
       "published_at": "2026-10-31T10:38:30+00:00",
       "summary_raw": "Scientists have discovered a bizarre bacterial defense system that works almost completely backward from anything seen before. Unlike typical bacterial immune systems that keep a deadly toxin under control until a virus attacks, this unusual mechanism waits until an infection begins before producing the DNA that switches on its lethal weapon. The infected bacterium then destroys itself, preventing the virus from multiplying and spreading to neighboring cells.",
       "id": "372240137276"
+    },
+    {
+      "source": "Wired",
+      "title": "An AI Agent Injected Drugs Into a Live Mouse’s Brain",
+      "link": "https://www.wired.com/story/an-ai-agent-did-brain-surgery-on-live-mouse/",
+      "published_at": "2026-10-31T10:00:00+00:00",
+      "summary_raw": "A biotech startup let an agent choose a gene therapy and successfully inject the treatment, offering a startling glimpse of the future of research labs.",
+      "id": "6a707d4a539a"
     }
   ]
 }

@@ -1,14 +1,126 @@
 {
   "mode": "raw",
-  "generated_at": "2026-11-05T00:43:39.381966+00:00",
+  "generated_at": "2026-11-05T18:38:40.427763+00:00",
   "items": [
     {
       "source": "WRAL Local",
-      "title": "Raleigh considers expanding home childcare capacity as North Carolina faces shortage",
-      "link": "https://www.wral.com/news/local/raleigh-considers-expanding-home-childcare-capacity-nc-faces-shortage-nov-2026/",
-      "published_at": "2026-11-04T23:58:25+00:00",
-      "summary_raw": "A Wednesday night city council meeting could nearly double the number of children allowed in home childcare facilities in Raleigh. Providers say the need for the change is real as the state faces a shortage.",
-      "id": "97a92cbbb00a"
+      "title": "Driver admitted to drinking prior to deadly e-bike crash in Wilson, court document says",
+      "link": "https://www.wral.com/news/local/driver-admitted-to-drinking-prior-to-deadly-e-bike-crash-in-wilson-nov-5-2026/",
+      "published_at": "2026-11-05T15:55:46+00:00",
+      "summary_raw": "A newly obtained affidavit shows that the driver in the fatal crash admitted to having four drinks, up until about an hour before the crash. That driver has never been charged with driving while impaired.",
+      "id": "4766d17d81c5"
+    },
+    {
+      "source": "WRAL Weather",
+      "title": "Ask the Meteorologist: What do these clouds mean for our weather pattern?",
+      "link": "https://www.wral.com/weather/ask-the-meteorologist-interesting-cloud-formation-november-2026/",
+      "published_at": "2026-11-05T13:46:41+00:00",
+      "summary_raw": "Viewer Brenda Csolak sent a photo of an interesting cloud formation last weekend. This cloud type foreshadowed the weather we had this week ahead of our end-of-week rain chance.",
+      "id": "226bb71b8fa3"
+    },
+    {
+      "source": "Wired",
+      "title": "Reddit Founder Says Building Social Media Apps Is ‘Not Cool Anymore’",
+      "link": "https://www.wired.com/story/wired-world-fair-2026-alexis-ohanian/",
+      "published_at": "2026-11-05T16:26:57+00:00",
+      "summary_raw": "Alexis Ohanian is trying to figure out what’s next for user-generated content now that so much of the internet is “compromised.”",
+      "id": "6537c89f2191"
+    },
+    {
+      "source": "NPR Politics",
+      "title": "Head of Justice Department office on Civil Rights resigns",
+      "link": "https://www.npr.org/2026/11/05/g-s1-152080/head-of-justice-department-office-on-civil-rights-resigns",
+      "published_at": "2026-11-05T18:01:57+00:00",
+      "summary_raw": "The head of the Justice Department's Civil Rights Division, Harmeet Dhillon, is out after 18 tumultuous months in charge.",
+      "id": "ec64e77a6fc2"
+    },
+    {
+      "source": "NPR National",
+      "title": "Head of Justice Department office on Civil Rights resigns",
+      "link": "https://www.npr.org/2026/11/05/g-s1-152080/head-of-justice-department-office-on-civil-rights-resigns",
+      "published_at": "2026-11-05T18:01:57+00:00",
+      "summary_raw": "The head of the Justice Department's Civil Rights Division, Harmeet Dhillon, is out after 18 tumultuous months in charge.",
+      "id": "ec64e77a6fc2"
+    },
+    {
+      "source": "BBC World",
+      "title": "French protests see numbers surge as unions join strikes over high cost of living",
+      "link": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-05T17:59:53+00:00",
+      "summary_raw": "The interior ministry estimates 600,000 people joined protests across France, while the unions say the number was far higher.",
+      "id": "00b9234ca2b6"
+    },
+    {
+      "source": "Science Daily",
+      "title": "Scientists discover that a clogged filter could revolutionize oil refining",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261103003207.htm",
+      "published_at": "2026-11-05T14:04:07+00:00",
+      "summary_raw": "Scientists have developed a remarkable new membrane that separates crude oil at room temperature, using the oil itself to create microscopic filtration channels. The breakthrough could cut refining energy consumption by nearly 32%, carbon emissions by almost 38%, and operating costs by 36%, potentially transforming one of the world's most energy-intensive industries.",
+      "id": "df544b94f58f"
+    },
+    {
+      "source": "WRAL Local",
+      "title": "Police: Apex man arrested, told troopers he hit a deer after deadly hit-and-run on Durham Freeway",
+      "link": "https://www.wral.com/news/local/deadly-hit-and-run-durham-freeway-arrest-november-2026/",
+      "published_at": "2026-11-05T15:40:06+00:00",
+      "summary_raw": "Police arrested 48-year-old Julien Joseph on Tuesday in the death of 37-year-old Rakesh Babu Poojari. He is charged with felony hit-and-run.",
+      "id": "4228354b0ed7"
+    },
+    {
+      "source": "WRAL Weather",
+      "title": "'Catastrophic flood event’ hits Georgia and Tennessee, water rescues and evacuations underway",
+      "link": "https://www.wral.com/weather/catastrophic-flooding-georgia-tennessee-water-rescues-evacuations-november-2026/",
+      "published_at": "2026-11-05T12:37:41+00:00",
+      "summary_raw": "Homes are flooded and water rescues and evacuations are in progress as flash flood emergencies — the highest level of flood warning — impact North Georgia and southern Tennessee.",
+      "id": "bceb4e7eae33"
+    },
+    {
+      "source": "Wired",
+      "title": "Area Man Feels Joy Online for First Time in Years",
+      "link": "https://www.wired.com/story/wired-world-fair-2026-ben-collins-the-onion/",
+      "published_at": "2026-11-05T15:38:07+00:00",
+      "summary_raw": "A day after the US midterm elections gave Democrats control of Congress, Onion CEO Ben Collins and comedian Patti Harrison spoke to WIRED about the salve of satire during politically fraught times.",
+      "id": "e92cd3e12d61"
+    },
+    {
+      "source": "NPR Politics",
+      "title": "Russell Brand is convicted of rape, and judge says he'll get a prison term",
+      "link": "https://www.npr.org/2026/11/05/nx-s1-6030720/russell-brand-rape-sexual-assault-prison",
+      "published_at": "2026-11-05T16:15:02+00:00",
+      "summary_raw": "A prosecutor described Brand as a ruthless, calculating, manipulative \"sexual predator.\" Brand, 51, denied the charges, saying he had never forced anyone to do something against their will.",
+      "id": "31aa935e17b9"
+    },
+    {
+      "source": "NPR National",
+      "title": "First-time homebuyers remain scarce, but a record share of them pay all cash",
+      "link": "https://www.npr.org/2026/11/05/nx-s1-6022491/real-estate-all-cash-offer",
+      "published_at": "2026-11-05T15:00:00+00:00",
+      "summary_raw": "A new report finds generational wealth is widening the divide between homebuyers and those priced out. The median age of first-time buyers also remains at a record high.",
+      "id": "9f2de1cb6ea0"
+    },
+    {
+      "source": "BBC World",
+      "title": "Paraguay President Santiago Peña resigns after bank collapse",
+      "link": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-05T17:40:40+00:00",
+      "summary_raw": "The move follows a bank collapse and after the lower house of congress voted in favour of pursuing an impeachment trial against him.",
+      "id": "819089d8c1fb"
+    },
+    {
+      "source": "Science Daily",
+      "title": "A clever molecular trick unlocks previously impossible properties in glass",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261103003202.htm",
+      "published_at": "2026-11-05T13:36:51+00:00",
+      "summary_raw": "Scientists have discovered how to reprogram the internal structure of glass using a special molecule that rearranges chemical bonds while lowering the melting temperature. The breakthrough could unlock entirely new glass materials with precisely controlled magnetic and optical properties, opening possibilities for advanced electronics, sensors, and other technologies.",
+      "id": "ae35c1e964ba"
+    },
+    {
+      "source": "WRAL Local",
+      "title": "Man charged with assaulting WakeMed staff member, grabbing Raleigh officer's gun during arrest",
+      "link": "https://www.wral.com/news/local/man-charged-assault-wakemed-employee-resisting-raleigh-officers-arrest-november-2026/",
+      "published_at": "2026-11-05T15:32:05+00:00",
+      "summary_raw": "A man is accused of assaulting a hospital security worker at WakeMed in Raleigh, grabbing an officer's gun and attempting to kick police officers during his arrest.",
+      "id": "7b148164f685"
     },
     {
       "source": "WRAL Weather",
@@ -20,19 +132,259 @@
     },
     {
       "source": "Wired",
-      "title": "The Blue Wave Has Tech Bros Scrambling for Data Centers in Space",
-      "link": "https://www.wired.com/story/the-blue-wave-has-tech-bros-scrambling-for-data-centers-in-space/",
-      "published_at": "2026-11-04T23:13:14+00:00",
-      "summary_raw": "After Democrats won big in Texas and other AI infrastructure hot spots on Tuesday, data center enthusiasts looked for comfort in low Earth orbit.",
-      "id": "12328743be3d"
+      "title": "Exclusive: Aina’s Smart Ring Wants to Be a Remote Control for Your AI Agent",
+      "link": "https://www.wired.com/story/aina-smart-ring/",
+      "published_at": "2026-11-05T14:00:00+00:00",
+      "summary_raw": "The startup Aina bets you won’t need to rely on your phone to control virtual assistants. It’s making a smart ring that lets you control the actions of your autonomous agents with one tap.",
+      "id": "09d977b48f12"
     },
     {
       "source": "NPR Politics",
-      "title": "What's the future of the Democratic party in Texas, amid historic midterm wins?",
-      "link": "https://www.npr.org/2026/11/04/nx-s1-6029122/whats-the-future-of-the-democratic-party-in-texas-amid-historic-midterm-wins",
-      "published_at": "2026-11-04T22:10:00+00:00",
-      "summary_raw": "NPR's Ailsa Chang talks with former Texas state Sen. Wendy Davis, a Democrat, about Texas flipping blue and what it means for future elections.",
-      "id": "2d5db066c1ce"
+      "title": "What's next for Democrats after the midterms. And, a look at the outstanding races",
+      "link": "https://www.npr.org/2026/11/05/g-s1-152046/up-first-newsletter-democrats-congress-control-house-senate-trump-reaction",
+      "published_at": "2026-11-05T12:02:24+00:00",
+      "summary_raw": "Democrats have regained control of Congress. They have a long list of investigations into Trump planned. And, not all races have been called. Here's a look at how they could affect the Dems' majority.",
+      "id": "a72192c804a4"
+    },
+    {
+      "source": "NPR National",
+      "title": "Sen. Gillibrand says Democrats must end Iran war, hold Trump accountable. But how?",
+      "link": "https://www.npr.org/2026/11/05/nx-s1-6028837/kirsten-gillibrand-democrats-congress-priorities",
+      "published_at": "2026-11-05T11:45:30+00:00",
+      "summary_raw": "Sen. Kirsten Gillibrand spoke with Morning Edition about Democrats' priorities, from lowering costs to ending the Iran war. But questions remain about how they'll deliver.",
+      "id": "480691fc2fe8"
+    },
+    {
+      "source": "BBC World",
+      "title": "Russell Brand is being investigated over two new rape complaints, police say",
+      "link": "https://www.bbc.co.uk/news/articles/c6vgx8q09gg4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-05T15:44:49+00:00",
+      "summary_raw": "Det Supt Andy Furphy said he hoped other potential victims would gain \"courage\" and \"confidence\" from the guilty verdicts.",
+      "id": "611d525763a6"
+    },
+    {
+      "source": "Science Daily",
+      "title": "400,000-year-old teeth reveal a stunning twist in human evolution",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261102202836.htm",
+      "published_at": "2026-11-05T13:05:12+00:00",
+      "summary_raw": "A groundbreaking discovery is rewriting the story of human evolution, revealing that an ancient human species once thought to be an evolutionary dead end may have left genetic traces in people alive today. By extracting proteins from 400,000-year-old Homo erectus teeth discovered in China, scientists uncovered evidence suggesting that these early humans interbred with Denisovans, another mysterious ancient human group. That genetic connection may have eventually reached modern populations in the Philippines, Papua New Guinea, and other parts of Southeast Asia.",
+      "id": "0104c7b9ce84"
+    },
+    {
+      "source": "WRAL Local",
+      "title": "Drought worsens: Parts of Triangle now in extreme drought, NC's severe drought expands",
+      "link": "https://www.wral.com/news/local/nc-drought-worsens-triangle-extreme-conditions-november-2026/",
+      "published_at": "2026-11-05T15:07:36+00:00",
+      "summary_raw": "North Carolina's drought continues to worsen, with parts of Wake County now in extreme drought.",
+      "id": "46a0d0541df6"
+    },
+    {
+      "source": "Wired",
+      "title": "Apple MacBook Pro OLED (2026) Review: The Best Comes at a Cost",
+      "link": "https://www.wired.com/review/apple-macbook-pro-oled-2026/",
+      "published_at": "2026-11-05T14:00:00+00:00",
+      "summary_raw": "The new OLED MacBook Pro comes with an incredible-looking touchscreen display—and an equally eye-popping price.",
+      "id": "0f1ae8e98133"
+    },
+    {
+      "source": "NPR Politics",
+      "title": "Sen. Gillibrand says Democrats must end Iran war, hold Trump accountable. But how?",
+      "link": "https://www.npr.org/2026/11/05/nx-s1-6028837/kirsten-gillibrand-democrats-congress-priorities",
+      "published_at": "2026-11-05T11:45:30+00:00",
+      "summary_raw": "Sen. Kirsten Gillibrand spoke with Morning Edition about Democrats' priorities, from lowering costs to ending the Iran war. But questions remain about how they'll deliver.",
+      "id": "480691fc2fe8"
+    },
+    {
+      "source": "NPR National",
+      "title": "Trump's arch is on the verge of federal approval. But a judge could block construction",
+      "link": "https://www.npr.org/2026/11/05/nx-s1-6027301/trump-arch-federal-approval-judge-construction",
+      "published_at": "2026-11-05T10:02:00+00:00",
+      "summary_raw": "A federal panel will meet to consider the arch for final approval on Thursday, and the government said it may begin construction later that same day. Critics hope a judge will intervene last-minute.",
+      "id": "136e8caae5ed"
+    },
+    {
+      "source": "BBC World",
+      "title": "A bitter end for Ronaldo - the icon who transformed Portugal",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ckn9rwr2zzpvo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-05T14:29:40+00:00",
+      "summary_raw": "As Cristiano Ronaldo retires from international football, Guillem Balague looks at why and what is next for the Portugal legend.",
+      "id": "0ac712fc11cd"
+    },
+    {
+      "source": "Science Daily",
+      "title": "Scientists discover mysterious “lonely” brain waves linked to memory loss",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261101010556.htm",
+      "published_at": "2026-11-05T12:50:34+00:00",
+      "summary_raw": "Scientists have uncovered a surprising link between Alzheimer’s-related protein buildup, disrupted brain waves during deep sleep, and fading memory. The findings suggest that hidden changes in how the brain processes memories overnight may contribute to age-related memory loss long before Alzheimer’s symptoms appear.",
+      "id": "0bab44666b06"
+    },
+    {
+      "source": "WRAL Local",
+      "title": "Water main break closes section of Glen Eden Drive in Raleigh",
+      "link": "https://www.wral.com/news/local/water-main-break-closes-glen-eden-drive-raleigh-november-2026/",
+      "published_at": "2026-11-05T12:17:26+00:00",
+      "summary_raw": "A section of Glen Eden Drive is blocked in Raleigh near Tyson Street and Ridge Road due to damage from a water main break.",
+      "id": "dc0b082f9aca"
+    },
+    {
+      "source": "Wired",
+      "title": "Finding New Drugs Is Laborious. This AI Startup Is Skipping The Lab Work",
+      "link": "https://www.wired.com/story/finding-new-drugs-is-laborious-this-ai-startup-is-skipping-the-lab-work/",
+      "published_at": "2026-11-05T13:00:00+00:00",
+      "summary_raw": "Potential Sciences, a startup backed by the UK government, is betting that training AI models on computer-generated biochemical data can speed up the plodding process of developing new drugs.",
+      "id": "f4e22f4df941"
+    },
+    {
+      "source": "NPR Politics",
+      "title": "Trump's arch is on the verge of federal approval. But a judge could block construction",
+      "link": "https://www.npr.org/2026/11/05/nx-s1-6027301/trump-arch-federal-approval-judge-construction",
+      "published_at": "2026-11-05T10:02:00+00:00",
+      "summary_raw": "A federal panel will meet to consider the arch for final approval on Thursday, and the government said it may begin construction later that same day. Critics hope a judge will intervene last-minute.",
+      "id": "136e8caae5ed"
+    },
+    {
+      "source": "NPR National",
+      "title": "The South flexes political power in midterms, sets regional influence in 2028 election",
+      "link": "https://www.npr.org/2026/11/05/nx-s1-6029818/blue-wave-south-carolina-georgia-mississippi-texas",
+      "published_at": "2026-11-05T10:00:00+00:00",
+      "summary_raw": "Tuesday's dramatic midterm results have transformed the electoral map, ensuring the path to future power for Democrats and Republicans must run through the South and its diverse voting population.",
+      "id": "1b4f762d6ad3"
+    },
+    {
+      "source": "BBC World",
+      "title": "Watch: How rapist Brand was never far from controversy",
+      "link": "https://www.bbc.co.uk/news/videos/c9dr8713zjgyo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-05T14:28:21+00:00",
+      "summary_raw": "BBC correspondent Sima Kotecha explains how the trial unfolded.",
+      "id": "521f78d876d4"
+    },
+    {
+      "source": "Science Daily",
+      "title": "Goodbye, cavities? Scientists create gel that could regrow tooth enamel",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261104005059.htm",
+      "published_at": "2026-11-05T11:37:26+00:00",
+      "summary_raw": "Scientists have developed a revolutionary gel that could regrow lost tooth enamel by harnessing minerals naturally found in saliva, potentially overcoming one of dentistry’s biggest limitations. The regenerated enamel behaves much like healthy enamel, raising hopes for a simple treatment that could repair damaged teeth, prevent decay, and reduce sensitivity.",
+      "id": "1ce99e972979"
+    },
+    {
+      "source": "WRAL Local",
+      "title": "Caught on cam: Cruise ship passenger having medical emergency rescued in Outer Banks",
+      "link": "https://www.wral.com/news/local/cruise-ship-passenger-medical-emergency-rescued-outer-banks-november-2026/",
+      "published_at": "2026-11-05T10:19:46+00:00",
+      "summary_raw": "New video shows the U.S. Coast Guard rescuing a cruise ship passenger off the Outer Banks.",
+      "id": "4baa0d59f21f"
+    },
+    {
+      "source": "Wired",
+      "title": "Motorola Signature 27: Specs, Price, Features, Release Date",
+      "link": "https://www.wired.com/story/motorola-wants-to-sell-you-a-1600-phone-that-doesnt-fold/",
+      "published_at": "2026-11-05T13:00:00+00:00",
+      "summary_raw": "Equipped with the brightest display, an “Event-Based Vision Sensor,” and the next-generation Qualcomm processor, Motorola hopes you’ll want to spend big bucks on its ceramic and aluminum Signature 27.",
+      "id": "a2b47e77b035"
+    },
+    {
+      "source": "NPR Politics",
+      "title": "The South flexes political power in midterms, sets regional influence in 2028 election",
+      "link": "https://www.npr.org/2026/11/05/nx-s1-6029818/blue-wave-south-carolina-georgia-mississippi-texas",
+      "published_at": "2026-11-05T10:00:00+00:00",
+      "summary_raw": "Tuesday's dramatic midterm results have transformed the electoral map, ensuring the path to future power for Democrats and Republicans must run through the South and its diverse voting population.",
+      "id": "1b4f762d6ad3"
+    },
+    {
+      "source": "NPR National",
+      "title": "As budgets tighten, people are breaking out their library cards",
+      "link": "https://www.npr.org/2026/11/05/nx-s1-5992908/libraries-and-cost-of-living",
+      "published_at": "2026-11-05T10:00:00+00:00",
+      "summary_raw": "Some Americans squeezed by high prices are relying more on their local libraries for things like books, streaming services and high-priced items like musical instruments and sewing machines.",
+      "id": "a089703df4d2"
+    },
+    {
+      "source": "BBC World",
+      "title": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
+      "link": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-05T13:51:03+00:00",
+      "summary_raw": "Wong, 30, is among hundreds of Hongkongers detained under the controversial national security law.",
+      "id": "311fa90eb2c3"
+    },
+    {
+      "source": "Science Daily",
+      "title": "Scientists solve 30-year-old mystery and discover a hidden defense against inflammation",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261101010554.htm",
+      "published_at": "2026-11-05T11:05:46+00:00",
+      "summary_raw": "Scientists have solved a decades-old mystery and uncovered a hidden immune system defense that protects healthy cells from the very inflammation meant to fight infections. The surprising discovery could lead to new approaches for treating cancer, inflammatory bowel disease, and other conditions involving excessive inflammation.",
+      "id": "4a9bb134f643"
+    },
+    {
+      "source": "WRAL Local",
+      "title": "Car crashes into Lowe's home improvement store in Cary",
+      "link": "https://www.wral.com/news/local/car-crashes-lowes-hardware-store-cary-november-2026/",
+      "published_at": "2026-11-05T09:20:26+00:00",
+      "summary_raw": "A car is badly damaged after it crashed into a Lowe’s home improvement store in Cary.",
+      "id": "6b0ef2323adc"
+    },
+    {
+      "source": "Wired",
+      "title": "AI’s Next Trick? Speaking Dolphin",
+      "link": "https://www.wired.com/story/wired-world-fair-2026-denise-herzing-wild-dolphin/",
+      "published_at": "2026-11-05T12:00:00+00:00",
+      "summary_raw": "Denise Herzing, the founder and director of the Wild Dolphin Project, is using AI to help understand audio and video footage of the marine mammals.",
+      "id": "34517ce7900a"
+    },
+    {
+      "source": "NPR Politics",
+      "title": "Democrats will control Congress. Will it change Trump's approach to foreign policy?",
+      "link": "https://www.npr.org/2026/11/05/nx-s1-6028977/democrats-will-control-congress-will-it-change-trumps-approach-to-foreign-policy",
+      "published_at": "2026-11-05T09:50:34+00:00",
+      "summary_raw": "NPR's Leila Fadel speaks with historian and journalist Anne Applebaum about how much a Democrat-led Congress can steer foreign policy.",
+      "id": "b75b84417e54"
+    },
+    {
+      "source": "NPR National",
+      "title": "A look at how the NYPD built its surveillance system and the fight for transparency",
+      "link": "https://www.npr.org/2026/11/05/nx-s1-5918584/a-look-at-how-the-nypd-built-its-surveillance-system-and-the-fight-for-transparency",
+      "published_at": "2026-11-05T09:46:30+00:00",
+      "summary_raw": "New York City police surveillance systems were paid for and adopted without the kind of public oversight cities usually require.",
+      "id": "24dab2e26210"
+    },
+    {
+      "source": "BBC World",
+      "title": "The Pitt and ER are similar enough for lawsuit to proceed, judge rules",
+      "link": "https://www.bbc.co.uk/news/articles/cq4g1r42jx00o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-05T11:21:35+00:00",
+      "summary_raw": "The widow of ER creator Michael Crichton argues The Pitt is effectively a reboot of the 1990s series.",
+      "id": "8af2e61763cf"
+    },
+    {
+      "source": "Science Daily",
+      "title": "A tiny supercurrent could unlock quantum information without destroying it",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261102202831.htm",
+      "published_at": "2026-11-05T03:47:09+00:00",
+      "summary_raw": "Researchers have proposed a breakthrough technique for reading quantum information without destroying the delicate states that make quantum computers work. By detecting an electrical signal generated by the qubit itself, their method achieved up to 99.85% accuracy in simulations and could make future quantum computers simpler and more efficient.",
+      "id": "f8800e3ec056"
+    },
+    {
+      "source": "WRAL Local",
+      "title": "Raleigh considers expanding home childcare capacity as North Carolina faces shortage",
+      "link": "https://www.wral.com/news/local/raleigh-considers-expanding-home-childcare-capacity-nc-faces-shortage-nov-2026/",
+      "published_at": "2026-11-04T23:58:25+00:00",
+      "summary_raw": "A Wednesday night city council meeting could nearly double the number of children allowed in home childcare facilities in Raleigh. Providers say the need for the change is real as the state faces a shortage.",
+      "id": "97a92cbbb00a"
+    },
+    {
+      "source": "Wired",
+      "title": "Best Wireless Chargers (2026): My Picks After Testing 100+",
+      "link": "https://www.wired.com/gallery/best-wireless-chargers/",
+      "published_at": "2026-11-05T12:00:00+00:00",
+      "summary_raw": "Stop fumbling for cables in the dark. These WIRED-tested stands and pads will take the hassle out of refueling your phone, wireless earbuds, and watch.",
+      "id": "d38b59d90f97"
+    },
+    {
+      "source": "NPR Politics",
+      "title": "Morning news brief",
+      "link": "https://www.npr.org/2026/11/05/nx-s1-6023116/morning-news-brief",
+      "published_at": "2026-11-05T09:47:05+00:00",
+      "summary_raw": "Democrats are planning out how to tackle their agenda in the new year, ballots are still being counted in some undecided races, Trump avoids taking the blame after GOP midterm losses.",
+      "id": "e7cf6b3860c2"
     },
     {
       "source": "NPR National",
@@ -44,11 +396,59 @@
     },
     {
       "source": "BBC World",
-      "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
-      "link": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-04T22:48:43+00:00",
-      "summary_raw": "At least 40 people were killed and another 30 may still be under the rubble after Monday's attack on a Ukrainian village, Kyiv says.",
-      "id": "e4e6c10b11ac"
+      "title": "Was an Italian chef really fired over refusal to put pineapple on pizza?",
+      "link": "https://www.bbc.co.uk/news/videos/cmvg9yy8wpweo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-05T10:33:21+00:00",
+      "summary_raw": "The chef had stated that putting pineapple on pizza was \"offensive to his culture\".",
+      "id": "9de52ddef562"
+    },
+    {
+      "source": "Science Daily",
+      "title": "Scientists turn viruses into weapons against deadly superbugs",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261102202828.htm",
+      "published_at": "2026-11-05T02:40:33+00:00",
+      "summary_raw": "Scientists are advancing a promising new way to fight antibiotic-resistant infections by using viruses that specifically target and kill harmful bacteria. An international team has released the first coordinated guidelines for personalized phage therapy, offering a roadmap for safely bringing this experimental treatment into clinical practice. Early findings are encouraging, with one study reporting improvement in 77% of patients and the disappearance of targeted bacteria in 61%.",
+      "id": "ac4413a3e10a"
+    },
+    {
+      "source": "WRAL Local",
+      "title": "Hoke County man mistakes missing boa constrictor for a fence post",
+      "link": "https://www.wral.com/news/local/hoke-county-man-mistakes-boa-constrictor-for-fence-post-november-2026/",
+      "published_at": "2026-11-04T23:24:34+00:00",
+      "summary_raw": "A boa constrictor missing for weeks in Hoke County was found Wednesday on a man's farm after he initially mistook the 6-7-foot snake for a fence post.",
+      "id": "89cb123d0259"
+    },
+    {
+      "source": "Wired",
+      "title": "He Trolls AI Labs for a Living. Now They All Want to Work With Him",
+      "link": "https://www.wired.com/story/wired-world-fair-2026-evan-ratliff-and-husk/",
+      "published_at": "2026-11-05T11:45:00+00:00",
+      "summary_raw": "OpenAI, Anthropic, and SpaceXSI have all reached out to Husk, an influencer who regularly goes viral by exposing the shortcomings of chatbots.",
+      "id": "56ea9e008757"
+    },
+    {
+      "source": "NPR Politics",
+      "title": "Democrats will take control of Congress next year. What does it mean for the economy?",
+      "link": "https://www.npr.org/2026/11/05/nx-s1-6029304/democrats-will-take-control-of-congress-next-year-what-does-it-mean-for-the-economy",
+      "published_at": "2026-11-05T09:46:54+00:00",
+      "summary_raw": "The Democratic gains in this week's midterm elections will bring a different business climate to Washington. But the overall economy should be OK.",
+      "id": "67273ddf17ff"
+    },
+    {
+      "source": "NPR National",
+      "title": "Chuck Schumer heralds Democrats' 'generational remake' of Senate",
+      "link": "https://www.npr.org/2026/11/04/g-s1-151833/2026-midterms-chuck-schumer-senate-democrats",
+      "published_at": "2026-11-04T18:37:34+00:00",
+      "summary_raw": "In remarks the day after his party flipped control of Congress, the Senate Minority Leader said voters had spoken clearly about their priorities, and said it's up to the Democratic party to deliver.",
+      "id": "6ee5f616c2fd"
+    },
+    {
+      "source": "BBC World",
+      "title": "Was an Italian chef really fired over refusal to put pineapple on pizza?",
+      "link": "https://www.bbc.co.uk/news/videos/cmvg9yy8wpweo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-05T10:33:21+00:00",
+      "summary_raw": "The chef had stated that putting pineapple on pizza was \"offensive to his culture\".",
+      "id": "c7f30ce912c9"
     },
     {
       "source": "Science Daily",
@@ -60,62 +460,6 @@
     },
     {
       "source": "WRAL Local",
-      "title": "Hoke County man mistakes missing boa constrictor for a fence post",
-      "link": "https://www.wral.com/news/local/hoke-county-man-mistakes-boa-constrictor-for-fence-post-november-2026/",
-      "published_at": "2026-11-04T23:24:34+00:00",
-      "summary_raw": "A boa constrictor missing for weeks in Hoke County was found Wednesday on a man's farm after he initially mistook the 6-7-foot snake for a fence post.",
-      "id": "89cb123d0259"
-    },
-    {
-      "source": "WRAL Weather",
-      "title": "Ask the Meteorologist: How could weather have played a role in deadly south Florida plane crash?",
-      "link": "https://www.wral.com/weather/ask-the-meteorologist-south-florida-plane-crash-november-2026/",
-      "published_at": "2026-11-02T10:07:50+00:00",
-      "summary_raw": "Dashcam video of a south Florida plane crash Sunday has gone viral. We investigate how weather could've led to the crash.",
-      "id": "2a2cfdbff09c"
-    },
-    {
-      "source": "Wired",
-      "title": "‘We Have No Shared Reality’: Two Political Influencers on the Future of Politics Online",
-      "link": "https://www.wired.com/story/wired-world-fair-2026-cj-pearson-and-kat-abughazaleh/",
-      "published_at": "2026-11-04T21:04:05+00:00",
-      "summary_raw": "Kat Abughazaleh and CJ Pearson spoke at WIRED World Fair on Wednesday about the influence of social media on politics following Tuesday’s midterm elections.",
-      "id": "d9eb10e7fa73"
-    },
-    {
-      "source": "NPR Politics",
-      "title": "South Carolina winner Annie Andrews talks about her win and the path ahead",
-      "link": "https://www.npr.org/2026/11/04/nx-s1-6029646/south-carolina-winner-annie-andrews-talks-about-her-win-and-the-path-ahead",
-      "published_at": "2026-11-04T22:04:23+00:00",
-      "summary_raw": "NPR's Ailsa Chang talks with Democrat Dr. Annie Andrews, who bested Republican candidate Darline Graham, the incumbent and sister of the late Sen. Lindsey Graham.",
-      "id": "4c512ea8aa4a"
-    },
-    {
-      "source": "NPR National",
-      "title": "Chuck Schumer heralds Democrats' 'generational remake' of Senate",
-      "link": "https://www.npr.org/2026/11/04/g-s1-151833/2026-midterms-chuck-schumer-senate-democrats",
-      "published_at": "2026-11-04T18:37:34+00:00",
-      "summary_raw": "In remarks the day after his party flipped control of Congress, the Senate Minority Leader said voters had spoken clearly about their priorities, and said it's up to the Democratic party to deliver.",
-      "id": "6ee5f616c2fd"
-    },
-    {
-      "source": "BBC World",
-      "title": "US midterm results a 'victory' for Canadians hopeful of tariff relief",
-      "link": "https://www.bbc.co.uk/news/articles/cqev3mw3e0kdo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-04T18:01:31+00:00",
-      "summary_raw": "With Canada-US trade talks back on, Tuesday’s midterm Democratic wave puts pressure on the White House to come to a deal.",
-      "id": "79cf31dd9ca4"
-    },
-    {
-      "source": "Science Daily",
-      "title": "Scientists may have finally explained why our brains and bodies are cross-wired",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261103003146.htm",
-      "published_at": "2026-11-04T13:24:52+00:00",
-      "summary_raw": "Scientists propose that the brain’s mysterious cross-wiring, which connects each hemisphere to the opposite side of the body, may have originated more than 500 million years ago in the visual systems of ancient fish. Rather than evolving for a specific advantage, this unusual arrangement may simply be a legacy of evolution building new brain circuits on an ancient foundation.",
-      "id": "b3ff44d6d7b1"
-    },
-    {
-      "source": "WRAL Local",
       "title": "‘We are trapped’: Durham residents plead for help with ongoing crime",
       "link": "https://www.wral.com/news/local/durham-residents-laurel-avenue-crime-issue-november-2026/",
       "published_at": "2026-11-04T23:06:57+00:00",
@@ -124,19 +468,19 @@
     },
     {
       "source": "Wired",
-      "title": "The Biggest Pro-AI Super PAC Network Didn’t Really Impact the Midterms",
-      "link": "https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-didnt-really-impact-the-midterms/",
-      "published_at": "2026-11-04T20:41:29+00:00",
-      "summary_raw": "Leading the Future, backed by Silicon Valley’s biggest billionaires, had a war chest of $100 million and an aggressive stance against AI regulation. All of it didn’t add up to much on Tuesday night.",
-      "id": "7110ef47c6ae"
+      "title": "The ‘Ocarina of Time’ Remake Is Finally Here, but Why Does Link Look so Yassified?",
+      "link": "https://www.wired.com/story/the-legend-of-zelda-ocarina-of-time-remake-yassified-link/",
+      "published_at": "2026-11-05T11:30:00+00:00",
+      "summary_raw": "Nintendo has prepped its classic game for a rerelease with a slew of aesthetic upgrades—none more extreme than the protagonist’s curled-eyelash, glossed-lip glow-up.",
+      "id": "1997ae2044b4"
     },
     {
       "source": "NPR Politics",
-      "title": "Where voters stand on state ballot measures, from abortion to LGBTQ rights to guns",
-      "link": "https://www.npr.org/2026/11/04/nx-s1-6028833/midterms-ballot-measures-abortion-lgbtq-guns",
-      "published_at": "2026-11-04T21:49:17+00:00",
-      "summary_raw": "Voters in dozens of states considered 146 statewide ballot measures this midterm cycle, on topics spanning LGBTQ rights, wealth taxes, abortion, redistricting, guns and more.",
-      "id": "71b3ee8b5c9b"
+      "title": "Democrats and Republicans reflect on midterm results and the message sent by voters",
+      "link": "https://www.npr.org/2026/11/05/nx-s1-6029732/democrats-and-republicans-reflect-on-midterm-results-and-the-message-sent-by-voters",
+      "published_at": "2026-11-05T09:46:11+00:00",
+      "summary_raw": "The 2026 election proved to be very good for Democrats and very bad for President Trump and Republicans. But there are still races outstanding that can tell us what mattered to voters this year.",
+      "id": "5a42f41d6abe"
     },
     {
       "source": "NPR National",
@@ -148,11 +492,43 @@
     },
     {
       "source": "BBC World",
-      "title": "Iran's chief negotiator says Americans voted 'no to war'",
-      "link": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-04T16:59:15+00:00",
-      "summary_raw": "\"We endorse this message,\" Mohammed Bagher Ghalibaf says, as Donald Trump acknowledges the conflict's role in the Republican Party's defeat.",
-      "id": "a6a6afb80da3"
+      "title": "India's costliest film retells a beloved Hindu epic - but divides critics",
+      "link": "https://www.bbc.co.uk/news/articles/cm93zv62v1n7o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-05T09:04:42+00:00",
+      "summary_raw": "Easily the most anticipated Bollywood film of the year, Ramayana: Rise of a Legend is the first of two parts.",
+      "id": "fff5622abec0"
+    },
+    {
+      "source": "Science Daily",
+      "title": "Scientists may have finally explained why our brains and bodies are cross-wired",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261103003146.htm",
+      "published_at": "2026-11-04T13:24:52+00:00",
+      "summary_raw": "Scientists propose that the brain’s mysterious cross-wiring, which connects each hemisphere to the opposite side of the body, may have originated more than 500 million years ago in the visual systems of ancient fish. Rather than evolving for a specific advantage, this unusual arrangement may simply be a legacy of evolution building new brain circuits on an ancient foundation.",
+      "id": "b3ff44d6d7b1"
+    },
+    {
+      "source": "WRAL Local",
+      "title": "Man killed in northeast Raleigh was part of attempted robbery, brother facing charges, police say",
+      "link": "https://www.wral.com/news/local/man-killed-part-armed-robbery-attempt-raleigh-brother-facing-charges-november-2026/",
+      "published_at": "2026-11-04T21:20:33+00:00",
+      "summary_raw": "Two men charged in a Raleigh attempted armed robbery that turned deadly are due in court Thursday afternoon.",
+      "id": "cb5947856222"
+    },
+    {
+      "source": "Wired",
+      "title": "Particle Physicists Are Getting a First Glimpse Into the ‘Zeptoverse’",
+      "link": "https://www.wired.com/story/particle-physicists-are-getting-a-first-glimpse-into-the-zeptoverse/",
+      "published_at": "2026-11-05T10:30:00+00:00",
+      "summary_raw": "An extremely rare matter-decay event opens up new possibilities for researching the physical world on scales 100 billion times smaller than an atom.",
+      "id": "9e7f8f257419"
+    },
+    {
+      "source": "BBC World",
+      "title": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
+      "link": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-05T03:47:56+00:00",
+      "summary_raw": "The vice-president's blunt assessment of Republican election defeat marked one of the sharpest breaks with a sitting president in recent memory.",
+      "id": "762e4e6a19b2"
     },
     {
       "source": "Science Daily",
@@ -163,44 +539,20 @@
       "id": "fe1c642e4b59"
     },
     {
-      "source": "WRAL Local",
-      "title": "Raleigh police: Man killed on Foxhound Road was part of attempted robbery, brother facing charges",
-      "link": "https://www.wral.com/news/local/man-killed-part-armed-robbery-attempt-raleigh-brother-facing-charges-november-2026/",
-      "published_at": "2026-11-04T21:20:33+00:00",
-      "summary_raw": "Police officers in Raleigh said an 18-year-old man died in a shooting on Monday, and his brother and another man are charged in what they described as an attempted armed robbery.",
-      "id": "cb5947856222"
-    },
-    {
       "source": "Wired",
-      "title": "‘Blade Runner 2099’ Shows the ‘Silver Linings’ of a Replicant Takeover",
-      "link": "https://www.wired.com/story/wired-world-fair-2026-blade-runner-2099/",
-      "published_at": "2026-11-04T20:24:14+00:00",
-      "summary_raw": "Showrunner Silka Luisa and star Hunter Schafer want their series, Blade Runner 2099, to show the benefits of a post-revolution world.",
-      "id": "ddf7c1c4c15d"
-    },
-    {
-      "source": "NPR Politics",
-      "title": "Rahm Emanuel maps out a vision for what Democrats can achieve after taking Congress",
-      "link": "https://www.npr.org/2026/11/04/nx-s1-6029387/rahm-emanuel-maps-out-a-vision-for-what-democrats-can-achieve-after-taking-congress",
-      "published_at": "2026-11-04T21:44:45+00:00",
-      "summary_raw": "NPR's Ailsa Chang talks with former congressman and Obama advisor Rahm Emanuel about what Democrats' strategy should be, now that they'll soon control both houses of Congress.",
-      "id": "481156821200"
-    },
-    {
-      "source": "NPR National",
-      "title": "Back in the majority, Democrats have plans for a long list of Trump investigations",
-      "link": "https://www.npr.org/2026/11/04/g-s1-150276/2026-midterms-democrats-investigations",
-      "published_at": "2026-11-04T17:38:36+00:00",
-      "summary_raw": "Democrats will have the ability to subpoena records and compel individuals to testify. The Epstein files, Elon Musk, the Iran war and Trump's business interests may all come under the microscope.",
-      "id": "dbe78ce98f3f"
+      "title": "The Best Smart Ring for Discreet Fitness Tracking in 2026",
+      "link": "https://www.wired.com/story/best-smart-ring/",
+      "published_at": "2026-11-05T10:09:00+00:00",
+      "summary_raw": "Turns out, your finger is prime real estate for health tracking. Here are the smart rings that impressed me the most.",
+      "id": "d6aa412882d1"
     },
     {
       "source": "BBC World",
-      "title": "'Most difficult days of my life' for keeper Owono",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c6zxjz40l280o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-04T16:40:38+00:00",
-      "summary_raw": "FC Andorra goalkeeper Jesus Owono puts out a statement through his club, expressing his sorrow and pain after Tenerife forward Jesus de Miguel's death.",
-      "id": "ebc19cdd0611"
+      "title": "Pope Leo hosts Bob Dylan at official residence in Rome",
+      "link": "https://www.bbc.co.uk/news/articles/cm0e035n13ylo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-05T02:09:23+00:00",
+      "summary_raw": "Pope Leo had previously quoted Dylan's work in the preface of a book warning against nuclear rearmament.",
+      "id": "f870d0f4d66c"
     },
     {
       "source": "Science Daily",
@@ -211,44 +563,20 @@
       "id": "8850037c50bb"
     },
     {
-      "source": "WRAL Local",
-      "title": "Army captain charged in 2 sexual assaults at NC State dating back to 2019 was in Sigma Nu frat",
-      "link": "https://www.wral.com/news/local/man-charged-kidnapping-assault-sex-crimes-nc-state-november-2026/",
-      "published_at": "2026-11-04T16:52:04+00:00",
-      "summary_raw": "Michael Adam Kranzburg is charged in two sexual assault cases at NC State University that occurred in 2019. Kranzburg has served on active duty at Fort Benning, Georgia, since 2025.",
-      "id": "5f01c89e125f"
-    },
-    {
       "source": "Wired",
-      "title": "Google Is Forcing AI Overviews in Classrooms. Schools Are Searching for a Way Out",
-      "link": "https://www.wired.com/story/google-is-forcing-ai-overviews-in-classrooms-schools-are-searching-for-a-way-out/",
-      "published_at": "2026-11-04T20:06:21+00:00",
-      "summary_raw": "Google is tying up AI Overviews with traditional search, angering parents and educators who worry that easy, machine-generated answers are leaving kids less capable.",
-      "id": "33d1a63f4556"
-    },
-    {
-      "source": "NPR Politics",
-      "title": "Democrats sweeping victories mean big changes for Trump's final two years in office",
-      "link": "https://www.npr.org/2026/11/04/nx-s1-6028819/democrats-sweeping-victories-mean-big-changes-for-trumps-final-two-years-in-office",
-      "published_at": "2026-11-04T21:38:44+00:00",
-      "summary_raw": "Democrats' wins in the House and Senate mean a new power dynamic is coming to Washington.",
-      "id": "44b54dd287f4"
-    },
-    {
-      "source": "NPR National",
-      "title": "Kansas just elected a Democrat. His message to Washington? Be decent",
-      "link": "https://www.npr.org/2026/11/04/nx-s1-6028587/adam-hamilton-kansas-senate-political-divides",
-      "published_at": "2026-11-04T16:08:41+00:00",
-      "summary_raw": "The Methodist pastor who flipped a Republican Senate seat says voters want more than political change. He tells NPR what he heard from Kansans about decency, faith and finding common ground.",
-      "id": "6349107ac62f"
+      "title": "Israel Is Destroying the Machinery South Lebanon Needs to Rebuild",
+      "link": "https://www.wired.com/story/israel-is-destroying-the-machinery-south-lebanon-needs-to-rebuild/",
+      "published_at": "2026-11-05T10:00:00+00:00",
+      "summary_raw": "Israeli strikes on construction equipment and water infrastructure in South Lebanon have blocked recovery efforts, keeping displaced families away from their homes.",
+      "id": "27fcf4ab5df4"
     },
     {
       "source": "BBC World",
-      "title": "The young politicians with African roots making history in the US midterms",
-      "link": "https://www.bbc.co.uk/news/articles/cmrly6j6lpydo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-04T16:34:32+00:00",
-      "summary_raw": "For some young Africans, these victories offer a glimpse of what a new generation of voters could do at home.",
-      "id": "62f28a3ea4f3"
+      "title": "Would you take a test to see if your life will be cut short? I did - and it changed me",
+      "link": "https://www.bbc.co.uk/news/articles/cw62yq9vp7yyo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-05T00:32:09+00:00",
+      "summary_raw": "Laura Sides faced a dilemma of whether to find out if she would inherit her father's condition.",
+      "id": "81be2532cd80"
     },
     {
       "source": "Science Daily",
@@ -259,44 +587,20 @@
       "id": "6059ef3a52dd"
     },
     {
-      "source": "WRAL Local",
-      "title": "Previously missing man found safe in Selma",
-      "link": "https://www.wral.com/news/local/david-graham-missing-selma-plaid-pajama-pants-november-2026/",
-      "published_at": "2026-11-04T13:13:18+00:00",
-      "summary_raw": "Police in Selma said they found a previously missing 75-year-old man safe.",
-      "id": "c1cea5271e60"
-    },
-    {
       "source": "Wired",
-      "title": "Knives Are Out in the White House",
-      "link": "https://www.wired.com/story/knives-are-out-in-the-white-house/",
-      "published_at": "2026-11-04T19:32:01+00:00",
-      "summary_raw": "From top officials like Pete Hegseth to White House aides to right-wing pundits, the race is on to find someone besides Donald Trump to blame for the Republicans’ catastrophic losses.",
-      "id": "c3c3b283495d"
-    },
-    {
-      "source": "NPR Politics",
-      "title": "Elon Musk will face scrutiny from Democrats after midterms",
-      "link": "https://www.npr.org/2026/11/04/nx-s1-6029650/elon-musk-midterms-democrats-texas-congress",
-      "published_at": "2026-11-04T21:11:23+00:00",
-      "summary_raw": "Democrats are likely to launch investigations into Musk's influence, including his leadership of DOGE and government contracts",
-      "id": "b0c5a0a5fa6f"
-    },
-    {
-      "source": "NPR National",
-      "title": "These 10 candidates for governor made history in the 2026 election",
-      "link": "https://www.npr.org/2026/11/04/nx-s1-6028546/governor-candidates-history-election-2026",
-      "published_at": "2026-11-04T10:00:00+00:00",
-      "summary_raw": "Voters on Tuesday elected the nation's first Black woman governor and the nation's first Native American woman governor.",
-      "id": "51a38c2d664c"
+      "title": "A New UK Porn Ban Sparks Fears of Unprecedented Sex Censorship",
+      "link": "https://www.wired.com/story/a-new-uk-ban-sparks-fears-of-unprecedented-sex-censorship/",
+      "published_at": "2026-11-05T07:00:00+00:00",
+      "summary_raw": "Adult content creators and free speech advocates are sounding the alarm over a new law about to take effect in the United Kingdom banning simulated incest and some depictions of oral sex.",
+      "id": "f55cf9c8f967"
     },
     {
       "source": "BBC World",
-      "title": "French blood storage impacted by freezer hacks as theories swirl about culprits",
-      "link": "https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-04T16:26:15+00:00",
-      "summary_raw": "The French Blood Establishment (EFS) said cold rooms storing blood were impacted by hackers.",
-      "id": "1829a93d3f92"
+      "title": "Why a US-funded vaccine trial on babies was cancelled in Guinea-Bissau",
+      "link": "https://www.bbc.co.uk/news/articles/cm0rlxq08ejko?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-05T00:30:37+00:00",
+      "summary_raw": "The trial was condemned as \"unethical\" and \"neocolonial\" because half of the babies would not be given the vaccine.",
+      "id": "8da14360dcde"
     },
     {
       "source": "Science Daily",
@@ -307,44 +611,20 @@
       "id": "917d636c7270"
     },
     {
-      "source": "WRAL Local",
-      "title": "Power restored to more than 2,000 Apex customers",
-      "link": "https://www.wral.com/news/local/over-2000-apex-customers-lose-power-november-2026/",
-      "published_at": "2026-11-04T11:59:01+00:00",
-      "summary_raw": "Power has been restored to more than 2,000 customers in Apex.",
-      "id": "9908876d8ff8"
-    },
-    {
       "source": "Wired",
-      "title": "Hugging Face’s CEO Says His P(Doom) Is ‘Close to Zero’",
-      "link": "https://www.wired.com/story/wired-world-fair-2026-clement-delangue-hugging-face/",
-      "published_at": "2026-11-04T19:16:25+00:00",
-      "summary_raw": "“Most of the risk is actually created by a couple of players building behind closed doors,” Clément Delangue said of the need for open source AI.",
-      "id": "3a287970d55b"
-    },
-    {
-      "source": "NPR Politics",
-      "title": "Democratic leaders reflect on midterm results and what's next for the party",
-      "link": "https://www.npr.org/2026/11/04/g-s1-151868/democratic-leaders-election-results-reactions-takeaways",
-      "published_at": "2026-11-04T20:49:59+00:00",
-      "summary_raw": "Democratic party leaders and political analysts spoke with Morning Edition about the results of the midterm elections, the effects of mid-decade redistricting efforts, and the next steps for the party.",
-      "id": "e3852ede8221"
-    },
-    {
-      "source": "NPR National",
-      "title": "Hakeem Jeffries is poised to become the first Black speaker of the House",
-      "link": "https://www.npr.org/2026/11/04/g-s1-150030/hakeem-jeffries-speaker-of-the-house-midterms",
-      "published_at": "2026-11-04T10:00:00+00:00",
-      "summary_raw": "As speaker, the New York Democrat would be second in the presidential line of succession, after the vice president. He has vowed to focus on affordability and holding the administration accountable.",
-      "id": "bc44141f7daf"
+      "title": "Ray-Ban Promo Codes: Save 50% in November 2026",
+      "link": "https://www.wired.com/story/ray-ban-promo-code/",
+      "published_at": "2026-11-05T06:00:00+00:00",
+      "summary_raw": "Upgrade your frames with major savings on classic shapes, custom designs, and prescription lenses using these verified Ray-Ban discounts.",
+      "id": "8de89689fee7"
     },
     {
       "source": "BBC World",
-      "title": "Israel's president begins consultations with parties after election deadlock",
-      "link": "https://www.bbc.co.uk/news/articles/c6z98z5z91ppo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-04T16:18:21+00:00",
-      "summary_raw": "Herzog warns politicians that \"not every commitment and promise can be fulfilled\" if they want to avoid another election.",
-      "id": "e0f993f01727"
+      "title": "Typhoons batter East Asia as El Niño makes Pacific 'burn with fever'",
+      "link": "https://www.bbc.co.uk/news/articles/cw33kgj7nkemo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-04T23:12:47+00:00",
+      "summary_raw": "Even for countries where typhoons are a way of life, the last few months have brought unusually wild weather.",
+      "id": "a4afe5af44f9"
     },
     {
       "source": "Science Daily",
@@ -355,292 +635,12 @@
       "id": "11e21462d76e"
     },
     {
-      "source": "WRAL Local",
-      "title": "Man shot in east Durham taken to hospital with serious injuries",
-      "link": "https://www.wral.com/news/local/durham-police-investigation-holloway-street-november-2026/",
-      "published_at": "2026-11-04T09:31:20+00:00",
-      "summary_raw": "A man shot in Durham Tuesday night was taken to the hospital with serious injuries, according to police.",
-      "id": "6139df00154c"
-    },
-    {
       "source": "Wired",
-      "title": "Google Pixel 11, 11 Pro, and 11 Pro XL Sale: Save Up to $350",
-      "link": "https://www.wired.com/story/google-pixel-11-deal-november-2026/",
-      "published_at": "2026-11-04T18:27:19+00:00",
-      "summary_raw": "Upgrade to the smartest Android smartphones. Google’s latest Pixel 11 phones are all on sale at their lowest prices to date, well ahead of Black Friday.",
-      "id": "6740ad846bb6"
-    },
-    {
-      "source": "NPR Politics",
-      "title": "It was a big night for doctors to win seats in Congress, riding the blue wave",
-      "link": "https://www.npr.org/2026/11/04/nx-s1-6017757/democrats-republicans-doctors-acton-andrews-blue-wave",
-      "published_at": "2026-11-04T20:46:26+00:00",
-      "summary_raw": "Historically, most physicians who served in the House or Senate have been Republicans. In the next Congress, physicians who are Democrats made significant gains.",
-      "id": "1bb2bef661f2"
-    },
-    {
-      "source": "NPR National",
-      "title": "'We have great leverage here': DNC chair Ken Martin on Democrats' midterms sweep",
-      "link": "https://www.npr.org/2026/11/04/nx-s1-6022528/democrats-midterm-election-results-senate-house-congress",
-      "published_at": "2026-11-04T09:50:37+00:00",
-      "summary_raw": "Democrats flipped Senate seats in Republican strongholds and won control of Congress. DNC chair Ken Martin explains why he believes voters gave his party a mandate and what comes next.",
-      "id": "69fae219f126"
-    },
-    {
-      "source": "BBC World",
-      "title": "Secret police files released in Hungary, 37 years after fall of communism",
-      "link": "https://www.bbc.co.uk/news/articles/c977p01kgmmko?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-04T15:28:18+00:00",
-      "summary_raw": "Critics say the move comes too late, that the files themselves are incomplete, and the move risks sowing division and causing unnecessary anguish.",
-      "id": "d389ff6d8688"
-    },
-    {
-      "source": "Science Daily",
-      "title": "AI helps Stanford scientists discover a “natural Ozempic” with a surprising advantage",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261104004909.htm",
-      "published_at": "2026-11-04T06:57:06+00:00",
-      "summary_raw": "Stanford researchers have discovered an AI-identified natural molecule that dramatically suppresses appetite and promotes fat loss in animals, potentially offering an Ozempic-like weight-loss treatment without common digestive side effects or significant muscle loss. Called BRP, the molecule reduced food intake by up to 50% and targets a different brain pathway, raising hopes for a more precise obesity treatment if future human trials prove successful.",
-      "id": "06c34b210643"
-    },
-    {
-      "source": "WRAL Local",
-      "title": "Fuquay-Varina home damaged in fire early Wednesday morning",
-      "link": "https://www.wral.com/news/local/fuquay-varina-house-fire-damage-november-2026/",
-      "published_at": "2026-11-04T09:12:05+00:00",
-      "summary_raw": "Wake County crews battled a house fire early Wednesday morning near Fuquay-Varina.",
-      "id": "960386e3660a"
-    },
-    {
-      "source": "Wired",
-      "title": "The Lawyer Holding Big Tech Accountable by ‘Beating the Tar Out of Them’ in Court",
-      "link": "https://www.wired.com/story/wired-world-fair-2026-mark-lanier/",
-      "published_at": "2026-11-04T18:21:26+00:00",
-      "summary_raw": "Mark Lanier led the first social media addiction case to go to trial, winning a verdict against Meta and Google in March. It’s just the beginning.",
-      "id": "33e7493ecc53"
-    },
-    {
-      "source": "NPR Politics",
-      "title": "Navajo voters hop tractors, make extraordinary efforts to vote after widespread flooding",
-      "link": "https://www.npr.org/2026/11/04/nx-s1-6023272/navajo-voters-hop-tractors-make-extraordinary-efforts-to-vote-after-widespread-flooding",
-      "published_at": "2026-11-04T20:24:30+00:00",
-      "summary_raw": "Four weeks of flooding washed out roads and sent thousands fleeing their homes on the Navajo Reservation. But many worked hard to get to polling places and voting day became part of the recovery process.",
-      "id": "bd01958a4a8d"
-    },
-    {
-      "source": "NPR National",
-      "title": "Nevada Attorney General Aaron Ford beats Republican incumbent for governor",
-      "link": "https://www.npr.org/2026/11/04/g-s1-151138/midterms-ford-nevada-governor-lombardo",
-      "published_at": "2026-11-04T09:48:40+00:00",
-      "summary_raw": "Democrat Aaron Ford defeated Republican Gov. Joe Lombardo. He's set to become Nevada's first Black governor.",
-      "id": "c72325aa124d"
-    },
-    {
-      "source": "BBC World",
-      "title": "Everything you need to know from the US midterm elections",
-      "link": "https://www.bbc.co.uk/news/articles/cmr4y92rgd9po?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-04T14:05:42+00:00",
-      "summary_raw": "Democrats secured some big wins - and a few historic firsts - earning congratulations from President Trump.",
-      "id": "fdf749f71c07"
-    },
-    {
-      "source": "Science Daily",
-      "title": "Gene editing could replace a lifetime of medication, but there's a catch",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261102202829.htm",
-      "published_at": "2026-11-04T04:30:57+00:00",
-      "summary_raw": "A single gene-editing treatment could someday protect against heart disease, high cholesterol, and other common conditions for decades, potentially replacing lifelong medications. But scientists warn that permanently altering genes introduces risks that could take years to emerge, making long-term safety a critical challenge.",
-      "id": "fcf53b5e8ed7"
-    },
-    {
-      "source": "WRAL Local",
-      "title": "DA: No prosecution in Pitt County K-9 Chilli's death",
-      "link": "https://www.wral.com/news/state/da-no-prosecution-pitt-county-k9-chilli-death-investigation-november-2026/",
-      "published_at": "2026-11-04T01:58:30+00:00",
-      "summary_raw": "The SBI sent a final investigation report in October, concluding that the evidence shows that Foster did not intentionally kill the Pitt County K-9.",
-      "id": "5f4a8ac48596"
-    },
-    {
-      "source": "Wired",
-      "title": "Small Phones Have Vanished. Enough Phone Wants to Bring Them Back",
-      "link": "https://www.wired.com/story/big-tech-abandoned-the-small-phone-the-enough-phone-wants-to-save-it/",
-      "published_at": "2026-11-04T18:00:00+00:00",
-      "summary_raw": "As flagship smartphones balloon in size, the Enough Phone offers a 5.3-inch handset. Choose between stock Android or an anti-distraction operating system.",
-      "id": "65239b4ed387"
-    },
-    {
-      "source": "NPR Politics",
-      "title": "Chuck Schumer heralds Democrats' 'generational remake' of Senate",
-      "link": "https://www.npr.org/2026/11/04/g-s1-151833/2026-midterms-chuck-schumer-senate-democrats",
-      "published_at": "2026-11-04T18:37:34+00:00",
-      "summary_raw": "In remarks the day after his party flipped control of Congress, the Senate Minority Leader said voters had spoken clearly about their priorities, and said it's up to the Democratic party to deliver.",
-      "id": "6ee5f616c2fd"
-    },
-    {
-      "source": "NPR National",
-      "title": "Democrat Abdul El-Sayed defeats Republican Mike Rogers in key Michigan Senate race",
-      "link": "https://www.npr.org/2026/11/04/g-s1-150029/michigan-senate-race-abdul-el-sayed-mike-rogers",
-      "published_at": "2026-11-04T07:28:02+00:00",
-      "summary_raw": "El-Sayed's campaign tested how an antiestablishment candidate on the left would fare in a perennial Midwest battleground. With the win, he'll become the first Muslim American to serve in the Senate.",
-      "id": "d97d56f6980a"
-    },
-    {
-      "source": "BBC World",
-      "title": "'This is a disaster': Angry Republicans blame Trump for midterms defeat",
-      "link": "https://www.bbc.co.uk/news/articles/c6x29rr8djy3o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-04T13:33:30+00:00",
-      "summary_raw": "Some Republicans tell the BBC the president's focus on his legacy and indifference to voter concerns cost them.",
-      "id": "cd917a67d132"
-    },
-    {
-      "source": "Science Daily",
-      "title": "Scientists trick cancer cells into making the drugs that kill them",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261101010552.htm",
-      "published_at": "2026-11-04T04:05:31+00:00",
-      "summary_raw": "Scientists have developed a promising new cancer-fighting strategy that uses carbon monoxide naturally produced by tumor cells to manufacture powerful drugs inside the cancer cells themselves. Early laboratory experiments suggest the technique could selectively attack cancer while sparing healthy cells, potentially paving the way for safer chemotherapy alternatives.",
-      "id": "d718a0418774"
-    },
-    {
-      "source": "WRAL Local",
-      "title": "Juvenile's drowning under investigation by Wendell police",
-      "link": "https://www.wral.com/news/local/juvenile-drowning-under-investigation-wendell-police-november-2026/",
-      "published_at": "2026-11-04T00:02:39+00:00",
-      "summary_raw": "Despite the efforts of emergency personnel, lifesaving measures were ineffective, and the juvenile was pronounced dead.",
-      "id": "07ff0491a2d8"
-    },
-    {
-      "source": "Wired",
-      "title": "The Results Are In: Voters Hate Data Centers",
-      "link": "https://www.wired.com/story/the-results-are-in-voters-hate-data-centers/",
-      "published_at": "2026-11-04T16:56:17+00:00",
-      "summary_raw": "From high-profile Senate races to local rezoning initiatives, data centers and their supporters did miserably on the ballot in the 2026 midterms.",
-      "id": "873cb51cd9a8"
-    },
-    {
-      "source": "BBC World",
-      "title": "Nadal set to join Real Madrid board of directors",
-      "link": "https://www.bbc.co.uk/sport/articles/cmy56zekeneqo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-04T13:21:01+00:00",
-      "summary_raw": "Tennis great Rafael Nadal is set to join the board of Spanish football giants Real Madrid.",
-      "id": "032166a33e9b"
-    },
-    {
-      "source": "Science Daily",
-      "title": "A hidden star is plowing through Betelgeuse’s atmosphere, new evidence suggests",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261103003149.htm",
-      "published_at": "2026-11-04T02:52:16+00:00",
-      "summary_raw": "Something mysterious is disturbing Betelgeuse, and astronomers believe they have identified the culprit: a hidden companion star called Siwarha. New radio observations reveal that the smaller star may be plowing through Betelgeuse’s enormous atmosphere, creating disturbances that subtly stretch and distort the red supergiant’s shape.",
-      "id": "f7889b985403"
-    },
-    {
-      "source": "Wired",
-      "title": "‘You Don’t Put Your Head in the Sand for 4 Years’: Colossal CEO Ben Lamm on Working With Trump",
-      "link": "https://www.wired.com/story/wired-world-fair-2026-ben-lamm-colossal-biosciences/",
-      "published_at": "2026-11-04T16:43:35+00:00",
-      "summary_raw": "The company’s cofounder recently convinced the Trump administration to support an initiative to gather DNA samples from endangered species.",
-      "id": "c982582b6840"
-    },
-    {
-      "source": "BBC World",
-      "title": "Sharp objects found in Halloween sweets in three European nations",
-      "link": "https://www.bbc.co.uk/news/articles/cvglw7x239pwo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-04T12:34:33+00:00",
-      "summary_raw": "Dozens of cases are reported in Austria, Germany and Hungary, including a nine-year-old girl hurting her tongue while eating chocolate containing a pin.",
-      "id": "23b94acc4cdc"
-    },
-    {
-      "source": "Science Daily",
-      "title": "Kids who eat more ultra-processed foods show a troubling brain response",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261101010549.htm",
-      "published_at": "2026-11-04T01:00:13+00:00",
-      "summary_raw": "A new study suggests that ultra-processed foods may influence children's developing brains in ways that encourage weight gain. Researchers from USC studied 46 children ages 7 to 10 and found that those who ate more ultra-processed foods showed stronger activity in the brain's reward system when viewing tempting foods like cookies and French fries. These heightened brain responses were linked to greater increases in body fat and body mass index (BMI) one year later, suggesting that the brain's sensitivity to food cues may help explain why ultra-processed diets are associated with obesity.",
-      "id": "e7062ee67a2b"
-    },
-    {
-      "source": "Wired",
-      "title": "Voters Set $400 Million of Elon Musk’s Money on Fire",
-      "link": "https://www.wired.com/story/voters-set-dollar400-million-of-elon-musks-money-on-fire/",
-      "published_at": "2026-11-04T16:06:12+00:00",
-      "summary_raw": "Elon Musk almost single-handedly funded the Republican midterms push. But of every traceable dollar Musk put into races that have been decided, more than 99 cents went to a race he lost.",
-      "id": "d26e830d1d74"
-    },
-    {
-      "source": "BBC World",
-      "title": "ANC under pressure to reverse South Africa decline",
-      "link": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-04T11:47:44+00:00",
-      "summary_raw": "As South Africans vote in local elections, residents tell the BBC they are tired of the poor quality of services they get.",
-      "id": "ad707030e8dc"
-    },
-    {
-      "source": "Science Daily",
-      "title": "The brain’s hidden fear mechanism may explain anxiety and PTSD",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261102202833.htm",
-      "published_at": "2026-11-03T13:03:02+00:00",
-      "summary_raw": "A surprising new discovery suggests that fear may cause the brain to blur the line between danger and safety rather than distinguish them more clearly. By observing brain activity in mice using augmented reality, scientists found that memories of threatening and harmless environments began to overlap, potentially allowing faster responses to danger. This \"better safe than sorry\" survival mechanism could help explain why people with anxiety or PTSD sometimes experience intense fear in completely safe situations.",
-      "id": "3a441115c6c9"
-    },
-    {
-      "source": "Wired",
-      "title": "Election Deniers Aren’t Contesting Their Massive Losses",
-      "link": "https://www.wired.com/story/election-deniers-not-contesting-their-massive-losses/",
-      "published_at": "2026-11-04T15:30:18+00:00",
-      "summary_raw": "For months, election deniers claimed without evidence that the vote would be rigged. Now they appear to be accepting crushing defeats.",
-      "id": "ca621c3fb8ce"
-    },
-    {
-      "source": "BBC World",
-      "title": "Rwanda's army team removed from Africa league after US sanctions, NBA says",
-      "link": "https://www.bbc.co.uk/news/articles/c699zdx9knmpo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-04T11:46:09+00:00",
-      "summary_raw": "The US imposed sanctions on Rwanda's army over its role in the conflict in DR Congo.",
-      "id": "280d2754e147"
-    },
-    {
-      "source": "Science Daily",
-      "title": "A 50-year-old mystery of vanishing frogs reveals a hidden killer",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261102202838.htm",
-      "published_at": "2026-11-03T12:51:53+00:00",
-      "summary_raw": "A nearly 50-year-old mystery involving disappearing frogs in Brazil may finally be solved, with scientists uncovering evidence that a deadly fungus swept through the region and devastated vulnerable species. Remarkably, many frog populations have since rebounded, suggesting they developed greater tolerance to the disease that once threatened their survival.",
-      "id": "2661bb752d26"
-    },
-    {
-      "source": "Wired",
-      "title": "‘Musk’ Director Alex Gibney Wants to Know if Democrats Can Now Hold Elon Musk Accountable",
-      "link": "https://www.wired.com/story/wired-world-fair-2026-alex-gibney-musk/",
-      "published_at": "2026-11-04T14:15:21+00:00",
-      "summary_raw": "Spending hundreds of millions of dollars means nothing to Elon Musk, director Alex Gibney says.",
-      "id": "5cf475ef5e66"
-    },
-    {
-      "source": "BBC World",
-      "title": "How America voted in maps and charts",
-      "link": "https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-04T09:53:18+00:00",
-      "summary_raw": "See the maps and charts that show how America voted in the US midterm elections.",
-      "id": "51d65e4968de"
-    },
-    {
-      "source": "Science Daily",
-      "title": "Scientists discover a surprising clue to autism's origins hidden in the placenta",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261102202824.htm",
-      "published_at": "2026-11-03T12:41:49+00:00",
-      "summary_raw": "Scientists have uncovered an unexpected connection between inflammation during pregnancy, placental damage, and autism-like traits in male mice, while females appeared naturally protected. The discovery could help explain why autism is diagnosed more frequently in boys and reveal new opportunities for early intervention.",
-      "id": "738ff454edd0"
-    },
-    {
-      "source": "Wired",
-      "title": "UK Officials Said AI Would Add £400 Billion to the Economy. That Figure Mainly Came From Google",
-      "link": "https://www.wired.com/story/uk-officials-said-ai-would-add-400-billion-to-the-economy-that-figure-mainly-came-from-google/",
-      "published_at": "2026-11-04T13:49:51+00:00",
-      "summary_raw": "The AI minister now concedes the estimated figure is less than a third of that. Researchers blame the country’s slow rate of adoption.",
-      "id": "2fd1f38f6117"
-    },
-    {
-      "source": "BBC World",
-      "title": "Tears, celebrations and selfies: US midterms in pictures",
-      "link": "https://www.bbc.co.uk/news/articles/cq74pexm44elo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-04T08:05:53+00:00",
-      "summary_raw": "Democrats cheered as they picked up victories in Republican states. Tears were shed as Republican losses mounted.",
-      "id": "f4a0f962578e"
+      "title": "Meta Quest Promo Codes and Coupons for November 2026",
+      "link": "https://www.wired.com/story/meta-quest-promo-code/",
+      "published_at": "2026-11-05T06:00:00+00:00",
+      "summary_raw": "Experience cutting-edge VR and save up to 20% with coupons for the latest games, Meta Quest 3, Ray-Ban AI glasses, and more deals.",
+      "id": "0376452a35e9"
     }
   ]
 }

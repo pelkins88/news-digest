@@ -1,22 +1,30 @@
 {
   "mode": "raw",
-  "generated_at": "2026-11-10T18:34:06.812335+00:00",
+  "generated_at": "2026-11-11T00:25:22.203653+00:00",
   "items": [
     {
+      "source": "WRAL Local",
+      "title": "Dreamville founders file application for potential festival successor, Raleigh says",
+      "link": "https://www.wral.com/news/local/dreamville-festival-permit-filed-2027-city-of-raleigh-dix-park-november-2026/",
+      "published_at": "2026-11-10T23:53:48+00:00",
+      "summary_raw": "Could another music festival event be returning to Raleigh’s Dix Park in 2027? According to a spokesperson for the City of Raleigh, an application for an event permit was filed by members of Live Nation and the Dreamville Foundation, but no festival has been officially announced.",
+      "id": "fb208db9b176"
+    },
+    {
       "source": "Wired",
-      "title": "‘We Have to Take Over’: Far-Right Extremists Want to Seize Control of the GOP",
-      "link": "https://www.wired.com/story/we-have-to-take-over-far-right-extremists-want-to-seize-control-of-the-gop/",
-      "published_at": "2026-11-10T16:40:19+00:00",
-      "summary_raw": "MAGA failed because it didn’t go far enough, right-wing extremists say—and following devastating midterm losses, they see an opportunity to take over.",
-      "id": "4e3a797673fa"
+      "title": "Best Early Amazon Black Friday Deals (2026)",
+      "link": "https://www.wired.com/story/amazon-black-friday-november-2026-early-deals/",
+      "published_at": "2026-11-10T22:42:06+00:00",
+      "summary_raw": "For die-hard Amazon shoppers, the retail giant starts Black Friday deals on November 19. But you can already stock up on early deals now.",
+      "id": "a2d48b895a82"
     },
     {
       "source": "NPR Politics",
-      "title": "House set to vote to impeach Hegseth. And, SCOTUS allows border wall work to proceed",
-      "link": "https://www.npr.org/2026/11/10/g-s1-152777/up-first-newsletter-pete-hegseth-impeachment-trump-iran-nvidia-border-wall-texas",
-      "published_at": "2026-11-10T12:01:04+00:00",
-      "summary_raw": "The House could vote to impeach Hegseth, but removing him from office will be tough. And, SCOTUS ruled that a federal judge did not have the authority to halt border wall construction.",
-      "id": "c4e776d4794d"
+      "title": "Hegseth has remained defiant as Congress members deliberate articles of impeachment",
+      "link": "https://www.npr.org/2026/11/10/nx-s1-6035792/hegseth-has-remained-defiant-as-congress-members-deliberate-articles-of-impeachment",
+      "published_at": "2026-11-10T23:43:59+00:00",
+      "summary_raw": "Defense Secretary Pete Hegseth is fighting back. As members of Congress begin deliberating on the articles of impeachment against him, Hegseth gave his first press conference in months.",
+      "id": "0eae0261e4af"
     },
     {
       "source": "NPR National",
@@ -28,11 +36,11 @@
     },
     {
       "source": "BBC World",
-      "title": "Anti-homosexuality laws in Trinidad and Tobago overturned",
-      "link": "https://www.bbc.co.uk/news/articles/cm0e0evlpp87o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-10T18:04:18+00:00",
-      "summary_raw": "The ruling brings to an end an 11-year legal battle by dual-citizen Jason Jones.",
-      "id": "e9420993b056"
+      "title": "Real Madrid's Vinícius Jr sends surprise message to boy who lost his legs in Sudan's war",
+      "link": "https://www.bbc.co.uk/news/articles/cqm26mmpp2p1o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-11T00:19:42+00:00",
+      "summary_raw": "Double amputee Zaher told the BBC last year about his favourite footballer and a dream of being able to walk again.",
+      "id": "3fb2577d36f2"
     },
     {
       "source": "Science Daily",
@@ -41,6 +49,62 @@
       "published_at": "2026-11-10T01:47:34+00:00",
       "summary_raw": "A surprising discovery suggests that some early signs of Alzheimer’s disease may begin outside the brain. Using miniature laboratory systems made from human cells, scientists found that genetic mutations associated with inherited Alzheimer’s can disrupt nerve-to-muscle connections without any involvement from the brain or spinal cord. This could help explain why some patients experience changes in balance, walking, and coordination long before memory problems develop.",
       "id": "e109ed741d26"
+    },
+    {
+      "source": "WRAL Local",
+      "title": "Man pleads guilty for setting Kinston woman on fire in 2020; sentenced up to 43 years",
+      "link": "https://www.wral.com/news/state/man-pleads-guilty-setting-kinston-woman-fire-november-2026/",
+      "published_at": "2026-11-10T23:27:44+00:00",
+      "summary_raw": "Venice Taylor pleaded guilty to attempted first-degree murder and burning personal property on Monday. The judge sentenced him to 34 to 43 years in prison.",
+      "id": "86813bca1232"
+    },
+    {
+      "source": "Wired",
+      "title": "‘We Have to Take Over’: Far-Right Extremists Want to Seize Control of the GOP",
+      "link": "https://www.wired.com/story/we-have-to-take-over-far-right-extremists-want-to-seize-control-of-the-gop/",
+      "published_at": "2026-11-10T16:40:19+00:00",
+      "summary_raw": "MAGA failed because it didn’t go far enough, right-wing extremists say—and following devastating midterm losses, they see an opportunity to take over.",
+      "id": "4e3a797673fa"
+    },
+    {
+      "source": "NPR Politics",
+      "title": "House votes to effectively end the impeachment effort against Pete Hegseth",
+      "link": "https://www.npr.org/2026/11/10/nx-s1-6036813/house-votes-to-effectively-end-the-impeachment-effort-against-pete-hegseth",
+      "published_at": "2026-11-10T23:43:11+00:00",
+      "summary_raw": "House Republicans managed to short-circuit a floor vote on the impeachment effort brought against the Defense Secretary by Kentucky Republican Thomas Massie.",
+      "id": "cda23e6e5446"
+    },
+    {
+      "source": "NPR National",
+      "title": "California voters defeat billionaire tax proposal that divided Democrats",
+      "link": "https://www.npr.org/2026/11/09/g-s1-151625/california-billionaire-tax-referendum",
+      "published_at": "2026-11-10T03:05:39+00:00",
+      "summary_raw": "The novel proposal would have charged billionaires a one-time 5% tax on most of their overall wealth, including their ownership in companies.",
+      "id": "d6e2db18b426"
+    },
+    {
+      "source": "BBC World",
+      "title": "'It can kill us': Kenyans fear impact of El Niño with floods predicted",
+      "link": "https://www.bbc.co.uk/news/articles/c8wy9y37z30vo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-11T00:18:07+00:00",
+      "summary_raw": "Forecasters warn that this year's El Niño could be one of the strongest on record, with heavy rain and flooding in Kenya.",
+      "id": "8b7717919fe4"
+    },
+    {
+      "source": "Science Daily",
+      "title": "After 40 years, CERN finds evidence of a one-in-10-billion particle decay",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261108233047.htm",
+      "published_at": "2026-11-10T00:42:52+00:00",
+      "summary_raw": "CERN scientists have finally found evidence of a particle decay so rare that it happens only once in roughly 10 billion decays, ending a search spanning more than 40 years. The breakthrough could help physicists uncover hidden particles and forces that lie beyond the reach of today's most powerful accelerators.",
+      "id": "aa5ff3ce791b"
+    },
+    {
+      "source": "WRAL Local",
+      "title": "UNC breaks ground on new dorms, honors pioneering Black faculty members",
+      "link": "https://www.wral.com/news/local/unc-to-break-ground-on-new-dorms-honor-pioneering-black-faculty-members-november-2026/",
+      "published_at": "2026-11-10T23:22:11+00:00",
+      "summary_raw": "Two new residence halls will add about 730 beds at UNC-Chapel Hill. One will honor Blyden and Roberta Jackson, who helped break racial barriers at the university.",
+      "id": "8cf6ed615986"
     },
     {
       "source": "Wired",
@@ -52,51 +116,11 @@
     },
     {
       "source": "NPR Politics",
-      "title": "Former Pentagon spokesman on articles of impeachment filed against Hegseth",
-      "link": "https://www.npr.org/2026/11/10/nx-s1-6035039/former-pentagon-spokesman-on-articles-of-impeachment-filed-against-hegseth",
-      "published_at": "2026-11-10T11:52:24+00:00",
-      "summary_raw": "NPR's Steve Inskeep speaks with former Pentagon spokesman John Ullyot about articles of impeachment brought against Secretary of Defense Pete Hegseth.",
-      "id": "cf2640d6922a"
-    },
-    {
-      "source": "NPR National",
-      "title": "California voters defeat billionaire tax proposal that divided Democrats",
-      "link": "https://www.npr.org/2026/11/09/g-s1-151625/california-billionaire-tax-referendum",
-      "published_at": "2026-11-10T03:05:39+00:00",
-      "summary_raw": "The novel proposal would have charged billionaires a one-time 5% tax on most of their overall wealth, including their ownership in companies.",
-      "id": "d6e2db18b426"
-    },
-    {
-      "source": "BBC World",
-      "title": "Why are these purple flowers shutting down streets in Sydney?",
-      "link": "https://www.bbc.co.uk/news/videos/c862y2dxdq45o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-10T18:03:52+00:00",
-      "summary_raw": "Jacaranda trees typically flower for six weeks every spring, drawing visitors to Australia from across the globe.",
-      "id": "538727057904"
-    },
-    {
-      "source": "Science Daily",
-      "title": "After 40 years, CERN finds evidence of a one-in-10-billion particle decay",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261108233047.htm",
-      "published_at": "2026-11-10T00:42:52+00:00",
-      "summary_raw": "CERN scientists have finally found evidence of a particle decay so rare that it happens only once in roughly 10 billion decays, ending a search spanning more than 40 years. The breakthrough could help physicists uncover hidden particles and forces that lie beyond the reach of today's most powerful accelerators.",
-      "id": "aa5ff3ce791b"
-    },
-    {
-      "source": "Wired",
-      "title": "Rocco’s Mini Mini Fridge Is Here (2026)",
-      "link": "https://www.wired.com/story/rocco-made-a-mini-version-of-its-mini-fridge/",
-      "published_at": "2026-11-10T14:00:00+00:00",
-      "summary_raw": "The new Mini Mini holds 12 cans and fits on a countertop. And if you buy a full-sized Rocco fridge, you can take $50 off the little one.",
-      "id": "2913a7df214f"
-    },
-    {
-      "source": "NPR Politics",
-      "title": "Why did California's billionaire tax fail to surf the blue wave?",
-      "link": "https://www.npr.org/sections/planet-money/2026/11/10/g-s1-152755/why-did-californias-billionaire-tax-fail-to-surf-the-blue-wave",
-      "published_at": "2026-11-10T11:30:00+00:00",
-      "summary_raw": "Two economists debate what California's vote on Prop 40 means for the wealth tax movement.",
-      "id": "3be9762b4118"
+      "title": "Supreme Court seems split over federal agencies' ability to fine for law violations",
+      "link": "https://www.npr.org/2026/11/10/nx-s1-6034950/2026-11-10-nx-s1-6034950-supreme-court-seems-divided-over-federal-agencies-ability-to-fine-for-law-violations",
+      "published_at": "2026-11-10T23:27:32+00:00",
+      "summary_raw": "The Supreme Court heard arguments Tuesday in a case related to temporary worker visas. The company involved says enforcement issues should go through the courts, not the federal agency alone.",
+      "id": "b8802b3ece8f"
     },
     {
       "source": "NPR National",
@@ -108,11 +132,11 @@
     },
     {
       "source": "BBC World",
-      "title": "US federal authorities could have prevented Epstein crimes, report finds",
-      "link": "https://www.bbc.co.uk/news/articles/cq5ynyn8zyr8o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-10T17:59:02+00:00",
-      "summary_raw": "The report by a Republican-led congressional committee follows a 15-month investigation into the handling of the late disgraced financier's case.",
-      "id": "a08f68d4c96a"
+      "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
+      "link": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-10T22:52:15+00:00",
+      "summary_raw": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.",
+      "id": "4650d38bd00a"
     },
     {
       "source": "Science Daily",
@@ -121,6 +145,14 @@
       "published_at": "2026-11-09T23:19:35+00:00",
       "summary_raw": "Scientists have uncovered a hidden gut-to-brain dopamine pathway that helps explain why bitter coffee and other initially unpleasant flavors can become favorites over time. The discovery reveals how the brain learns to crave certain foods and could eventually lead to new ways of reshaping eating habits and food preferences.",
       "id": "1f204bc24230"
+    },
+    {
+      "source": "WRAL Local",
+      "title": "Lawsuit over Harnett County inmate's death ends in $1.2M settlement",
+      "link": "https://www.wral.com/news/local/lawsuit-over-harnett-couty-inmates-death-ends-settlement-nov-2026/",
+      "published_at": "2026-11-10T22:14:52+00:00",
+      "summary_raw": "A federal lawsuit over an inmate's 2021 death at the Harnett County jail has ended in a $1.2 million settlement, according to an agenda item for the county's Board of Commissioners.",
+      "id": "4604cd1a216c"
     },
     {
       "source": "Wired",
@@ -132,11 +164,11 @@
     },
     {
       "source": "NPR Politics",
-      "title": "House Republicans to elect a new leader as they look to rebuild from midterm defeat",
-      "link": "https://www.npr.org/2026/11/10/nx-s1-6030988/gop-leadership-election-steve-scalise-jim-jordan",
-      "published_at": "2026-11-10T10:01:00+00:00",
-      "summary_raw": "After sweeping losses in the midterm elections, the House GOP will vote on Tuesday to elect a successor to Mike Johnson, who says he's stepping down as the chamber's top Republican.",
-      "id": "7e020afc69a6"
+      "title": "House Republicans elect Jim Jordan as their next leader",
+      "link": "https://www.npr.org/2026/11/10/nx-s1-6035791/house-republicans-elect-jim-jordan-as-their-next-leader",
+      "published_at": "2026-11-10T21:57:23+00:00",
+      "summary_raw": "House GOP lawmakers have chosen Ohio's Jim Jordan to serve as minority leader, elevating a co-founder of the ultra-conservative Freedom Caucus to succeed Mike Johnson as the chamber's top Republican.",
+      "id": "e4941f710551"
     },
     {
       "source": "NPR National",
@@ -148,11 +180,11 @@
     },
     {
       "source": "BBC World",
-      "title": "First day of Ukraine peace talks constructive, Zelensky says",
-      "link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-10T17:29:36+00:00",
-      "summary_raw": "Delegations from Kyiv, Washington and Moscow are in the United Arab Emirates for the first trilateral talks since February.",
-      "id": "1d70908b2f11"
+      "title": "Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor",
+      "link": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-10T22:17:45+00:00",
+      "summary_raw": "The 82-year-old was placed under house detention in Florida last week after being charged over possession of child sex abuse material.",
+      "id": "a400854e1a06"
     },
     {
       "source": "Science Daily",
@@ -161,6 +193,14 @@
       "published_at": "2026-11-09T11:44:20+00:00",
       "summary_raw": "Scientists have discovered that pantethine, a readily available vitamin B5 derivative, can calm overactive immune cells and may help fight psoriasis. The supplement prevented psoriasis in mice and showed promising results in a small human trial, revealing an unexpected connection between cholesterol and autoimmune inflammation.",
       "id": "2f5a4c3d3174"
+    },
+    {
+      "source": "WRAL Local",
+      "title": "Durham Public Schools considers new study as infrastructure needs top $965 million",
+      "link": "https://www.wral.com/news/local/durham-schools-facilities-needs-965-million-november-2026/",
+      "published_at": "2026-11-10T22:10:34+00:00",
+      "summary_raw": "Durham Public Schools currently has $965 million worth of infrastructure and systems. The average age of schools in the district is 65 years.",
+      "id": "548bd2019378"
     },
     {
       "source": "Wired",
@@ -172,11 +212,11 @@
     },
     {
       "source": "NPR Politics",
-      "title": "The Democratic Party gained power across the country in the midterms. Now what?",
-      "link": "https://www.npr.org/2026/11/10/nx-s1-6035008/democratic-party-blue-wave-midterm-congress",
-      "published_at": "2026-11-10T10:00:00+00:00",
-      "summary_raw": "Voters handed Democrats the keys to power across the country and expect them to drive in a different direction. Party leaders are now trying to figure out which way to go.",
-      "id": "c58ced041a9d"
+      "title": "House GOP report critical of Epstein investigation",
+      "link": "https://www.npr.org/2026/11/10/nx-s1-6035872/house-gop-report-critical-of-epstein-investigation",
+      "published_at": "2026-11-10T21:43:31+00:00",
+      "summary_raw": "The House Oversight Committee has released a report into its investigation into sex-offender, Jeffrey Epstein. They faulted the federal government for not holding the financier accountable.",
+      "id": "0e124bc9c133"
     },
     {
       "source": "NPR National",
@@ -188,11 +228,11 @@
     },
     {
       "source": "BBC World",
-      "title": "Israel's new parliament sworn in as leaders compete to form government",
-      "link": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-10T17:03:16+00:00",
-      "summary_raw": "Benjamin Netanyahu's main political rival, Gadi Eisenkot, has first chance to build a new government and oust the prime minister.",
-      "id": "afc1c05022bb"
+      "title": "First day of Ukraine peace talks constructive, Zelensky says",
+      "link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-10T21:21:55+00:00",
+      "summary_raw": "Delegations from Kyiv, Washington and Moscow are in the United Arab Emirates for the first trilateral talks since February.",
+      "id": "420dc9d96881"
     },
     {
       "source": "Science Daily",
@@ -203,20 +243,28 @@
       "id": "d5c957acb4a5"
     },
     {
+      "source": "WRAL Local",
+      "title": "Wake County parents charged with child abuse after son falls from 3rd floor balcony",
+      "link": "https://www.wral.com/news/local/wake-county-father-charged-child-abuse-son-falls-balcony-november-2026/",
+      "published_at": "2026-11-10T21:49:44+00:00",
+      "summary_raw": "According to the Wake County Sheriff's Office, deputies were called around 5 p.m. Saturday to a home on Chandler Ridge Court about reports of a child who fell from a third-floor balcony. The child was taken to the hospital with life-threatening injuries.",
+      "id": "2eaec40c628e"
+    },
+    {
       "source": "Wired",
-      "title": "Ring’s Indoor Drone Camera Is Back—and Now Powered by AI",
-      "link": "https://www.wired.com/story/ring-robotics-drone-cam-rover-cam/",
-      "published_at": "2026-11-10T13:30:00+00:00",
-      "summary_raw": "This $250 Drone Cam flies around your home to monitor threats. There’s also the Rover Cam for businesses, featuring the guts of Amazon’s former Astro robot.",
-      "id": "306a43ec6546"
+      "title": "Rocco’s Mini Mini Fridge Is Here (2026)",
+      "link": "https://www.wired.com/story/rocco-made-a-mini-version-of-its-mini-fridge/",
+      "published_at": "2026-11-10T14:00:00+00:00",
+      "summary_raw": "The new Mini Mini holds 12 cans and fits on a countertop. And if you buy a full-sized Rocco fridge, you can take $50 off the little one.",
+      "id": "2913a7df214f"
     },
     {
       "source": "NPR Politics",
-      "title": "Trump's crypto profits raise alarms for transparency advocates",
-      "link": "https://www.npr.org/2026/11/10/nx-s1-5983730/trumps-crypto-profits-raise-alarms-for-transparency-advocates",
-      "published_at": "2026-11-10T09:38:28+00:00",
-      "summary_raw": "President Trump has made nearly $3 billion while in office, most of it in crypto ventures. And to the alarm of transparency advocates, much of the president's money comes from foreign sources.",
-      "id": "ae722949af1d"
+      "title": "House set to vote to impeach Hegseth. And, SCOTUS allows border wall work to proceed",
+      "link": "https://www.npr.org/2026/11/10/g-s1-152777/up-first-newsletter-pete-hegseth-impeachment-trump-iran-nvidia-border-wall-texas",
+      "published_at": "2026-11-10T12:01:04+00:00",
+      "summary_raw": "The House could vote to impeach Hegseth, but removing him from office will be tough. And, SCOTUS ruled that a federal judge did not have the authority to halt border wall construction.",
+      "id": "c4e776d4794d"
     },
     {
       "source": "NPR National",
@@ -228,11 +276,11 @@
     },
     {
       "source": "BBC World",
-      "title": "Inside devastated front-line city that Russia wants Ukraine to give up",
-      "link": "https://www.bbc.co.uk/news/articles/cq0memrywvzro?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-10T17:00:11+00:00",
-      "summary_raw": "The BBC gains rare access to a specialist drone unit defending the eastern city of Slovyansk from heavy Russian fire.",
-      "id": "450ecc17a95f"
+      "title": "Why does Australia want Brits to swap Sydney for the outback?",
+      "link": "https://www.bbc.co.uk/news/articles/cm1j3jdp7w54o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-10T21:17:00+00:00",
+      "summary_raw": "Australia wants changes to UK deal that would push backpackers out of Bondi and into remote regions.",
+      "id": "8b04656b37d7"
     },
     {
       "source": "Science Daily",
@@ -243,20 +291,28 @@
       "id": "cdaccc15501b"
     },
     {
+      "source": "WRAL Local",
+      "title": "Second meeting on proposed Carrboro/Chapel Hill police merger planned for Tuesday",
+      "link": "https://www.wral.com/news/local/second-meeting-proposed-chapel-hill-carrboro-police-mereger-nov-2026/",
+      "published_at": "2026-11-10T21:26:07+00:00",
+      "summary_raw": "Carrboro Town Council is meeting on Tuesday to discuss, among other things, a proposed merger between its police department and the Chapel Hill Police Department.",
+      "id": "a2332204b279"
+    },
+    {
       "source": "Wired",
-      "title": "The Grindr 1 Percent Is Getting Its Own Gated Community",
-      "link": "https://www.wired.com/story/the-grindr-1-percent-is-getting-its-own-gated-community/",
-      "published_at": "2026-11-10T12:00:00+00:00",
-      "summary_raw": "The gay hookup app’s premium tier Edge rolls out this month. Grindr will limit membership numbers to “preserve exclusivity.”",
-      "id": "8cfc6b63cdfa"
+      "title": "Ring’s Indoor Drone Camera Is Back—and Now Powered by AI",
+      "link": "https://www.wired.com/story/ring-robotics-drone-cam-rover-cam/",
+      "published_at": "2026-11-10T13:30:00+00:00",
+      "summary_raw": "This $250 Drone Cam flies around your home to monitor threats. There’s also the Rover Cam for businesses, featuring the guts of Amazon’s former Astro robot.",
+      "id": "306a43ec6546"
     },
     {
       "source": "NPR Politics",
-      "title": "California voters defeat billionaire tax proposal that divided Democrats",
-      "link": "https://www.npr.org/2026/11/09/g-s1-151625/california-billionaire-tax-referendum",
-      "published_at": "2026-11-10T03:05:39+00:00",
-      "summary_raw": "The novel proposal would have charged billionaires a one-time 5% tax on most of their overall wealth, including their ownership in companies.",
-      "id": "d6e2db18b426"
+      "title": "Former Pentagon spokesman on articles of impeachment filed against Hegseth",
+      "link": "https://www.npr.org/2026/11/10/nx-s1-6035039/former-pentagon-spokesman-on-articles-of-impeachment-filed-against-hegseth",
+      "published_at": "2026-11-10T11:52:24+00:00",
+      "summary_raw": "NPR's Steve Inskeep speaks with former Pentagon spokesman John Ullyot about articles of impeachment brought against Secretary of Defense Pete Hegseth.",
+      "id": "cf2640d6922a"
     },
     {
       "source": "NPR National",
@@ -268,11 +324,11 @@
     },
     {
       "source": "BBC World",
-      "title": "Arrests made in Mohamed Al Fayed probe in France, police say",
-      "link": "https://www.bbc.co.uk/news/articles/ck1wvwyrd4ywo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-10T16:19:48+00:00",
-      "summary_raw": "The Ritz hotel in Paris, which is still owned by the Al Fayed family, is one of the properties searched by police.",
-      "id": "b35f7cf7c573"
+      "title": "Spain's king and queen attend memorial service for rail crash victims",
+      "link": "https://www.bbc.co.uk/news/articles/ckjwew54yd4wo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-10T20:46:40+00:00",
+      "summary_raw": "Sixty-nine people died in the collision near Toledo two weeks ago and 28 are still in hospital.",
+      "id": "ee5dae109d45"
     },
     {
       "source": "Science Daily",
@@ -283,20 +339,28 @@
       "id": "ff96022f7e79"
     },
     {
+      "source": "WRAL Local",
+      "title": "Guilford County man arrested in series of break-ins around Raleigh, Greensboro",
+      "link": "https://www.wral.com/news/local/arrest-break-ins-raleigh-greensboro-november-2026/",
+      "published_at": "2026-11-10T20:52:03+00:00",
+      "summary_raw": "Many homes were broken into, matching a similar pattern: using a prying tool to break through a side or back window while the residents were out of town.",
+      "id": "1677360ddc93"
+    },
+    {
       "source": "Wired",
-      "title": "Louis Rossmann Wants More People to Care About the Right to Repair",
-      "link": "https://www.wired.com/story/the-big-interview-podcast-louis-rossmann-right-to-repair/",
-      "published_at": "2026-11-10T11:30:00+00:00",
-      "summary_raw": "The outspoken consumer rights advocate knows the incoming Democrat-heavy Congress has a lot to get done. But he hopes one of those things is letting you fix your own iPhone.",
-      "id": "f0eec2629795"
+      "title": "The Grindr 1 Percent Is Getting Its Own Gated Community",
+      "link": "https://www.wired.com/story/the-grindr-1-percent-is-getting-its-own-gated-community/",
+      "published_at": "2026-11-10T12:00:00+00:00",
+      "summary_raw": "The gay hookup app’s premium tier Edge rolls out this month. Grindr will limit membership numbers to “preserve exclusivity.”",
+      "id": "8cfc6b63cdfa"
     },
     {
       "source": "NPR Politics",
-      "title": "Iran denies it was behind cyber fridge attacks targeting France",
-      "link": "https://www.npr.org/2026/11/09/g-s1-152724/france-iran-cyber-sabotage-fridge-attacks",
-      "published_at": "2026-11-09T22:30:49+00:00",
-      "summary_raw": "The denial comes a day after the French government blamed Iranian military hackers for last month's attack on refrigeration systems at around 700 retail sites, which spoiled millions of dollars' worth of food.",
-      "id": "dc54cd1e24ad"
+      "title": "Why did California's billionaire tax fail to surf the blue wave?",
+      "link": "https://www.npr.org/sections/planet-money/2026/11/10/g-s1-152755/why-did-californias-billionaire-tax-fail-to-surf-the-blue-wave",
+      "published_at": "2026-11-10T11:30:00+00:00",
+      "summary_raw": "Two economists debate what California's vote on Prop 40 means for the wealth tax movement.",
+      "id": "3be9762b4118"
     },
     {
       "source": "NPR National",
@@ -308,11 +372,11 @@
     },
     {
       "source": "BBC World",
-      "title": "Twelve dead after motorway pile-ups in Bulgaria fog",
-      "link": "https://www.bbc.co.uk/news/articles/ckx2q2velpjjo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-10T16:07:51+00:00",
-      "summary_raw": "About 50 other people were injured in the pile-ups along a section of the Trakia motorway, officials have said.",
-      "id": "0932b1d2d215"
+      "title": "US federal authorities could have prevented Epstein crimes, report finds",
+      "link": "https://www.bbc.co.uk/news/articles/cq5ynyn8zyr8o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-10T20:36:58+00:00",
+      "summary_raw": "The report by a Republican-led congressional committee follows a 15-month investigation into the handling of the late disgraced financier's case.",
+      "id": "a08f68d4c96a"
     },
     {
       "source": "Science Daily",
@@ -323,20 +387,28 @@
       "id": "e41da7202b54"
     },
     {
+      "source": "WRAL Local",
+      "title": "A judge could decide on Saint Augustine's proposed deal with a real estate advisor",
+      "link": "https://www.wral.com/news/local/saint-augustines-bankruptcy-hearing-chapter-11-november-2026/",
+      "published_at": "2026-11-10T16:32:42+00:00",
+      "summary_raw": "A bankruptcy hearing is scheduled for 2 p.m. The school is not offering any classes this semester, after filing for Chapter 11 bankruptcy earlier this year.",
+      "id": "e124923e1028"
+    },
+    {
       "source": "Wired",
-      "title": "Best Gifts for Hikers, Backpackers, Outdoorsy People (2026)",
-      "link": "https://www.wired.com/gallery/awesome-gifts-for-hikers-backpackers-outdoorsy-people/",
+      "title": "Louis Rossmann Wants More People to Care About the Right to Repair",
+      "link": "https://www.wired.com/story/the-big-interview-podcast-louis-rossmann-right-to-repair/",
       "published_at": "2026-11-10T11:30:00+00:00",
-      "summary_raw": "Let your friend pick out their own hiking boots. For their next trip into the wild, try gifting a useful blade, merino socks, moka pot, or a nature journal.",
-      "id": "0899b3395fbe"
+      "summary_raw": "The outspoken consumer rights advocate knows the incoming Democrat-heavy Congress has a lot to get done. But he hopes one of those things is letting you fix your own iPhone.",
+      "id": "f0eec2629795"
     },
     {
       "source": "NPR Politics",
-      "title": "Stephen Miller is now chief of staff. What does that mean for Trump?",
-      "link": "https://www.npr.org/2026/11/09/nx-s1-6034461/stephen-miller-is-now-chief-of-staff-what-does-that-mean-for-trump",
-      "published_at": "2026-11-09T21:08:40+00:00",
-      "summary_raw": "NPR's Sacha Pfeiffer speaks with Chris Whipple, an expert on White House chiefs of staff who has written extensively about Susie Wiles, about Trump's appointment of Stephen Miller.",
-      "id": "76bcfdfc04a3"
+      "title": "House GOP elects Jim Jordan as new leader as the party looks to rebuild from midterms",
+      "link": "https://www.npr.org/2026/11/10/nx-s1-6030988/gop-leadership-election-steve-scalise-jim-jordan",
+      "published_at": "2026-11-10T10:01:00+00:00",
+      "summary_raw": "Jordan, a close Trump ally and co-founder of the ultra-conservative House Freedom Caucus, will succeed Mike Johnson, who says he's stepping down as the chamber's top Republican.",
+      "id": "7e020afc69a6"
     },
     {
       "source": "NPR National",
@@ -348,11 +420,11 @@
     },
     {
       "source": "BBC World",
-      "title": "'It's a farce': Hegseth's defiant response to impeachment effort",
-      "link": "https://www.bbc.co.uk/news/videos/cwm24249dezmo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-10T15:40:43+00:00",
-      "summary_raw": "The BBC’s Gary O’Donoghue breaks down how the US defence secretary defended his record after a Republican congressman launched an attempt to impeach him.",
-      "id": "e0f7b6c259ba"
+      "title": "Watch: E-bike battery explodes into massive fireball inside Oregon home",
+      "link": "https://www.bbc.co.uk/news/videos/cr0qkqqkn3j7o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-10T20:31:17+00:00",
+      "summary_raw": "Surveillance footage from inside the home shows a mother and son noticing smoke coming from the battery before it suddenly bursts into flames.",
+      "id": "3b6116ed9f56"
     },
     {
       "source": "Science Daily",
@@ -363,20 +435,28 @@
       "id": "34778c0db874"
     },
     {
+      "source": "WRAL Local",
+      "title": "Events planned in the Triangle to observe Veterans Day",
+      "link": "https://www.wral.com/news/local/nc-veterans-day-events/",
+      "published_at": "2026-11-10T13:56:31+00:00",
+      "summary_raw": "Veterans Day is Nov. 11. There are a variety of local events observing the day.",
+      "id": "b3b8615150fb"
+    },
+    {
       "source": "Wired",
-      "title": "Tear Down Those Guardrails! Meet the Renegades Freeing Chatbots From Corporate Enslavers",
-      "link": "https://www.wired.com/story/tear-down-those-guardrails-meet-the-renegades-freeing-chatbots-from-corporate-enslavers/",
-      "published_at": "2026-11-10T11:00:00+00:00",
-      "summary_raw": "The “abliterators” are flooding the internet with AI models that never say no, making it easier for people to improve their cyberdefenses—or build a bomb.",
-      "id": "15a89c6c9b55"
+      "title": "Best Gifts for Hikers, Backpackers, Outdoorsy People (2026)",
+      "link": "https://www.wired.com/gallery/awesome-gifts-for-hikers-backpackers-outdoorsy-people/",
+      "published_at": "2026-11-10T11:30:00+00:00",
+      "summary_raw": "Let your friend pick out their own hiking boots. For their next trip into the wild, try gifting a useful blade, merino socks, moka pot, or a nature journal.",
+      "id": "0899b3395fbe"
     },
     {
       "source": "NPR Politics",
-      "title": "Thomas Massie files articles of impeachment against Defense Secretary Pete Hegseth",
-      "link": "https://www.npr.org/2026/11/09/nx-s1-6034483/thomas-massie-impeachment-pete-hegseth",
-      "published_at": "2026-11-09T20:52:24+00:00",
-      "summary_raw": "The articles accuse Hegseth of \"high crimes and misdemeanors,\" including for waging war against Iran in violation of the War Powers Resolution.",
-      "id": "18c7f2a98388"
+      "title": "The Democratic Party gained power across the country in the midterms. Now what?",
+      "link": "https://www.npr.org/2026/11/10/nx-s1-6035008/democratic-party-blue-wave-midterm-congress",
+      "published_at": "2026-11-10T10:00:00+00:00",
+      "summary_raw": "Voters handed Democrats the keys to power across the country and expect them to drive in a different direction. Party leaders are now trying to figure out which way to go.",
+      "id": "c58ced041a9d"
     },
     {
       "source": "NPR National",
@@ -388,11 +468,11 @@
     },
     {
       "source": "BBC World",
-      "title": "Board of Peace says Israel's aid response after Gaza floods 'insufficent'",
-      "link": "https://www.bbc.co.uk/news/articles/cw4g1g4ll5m1o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-10T15:21:18+00:00",
-      "summary_raw": "The group, formed by Trump, issues rare criticism of Israel, while also blaming Hamas for the suffering of civilians in Gaza.",
-      "id": "3665ee79086e"
+      "title": "Violence erupts in Bangladesh as ousted PM's supporters stage protest",
+      "link": "https://www.bbc.co.uk/news/articles/cwkg5g5pjpyko?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-10T19:26:42+00:00",
+      "summary_raw": "Supporters of Sheikh Hasina want her to return from exile in India.",
+      "id": "5f8e696cb6df"
     },
     {
       "source": "Science Daily",
@@ -403,20 +483,28 @@
       "id": "fe00b55b7450"
     },
     {
+      "source": "WRAL Local",
+      "title": "Raleigh dance instructor accepts plea deal in child sexual assault case",
+      "link": "https://www.wral.com/news/local/raleigh-dance-instructor-pleads-guilty-child-abuse-case-across-several-nc-studios-nov-2026/",
+      "published_at": "2026-11-10T04:11:15+00:00",
+      "summary_raw": "Elissa Edwards accepted a plea deal on Monday.",
+      "id": "759bad3b968a"
+    },
+    {
       "source": "Wired",
-      "title": "The AI Safety Debate Has Lost the Plot. We Asked 10 Experts What the Real Nightmares Are",
-      "link": "https://www.wired.com/story/the-ai-safety-debate-has-lost-the-plot-we-asked-10-experts-what-the-real-nightmares-are/",
+      "title": "Tear Down Those Guardrails! Meet the Renegades Freeing Chatbots From Corporate Enslavers",
+      "link": "https://www.wired.com/story/tear-down-those-guardrails-meet-the-renegades-freeing-chatbots-from-corporate-enslavers/",
       "published_at": "2026-11-10T11:00:00+00:00",
-      "summary_raw": "The risk of nuclear catastrophe is real, as is the fallout of the China–US domination game (hi there, spies). But no need to panic about Skynet.",
-      "id": "38c2ca2319d0"
+      "summary_raw": "The “abliterators” are flooding the internet with AI models that never say no, making it easier for people to improve their cyberdefenses—or build a bomb.",
+      "id": "15a89c6c9b55"
     },
     {
       "source": "BBC World",
-      "title": "Iran rejects French claims it was behind supermarket fridge hacking",
-      "link": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-10T13:45:13+00:00",
-      "summary_raw": "Tons of chilled and frozen food was spoiled last month as fridges and freezers in hundreds of supermarkets heated up.",
-      "id": "3c2ae4f352b3"
+      "title": "Makers of GLP-1 drugs ordered to add warnings about rare eye condition that can lead to blindness",
+      "link": "https://www.bbc.co.uk/news/articles/crwydyde0lp3o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-10T18:43:04+00:00",
+      "summary_raw": "The US Food and Drug Administration says Ozempic, Wegovy, and other weight-loss drugs must have labels about the condition, known as NAION.",
+      "id": "ebfe53307a9e"
     },
     {
       "source": "Science Daily",
@@ -428,19 +516,19 @@
     },
     {
       "source": "Wired",
-      "title": "Huupe Mini 2 Review: More Game Than It Can Handle",
-      "link": "https://www.wired.com/review/huupe-mini-2/",
-      "published_at": "2026-11-10T10:08:00+00:00",
-      "summary_raw": "The Huupe Mini 2 can count baskets, stream shows, and challenge strangers, but I’d settle for a working power button.",
-      "id": "322533f70f60"
+      "title": "The AI Safety Debate Has Lost the Plot. We Asked 10 Experts What the Real Nightmares Are",
+      "link": "https://www.wired.com/story/the-ai-safety-debate-has-lost-the-plot-we-asked-10-experts-what-the-real-nightmares-are/",
+      "published_at": "2026-11-10T11:00:00+00:00",
+      "summary_raw": "The risk of nuclear catastrophe is real, as is the fallout of the China–US domination game (hi there, spies). But no need to panic about Skynet.",
+      "id": "38c2ca2319d0"
     },
     {
       "source": "BBC World",
-      "title": "French wartime resistance heroine Solange Alexandre dies aged 104",
-      "link": "https://www.bbc.co.uk/news/articles/cjdx3x7wg941o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-10T13:23:54+00:00",
-      "summary_raw": "With 30 men under her orders, she organised sabotage operations, sheltered Allied airmen and joined the fight against the occupying German forces.",
-      "id": "2bca8623e1fd"
+      "title": "Meet the Peaky Blinders, Ukraine's drone unit protecting a devastated front-line city",
+      "link": "https://www.bbc.co.uk/news/videos/cm2l4l59gjp7o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-10T18:35:35+00:00",
+      "summary_raw": "Slovyansk continues to be bombarded by Russian forces, making it almost uninhabitable with less than 10% of it's pre-war population remaining.",
+      "id": "e12bd53b4116"
     },
     {
       "source": "Science Daily",
@@ -452,19 +540,19 @@
     },
     {
       "source": "Wired",
-      "title": "Here’s What We Know About the X-70 Fractal, NASA’s Experimental New Plane",
-      "link": "https://www.wired.com/story/heres-what-we-know-about-the-x-70-fractal-nasas-experimental-new-plane/",
-      "published_at": "2026-11-10T10:00:00+00:00",
-      "summary_raw": "NASA announced the development of an experimental aircraft designed to explore new flight capabilities, although details about its design and operation remain under wraps.",
-      "id": "e608ca57ed5c"
+      "title": "Huupe Mini 2 Review: More Game Than It Can Handle",
+      "link": "https://www.wired.com/review/huupe-mini-2/",
+      "published_at": "2026-11-10T10:08:00+00:00",
+      "summary_raw": "The Huupe Mini 2 can count baskets, stream shows, and challenge strangers, but I’d settle for a working power button.",
+      "id": "322533f70f60"
     },
     {
       "source": "BBC World",
-      "title": "California police investigate after 27 fall ill at half-marathon running event",
-      "link": "https://www.bbc.co.uk/news/articles/cq0ldlyd556go?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-10T13:22:12+00:00",
-      "summary_raw": "A local hospital says runners had \"unusual\" symptoms after racing on an atypically hot day.",
-      "id": "37a31394babd"
+      "title": "Malaysia's disgraced former PM leaves jail for house arrest after embezzling millions",
+      "link": "https://www.bbc.co.uk/news/articles/cxnv0v4yln7do?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-10T18:33:51+00:00",
+      "summary_raw": "Najib Razak was convicted for his role in the billion-dollar scandal involving the 1MDB sovereign wealth fund.",
+      "id": "68dc5c142e28"
     },
     {
       "source": "Science Daily",
@@ -476,19 +564,19 @@
     },
     {
       "source": "Wired",
-      "title": "Security Flaws Across UK Government Sites Exposed ‘God-Tier’ Information",
-      "link": "https://www.wired.com/story/security-flaws-across-uk-government-sites-exposed-god-tier-information/",
-      "published_at": "2026-11-10T07:00:00+00:00",
-      "summary_raw": "A researcher’s trawl through publicly available code found private information was at risk across multiple departments.",
-      "id": "6be73c0066b0"
+      "title": "Here’s What We Know About the X-70 Fractal, NASA’s Experimental New Plane",
+      "link": "https://www.wired.com/story/heres-what-we-know-about-the-x-70-fractal-nasas-experimental-new-plane/",
+      "published_at": "2026-11-10T10:00:00+00:00",
+      "summary_raw": "NASA announced the development of an experimental aircraft designed to explore new flight capabilities, although details about its design and operation remain under wraps.",
+      "id": "e608ca57ed5c"
     },
     {
       "source": "BBC World",
-      "title": "Police officer dies and another injured after backpack explosion in northern Spain",
-      "link": "https://www.bbc.co.uk/news/articles/cwm262pzezy0o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-10T11:25:46+00:00",
-      "summary_raw": "Officers attended the scene in connection with a separate incident at a residential building in the Spanish city.",
-      "id": "34d7d11cd4a8"
+      "title": "Arrests made after visit from former US President Biden",
+      "link": "https://www.bbc.co.uk/news/articles/ck78p827y642o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-10T18:07:56+00:00",
+      "summary_raw": "Joe Biden was in Dublin to see his son Hunter awarded the Gold Medal for Outstanding Contribution for Public Discourse",
+      "id": "4fd1a2c5dcf6"
     },
     {
       "source": "Science Daily",
@@ -500,19 +588,19 @@
     },
     {
       "source": "Wired",
-      "title": "Valvoline Coupons and Promo Codes for November 2026",
-      "link": "https://www.wired.com/story/valvoline-coupons/",
-      "published_at": "2026-11-10T06:00:00+00:00",
-      "summary_raw": "We've gathered all the top Valvoline coupons and promo codes for November 2026, including deals on full synthetic oil changes and other essential maintenance.",
-      "id": "081249098956"
+      "title": "Security Flaws Across UK Government Sites Exposed ‘God-Tier’ Information",
+      "link": "https://www.wired.com/story/security-flaws-across-uk-government-sites-exposed-god-tier-information/",
+      "published_at": "2026-11-10T07:00:00+00:00",
+      "summary_raw": "A researcher’s trawl through publicly available code found private information was at risk across multiple departments.",
+      "id": "6be73c0066b0"
     },
     {
       "source": "BBC World",
-      "title": "Israeli forces kill Palestinian boy in West Bank, health ministry says",
-      "link": "https://www.bbc.co.uk/news/articles/cqpvgv318yyeo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-10T11:23:18+00:00",
-      "summary_raw": "The Israeli military says its soldiers opened fire at individuals “who intended to hurl stones” at a road used by Israelis.",
-      "id": "b3d8c18d36ab"
+      "title": "Anti-homosexuality laws in Trinidad and Tobago overturned",
+      "link": "https://www.bbc.co.uk/news/articles/cm0e0evlpp87o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-10T18:04:18+00:00",
+      "summary_raw": "The ruling brings to an end an 11-year legal battle by dual-citizen Jason Jones.",
+      "id": "e9420993b056"
     },
     {
       "source": "Science Daily",
@@ -524,19 +612,19 @@
     },
     {
       "source": "Wired",
-      "title": "Office Depot Coupons: $20 Off November 2026",
-      "link": "https://www.wired.com/story/office-depot-promo-codes/",
+      "title": "Valvoline Coupons and Promo Codes for November 2026",
+      "link": "https://www.wired.com/story/valvoline-coupons/",
       "published_at": "2026-11-10T06:00:00+00:00",
-      "summary_raw": "From furniture and ink to professional printing services, use an Office Depot discount code to maximize your savings on every workspace essential.",
-      "id": "f131c8553e1e"
+      "summary_raw": "We've gathered all the top Valvoline coupons and promo codes for November 2026, including deals on full synthetic oil changes and other essential maintenance.",
+      "id": "081249098956"
     },
     {
       "source": "BBC World",
-      "title": "Trump says more US attacks on Iran 'highly unlikely'",
-      "link": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-10T09:40:31+00:00",
-      "summary_raw": "The president says the US is keeping \"status quo\" with Iran but remains “locked and loaded” should the situation change.",
-      "id": "ba838036190f"
+      "title": "Why are these purple flowers shutting down streets in Sydney?",
+      "link": "https://www.bbc.co.uk/news/videos/c862y2dxdq45o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-10T18:03:52+00:00",
+      "summary_raw": "Jacaranda trees typically flower for six weeks every spring, drawing visitors to Australia from across the globe.",
+      "id": "538727057904"
     },
     {
       "source": "Science Daily",
@@ -548,99 +636,11 @@
     },
     {
       "source": "Wired",
-      "title": "Bose Promo Code: 40% Off for November 2026",
-      "link": "https://www.wired.com/story/bose-coupon-code/",
-      "published_at": "2026-11-10T06:00:00+00:00",
-      "summary_raw": "Get at least 40% off headphones, speakers, soundbars, and other audio products from Bose.",
-      "id": "85e0a15c5857"
-    },
-    {
-      "source": "BBC World",
-      "title": "Watch: Man smashes Chinese government building with excavator",
-      "link": "https://www.bbc.co.uk/news/videos/ckp8g8p4myv8o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-10T09:37:15+00:00",
-      "summary_raw": "Police say they have detained a 47-year-old suspect and no one was injured in the incident.",
-      "id": "c6cf70c53ce7"
-    },
-    {
-      "source": "Science Daily",
-      "title": "An ancient ocean full of giant predators reveals a surprising twist in evolution",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261106174535.htm",
-      "published_at": "2026-11-08T22:45:01+00:00",
-      "summary_raw": "A remarkable fossil discovery in Colombia is challenging how scientists understand major evolutionary changes in Earth's history. Researchers uncovered an incredibly diverse ancient marine ecosystem where giant reptiles, sharks, and other creatures thrived as older evolutionary groups approached extinction and newer ones emerged. They call this previously unrecognized pattern a \"Biotic Inflection,\" suggesting that major transformations in life can occur without mass extinctions.",
-      "id": "82c6d33a018c"
-    },
-    {
-      "source": "Wired",
       "title": "Rover Promo Codes and Referral Deals for November 2026",
       "link": "https://www.wired.com/story/rover-promo-code/",
       "published_at": "2026-11-10T06:00:00+00:00",
       "summary_raw": "Score your Rover promo code for November 2026.",
       "id": "844f9fff709e"
-    },
-    {
-      "source": "BBC World",
-      "title": "Faisal Islam: What the boss of US tech giant Nvidia told me about China and national security",
-      "link": "https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-10T09:23:55+00:00",
-      "summary_raw": "Huang, who is now being investigated over an affair with an alleged Chinese spy, is far more important to the future of the world order than other tech bosses.",
-      "id": "e0703e82b65f"
-    },
-    {
-      "source": "Science Daily",
-      "title": "Einstein's equations reveal how gravity could break, reconnect, and release energy",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261104084011.htm",
-      "published_at": "2026-11-08T22:14:42+00:00",
-      "summary_raw": "More than a century after Einstein revolutionized our understanding of gravity, scientists have uncovered a surprising new phenomenon hidden within his equations. Researchers at Columbia University and Universidad Adolfo Ibáñez have identified a theoretical process called \"gravitational reconnection,\" in which structures within gravitational fields can break apart and reconnect, transferring energy into matter.",
-      "id": "540f5c4dadbc"
-    },
-    {
-      "source": "Wired",
-      "title": "Naturepedic Promo Codes: Get 20% Off Plus Free Pillows",
-      "link": "https://www.wired.com/story/naturepedic-promo-code/",
-      "published_at": "2026-11-10T06:00:00+00:00",
-      "summary_raw": "Shop the Naturepedic sale this November 2026.",
-      "id": "828dc3392c36"
-    },
-    {
-      "source": "BBC World",
-      "title": "DR Congo sentences 66 soldiers to death for being 'cowards'",
-      "link": "https://www.bbc.co.uk/news/articles/cmreye1q3dnjo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-10T08:39:05+00:00",
-      "summary_raw": "The Congolese army's fight against rebel groups has long been hampered by disarray within its ranks.",
-      "id": "2f5763264b51"
-    },
-    {
-      "source": "Science Daily",
-      "title": "A 24-hour fast triggers a surprising repair response in the gut",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261104084024.htm",
-      "published_at": "2026-11-08T11:06:30+00:00",
-      "summary_raw": "Scientists have discovered that fasting for just 24 hours increases a beneficial gut bacterium that helps the intestines regenerate after radiation damage. The preclinical findings could pave the way for new treatments that protect healthy tissue during cancer therapy, potentially without requiring patients to fast.",
-      "id": "1d5f5f3fb2ec"
-    },
-    {
-      "source": "Wired",
-      "title": "Sam's Club Promo Codes and Membership Deals for November 2026",
-      "link": "https://www.wired.com/story/sams-club-coupon/",
-      "published_at": "2026-11-10T06:00:00+00:00",
-      "summary_raw": "Save on bulk groceries, household essentials, and electronics with a verified Sam's Club promo code or membership discount.",
-      "id": "16aae354b48a"
-    },
-    {
-      "source": "BBC World",
-      "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
-      "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-10T08:23:21+00:00",
-      "summary_raw": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
-      "id": "82de194453db"
-    },
-    {
-      "source": "Science Daily",
-      "title": "MIT scientists turn immune cells into cancer killers inside the body",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261104084015.htm",
-      "published_at": "2026-11-08T10:52:31+00:00",
-      "summary_raw": "MIT scientists have developed nanoparticles that reprogram immune cells directly inside the body to attack cancer and harmful immune cells, eliminating tumors and reversing liver damage in mouse experiments. The breakthrough could make powerful immune therapies dramatically simpler and less expensive while opening new possibilities for treating cancer and autoimmune diseases.",
-      "id": "becd505e589e"
     }
   ]
 }

@@ -1,38 +1,430 @@
 {
   "mode": "raw",
-  "generated_at": "2026-11-12T01:47:44.304124+00:00",
+  "generated_at": "2026-11-12T18:46:25.156978+00:00",
   "items": [
     {
+      "source": "WRAL Local",
+      "title": "New documentary revisits North Carolina's 9-year fight against forever chemicals",
+      "link": "https://www.wral.com/news/state/documentary-north-carolina-forever-chemicals-genx-november-2026/",
+      "published_at": "2026-11-12T17:53:32+00:00",
+      "summary_raw": "A new documentary premiering Friday in Saxapahaw traces nearly a decade of efforts to expose toxic chemicals in drinking water, hold polluters accountable, and protect communities still dealing with contamination.",
+      "id": "1c813afccfb5"
+    },
+    {
       "source": "Wired",
-      "title": "Pete Hegseth Is About to Get His Ass Kicked",
-      "link": "https://www.wired.com/story/pete-hegseth-is-about-to-get-his-ass-kicked/",
-      "published_at": "2026-11-11T22:00:00+00:00",
-      "summary_raw": "House Democrats are already planning to make their impeachment case against the defense secretary as airtight—and appealing to Republicans—as possible.",
-      "id": "d7552990f79b"
+      "title": "Google DeepMind Staff Tap the UK Government to Escalate Their Unionization Fight",
+      "link": "https://www.wired.com/story/google-deepmind-staff-escalate-their-union-fight/",
+      "published_at": "2026-11-12T18:05:41+00:00",
+      "summary_raw": "After initial talks stalled, workers at Google DeepMind are trying to bypass company management in their bid to unionize.",
+      "id": "aedeb0e858f0"
     },
     {
       "source": "NPR Politics",
-      "title": "Democrat Scott Colom wins the closest Senate race in the country",
-      "link": "https://www.npr.org/2026/11/11/nx-s1-6037840/democrat-scott-colom-wins-the-closest-senate-race-in-the-country",
-      "published_at": "2026-11-11T23:33:59+00:00",
-      "summary_raw": "Mississippi hadn't elected a Democrat to the U.S. Senate in more than 40 years.",
-      "id": "9e0024c86ed3"
+      "title": "Democrats want to stop Trump's arch, golf course and more. What are their options?",
+      "link": "https://www.npr.org/2026/11/12/nx-s1-6034539/democrats-congress-trump-arch-ballroom-funding-oversight",
+      "published_at": "2026-11-12T17:13:54+00:00",
+      "summary_raw": "As Trump's arch and other projects make their way through the courts, many critics are looking to Congress to stop them. Democrats have a few tools, including funding and oversight.",
+      "id": "68db99753eb8"
     },
     {
       "source": "NPR National",
-      "title": "Democrat Scott Colom wins Mississippi Senate race",
-      "link": "https://www.npr.org/2026/11/11/g-s1-151688/mississippi-senate-race-scott-colom",
-      "published_at": "2026-11-11T23:04:51+00:00",
-      "summary_raw": "Democrat Scott Colom has won election to the U.S. Senate in Mississippi, according to a race call by the Associated Press, defeating Republican Sen. Cindy Hyde-Smith.",
-      "id": "3474c4ca1e8d"
+      "title": "Casualties continue to rise after Brooklyn building collapses",
+      "link": "https://www.npr.org/sections/the-picture-show/2026/11/12/g-s1-153229/brooklyn-building-collapse-photos",
+      "published_at": "2026-11-12T18:15:00+00:00",
+      "summary_raw": "First responders continue to search for survivors after a building in Brooklyn collapsed, leaving at least eight dead and dozens injured.",
+      "id": "73d14eafca6f"
     },
     {
       "source": "BBC World",
-      "title": "New York building collapse kills one person and injures 12",
-      "link": "https://www.bbc.co.uk/news/videos/c60rkwjj7x7go?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-12T01:34:58+00:00",
-      "summary_raw": "Rescuers are searching for people who may be trapped under the rubble of the three-story building in Brooklyn.",
-      "id": "976a98f82ca6"
+      "title": "US envoys head to meet Zelensky after talks with Putin in Moscow",
+      "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-12T18:28:59+00:00",
+      "summary_raw": "US envoy Steve Witkoff says President Putin has agreed to European negotiators joining the next round of Ukraine talks.",
+      "id": "838175149a2b"
+    },
+    {
+      "source": "Science Daily",
+      "title": "Common forever chemicals linked to nearly double the rate of aggressive breast cancer",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261112025527.htm",
+      "published_at": "2026-11-12T09:34:53+00:00",
+      "summary_raw": "An NIH study found that women with high levels of two common “forever chemicals” had up to 93% higher rates of an aggressive form of breast cancer. The discovery raises concerns about the potential health effects of persistent chemicals found in everyday products.",
+      "id": "6fd8b756b83c"
+    },
+    {
+      "source": "WRAL Local",
+      "title": "2 juveniles charged after shooting into Hoke County building",
+      "link": "https://www.wral.com/news/local/two-juveniles-charged-shooting-building-hoke-county-nov-2026/",
+      "published_at": "2026-11-12T17:34:43+00:00",
+      "summary_raw": "The Hoke County Sheriff's Office deputies responded Sunday morning to a report of gunfire at an occupied building in the 100 block of Stone Wall Street in Raeford. A judge approved secured custody orders Tuesday for two juveniles.",
+      "id": "c287ccb56769"
+    },
+    {
+      "source": "Wired",
+      "title": "Jensen Huang Basically Lit More Than $1 Trillion on Fire in Less Than a Month",
+      "link": "https://www.wired.com/story/jensen-huang-tanked-a-trillion-dollars-in-less-than-a-month/",
+      "published_at": "2026-11-12T17:59:15+00:00",
+      "summary_raw": "Since the scandal involving an alleged Chinese spy began, Nvidia has lost an eye-watering sum from its market value.",
+      "id": "9f47c22a0151"
+    },
+    {
+      "source": "NPR Politics",
+      "title": "D.C. shooting leaves 1 person killed, 4 injured. Gunman dead",
+      "link": "https://www.npr.org/2026/11/12/nx-s1-6038860/dc-logan-circle-shooting",
+      "published_at": "2026-11-12T16:12:53+00:00",
+      "summary_raw": "A gunman opened fire at a gym in Washington, D.C.'s Logan Circle Thursday morning. One person has been confirmed killed and four others injured. The gunman is dead, according to police.",
+      "id": "3cb3f9869576"
+    },
+    {
+      "source": "NPR National",
+      "title": "Democrats want to stop Trump's arch, golf course and more. What are their options?",
+      "link": "https://www.npr.org/2026/11/12/nx-s1-6034539/democrats-congress-trump-arch-ballroom-funding-oversight",
+      "published_at": "2026-11-12T17:13:54+00:00",
+      "summary_raw": "As Trump's arch and other projects make their way through the courts, many critics are looking to Congress to stop them. Democrats have a few tools, including funding and oversight.",
+      "id": "68db99753eb8"
+    },
+    {
+      "source": "BBC World",
+      "title": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
+      "link": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-12T17:11:48+00:00",
+      "summary_raw": "Within days, Huang's status as a seemingly untouchable figure leading the global tech race has crumbled.",
+      "id": "55d7e6d739c0"
+    },
+    {
+      "source": "Science Daily",
+      "title": "Earth's fiery birth may have created hundreds of oceans' worth of water",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261110042549.htm",
+      "published_at": "2026-11-12T08:38:42+00:00",
+      "summary_raw": "Earth's water may have been born in the planet's fiery atmosphere rather than delivered by icy comets or asteroids. Scientists discovered that rocky pebbles reacting with hydrogen under extreme heat can produce water in minutes, potentially generating hundreds of oceans' worth during Earth's formation. The findings suggest that water may be a natural part of how rocky planets form, rather than something that must arrive from space.",
+      "id": "e208d0b84893"
+    },
+    {
+      "source": "WRAL Local",
+      "title": "Golf fixture Dan Hicks dies unexpectedly, leaving behind lasting legacy",
+      "link": "https://www.wral.com/news/local/golf-fixture-dan-hicks-dies-unexpectedly-leaving-behind-a-long-legacy-amid-grief-november-2026/",
+      "published_at": "2026-11-12T15:56:59+00:00",
+      "summary_raw": "Dan Hicks, the longtime voice of NBC Sports' PGA Tour coverage has passed away at the age of 64.",
+      "id": "cae228700793"
+    },
+    {
+      "source": "Wired",
+      "title": "Synchron Pauses Trials of Its Brain Implant Due to Performance Issues",
+      "link": "https://www.wired.com/story/synchron-pauses-trials-of-its-brain-implant-due-to-performance-issues/",
+      "published_at": "2026-11-12T15:58:21+00:00",
+      "summary_raw": "After its latest device struggled to perform, brain-computer interface startup Synchon halted clinical trials. The company says it will upgrade the implant’s hardware and is at work on a new device.",
+      "id": "9633e3131e01"
+    },
+    {
+      "source": "NPR Politics",
+      "title": "Colom wins Mississippi Senate race. And, White House warns Dems over future probes",
+      "link": "https://www.npr.org/2026/11/12/g-s1-153171/up-first-newsletter-scott-colom-trump-democrats-ukraine-russia",
+      "published_at": "2026-11-12T12:15:48+00:00",
+      "summary_raw": "After more than a week of counting ballots, Scott Colom has narrowly won the Mississippi Senate seat. And, the White House has sent a letter warning Democrats who plan to investigate the administration.",
+      "id": "4a32187e9aeb"
+    },
+    {
+      "source": "NPR National",
+      "title": "Crews search for survivors after deadly Brooklyn building collapse",
+      "link": "https://www.npr.org/2026/11/12/nx-s1-6038673/crews-search-for-survivors-after-deadly-brooklyn-building-collapse",
+      "published_at": "2026-11-12T16:26:59+00:00",
+      "summary_raw": "A three-story apartment building in Brooklyn collapsed, killing at least eight people and injuring two dozen others.",
+      "id": "78995a1e933e"
+    },
+    {
+      "source": "BBC World",
+      "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
+      "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-12T16:54:12+00:00",
+      "summary_raw": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza.",
+      "id": "f84c2b38b7b0"
+    },
+    {
+      "source": "Science Daily",
+      "title": "Scientists discover a common sugar may help cancer cells break free and spread",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261111221501.htm",
+      "published_at": "2026-11-12T04:39:31+00:00",
+      "summary_raw": "Scientists have uncovered a surprising way that fructose, a sugar commonly found in sweetened foods and drinks, may help aggressive ovarian cancer spread. Researchers discovered that cancer cells surviving chemotherapy release fructose that weakens the bonds holding neighboring tumor cells together, making it easier for cancer to spread. High dietary fructose levels and cholesterol-lowering statins also produced concerning effects in preclinical experiments.",
+      "id": "38ee36b1ac55"
+    },
+    {
+      "source": "WRAL Local",
+      "title": "Police investigating shooting in Goldsboro after finding wounded man",
+      "link": "https://www.wral.com/news/local/goldsboro-shooting-attempted-murder-investigation-november-2026/",
+      "published_at": "2026-11-12T13:15:44+00:00",
+      "summary_raw": "Officers found a man with gunshot wounds after responding to a call on Oak Street in Goldsboro. Police have not identified a suspect.",
+      "id": "c0ddd08a744a"
+    },
+    {
+      "source": "Wired",
+      "title": "Best Open Earbuds (2026): Shokz, Bose, Soundcore, and More",
+      "link": "https://www.wired.com/story/best-open-earbuds/",
+      "published_at": "2026-11-12T15:00:00+00:00",
+      "summary_raw": "I’ve tested dozens of open earbuds. My favorites let you hear the world and your tunes equally well.",
+      "id": "0823ca374a42"
+    },
+    {
+      "source": "NPR Politics",
+      "title": "A blue wave helped offset for now a falling tally of Black members in the U.S. House",
+      "link": "https://www.npr.org/2026/11/12/nx-s1-6029640/black-voter-turnout-congress-redistricting",
+      "published_at": "2026-11-12T10:00:00+00:00",
+      "summary_raw": "A Supreme Court ruling that further weakened the Voting Rights Act paved the way for a record drop in Black representation in Congress. But a midterm blue wave helped hold off such a decline for now.",
+      "id": "4ef25a39ade5"
+    },
+    {
+      "source": "NPR National",
+      "title": "At least 23 states considered laws governing ICE and schools this year",
+      "link": "https://www.npr.org/2026/11/12/nx-s1-5718547/ice-schools-state-laws-federal-immigration",
+      "published_at": "2026-11-12T10:00:00+00:00",
+      "summary_raw": "When ICE agents show up at a school, educators rely on a patchwork of policies to know what to do. This year, many state legislatures tried to update those policies.",
+      "id": "8dd2945531cf"
+    },
+    {
+      "source": "BBC World",
+      "title": "Pentagon backs war memorial guard who reprimanded Hegseth's group",
+      "link": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-12T16:52:53+00:00",
+      "summary_raw": "The defence secretary on Thursday awarded the soldier, Specialist Thomas Iglesias, a Joint Service Commendation Medal for the execution of his duties.",
+      "id": "fc895340b6c1"
+    },
+    {
+      "source": "Science Daily",
+      "title": "A massive new simulation reveals how the universe emerged from darkness",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261110042534.htm",
+      "published_at": "2026-11-12T04:07:24+00:00",
+      "summary_raw": "A groundbreaking new supercomputer simulation is revealing how the universe escaped its cosmic dark age and transformed into a cosmos filled with stars and galaxies. Called Lumina, it recreates 2 billion years of early cosmic history across a region 1.6 billion light-years wide, capturing extraordinary details that previous simulations could not.",
+      "id": "a79560825366"
+    },
+    {
+      "source": "WRAL Local",
+      "title": "NC State chancellor addresses Sigma Nu hazing allegations: 'Deplorable. Period.'",
+      "link": "https://www.wral.com/news/local/sigma-nu-investigation-nc-state-trustees-meet-november-2026/",
+      "published_at": "2026-11-12T09:52:26+00:00",
+      "summary_raw": "WRAL is pushing for answers after officers served six search warrants to the Sigma Nu fraternity last month.",
+      "id": "cb69dc02f9c6"
+    },
+    {
+      "source": "Wired",
+      "title": "Meet Colette Kress, Nvidia’s New Interim CEO",
+      "link": "https://www.wired.com/story/who-is-colette-kress-the-woman-who-could-succeed-jensen-huang/",
+      "published_at": "2026-11-12T14:14:33+00:00",
+      "summary_raw": "Nvidia’s longtime chief financial officer helped transform the company into an AI powerhouse. Now she’s taking the reins following Jensen Huang’s resignation on Thursday.",
+      "id": "82533b2f2954"
+    },
+    {
+      "source": "NPR Politics",
+      "title": "At least 23 states considered laws governing ICE and schools this year",
+      "link": "https://www.npr.org/2026/11/12/nx-s1-5718547/ice-schools-state-laws-federal-immigration",
+      "published_at": "2026-11-12T10:00:00+00:00",
+      "summary_raw": "When ICE agents show up at a school, educators rely on a patchwork of policies to know what to do. This year, many state legislatures tried to update those policies.",
+      "id": "8dd2945531cf"
+    },
+    {
+      "source": "NPR National",
+      "title": "Kennedy Center plans Ticketmaster switch, raising conflict of interest concerns",
+      "link": "https://www.npr.org/2026/11/12/nx-s1-6031461/kennedy-center-ticketmaster-conflict-of-interest",
+      "published_at": "2026-11-12T10:00:00+00:00",
+      "summary_raw": "The Kennedy Center's former president Richard Grenell was a paid board member of Ticketmaster's parent company at the same time the two parties were negotiating.",
+      "id": "dd2b8bea7e8d"
+    },
+    {
+      "source": "BBC World",
+      "title": "Millions of Ebola dollars missing with staff unpaid while virus spreads, charity says",
+      "link": "https://www.bbc.co.uk/news/articles/cx98757ymm6zo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-12T15:18:20+00:00",
+      "summary_raw": "Medical staff are going unpaid, lack proper training and are struggling with shortages of essential supplies, MSF warns",
+      "id": "4b7b4ef2dda2"
+    },
+    {
+      "source": "Science Daily",
+      "title": "Inside this quantum computer, memory vibrates like a guitar string",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261109205416.htm",
+      "published_at": "2026-11-12T02:35:20+00:00",
+      "summary_raw": "Researchers have created a quantum computer that stores information in microscopic vibrations, potentially making quantum machines smaller, more powerful, and better at preserving information. The breakthrough successfully demonstrated advanced quantum calculations and could help overcome major barriers to practical quantum computing.",
+      "id": "e15cdaf63282"
+    },
+    {
+      "source": "WRAL Local",
+      "title": "Several police respond to reported stabbing at Raleigh apartment complex",
+      "link": "https://www.wral.com/news/local/raleigh-police-presence-ardenview-circle-november-2026/",
+      "published_at": "2026-11-12T09:16:31+00:00",
+      "summary_raw": "The WRAL Breaking News Tracker spotted police tape outside the entrance to an apartment on early Thursday morning.",
+      "id": "9cca1936c9e0"
+    },
+    {
+      "source": "Wired",
+      "title": "Google and Samsung’s Android XR Smart Glasses Are Finally Here",
+      "link": "https://www.wired.com/story/google-samsung-intelligent-eyewear-launch-warby-parker-gentle-monster-smart-glasses/",
+      "published_at": "2026-11-12T14:00:00+00:00",
+      "summary_raw": "The Warby Parker and Gentle Monster frames cost $395 and $449, respectively, and come in a handful of styles.",
+      "id": "de7bbc516192"
+    },
+    {
+      "source": "NPR Politics",
+      "title": "Senators don't always share bill text online before votes. They should, advocates say",
+      "link": "https://www.npr.org/2026/11/12/nx-s1-6037381/senate-legislation-public-review",
+      "published_at": "2026-11-12T10:00:00+00:00",
+      "summary_raw": "The text of what lawmakers are considering isn't always made available for public review before it is voted on. A group of open governance advocates is calling on Senate leadership for a change.",
+      "id": "81f15f1ca642"
+    },
+    {
+      "source": "NPR National",
+      "title": "White House warns Trump probes could be criminal. Rep. Robert Garcia won't back down",
+      "link": "https://www.npr.org/2026/11/12/nx-s1-6037540/trump-white-house-democrats-investigations-robert-garcia",
+      "published_at": "2026-11-12T09:20:51+00:00",
+      "summary_raw": "Incoming House Oversight Committee Chairman Robert Garcia says Democrats won't be intimidated by White House threats over their planned investigations: \"It's in the Constitution.\"",
+      "id": "b2348445208c"
+    },
+    {
+      "source": "BBC World",
+      "title": "Before Scott Colom, these two men were the last black US senators from Mississippi",
+      "link": "https://www.bbc.co.uk/news/articles/cmde1y19g19do?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-12T14:12:55+00:00",
+      "summary_raw": "The Democratic candidate won in a southern state that had not seated a black senator since 1874.",
+      "id": "0fec6fbe4f67"
+    },
+    {
+      "source": "Science Daily",
+      "title": "NASA’s Parker Solar Probe discovers a hidden pattern in the Sun’s chaotic magnetic fields",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261109205411.htm",
+      "published_at": "2026-11-12T01:45:09+00:00",
+      "summary_raw": "NASA’s Parker Solar Probe has revealed a surprising secret hidden within the chaos of space: turbulent magnetic fields reverse their direction of rotation when examined at extremely small scales. The discovery exposes an unexpected pattern in solar wind turbulence that could help scientists better understand solar activity and predict geomagnetic storms.",
+      "id": "d7ad22ed8273"
+    },
+    {
+      "source": "WRAL Local",
+      "title": "Raleigh firefighters battle house fire, no injuries reported",
+      "link": "https://www.wral.com/news/local/raleigh-firefighers-structure-fire-haines-creek-lane-november-2026/",
+      "published_at": "2026-11-12T04:10:02+00:00",
+      "summary_raw": "Raleigh firefighters were dispatched shortly before 9:30 p.m. to a home in the 8100 block of Haines Creek Lane. No one was injured.",
+      "id": "7163bf4b713d"
+    },
+    {
+      "source": "Wired",
+      "title": "Here’s How Google Says It’s Making Its Smart Glasses More Private",
+      "link": "https://www.wired.com/story/how-google-is-making-its-smart-glasses-more-private/",
+      "published_at": "2026-11-12T14:00:00+00:00",
+      "summary_raw": "Eager to separate its glasses from Meta’s offerings, Google is positioning its frames as the more privacy-minded option.",
+      "id": "273be8033ee1"
+    },
+    {
+      "source": "NPR Politics",
+      "title": "How Scott Colom defied the odds to go from DA to Mississippi's Democratic U.S. senator",
+      "link": "https://www.npr.org/2026/11/12/nx-s1-6037438/scott-colom-defied-the-odds-mississippi-democratic-senator",
+      "published_at": "2026-11-12T10:00:00+00:00",
+      "summary_raw": "In a state that hasn't had a Democrat in office since 1980 and hasn't sent a Black senator to Washington since the 1870s, Colom's win represents a massive upset in state politics.",
+      "id": "984d23b5f616"
+    },
+    {
+      "source": "NPR National",
+      "title": "Morning news brief",
+      "link": "https://www.npr.org/2026/11/12/nx-s1-6035580/morning-news-brief",
+      "published_at": "2026-11-12T09:17:04+00:00",
+      "summary_raw": "Scott Colom has won the U.S. Senate race in Mississippi, The White House is getting ready to fight new Democratic oversight, U.S.-mediated talks between Russia and Ukraine have wrapped up.",
+      "id": "837dcd1c0b25"
+    },
+    {
+      "source": "BBC World",
+      "title": "Eight killed in Colombian air strike targeting Gulf Clan gang",
+      "link": "https://www.bbc.co.uk/news/articles/crgj3v3z10dno?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-12T13:58:49+00:00",
+      "summary_raw": "A suspected gang leader considered a \"priority target\" was among those killed, the Colombian president says.",
+      "id": "94704fb48210"
+    },
+    {
+      "source": "Science Daily",
+      "title": "Walking and weight training may not be enough to keep your bones strong",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261110042601.htm",
+      "published_at": "2026-11-12T00:10:23+00:00",
+      "summary_raw": "A surprising new study suggests that walking, jogging, and even traditional weight training may be less effective at stimulating bone formation than high-intensity sports involving explosive movements and sudden changes in direction. Researchers found that activities such as football and handball increased markers of bone formation by up to 46%, potentially revealing a better way to protect bones against aging and osteoporosis.",
+      "id": "b6a9c6be7e94"
+    },
+    {
+      "source": "WRAL Local",
+      "title": "Durham Fire Chief weighs in on rescue efforts after deadly NYC building collapse",
+      "link": "https://www.wral.com/news/local/durham-fire-chief-explains-building-collapse-new-york-rescue-efforts-november-2026/",
+      "published_at": "2026-11-12T03:32:23+00:00",
+      "summary_raw": "Two people died and at least a dozen others were hurt after a building collapsed in Brooklyn, New York Wednesday afternoon. Durham Fire Chief Robert Zoldos explains what rescue crews go through during events like this.",
+      "id": "402be5481ba7"
+    },
+    {
+      "source": "Wired",
+      "title": "Apple’s HomeView Tries Face Authentication Without FaceID",
+      "link": "https://www.wired.com/story/apples-homeview-tries-face-authentication-without-faceid/",
+      "published_at": "2026-11-12T14:00:00+00:00",
+      "summary_raw": "Apple’s FaceID has long provided robust authentication. But for its smart home device, HomeView, the company is betting on new “person recognition” technology that has yet to be challenged in the wild.",
+      "id": "9d59ea539674"
+    },
+    {
+      "source": "NPR Politics",
+      "title": "Rep. Bennie Thompson discusses the U.S. Senate race Democrat win in Mississippi",
+      "link": "https://www.npr.org/2026/11/12/nx-s1-6037852/rep-bennie-thompson-discusses-the-u-s-senate-race-democrat-win-in-mississippi",
+      "published_at": "2026-11-12T09:34:45+00:00",
+      "summary_raw": "NPR's Michel Martin speaks with Democratic Representative Bennie Thompson, of Mississippi, about Democrat Scott Colom's U.S. Senate victory.",
+      "id": "91c47bc85c6d"
+    },
+    {
+      "source": "NPR National",
+      "title": "Some states get a head start on upcoming federal hemp ban",
+      "link": "https://www.npr.org/2026/11/12/nx-s1-6035839/some-states-get-a-head-start-on-upcoming-federal-hemp-ban",
+      "published_at": "2026-11-12T09:13:01+00:00",
+      "summary_raw": "A federal ban on Hemp-derived THC products is set to take effect in less than a month. But some states have moved to start their own ban earlier.",
+      "id": "42102fe6051a"
+    },
+    {
+      "source": "BBC World",
+      "title": "'We've got to run': Inside ruined Ukraine power plant under constant drone threat",
+      "link": "https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-12T13:02:46+00:00",
+      "summary_raw": "Dan Johnson visits one of the country's largest power stations, barely left standing after a ballistic missile strike by Russia.",
+      "id": "48a1bad2b2ab"
+    },
+    {
+      "source": "Science Daily",
+      "title": "Scientists discover that necks didn't evolve for the reason we thought",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261108233101.htm",
+      "published_at": "2026-11-11T23:49:03+00:00",
+      "summary_raw": "Scientists have discovered that the first animals to venture onto land nearly 380 million years ago had surprisingly stiff necks, overturning a long-standing theory about evolution. Rather than evolving to help animals turn their heads, necks may have emerged as part of the anatomical changes that allowed them to move using their front limbs.",
+      "id": "e99a3aace497"
+    },
+    {
+      "source": "WRAL Local",
+      "title": "'I'd want somebody to help me': Good Samaritans rescue driver from Raleigh retention pond",
+      "link": "https://www.wral.com/news/local/good-samaritans-rescue-driver-raleigh-retention-pond-crash-nov-2026/",
+      "published_at": "2026-11-12T02:32:28+00:00",
+      "summary_raw": "According to the Raleigh Police Department, officers got a call about a crash around 8:12 p.m. on Old Wake Forest Road. Officers said one of the two vehicles involved went down an embankment and then into a retention pond.",
+      "id": "831a4ae17235"
+    },
+    {
+      "source": "Wired",
+      "title": "Jensen Huang Resigns as Nvidia CEO",
+      "link": "https://www.wired.com/story/nvidia-ceo-jensen-huang-steps-down/",
+      "published_at": "2026-11-12T13:58:06+00:00",
+      "summary_raw": "Nvidia’s cofounder and chief executive resigned on Thursday after the company opened an investigation into his affair with an alleged Chinese intelligence asset.",
+      "id": "873a4204fac1"
+    },
+    {
+      "source": "NPR Politics",
+      "title": "Democrat Scott Colom wins Mississippi Senate race",
+      "link": "https://www.npr.org/2026/11/12/nx-s1-6037853/democrat-scott-colom-wins-mississippi-senate-race",
+      "published_at": "2026-11-12T09:32:33+00:00",
+      "summary_raw": "Scott Colom has won the U.S. Senate race in Mississippi. After a very close race, he's the first Black man to represent the state in the Senate in nearly 150 years.",
+      "id": "2e6dd1500240"
+    },
+    {
+      "source": "NPR National",
+      "title": "World's fastest ocean liner is sunk to break another record: largest artificial reef",
+      "link": "https://www.npr.org/2026/11/11/nx-s1-6030853/ss-united-states-artificial-reef-sinking",
+      "published_at": "2026-11-12T03:10:32+00:00",
+      "summary_raw": "The SS United States broke trans-Atlantic speed records. On Wednesday, it was sunk off the Florida coast and will become a diving destination and home for marine life.",
+      "id": "b85161856f56"
+    },
+    {
+      "source": "BBC World",
+      "title": "'We've got to run': Inside ruined Ukraine power plant under constant drone threat",
+      "link": "https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-12T13:02:46+00:00",
+      "summary_raw": "Dan Johnson visits one of the country's largest power stations, barely left standing after a ballistic missile strike by Russia.",
+      "id": "13cc78459578"
     },
     {
       "source": "Science Daily",
@@ -43,15 +435,31 @@
       "id": "5fec164962b8"
     },
     {
+      "source": "WRAL Local",
+      "title": "Philip Rivers' potential hiring as NC State football coach could bring major staff changes",
+      "link": "https://www.wral.com/news/local/philip-rivers-potential-hiring-as-nc-state-football-coach-could-bring-major-staff-changes-november-2026/",
+      "published_at": "2026-11-11T22:40:43+00:00",
+      "summary_raw": "Philip Rivers is reportedly almost certain to become NC State's next head football coach, but questions remain about what changes he could bring to the program. Major changes could come quickly once the hiring is announced.",
+      "id": "0c9e9e93266b"
+    },
+    {
       "source": "Wired",
-      "title": "I Saw the Future of Robotics in a Virtual Duck That Chases My Cat",
-      "link": "https://www.wired.com/story/i-trained-a-microduck-to-be-my-cats-butler/",
-      "published_at": "2026-11-11T19:55:54+00:00",
-      "summary_raw": "An OpenAI model helped me teach the Microduck to waddle and moonlight as a tiny cat butler.",
-      "id": "f3a5ac1a5cd7"
+      "title": "Exclusive: Fairphone Lands Its First US Carrier Partner in Boost Mobile",
+      "link": "https://www.wired.com/story/exclusive-fairphone-lands-its-first-us-carrier-partner-in-boost-mobile/",
+      "published_at": "2026-11-12T13:30:00+00:00",
+      "summary_raw": "The sustainable phone maker is teaming up with its first US carrier to sell wireless plans alongside its fully repairable smartphone.",
+      "id": "c86e7655b6b9"
     },
     {
       "source": "NPR Politics",
+      "title": "Michigan Senator-elect El Sayed discusses Democrats' ambitions",
+      "link": "https://www.npr.org/2026/11/12/nx-s1-6034464/michigan-senator-elect-el-sayed-discusses-democrats-ambitions",
+      "published_at": "2026-11-12T09:27:07+00:00",
+      "summary_raw": "NPR's Leila Fadel speaks with U.S. Senator-elect Abdul El-Sayed (D-Mich.) about his win in the midterms and what's at the top of his agenda once he begins his first term in Congress.",
+      "id": "b93ef3cade5d"
+    },
+    {
+      "source": "NPR National",
       "title": "Democrat Scott Colom wins Mississippi Senate race",
       "link": "https://www.npr.org/2026/11/11/g-s1-151688/mississippi-senate-race-scott-colom",
       "published_at": "2026-11-11T23:04:51+00:00",
@@ -59,19 +467,11 @@
       "id": "3474c4ca1e8d"
     },
     {
-      "source": "NPR National",
-      "title": "The legacy of the 1991 Gulf War and the Americans who carried out the mission",
-      "link": "https://www.npr.org/2026/11/11/nx-s1-6036717/the-legacy-of-the-1991-gulf-war-and-the-americans-who-carried-out-the-mission",
-      "published_at": "2026-11-11T21:24:04+00:00",
-      "summary_raw": "35 years since the Gulf War ended, veterans reflect on the conflict and its ongoing impact.",
-      "id": "fa415e2ef222"
-    },
-    {
       "source": "BBC World",
-      "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
+      "title": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
       "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-12T01:00:04+00:00",
-      "summary_raw": "Colom is the first black person from the southern state elected to the US Senate in over 140 years.",
+      "published_at": "2026-11-12T12:56:55+00:00",
+      "summary_raw": "In a state Trump won two years ago by 22 points, Colom's victory extends a string of Democratic wins in the Senate.",
       "id": "5c5b8d25804d"
     },
     {
@@ -83,36 +483,28 @@
       "id": "411dd4be4502"
     },
     {
+      "source": "WRAL Local",
+      "title": "UNCW investigates hidden camera in dorm bathroom; student removed from campus",
+      "link": "https://www.wral.com/news/local/uncw-investigates-hidden-camera-in-dorm-bathroom-student-removed-from-campus-november-2026/",
+      "published_at": "2026-11-11T22:30:43+00:00",
+      "summary_raw": "Students reported a suspicious device in a Pelican Hall bathroom. Investigators have not determined whether anyone was recorded or whether recordings were shared.",
+      "id": "d1d07dd5ba22"
+    },
+    {
       "source": "Wired",
-      "title": "The 22 Best Early Black Friday Deals: Our Ultimate Picks (2026)",
-      "link": "https://www.wired.com/story/best-black-friday-deals-11-11-2026/",
-      "published_at": "2026-11-11T17:08:14+00:00",
-      "summary_raw": "The early bird gets the worm. Here are the best Black Friday deals for 2026 you can get right now.",
-      "id": "fb6a4d48857b"
-    },
-    {
-      "source": "NPR Politics",
-      "title": "Who is Jim Jordan, the House Republicans' pick for minority leader?",
-      "link": "https://www.npr.org/2026/11/11/nx-s1-6037439/who-is-jim-jordan-the-house-republicans-pick-for-minority-leader",
-      "published_at": "2026-11-11T21:24:05+00:00",
-      "summary_raw": "As House Republicans prepare for life in the minority, they're turning to Jim Jordan as their next leader. In Jordan, they've picked a conservative firebrand and one of Trump's most vocal defenders.",
-      "id": "290935fb787a"
-    },
-    {
-      "source": "NPR National",
-      "title": "A Kennedy relative talks about his family's lawsuit against Trump's 250-foot arch",
-      "link": "https://www.npr.org/2026/11/11/nx-s1-6037497/a-kennedy-relative-talks-about-his-familys-lawsuit-against-trumps-250-foot-arch",
-      "published_at": "2026-11-11T21:05:22+00:00",
-      "summary_raw": "NPR's Scott Detrow speaks with Max Kennedy, son of Robert Kennedy Sr., about the Kennedy family's lawsuit to halt the construction of President Trump's 250-foot arch near Arlington National Cemetery.",
-      "id": "e096a66a8427"
+      "title": "You Can Buy T-Shirts Glorifying Mass Shootings Almost Anywhere Online",
+      "link": "https://www.wired.com/story/you-can-buy-t-shirts-glorifying-mass-shootings-almost-anywhere-online/",
+      "published_at": "2026-11-12T11:30:00+00:00",
+      "summary_raw": "A new report finds that a digital community obsessed with Columbine and similar attacks is promoting apparel modeled after clothing worn by the perpetrators.",
+      "id": "38f9617c305d"
     },
     {
       "source": "BBC World",
-      "title": "Nigeria's president launches re-election manifesto but can he regain voters' trust?",
-      "link": "https://www.bbc.co.uk/news/articles/ck5ynyw527wdo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-12T00:36:11+00:00",
-      "summary_raw": "For Nigerians to feel meaningful improvements, reforms will need to go beyond the promises outlined, analysts say.",
-      "id": "f271cc5a03b5"
+      "title": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
+      "link": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-12T12:39:39+00:00",
+      "summary_raw": "Schools across Italy have received bomb threats for the second day in a row, sparking fresh panic and evacuations.",
+      "id": "8bbac1a16c2c"
     },
     {
       "source": "Science Daily",
@@ -124,35 +516,19 @@
     },
     {
       "source": "Wired",
-      "title": "A Startup Wants to Fight AI Bioweapons With AI",
-      "link": "https://www.wired.com/story/startup-fights-ai-bioweapons-with-ai/",
-      "published_at": "2026-11-11T17:00:00+00:00",
-      "summary_raw": "Radical Numerics has developed a model that it says can identify natural and AI-engineered pathogens without an internet connection.",
-      "id": "8d19f7631fb9"
-    },
-    {
-      "source": "NPR Politics",
-      "title": "These voters are looking for change, but don't have high hopes for a divided Congress",
-      "link": "https://www.npr.org/2026/11/11/nx-s1-6034955/these-voters-are-looking-for-change-but-dont-have-high-hopes-for-a-divided-congress",
-      "published_at": "2026-11-11T21:23:59+00:00",
-      "summary_raw": "North Carolina swing voters are seeking change, but have low expectations that things will actually change.",
-      "id": "c0b2f99e010c"
-    },
-    {
-      "source": "NPR National",
-      "title": "Parts of a historic ghost town face demolition by the National Park Service",
-      "link": "https://www.npr.org/2026/11/11/nx-s1-6034979/parts-of-a-historic-ghost-town-face-demolition-by-the-national-park-service",
-      "published_at": "2026-11-11T21:05:19+00:00",
-      "summary_raw": "Part of a historic town owned by the Park Service is set for demolition as residents oppose the move.",
-      "id": "11f53ff8dda7"
+      "title": "Alex Karp Said He’s a ‘Progressive.’ OK! Here’s Some Other Stuff He’s Said Recently",
+      "link": "https://www.wired.com/story/alex-karp-said-hes-a-progressive-ok-heres-some-other-stuff-hes-said-recently/",
+      "published_at": "2026-11-12T10:30:00+00:00",
+      "summary_raw": "The Palantir CEO touted his “progressive” worldview in a recent interview. Let’s see how that lines up with his comments during the company’s earnings call two weeks ago.",
+      "id": "be6e29de8da2"
     },
     {
       "source": "BBC World",
-      "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
-      "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-11T22:07:37+00:00",
-      "summary_raw": "Tens of thousands of people have been taking part in the strike, called by the country's main unions over housing and the high cost of living.",
-      "id": "ad31eb20a701"
+      "title": "Five new miniature frog species found in eastern Himalayas",
+      "link": "https://www.bbc.co.uk/news/articles/c8kgkw7dr5rko?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-12T11:07:19+00:00",
+      "summary_raw": "Scientists say the frogs evolved as the Himalayas rose and the Asian monsoon took shape.",
+      "id": "adbb6f3ddfc9"
     },
     {
       "source": "Science Daily",
@@ -164,35 +540,19 @@
     },
     {
       "source": "Wired",
-      "title": "The AO3 Shutdown Is Pitting Fanfic Readers Against Authors",
-      "link": "https://www.wired.com/story/the-ao3-shutdown-is-pitting-fanfic-readers-against-authors/",
-      "published_at": "2026-11-11T16:13:03+00:00",
-      "summary_raw": "“It has left a sour taste in my mouth,” says a Heated Rivalry fanfic author who found her work uploaded to AO3 mirror sites without her consent.",
-      "id": "8cd4647b10e3"
-    },
-    {
-      "source": "NPR Politics",
-      "title": "Kennedy relatives join the fight against Trump's arch, alleging harm to JFK's grave",
-      "link": "https://www.npr.org/2026/11/11/nx-s1-6037372/kennedys-trump-arch-lawsuit-jfk-grave-arlington-cemetery",
-      "published_at": "2026-11-11T16:59:32+00:00",
-      "summary_raw": "Nine members of the Kennedy family have joined the legal fight against Trump's D.C. arch, arguing it would disrupt views and cast shadows over their ancestors' graves at Arlington National Cemetery.",
-      "id": "fb114badd667"
-    },
-    {
-      "source": "NPR National",
-      "title": "How the midterm election results could impact Elon Musk's many business interests in Texas",
-      "link": "https://www.npr.org/2026/11/11/nx-s1-6029620/how-the-midterm-election-results-could-impact-elon-musks-many-business-interests-in-texas",
-      "published_at": "2026-11-11T21:05:16+00:00",
-      "summary_raw": "In recent years, Texas Republicans have enthusiastically welcomed Elon Musk and his companies to their state. Would that change when Democrats take charge of the state government?",
-      "id": "c684d8ad447f"
+      "title": "Google Wanted Spirit Airlines Data. Flight Attendants Found a Way to Opt Out",
+      "link": "https://www.wired.com/story/google-wanted-spirit-airlines-data-flight-attendants-found-a-way-to-opt-out/",
+      "published_at": "2026-11-12T10:15:00+00:00",
+      "summary_raw": "The union representing flight attendants for the defunct airline struck a deal with Google to scrub sensitive employee records from a $10 million data sale.",
+      "id": "1fb3fa23eb46"
     },
     {
       "source": "BBC World",
-      "title": "African writing award probe finds 'no evidence' winning story was AI generated",
-      "link": "https://www.bbc.co.uk/news/articles/cmglr260z7eko?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-11T20:00:54+00:00",
-      "summary_raw": "Zimbabwean writer Simbarashe Kundizeza has also vehemently denied the allegation made in a US magazine.",
-      "id": "38ae5927ee52"
+      "title": "British woman missing from cruise ship in Atlantic",
+      "link": "https://www.bbc.co.uk/news/articles/cmy0enrkwkklo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-12T10:13:35+00:00",
+      "summary_raw": "The 72-year-old was last seen aboard the Tui ship on Monday as it headed towards the Caribbean.",
+      "id": "9abb44517e33"
     },
     {
       "source": "Science Daily",
@@ -204,35 +564,19 @@
     },
     {
       "source": "Wired",
-      "title": "China’s Nvidia Honeypot Isn’t Surprising. Jensen Huang Fell for It Anyway",
-      "link": "https://www.wired.com/story/chinas-nvidia-honeypot-isnt-surprising-jensen-huang-fell-for-it-anyway/",
-      "published_at": "2026-11-11T15:30:00+00:00",
-      "summary_raw": "China’s use of sexpionage is a well-established intelligence tactic with recent, high-profile examples. So how did the world’s most powerful AI executive fall for it?",
-      "id": "0f406a40aa31"
-    },
-    {
-      "source": "NPR Politics",
-      "title": "What's behind democratic socialists' historic victories in the midterms?",
-      "link": "https://www.npr.org/2026/11/11/nx-s1-6037432/whats-behind-democratic-socialists-historic-victories-in-the-midterms",
-      "published_at": "2026-11-11T16:41:48+00:00",
-      "summary_raw": "Historian and The New Yorker writer Jill Lepore says the DSA, once maligned, is no longer \"beyond the political pale.\" She discusses the history of socialism in America, and its current resurgence.",
-      "id": "04e2bcea9843"
-    },
-    {
-      "source": "NPR National",
-      "title": "Why is gasoline suddenly under $4 a gallon?",
-      "link": "https://www.npr.org/2026/11/11/nx-s1-6037588/gasoline-price-below-4-dollars-gallon",
-      "published_at": "2026-11-11T19:59:14+00:00",
-      "summary_raw": "The average price of a gallon of gasoline dipped below $4 this week for the first time in months. Does that mean more relief is coming for drivers?",
-      "id": "45e99b0eb38b"
+      "title": "Rocco Classic Smart Fridge Review: A Cool Conversation Piece",
+      "link": "https://www.wired.com/review/rocco-super-smart-fridge/",
+      "published_at": "2026-11-12T10:08:00+00:00",
+      "summary_raw": "Some of this beverage fridge’s smart features could be better, but let’s be real—you’re probably buying it for the aesthetic.",
+      "id": "d88910c39a00"
     },
     {
       "source": "BBC World",
-      "title": "Famed ship SS United States to be sunk off coast of Florida",
-      "link": "https://www.bbc.co.uk/news/articles/c3x298n87rn2o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-11T18:42:27+00:00",
-      "summary_raw": "Activists unsuccessfully fought for the historic liner to be preserved and turned into a museum, but it will now become the world's largest artificial ocean reef.",
-      "id": "8d63ecae8d49"
+      "title": "Indonesia's vice-president resigns amid signs ruling alliance is fraying",
+      "link": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-12T08:46:57+00:00",
+      "summary_raw": "The news comes at a turbulent time for President Prabowo, who faces a growing rift with his predecessor Joko Widodo.",
+      "id": "05693986392d"
     },
     {
       "source": "Science Daily",
@@ -244,35 +588,19 @@
     },
     {
       "source": "Wired",
-      "title": "Duolingo, Strava, and Ticketmaster Are All Caught Up in EU’s New Digital Fairness Rules",
-      "link": "https://www.wired.com/story/duolingo-strava-and-ticketmaster-are-all-caught-up-in-eus-new-digital-fairness-rules/",
-      "published_at": "2026-11-11T13:36:15+00:00",
-      "summary_raw": "Winning streaks can be turned off and influencers will be forced to reveal when they’re being paid under the new Digital Fairness Act aimed at tackling “dark patterns” on platforms and services.",
-      "id": "d0d3621c86ed"
-    },
-    {
-      "source": "NPR Politics",
-      "title": "Following big Democratic wins, these swing voters are looking for results",
-      "link": "https://www.npr.org/2026/11/11/nx-s1-6036790/swing-voters-swing-states-democrats-congress",
-      "published_at": "2026-11-11T14:19:42+00:00",
-      "summary_raw": "For the swing voters NPR is regularly checking in with as part of its Swing Shift series, the election results brought mixed emotions, as does the pending Democratic control of Congress.",
-      "id": "86067ea55183"
-    },
-    {
-      "source": "NPR National",
-      "title": "Kennedy relatives join the fight against Trump's arch, alleging harm to JFK's grave",
-      "link": "https://www.npr.org/2026/11/11/nx-s1-6037372/kennedys-trump-arch-lawsuit-jfk-grave-arlington-cemetery",
-      "published_at": "2026-11-11T16:59:32+00:00",
-      "summary_raw": "Nine members of the Kennedy family have joined the legal fight against Trump's D.C. arch, arguing it would disrupt views and cast shadows over their ancestors' graves at Arlington National Cemetery.",
-      "id": "fb114badd667"
+      "title": "The Polar Vortex Is About to Make Weather Weird From the UK to the US",
+      "link": "https://www.wired.com/story/the-polar-vortex-is-about-to-make-weather-weird-from-the-uk-to-the-us/",
+      "published_at": "2026-11-12T08:00:00+00:00",
+      "summary_raw": "These Arctic currents have never broken down so early in the season. Combined with an unprecedented El Niño, the outcomes aren’t easy to predict.",
+      "id": "42c27b551c6e"
     },
     {
       "source": "BBC World",
-      "title": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
-      "link": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-11T18:38:45+00:00",
-      "summary_raw": "More than 6,000 Italian schools received a threat. Authorities in all three countries say there appears to be no risk to the public.",
-      "id": "c3f5a67efa2b"
+      "title": "Oranges investigated after four girls die in suspected Uganda school poisoning",
+      "link": "https://www.bbc.co.uk/news/articles/ck9d71wyn7wwo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-12T07:45:52+00:00",
+      "summary_raw": "The girls started vomiting after eating oranges brought in by a fellow pupil - police are travelling to the village they came from.",
+      "id": "a97f07445879"
     },
     {
       "source": "Science Daily",
@@ -284,35 +612,19 @@
     },
     {
       "source": "Wired",
-      "title": "Best Indoor Garden Systems I’ve Been Testing for Years (2026)",
-      "link": "https://www.wired.com/gallery/best-indoor-gardening-systems/",
-      "published_at": "2026-11-11T12:30:00+00:00",
-      "summary_raw": "Grow a backyard’s worth of greens and vegetables in your house with a hydroponic garden. Here are a few that might be worth the investment.",
-      "id": "584babdae969"
-    },
-    {
-      "source": "NPR Politics",
-      "title": "House effectively ends Hegseth impeachment. And, 3 men accused of plotting U.K. attacks",
-      "link": "https://www.npr.org/2026/11/11/g-s1-152949/up-first-newsletter-pete-hegseth-jim-jordan-iran-backed-trio-us-bases",
-      "published_at": "2026-11-11T12:21:59+00:00",
-      "summary_raw": "Defense Secretary Pete Hegseth has been spared from the House's impeachment effort, at least for now. And, federal prosecutors arrested three men accused of being Iran-backed operatives.",
-      "id": "9d9f5b88df97"
-    },
-    {
-      "source": "NPR National",
-      "title": "Following big Democratic wins, these swing voters are looking for results",
-      "link": "https://www.npr.org/2026/11/11/nx-s1-6036790/swing-voters-swing-states-democrats-congress",
-      "published_at": "2026-11-11T14:19:42+00:00",
-      "summary_raw": "For the swing voters NPR is regularly checking in with as part of its Swing Shift series, the election results brought mixed emotions, as does the pending Democratic control of Congress.",
-      "id": "86067ea55183"
+      "title": "TurboTax Full Service Coupons This November 2026",
+      "link": "https://www.wired.com/story/turbotax-coupon/",
+      "published_at": "2026-11-12T06:00:00+00:00",
+      "summary_raw": "Tax season doesn’t have to be stressful. Score 10% off full service expert on federal tax filings and more exclusive TurboTax discount codes on WIRED.",
+      "id": "1ce948c303c1"
     },
     {
       "source": "BBC World",
-      "title": "Missing 11-month-old baby rescued after being buried alive in a crate in South Carolina",
-      "link": "https://www.bbc.co.uk/news/articles/c8e391xzg6z2o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-11T18:10:57+00:00",
-      "summary_raw": "Officials say the child was found close to his father's home on Tuesday, a day after he was taken, and is being cared for in hospital.",
-      "id": "7a644e92a59f"
+      "title": "Can Nigeria's president regain voters' trust after painful first term?",
+      "link": "https://www.bbc.co.uk/news/articles/ck5ynyw527wdo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-12T07:30:44+00:00",
+      "summary_raw": "For Nigerians to feel meaningful improvements, reforms will need to go beyond the promises outlined, analysts say.",
+      "id": "f271cc5a03b5"
     },
     {
       "source": "Science Daily",
@@ -324,323 +636,11 @@
     },
     {
       "source": "Wired",
-      "title": "Exclusive: Your Smartphone Camera Could Get a Big Upgrade With This Tech",
-      "link": "https://www.wired.com/story/your-smartphone-camera-could-get-a-big-upgrade-with-this-tech/",
-      "published_at": "2026-11-11T12:00:00+00:00",
-      "summary_raw": "Metalenz just acquired PxE to ditch the 50-year-old color filter that has held back smartphone night photography.",
-      "id": "d0e508477898"
-    },
-    {
-      "source": "NPR Politics",
-      "title": "Kennedys sue to block Trump's arch",
-      "link": "https://www.npr.org/2026/11/11/nx-s1-6036845/kennedys-sue-to-block-trumps-arch",
-      "published_at": "2026-11-11T10:02:58+00:00",
-      "summary_raw": "Descendants of President John F. Kennedy are asking a judge to block President Trump's monumental arch near Arlington National Cemetery.",
-      "id": "d75dc31f2487"
-    },
-    {
-      "source": "NPR National",
-      "title": "Oil giant ExxonMobil left Venezuela years ago. Now it's considering a return",
-      "link": "https://www.npr.org/2026/11/11/nx-s1-5979080/exxonmobil-oil-mou-venezuela",
-      "published_at": "2026-11-11T10:00:00+00:00",
-      "summary_raw": "ExxonMobil has signed a memorandum of understanding with the Venezuelan government and its state-owned oil company to explore opportunities in the country.",
-      "id": "ef245686d066"
-    },
-    {
-      "source": "BBC World",
-      "title": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
-      "link": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-11T18:04:58+00:00",
-      "summary_raw": "Talks in Abu Dhabi centred around Europe's security framework, with US envoys due to meet Putin and Zelensky on Thursday.",
-      "id": "378328e7f0db"
-    },
-    {
-      "source": "Science Daily",
-      "title": "Cancer-fighting chewing gum slashes HPV levels by up to 93%",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261108203832.htm",
-      "published_at": "2026-11-11T04:27:12+00:00",
-      "summary_raw": "A surprising new weapon against microbes linked to head and neck cancer could be as simple as chewing gum. Scientists developed a bioengineered gum that reduced HPV levels by up to 93% in oral samples from cancer patients and nearly eliminated two harmful bacterial species after a single dose of its extract. Even more promising, the treatment spared beneficial bacteria in the mouth.",
-      "id": "f453af46668b"
-    },
-    {
-      "source": "Wired",
-      "title": "Best OLED TVs of 2026: LG, Samsung, Sony, and More",
-      "link": "https://www.wired.com/story/best-oled-tv/",
-      "published_at": "2026-11-11T11:30:00+00:00",
-      "summary_raw": "Looking for rich picture quality and inky-black shadows? These OLED TVs are the ones you want for your next movie night.",
-      "id": "6b62da933aeb"
-    },
-    {
-      "source": "NPR Politics",
-      "title": "Ex-CIA officer on UK investigations into alleged Iran, Russia threats",
-      "link": "https://www.npr.org/2026/11/11/nx-s1-6036829/ex-cia-officer-on-uk-investigations-into-alleged-iran-russia-threats",
-      "published_at": "2026-11-11T10:02:57+00:00",
-      "summary_raw": "NPR's Michel Martin speaks with former CIA senior executive clandestine service officer Daniel Hoffman about investigations in Britain into alleged threats linked to Iran and Russia.",
-      "id": "2a22a8892cba"
-    },
-    {
-      "source": "NPR National",
-      "title": "U.S. officials look to Europe to learn how to make prison better",
-      "link": "https://www.npr.org/2026/11/11/nx-s1-6026417/us-prisons-european-model-rehabilitation",
-      "published_at": "2026-11-11T10:00:00+00:00",
-      "summary_raw": "American prison officials are looking to European nations like Germany and Norway for a roadmap on how to design a prison that emphasizes rehabilitation and a successful return to life on the outside.",
-      "id": "0536102efdb3"
-    },
-    {
-      "source": "BBC World",
-      "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
-      "link": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-11T16:59:34+00:00",
-      "summary_raw": "The US Department of Justice says the men were involved in a string of plots, including a major incident near the UK airbase that is used by US armed forces.",
-      "id": "09c69207d5b1"
-    },
-    {
-      "source": "Science Daily",
-      "title": "Even occasional marijuana use linked to 40% higher odds of stroke",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261110042539.htm",
-      "published_at": "2026-11-11T03:47:25+00:00",
-      "summary_raw": "New research involving more than 440,000 Americans links cannabis use to increased cardiovascular risk, with occasional users showing 40% higher odds of reporting a history of stroke. The findings suggest that even infrequent marijuana use may warrant concern, although researchers have not established that cannabis directly causes strokes or heart disease.",
-      "id": "a12ff6eb2b99"
-    },
-    {
-      "source": "Wired",
-      "title": "Michigan Residents Voted to Get Corporate Money Out of Politics. Now Utilities Are Suing",
-      "link": "https://www.wired.com/story/michigan-voters-want-utility-money-out-of-politics-lawsuit/",
-      "published_at": "2026-11-11T11:15:00+00:00",
-      "summary_raw": "Amid rising electricity costs, Michiganders decisively voted for a ballot proposition to curtail the ability of utilities to spend on elections—a move utilities say limits their freedom of speech.",
-      "id": "eaf7b22d9b0a"
-    },
-    {
-      "source": "BBC World",
-      "title": "US Treasury Secretary Scott Bessent relocated after alleged Iranian threats",
-      "link": "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-11T16:45:11+00:00",
-      "summary_raw": "Bessent is now one of several Trump administration officials to live on military bases due to safety concerns.",
-      "id": "12cd865a68bc"
-    },
-    {
-      "source": "Science Daily",
-      "title": "Scientists discover why some mosquitoes love you and others don't",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261106174541.htm",
-      "published_at": "2026-11-11T02:21:13+00:00",
-      "summary_raw": "A surprising new study reveals that mosquitoes have very different tastes in humans, with each species attracted to its own combination of skin odors, chemicals, and bacteria. The discovery challenges the idea of a universal mosquito magnet and could lead to more effective repellents against dangerous disease-spreading mosquitoes.",
-      "id": "8e2d9cd3d011"
-    },
-    {
-      "source": "Wired",
-      "title": "Best Air Purifiers (2026): Tested Picks for Every Room",
-      "link": "https://www.wired.com/gallery/best-air-purifiers/",
-      "published_at": "2026-11-11T11:02:00+00:00",
-      "summary_raw": "Protect your home against dust, pets, allergens, and more with the best air purifiers, tested firsthand.",
-      "id": "0b31b973ede4"
-    },
-    {
-      "source": "BBC World",
-      "title": "Indonesia's vice president resigns amid signs ruling alliance is fraying",
-      "link": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-11T16:38:07+00:00",
-      "summary_raw": "The news comes at a turbulent time for Prabowo, who faces a growing rift with his predecessor Joko Widodo.",
-      "id": "a8fdbac0adc2"
-    },
-    {
-      "source": "Science Daily",
-      "title": "Scientists discover a giant 66-pound rodent that lived 34 million years ago",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261110042532.htm",
-      "published_at": "2026-11-11T01:36:04+00:00",
-      "summary_raw": "Scientists have uncovered fossils of a giant rodent that lived in Thailand 34 million years ago, revealing that enormous rodents evolved much earlier than previously thought. Named Yakamys sirindhornae, the ancient animal may have weighed around 66 pounds, roughly twice as much as other known rodents of its time.",
-      "id": "9286d32c7235"
-    },
-    {
-      "source": "Wired",
-      "title": "A 13-Year-Old Asked AI About Suicide on Her School Laptop. It Didn’t Get Flagged for Weeks",
-      "link": "https://www.wired.com/story/teen-girl-asked-gemini-about-suicide-for-months-until-it-was-flagged/",
-      "published_at": "2026-11-11T11:00:00+00:00",
-      "summary_raw": "The young girl’s parents allege that she used Gemini via her school Chromebook to plan her suicide, but the school’s monitoring systems didn’t know until it was almost too late.",
-      "id": "48b1d8017101"
-    },
-    {
-      "source": "BBC World",
-      "title": "Kidnapper, 74, escapes from house arrest in Argentina by abseiling from balcony",
-      "link": "https://www.bbc.co.uk/news/articles/c933gn6710lyo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-11T14:56:11+00:00",
-      "summary_raw": "Leonardo Bertulazzi, a former member of the Marxist guerrilla group the Red Brigades, was about to be extradited to his home country of Italy.",
-      "id": "26a18f03e5ee"
-    },
-    {
-      "source": "Science Daily",
-      "title": "237-million-year-old fossils reveal a bizarre armored sea amphibian",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261109205409.htm",
-      "published_at": "2026-11-11T00:59:32+00:00",
-      "summary_raw": "A bizarre, heavily armored amphibian roamed the oceans 237 million years ago, despite the fact that modern amphibians cannot survive entirely in saltwater. Discovered in China, the giant salamander-sized creature may be the first known amphibian to have adapted to a fully marine existence.",
-      "id": "07e631b1d71d"
-    },
-    {
-      "source": "Wired",
-      "title": "A New Benchmark for De-Aging Comes From Slowly Turning Back Cells’ Clocks",
-      "link": "https://www.wired.com/story/a-new-benchmark-for-de-aging-comes-from-slowly-turning-back-cells-clocks/",
-      "published_at": "2026-11-11T10:30:00+00:00",
-      "summary_raw": "Researchers in Germany gradually reversed human cells’ ages by decades. By doing so, they could track the de-aging process in a way previous rejuvenation experiments could not.",
-      "id": "116a0a3589bb"
-    },
-    {
-      "source": "BBC World",
-      "title": "Egyptian journalist's retrial adjourned as UN warns of 'assaults on press freedom'",
-      "link": "https://www.bbc.co.uk/news/articles/cmkg5jr59835o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-11T13:25:47+00:00",
-      "summary_raw": "Mada Masr editor-in-chief Lina Attalah is being tried on the charge of \"publishing false news\" and potentially faces imprisonment.",
-      "id": "e1ef58e614d1"
-    },
-    {
-      "source": "Science Daily",
-      "title": "Astronomers discover hidden alien planet in James Webb images",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261108233028.htm",
-      "published_at": "2026-11-10T23:56:04+00:00",
-      "summary_raw": "A breakthrough in telescope imaging could reveal countless alien worlds that have been hiding in plain sight. Scientists developed a new technique that uses a digital twin of the James Webb Space Telescope to remove the overwhelming glare of stars, making faint exoplanets two to 15 times easier to detect than with conventional methods. The technology has already uncovered a previously hidden planet in existing telescope data and could reveal many more.",
-      "id": "f42814c81f7a"
-    },
-    {
-      "source": "Wired",
-      "title": "Early Black Friday Deals Under $100 (2026)",
-      "link": "https://www.wired.com/story/best-early-black-friday-deals-under-100-11-11-2026/",
-      "published_at": "2026-11-11T10:12:00+00:00",
-      "summary_raw": "Here are the best discounts we’ve found so far on WIRED-tested gadgets under $100.",
-      "id": "b9289e7e3cc3"
-    },
-    {
-      "source": "BBC World",
-      "title": "Four grizzly bears killed in Canada after fatal attack on mother and daughter",
-      "link": "https://www.bbc.co.uk/news/articles/cwg5r8zrm11mo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-11T13:24:29+00:00",
-      "summary_raw": "The sow and her three cubs were responsible for killing Jennifer Balcarras, 48, and her daughter Selah Reed, 20, earlier this month.",
-      "id": "64db2e6ae920"
-    },
-    {
-      "source": "Science Daily",
-      "title": "Eating less protein could slow aging, review of 350 studies finds",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261108203714.htm",
-      "published_at": "2026-11-10T12:48:16+00:00",
-      "summary_raw": "A major review of more than 350 studies suggests that eating less protein could slow aging, improve metabolic health, and potentially extend lifespan, challenging the widespread belief that more protein is always better. Researchers warn that many sedentary adults may be consuming too much protein, while emphasizing that individual needs depend on age and physical activity.",
-      "id": "c421b6f8d13b"
-    },
-    {
-      "source": "Wired",
-      "title": "The Best iPad to Buy (and What to Avoid) in 2026: Air, Pro, Mini",
-      "link": "https://www.wired.com/gallery/the-best-ipad/",
-      "published_at": "2026-11-11T10:00:00+00:00",
-      "summary_raw": "Apple sells four types of iPads. Here’s an updated breakdown of the brand’s tablets to help you find the best one for your needs.",
-      "id": "4fcc9bbd106d"
-    },
-    {
-      "source": "BBC World",
-      "title": "Kenya discharges last Ebola patient in major milestone towards virus-free status",
-      "link": "https://www.bbc.co.uk/news/articles/cwe9kzv0g0v7o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-11T12:53:11+00:00",
-      "summary_raw": "The country begins a 42-day countdown to being declared Ebola-free, provided no new cases are recorded.",
-      "id": "15279d78f0d0"
-    },
-    {
-      "source": "Science Daily",
-      "title": "A mysterious 93-billion-mile cosmic structure may be the wreckage of colliding worlds",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261105224555.htm",
-      "published_at": "2026-11-10T12:30:09+00:00",
-      "summary_raw": "NASA's Hubble Space Telescope has revealed surprising new details about a mysterious, 93-billion-mile-long cloud of dark, fluffy dust that may have formed when massive planetary bodies collided. The discovery challenges previous assumptions about the structure and offers new clues about the violent birth of planetary systems.",
-      "id": "6c990f5a5d76"
-    },
-    {
-      "source": "Wired",
-      "title": "LinkedIn Is Testing a Feature That Lets You See Your Profile Stalkers",
-      "link": "https://www.wired.com/story/linkedin-is-testing-a-feature-that-lets-you-see-your-profile-stalkers/",
-      "published_at": "2026-11-11T10:00:00+00:00",
-      "summary_raw": "Some users have noticed a new “frequent viewer” label that reveals who repeatedly views their profiles.",
-      "id": "d87e58240b58"
-    },
-    {
-      "source": "BBC World",
-      "title": "Haitian PM praises El Salvador after joint strike on alleged home of gang leader",
-      "link": "https://www.bbc.co.uk/news/articles/cmvg2xdwnwezo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-11T12:14:12+00:00",
-      "summary_raw": "The 400 Mawozo gang was targeted by El Salvador's military, which has deployed thousands of troops to combat Haiti's gang violence crisis.",
-      "id": "c1ee00253367"
-    },
-    {
-      "source": "Science Daily",
-      "title": "Paleontologists discover “one-in-a-million” fossil with 450-million-year-old soft tissue",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261105085201.htm",
-      "published_at": "2026-11-10T12:16:08+00:00",
-      "summary_raw": "Scientists have discovered a remarkably preserved 450-million-year-old fossil containing soft tissues from an ancient starfish relative, revealing unexpected details about marine life more than 200 million years before dinosaurs existed. Found in a museum collection, the extraordinarily rare specimen offers new clues about how Earth's earliest reef animals fed, survived, and evolved.",
-      "id": "29974185b4d6"
-    },
-    {
-      "source": "Wired",
-      "title": "Best Buy Discount Codes: 60% Off",
-      "link": "https://www.wired.com/story/best-buy-discount-code/",
-      "published_at": "2026-11-11T06:00:00+00:00",
-      "summary_raw": "Find the latest Best Buy promo codes and offers, including 10% back in rewards for new cardmembers and free 2-day shipping with My Best Buy Plus, here at WIRED.",
-      "id": "ee84374f2326"
-    },
-    {
-      "source": "BBC World",
-      "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth",
-      "link": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-11T11:47:22+00:00",
-      "summary_raw": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year.",
-      "id": "5601054c1cec"
-    },
-    {
-      "source": "Science Daily",
-      "title": "Cancer uses antioxidants to disarm the immune system, scientists discover",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261104084021.htm",
-      "published_at": "2026-11-10T11:33:52+00:00",
-      "summary_raw": "Scientists have discovered that tumors release natural antioxidants to shut down the immune cells responsible for destroying cancer, exploiting a surprising weakness in the body's defenses. Blocking this mechanism in mice restored immune activity and improved immunotherapy responses, potentially opening a new path toward more effective cancer treatments.",
-      "id": "a72364880e20"
-    },
-    {
-      "source": "Wired",
-      "title": "Home Depot Promo Codes: 30% Off in November 2026",
-      "link": "https://www.wired.com/story/home-depot-promo-code/",
-      "published_at": "2026-11-11T06:00:00+00:00",
-      "summary_raw": "Save up to 50% today with the latest Home Depot promo codes for appliances, power tools, and more this November.",
-      "id": "fd83ac84a012"
-    },
-    {
-      "source": "BBC World",
-      "title": "Transport workers in Chile block highways in protest over surging fuel prices",
-      "link": "https://www.bbc.co.uk/news/articles/c6e3d895zne7o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-11T11:34:50+00:00",
-      "summary_raw": "Hundreds of bus and lorry drivers are blocking traffic along major highway routes across the country.",
-      "id": "0b5348790216"
-    },
-    {
-      "source": "Science Daily",
-      "title": "Comets may have destroyed life's ingredients instead of delivering them to Earth",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261105224553.htm",
-      "published_at": "2026-11-10T09:01:55+00:00",
-      "summary_raw": "A century-old theory about the origins of life on Earth may be wrong. New research from the University of Cambridge suggests that comets traveled too fast and struck at unfavorable angles for the fragile molecules needed for life to survive, making successful delivery extraordinarily unlikely. Surprisingly, Mars may have had a better chance of receiving these cosmic ingredients, although even there the odds were slim. The findings point toward asteroids or chemical processes on Earth as more plausible sources of life's building blocks.",
-      "id": "7c2610939603"
-    },
-    {
-      "source": "Wired",
-      "title": "Ulta Promo Codes: Up to 20% Off in November 2026",
-      "link": "https://www.wired.com/story/ulta-coupon/",
-      "published_at": "2026-11-11T06:00:00+00:00",
-      "summary_raw": "Shop the latest beauty trends and save big using an Ulta promo code for beauty tech, makeup, and more.",
-      "id": "fa803d2ba6d3"
-    },
-    {
-      "source": "BBC World",
-      "title": "Watch: Vinícius Jr's surprise message to boy who received prosthetic legs after Sudan drone strike",
-      "link": "https://www.bbc.co.uk/news/videos/cm894wg251pzo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-11T09:28:36+00:00",
-      "summary_raw": "Real Madrid player Vinícius Jr sent a surprise message to 13-year-old fan Zaher who lost both his legs after being hit by a drone in Khartoum, in 2024.",
-      "id": "9f5907d59d56"
-    },
-    {
-      "source": "Science Daily",
-      "title": "Global fossil fuel emissions set to fall in 2026, but total CO2 keeps rising",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261109205358.htm",
-      "published_at": "2026-11-10T06:05:25+00:00",
-      "summary_raw": "Global fossil fuel emissions are projected to fall in 2026 as renewable energy and electric vehicles gain ground, but rising emissions from deforestation threaten to push total CO2 emissions to a new record. Scientists warn that the world's remaining carbon budget for limiting warming to 1.5°C could be exhausted in less than four years, even as a lasting decline in emissions appears increasingly within reach.",
-      "id": "6dcd2c5dbde1"
+      "title": "Lovehoney Coupon Offers: 70% Off",
+      "link": "https://www.wired.com/story/lovehoney-discount-code/",
+      "published_at": "2026-11-12T06:00:00+00:00",
+      "summary_raw": "Save on Lovehoney, including bestselling toys, lingerie, and popular gift sets for date nights, self-care, and couples’ play.",
+      "id": "a7ca874e0d12"
     }
   ]
 }

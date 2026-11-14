@@ -1,22 +1,22 @@
 {
   "mode": "raw",
-  "generated_at": "2026-11-14T16:56:10.957370+00:00",
+  "generated_at": "2026-11-14T23:38:17.298576+00:00",
   "items": [
     {
       "source": "WRAL Local",
-      "title": "Carolina Hurricanes welcome back captain Jordan Staal",
-      "link": "https://www.wral.com/news/local/carolina-hurricanes-welcomes-back-staal-november-2026/",
-      "published_at": "2026-11-14T15:29:34+00:00",
-      "summary_raw": "The team activated Staal from injury reserve on Saturday after a calf injury took him out of play in October, according to Canes general manager Eric Tulsky.",
-      "id": "7593e2819e34"
+      "title": "Car crashes into Raleigh business near Rock Quarry Road",
+      "link": "https://www.wral.com/news/local/car-crashes-into-business-near-rock-quarry-road-november-2026/",
+      "published_at": "2026-11-14T22:09:51+00:00",
+      "summary_raw": "Raleigh police officers responded to 2822 New Birch Drive, where a vehicle crashed into a building around 1:30 pm.",
+      "id": "01e0a17ef705"
     },
     {
       "source": "WRAL Weather",
-      "title": "NWS confirms 10th tornado struck near RDU on October 11, most in a single day for central NC",
-      "link": "https://www.wral.com/weather/new-tornado-struck-near-rdu-brier-creek-november-2026/",
-      "published_at": "2026-11-13T11:02:51+00:00",
-      "summary_raw": "The storms from the remnants of Hurricane Isaias led to the most confirmed tornadoes in a single day ever recorded in central North Carolina.",
-      "id": "f2e9532ca95d"
+      "title": "57 years ago, lightning nearly ended Apollo 12's trip to the Moon",
+      "link": "https://www.wral.com/weather/apollo-12-lightning-nov-2026/",
+      "published_at": "2026-11-14T17:40:52+00:00",
+      "summary_raw": "A young NASA engineer recognized an unusual pattern in the spacecraft's telemetry and made a recommendation that saved the mission. The incident also changed how NASA evaluates weather before a rocket launch.",
+      "id": "e8fc07e1dbdc"
     },
     {
       "source": "Wired",
@@ -28,27 +28,27 @@
     },
     {
       "source": "NPR Politics",
-      "title": "Alaska voters aren't ditching ranked choice voting, top-four primaries",
-      "link": "https://www.npr.org/2026/11/14/nx-s1-6034952/alaska-results-ranked-choice-voting-nonpartisan-primary",
-      "published_at": "2026-11-14T13:08:05+00:00",
-      "summary_raw": "This is the second time Alaskans voted down an effort to repeal the state's unique election system, which voters first approved in 2020. A repeal effort in 2024 also failed narrowly.",
-      "id": "6722fc2091ca"
+      "title": "'We can't let them down' -- After midterm wins, Democrats turn to charting path ahead",
+      "link": "https://www.npr.org/2026/11/14/nx-s1-6037777/democrats-midterms-whats-next-conference",
+      "published_at": "2026-11-14T19:13:54+00:00",
+      "summary_raw": "Democrats from across the country descended on Denver for a two-day conference to chart the course of their party after sweeping victories in the midterm elections.",
+      "id": "c7adac91d88e"
     },
     {
       "source": "NPR National",
-      "title": "FAA blames Friday's ground stop on 'equipment issue' during telecoms network upgrade",
-      "link": "https://www.npr.org/2026/11/14/nx-s1-6040952/faa-ground-stop-airplane-travel",
-      "published_at": "2026-11-14T16:53:04+00:00",
-      "summary_raw": "Transportation Secretary Sean Duffy said initial investigations pointed to an issue with contractor L3Harris updating old tech at a remote location.",
-      "id": "cc0a455b519d"
+      "title": "Why the government's Hurricane Helene recovery effort in North Carolina was so slow",
+      "link": "https://www.npr.org/2026/11/14/nx-s1-6037565/why-the-governments-hurricane-helene-recovery-effort-in-north-carolina-was-so-slow",
+      "published_at": "2026-11-14T22:35:16+00:00",
+      "summary_raw": "NPR's Rob Schmitz speaks with Blue Ridge Public Radio's Gerard Albert III about his new podcast A Man-Made Disaster.",
+      "id": "588aaec8242b"
     },
     {
       "source": "BBC World",
-      "title": "Italy fines Meta €805m over accessing users' photos",
-      "link": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-14T16:29:48+00:00",
-      "summary_raw": "The social media giant is accused of not informing about 20 million users it had access to their photos.",
-      "id": "f3f303428f62"
+      "title": "How telecoms upgrade work sparked US flight chaos",
+      "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-14T23:11:27+00:00",
+      "summary_raw": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
+      "id": "5d17c5ac852d"
     },
     {
       "source": "Science Daily",
@@ -60,11 +60,19 @@
     },
     {
       "source": "WRAL Local",
-      "title": "NCFC Youth Showcase Series brings more than 1,600 soccer teams to Wake County",
-      "link": "https://www.wral.com/news/local/ncfc-youth-showcase-brings-1600-teams-wake-county-november-2026/",
-      "published_at": "2026-11-14T14:22:00+00:00",
-      "summary_raw": "The event brings soccer players from across the country, and this year's series coincides with the NCAA Division Men's and Women's College Cups and the ACC Championships, creating a very busy month for youth and college soccer throughout Wake County.",
-      "id": "268cc8365244"
+      "title": "Two injured in crash off New Bern Avenue in Raleigh",
+      "link": "https://www.wral.com/news/local/two-injured-crash-off-new-bern-avenue-november-2026/",
+      "published_at": "2026-11-14T21:30:00+00:00",
+      "summary_raw": "Two people were injured in a crash early Saturday morning off New Bern Avenue on King William Road.",
+      "id": "b2aac4cc327e"
+    },
+    {
+      "source": "WRAL Weather",
+      "title": "NWS confirms 10th tornado struck near RDU on October 11, most in a single day for central NC",
+      "link": "https://www.wral.com/weather/new-tornado-struck-near-rdu-brier-creek-november-2026/",
+      "published_at": "2026-11-13T11:02:51+00:00",
+      "summary_raw": "The storms from the remnants of Hurricane Isaias led to the most confirmed tornadoes in a single day ever recorded in central North Carolina.",
+      "id": "f2e9532ca95d"
     },
     {
       "source": "Wired",
@@ -76,27 +84,27 @@
     },
     {
       "source": "NPR Politics",
-      "title": "Week in Politics: Battle for Senate leader; young and independent midterm turnout",
-      "link": "https://www.npr.org/2026/11/14/nx-s1-6040156/week-in-politics-battle-for-senate-leader-young-and-independent-midterm-turnout",
-      "published_at": "2026-11-14T12:40:26+00:00",
-      "summary_raw": "The battle over the next majority leader in the U.S. Senate reflects the turnout by younger and independent voters in the midterm elections.",
-      "id": "7e75777f2a36"
+      "title": "Alaska voters aren't ditching ranked choice voting, top-four primaries",
+      "link": "https://www.npr.org/2026/11/14/nx-s1-6034952/alaska-results-ranked-choice-voting-nonpartisan-primary",
+      "published_at": "2026-11-14T13:08:05+00:00",
+      "summary_raw": "This is the second time Alaskans voted down an effort to repeal the state's unique election system, which voters first approved in 2020. A repeal effort in 2024 also failed narrowly.",
+      "id": "6722fc2091ca"
     },
     {
       "source": "NPR National",
-      "title": "Stuck in airports nationwide, stranded travelers share how they're coping",
-      "link": "https://www.npr.org/2026/11/14/nx-s1-6040931/stuck-in-airports-nationwide-stranded-travelers-share-how-theyre-coping",
-      "published_at": "2026-11-14T12:40:33+00:00",
-      "summary_raw": "People all over the country found themselves stuck in airports last night. We hear from some stranded travelers about how they're coping.",
-      "id": "2cdb3f04b961"
+      "title": "Bomb found near ethanol plant in central Illinois forces evacuations",
+      "link": "https://www.npr.org/2026/11/14/g-s1-153781/bomb-ethanol-plant-peoria-illinois-evacuations",
+      "published_at": "2026-11-14T20:12:34+00:00",
+      "summary_raw": "The bomb was discovered Friday afternoon at the BioUrja Renewables plant in Peoria. Officials say the bomb has been \"rendered safe,\" but called it a \"credible threat.\" The FBI is investigating.",
+      "id": "4140abd55056"
     },
     {
       "source": "BBC World",
-      "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
-      "link": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-14T15:53:55+00:00",
-      "summary_raw": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
-      "id": "35554783d728"
+      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+      "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-14T22:37:25+00:00",
+      "summary_raw": "The US has not confirmed the Ukrainian president's comments - a US official told the BBC \"many ideas continue to be discussed\".",
+      "id": "5ef4a5f5cef7"
     },
     {
       "source": "Science Daily",
@@ -108,11 +116,11 @@
     },
     {
       "source": "WRAL Local",
-      "title": "Water main break in Durham neighborhood, near Southpoint Mall",
-      "link": "https://www.wral.com/news/local/water-main-break-durham-neighborhood-near-southpoint-november-2026/",
-      "published_at": "2026-11-14T13:52:09+00:00",
-      "summary_raw": "There is a reported break in the 500 block of Chancellor's Ridge Drive, near NC-751, close to Southpoint Mall.",
-      "id": "2a9603c18b05"
+      "title": "Dozens of delayed and cancelled flights remain at RDU after nationwide ground stop ends",
+      "link": "https://www.wral.com/news/local/routine-maintenance-nationwide-ground-stop-november-2026/",
+      "published_at": "2026-11-14T17:18:28+00:00",
+      "summary_raw": "The ground stop was caused by overloaded air traffic control routers while old copper wires were being upgraded to fiber.",
+      "id": "f8b176717524"
     },
     {
       "source": "Wired",
@@ -124,27 +132,27 @@
     },
     {
       "source": "NPR Politics",
-      "title": "Legal scholar Stephen Vladeck on Texas' new Democratic AG and federal litigation",
-      "link": "https://www.npr.org/2026/11/14/nx-s1-6039286/legal-scholar-stephen-vladeck-on-texas-new-democratic-ag-and-federal-litigation",
-      "published_at": "2026-11-14T12:40:25+00:00",
-      "summary_raw": "NPR's Scott Simon speaks with legal scholar and Georgetown professor Stephen Vladeck about Texas Attorney General-elect Nathan Johnson, a Democrat, and what that could mean for federal litigation.",
-      "id": "bb040972dab2"
+      "title": "Week in Politics: Battle for Senate leader; young and independent midterm turnout",
+      "link": "https://www.npr.org/2026/11/14/nx-s1-6040156/week-in-politics-battle-for-senate-leader-young-and-independent-midterm-turnout",
+      "published_at": "2026-11-14T12:40:26+00:00",
+      "summary_raw": "The battle over the next majority leader in the U.S. Senate reflects the turnout by younger and independent voters in the midterm elections.",
+      "id": "7e75777f2a36"
     },
     {
       "source": "NPR National",
-      "title": "Over 30 injured, no fatalities after tanker strikes cruise ship in New Orleans",
-      "link": "https://www.npr.org/2026/11/14/nx-s1-6040430/over-30-injured-no-fatalities-after-tanker-strikes-cruise-ship-in-new-orleans",
-      "published_at": "2026-11-14T12:40:29+00:00",
-      "summary_raw": "There were more than 30 injuries but no fatalities after a tanker hit a cruise ship in the Port of New Orleans Friday.",
-      "id": "c2094ee051d9"
+      "title": "FAA blames Friday's ground stop on 'equipment issue' during telecoms network upgrade",
+      "link": "https://www.npr.org/2026/11/14/nx-s1-6040952/faa-ground-stop-airplane-travel",
+      "published_at": "2026-11-14T16:53:04+00:00",
+      "summary_raw": "Transportation Secretary Sean Duffy said initial investigations pointed to an issue with contractor L3Harris updating old tech at a remote location.",
+      "id": "cc0a455b519d"
     },
     {
       "source": "BBC World",
-      "title": "Nigeria cautions against travel via Ethiopia's main airport due to altitude",
-      "link": "https://www.bbc.co.uk/news/articles/cmz6qjpdy2wqo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-14T15:42:54+00:00",
-      "summary_raw": "The foreign ministry in Abuja says 6 Nigerians with underlying health problems have died this year while transiting through Addis Ababa.",
-      "id": "9fc4854f2a07"
+      "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
+      "link": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-14T22:09:40+00:00",
+      "summary_raw": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\".",
+      "id": "3dcd1cca3d4e"
     },
     {
       "source": "Science Daily",
@@ -156,11 +164,59 @@
     },
     {
       "source": "WRAL Local",
-      "title": "State Highway Patrol asks public to help identify driver of hit-and-run in Durham County",
-      "link": "https://www.wral.com/news/local/state-highway-patrol-help-identify-driver-hit-and-run-durham-co-november-2026/",
-      "published_at": "2026-11-14T13:37:39+00:00",
-      "summary_raw": "The North Carolina State Highway Patrol is asking the public to help identify the driver of a serious pedestrian hit-and-run crash from last week on Glenn Road in Durham County.",
-      "id": "1ffffdda6a9a"
+      "title": "Carolina Hurricanes dominate Seattle 5-1, welcome back captain Jordan Staal",
+      "link": "https://www.wral.com/news/local/carolina-hurricanes-welcomes-back-staal-november-2026/",
+      "published_at": "2026-11-14T15:29:34+00:00",
+      "summary_raw": "The team activated Staal from injury reserve on Saturday after a calf injury took him out of play in October, according to Canes general manager Eric Tulsky.",
+      "id": "7593e2819e34"
+    },
+    {
+      "source": "Wired",
+      "title": "10 Best Early Black Friday Headphone Deals (2026): Up to 50% Off",
+      "link": "https://www.wired.com/story/best-early-black-friday-headphone-deals-11-14-26/",
+      "published_at": "2026-11-14T11:30:00+00:00",
+      "summary_raw": "Get up to 50 percent off some of my favorite headphones and earbuds from Apple, Sony, Nothing, and more.",
+      "id": "9be79ef9881a"
+    },
+    {
+      "source": "NPR Politics",
+      "title": "Legal scholar Stephen Vladeck on Texas' new Democratic AG and federal litigation",
+      "link": "https://www.npr.org/2026/11/14/nx-s1-6039286/legal-scholar-stephen-vladeck-on-texas-new-democratic-ag-and-federal-litigation",
+      "published_at": "2026-11-14T12:40:25+00:00",
+      "summary_raw": "NPR's Scott Simon speaks with legal scholar and Georgetown professor Stephen Vladeck about Texas Attorney General-elect Nathan Johnson, a Democrat, and what that could mean for federal litigation.",
+      "id": "bb040972dab2"
+    },
+    {
+      "source": "NPR National",
+      "title": "Stuck in airports nationwide, stranded travelers share how they're coping",
+      "link": "https://www.npr.org/2026/11/14/nx-s1-6040931/stuck-in-airports-nationwide-stranded-travelers-share-how-theyre-coping",
+      "published_at": "2026-11-14T12:40:33+00:00",
+      "summary_raw": "People all over the country found themselves stuck in airports last night. We hear from some stranded travelers about how they're coping.",
+      "id": "2cdb3f04b961"
+    },
+    {
+      "source": "BBC World",
+      "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
+      "link": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-14T20:23:06+00:00",
+      "summary_raw": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
+      "id": "5240bb9c5aec"
+    },
+    {
+      "source": "Science Daily",
+      "title": "Exercise after ACL surgery may protect knees from early osteoarthritis",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261112025538.htm",
+      "published_at": "2026-11-14T12:14:57+00:00",
+      "summary_raw": "A new study suggests that the right kind of exercise could help protect young adults from early knee osteoarthritis following ACL surgery. Researchers found that a four-month supervised rehabilitation program improved pain, muscle strength, and quality of life without damaging knee cartilage. The findings challenge fears that exercise worsens injured knees and could transform how patients recover from ACL reconstruction.",
+      "id": "8015affe541a"
+    },
+    {
+      "source": "WRAL Local",
+      "title": "NCFC Youth Showcase Series brings more than 1,600 soccer teams to Wake County",
+      "link": "https://www.wral.com/news/local/ncfc-youth-showcase-brings-1600-teams-wake-county-november-2026/",
+      "published_at": "2026-11-14T14:22:00+00:00",
+      "summary_raw": "The event brings soccer players from across the country, and this year's series coincides with the NCAA Division Men's and Women's College Cups and the ACC Championships, creating a very busy month for youth and college soccer throughout Wake County.",
+      "id": "268cc8365244"
     },
     {
       "source": "Wired",
@@ -180,67 +236,19 @@
     },
     {
       "source": "NPR National",
-      "title": "As Democrats win big, thirst traps of male candidates take social media by storm",
-      "link": "https://www.npr.org/2026/11/14/nx-s1-6040507/democrats-male-candidates-masculinity-trump",
-      "published_at": "2026-11-14T10:00:00+00:00",
-      "summary_raw": "It's everywhere on social media: Democrats celebrating the attractive men voters elected in the midterms. But it's bigger than a meme and says a lot about politics of masculinity in the age of Trump.",
-      "id": "25385cf1508c"
+      "title": "Over 30 injured, no fatalities after tanker strikes cruise ship in New Orleans",
+      "link": "https://www.npr.org/2026/11/14/nx-s1-6040430/over-30-injured-no-fatalities-after-tanker-strikes-cruise-ship-in-new-orleans",
+      "published_at": "2026-11-14T12:40:29+00:00",
+      "summary_raw": "There were more than 30 injuries but no fatalities after a tanker hit a cruise ship in the Port of New Orleans Friday.",
+      "id": "c2094ee051d9"
     },
     {
       "source": "BBC World",
-      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-      "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-14T15:15:57+00:00",
-      "summary_raw": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.",
-      "id": "5ef4a5f5cef7"
-    },
-    {
-      "source": "Science Daily",
-      "title": "Exercise after ACL surgery may protect knees from early osteoarthritis",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261112025538.htm",
-      "published_at": "2026-11-14T12:14:57+00:00",
-      "summary_raw": "A new study suggests that the right kind of exercise could help protect young adults from early knee osteoarthritis following ACL surgery. Researchers found that a four-month supervised rehabilitation program improved pain, muscle strength, and quality of life without damaging knee cartilage. The findings challenge fears that exercise worsens injured knees and could transform how patients recover from ACL reconstruction.",
-      "id": "8015affe541a"
-    },
-    {
-      "source": "WRAL Local",
-      "title": "Little Munchkin: Raleigh couple delivers baby in Dunkin' Donuts parking lot before ambulance arrives",
-      "link": "https://www.wral.com/news/local/raleigh-couple-delivers-baby-dunkin-donuts-parking-lot-november-2026/",
-      "published_at": "2026-11-14T09:00:00+00:00",
-      "summary_raw": "A Raleigh couple delivered their baby in the parking lot of a Dunkin' Donuts minutes before first responders arrived.",
-      "id": "33eae041692d"
-    },
-    {
-      "source": "Wired",
-      "title": "10 Best Early Black Friday Headphone Deals (2026): Up to 50% Off",
-      "link": "https://www.wired.com/story/best-early-black-friday-headphone-deals-11-14-26/",
-      "published_at": "2026-11-14T11:30:00+00:00",
-      "summary_raw": "Get up to 50 percent off some of my favorite headphones and earbuds from Apple, Sony, Nothing, and more.",
-      "id": "9be79ef9881a"
-    },
-    {
-      "source": "NPR Politics",
-      "title": "As Democrats win big, thirst traps of male candidates take social media by storm",
-      "link": "https://www.npr.org/2026/11/14/nx-s1-6040507/democrats-male-candidates-masculinity-trump",
-      "published_at": "2026-11-14T10:00:00+00:00",
-      "summary_raw": "It's everywhere on social media: Democrats celebrating the attractive men voters elected in the midterms. But it's bigger than a meme and says a lot about politics of masculinity in the age of Trump.",
-      "id": "25385cf1508c"
-    },
-    {
-      "source": "NPR National",
-      "title": "Hegseth's failed impeachment was a warning to Democrats. Where will they go from here?",
-      "link": "https://www.npr.org/2026/11/14/nx-s1-6040299/hegseth-impeachment-democrats-house-test",
-      "published_at": "2026-11-14T10:00:00+00:00",
-      "summary_raw": "Democrats have been given a huge opportunity with majorities in both the House and Senate — but the balance of priorities, timing, messaging and discipline are all going to be major tests.",
-      "id": "6eaaf315fbf4"
-    },
-    {
-      "source": "BBC World",
-      "title": "What we know about the ground stop and what to do if you're affected",
-      "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-14T14:20:57+00:00",
-      "summary_raw": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
-      "id": "8ee39d4143b2"
+      "title": "Watch: Cruise ship overturns after collision with tanker in New Orleans",
+      "link": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-14T19:14:33+00:00",
+      "summary_raw": "Around 130 people were rescued from a cruise ship after it was struck by a tanker while docked in New Orleans, Louisiana on Friday.",
+      "id": "4fe27383fcc8"
     },
     {
       "source": "Science Daily",
@@ -252,11 +260,11 @@
     },
     {
       "source": "WRAL Local",
-      "title": "Chatham County deputies: Four juveniles hospitalized after shooting",
-      "link": "https://www.wral.com/news/local/four-juveniles-hospitalized-gunshot-wounds-chatham-county-november-2026/",
-      "published_at": "2026-11-14T04:07:01+00:00",
-      "summary_raw": "A shooting on Thursday afternoon in North Chatham County led to four juveniles being treated for gunshot wounds at UNC Hospitals.",
-      "id": "516418ec121e"
+      "title": "Water main break in Durham neighborhood, near Southpoint Mall",
+      "link": "https://www.wral.com/news/local/water-main-break-durham-neighborhood-near-southpoint-november-2026/",
+      "published_at": "2026-11-14T13:52:09+00:00",
+      "summary_raw": "There is a reported break in the 500 block of Chancellor's Ridge Drive, near NC-751, close to Southpoint Mall.",
+      "id": "2a9603c18b05"
     },
     {
       "source": "Wired",
@@ -276,19 +284,19 @@
     },
     {
       "source": "NPR National",
-      "title": "Democrat Jonathan Kreiss-Tomkins wins race for Alaska governor, replaces a Republican",
-      "link": "https://www.npr.org/2026/11/14/g-s1-151719/midterms-alaska-governor-kreiss-tomkins",
-      "published_at": "2026-11-14T05:12:43+00:00",
-      "summary_raw": "Kreiss-Tomkins, a former state legislator, ran a campaign emphasizing bipartisanship in the the state that usually votes Republican. At 37, he'll be the youngest governor in the state's history.",
-      "id": "aad7b0950b82"
+      "title": "Hegseth's failed impeachment was a warning to Democrats. Where will they go from here?",
+      "link": "https://www.npr.org/2026/11/14/nx-s1-6040299/hegseth-impeachment-democrats-house-test",
+      "published_at": "2026-11-14T10:00:00+00:00",
+      "summary_raw": "Democrats have been given a huge opportunity with majorities in both the House and Senate — but the balance of priorities, timing, messaging and discipline are all going to be major tests.",
+      "id": "6eaaf315fbf4"
     },
     {
       "source": "BBC World",
-      "title": "Second catch attempt for SpaceX Starship rocket",
-      "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-14T14:18:41+00:00",
-      "summary_raw": "The attempt follows an unsuccessful effort to catch of the rocket’s booster which instead came down in the ocean.",
-      "id": "376c0d3cbb96"
+      "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
+      "link": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-14T19:12:25+00:00",
+      "summary_raw": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
+      "id": "a3cce63963d5"
     },
     {
       "source": "Science Daily",
@@ -300,11 +308,11 @@
     },
     {
       "source": "WRAL Local",
-      "title": "NC State football coach Philip Rivers signs 5-year deal worth more than $18M",
-      "link": "https://www.wral.com/news/local/ncstate-football-philip-rivers-contract-terms-five-years-wolfpack-november-2026/",
-      "published_at": "2026-11-13T22:39:14+00:00",
-      "summary_raw": "Rivers, a former NC State quarterback legend, will make $3.25 million his first season with the Wolfpack.",
-      "id": "bd91523b501b"
+      "title": "State Highway Patrol asks public to help identify driver of hit-and-run in Durham County",
+      "link": "https://www.wral.com/news/local/state-highway-patrol-help-identify-driver-hit-and-run-durham-co-november-2026/",
+      "published_at": "2026-11-14T13:37:39+00:00",
+      "summary_raw": "The North Carolina State Highway Patrol is asking the public to help identify the driver of a serious pedestrian hit-and-run crash from last week on Glenn Road in Durham County.",
+      "id": "1ffffdda6a9a"
     },
     {
       "source": "Wired",
@@ -316,27 +324,27 @@
     },
     {
       "source": "NPR Politics",
-      "title": "Democrat Jonathan Kreiss-Tomkins wins race for Alaska governor, replaces a Republican",
-      "link": "https://www.npr.org/2026/11/14/g-s1-151719/midterms-alaska-governor-kreiss-tomkins",
-      "published_at": "2026-11-14T05:12:43+00:00",
-      "summary_raw": "Kreiss-Tomkins, a former state legislator, ran a campaign emphasizing bipartisanship in the the state that usually votes Republican. At 37, he'll be the youngest governor in the state's history.",
-      "id": "aad7b0950b82"
+      "title": "As Democrats win big, thirst traps of male candidates take social media by storm",
+      "link": "https://www.npr.org/2026/11/14/nx-s1-6040507/democrats-male-candidates-masculinity-trump",
+      "published_at": "2026-11-14T10:00:00+00:00",
+      "summary_raw": "It's everywhere on social media: Democrats celebrating the attractive men voters elected in the midterms. But it's bigger than a meme and says a lot about politics of masculinity in the age of Trump.",
+      "id": "25385cf1508c"
     },
     {
       "source": "NPR National",
-      "title": "Stuck on the tarmac without information: Travelers share their ground stop experiences",
-      "link": "https://www.npr.org/2026/11/13/nx-s1-6040397/stuck-on-the-tarmac-without-information-travelers-share-their-ground-stop-experiences",
-      "published_at": "2026-11-13T22:36:45+00:00",
-      "summary_raw": "Passengers stuck on airplanes on tarmacs across the country during the FAA ground stop on Friday share their stories.",
-      "id": "0e47d73c65e4"
+      "title": "As Democrats win big, thirst traps of male candidates take social media by storm",
+      "link": "https://www.npr.org/2026/11/14/nx-s1-6040507/democrats-male-candidates-masculinity-trump",
+      "published_at": "2026-11-14T10:00:00+00:00",
+      "summary_raw": "It's everywhere on social media: Democrats celebrating the attractive men voters elected in the midterms. But it's bigger than a meme and says a lot about politics of masculinity in the age of Trump.",
+      "id": "25385cf1508c"
     },
     {
       "source": "BBC World",
-      "title": "Watch: Cruise ship overturns after collision with tanker in New Orleans",
-      "link": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-14T11:30:10+00:00",
-      "summary_raw": "Around 130 people were rescued from a cruise ship after it was struck by a tanker while docked in New Orleans, Louisiana on Friday.",
-      "id": "4fe27383fcc8"
+      "title": "Italy fines Meta €805m over accessing users' photos",
+      "link": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-14T18:28:06+00:00",
+      "summary_raw": "The social media giant is accused of not informing 20 million users it had access to their photos.",
+      "id": "f3f303428f62"
     },
     {
       "source": "Science Daily",
@@ -348,11 +356,11 @@
     },
     {
       "source": "WRAL Local",
-      "title": "Fact check: Jon Stewart claims Chuck Schumer opposed 'half' of Democratic Senate winners",
-      "link": "https://www.wral.com/news/state/fact-check-jon-stewart-chuck-schumer-oppose-half-democrats-senate-november-13/",
-      "published_at": "2026-11-13T20:57:29+00:00",
-      "summary_raw": "Soon after Democrats retook the U.S. Senate, comedian Jon Stewart stirred the pot on his weekly podcast, criticizing Sen. Chuck Schumer, D-N.Y., who could become his party’s majority leader in the coming weeks.",
-      "id": "4d49f64535f2"
+      "title": "Little Munchkin: Raleigh couple delivers baby in Dunkin' Donuts parking lot before ambulance arrives",
+      "link": "https://www.wral.com/news/local/raleigh-couple-delivers-baby-dunkin-donuts-parking-lot-november-2026/",
+      "published_at": "2026-11-14T09:00:00+00:00",
+      "summary_raw": "A Raleigh couple delivered their baby in the parking lot of a Dunkin' Donuts minutes before first responders arrived.",
+      "id": "33eae041692d"
     },
     {
       "source": "Wired",
@@ -364,27 +372,27 @@
     },
     {
       "source": "NPR Politics",
-      "title": "DHS head Markwayne Mullin says there is not a threat to the U.S. amid FAA ground stop",
-      "link": "https://www.npr.org/2026/11/13/nx-s1-6040418/dhs-head-markwayne-mullin-says-there-is-not-a-threat-to-the-u-s-amid-faa-ground-stop",
-      "published_at": "2026-11-13T22:36:46+00:00",
-      "summary_raw": "Department of Homeland Security Secretary Markwayne Mullin spoke to at the White House on Friday afternoon after the FAA issues a total ground stop. NPR was there for the briefing.",
-      "id": "9fcd846bc3c8"
+      "title": "Democrat Jonathan Kreiss-Tomkins wins race for Alaska governor, replaces a Republican",
+      "link": "https://www.npr.org/2026/11/14/g-s1-151719/midterms-alaska-governor-kreiss-tomkins",
+      "published_at": "2026-11-14T05:12:43+00:00",
+      "summary_raw": "Kreiss-Tomkins, a former state legislator, ran a campaign emphasizing bipartisanship in the the state that usually votes Republican. At 37, he'll be the youngest governor in the state's history.",
+      "id": "aad7b0950b82"
     },
     {
       "source": "NPR National",
-      "title": "What we know about the FAA nationwide ground stop",
-      "link": "https://www.npr.org/2026/11/13/nx-s1-6040388/what-we-know-about-the-faa-nationwide-ground-stop",
-      "published_at": "2026-11-13T22:27:38+00:00",
-      "summary_raw": "The Federal Aviation Administration took an extraordinary step Friday afternoon by issuing a nationwide ground stop. No planes are taking off at any airport and millions of passengers are stranded.",
-      "id": "36d863f7157a"
+      "title": "Democrat Jonathan Kreiss-Tomkins wins race for Alaska governor, replaces a Republican",
+      "link": "https://www.npr.org/2026/11/14/g-s1-151719/midterms-alaska-governor-kreiss-tomkins",
+      "published_at": "2026-11-14T05:12:43+00:00",
+      "summary_raw": "Kreiss-Tomkins, a former state legislator, ran a campaign emphasizing bipartisanship in the the state that usually votes Republican. At 37, he'll be the youngest governor in the state's history.",
+      "id": "aad7b0950b82"
     },
     {
       "source": "BBC World",
-      "title": "Hungarian authorities uncover $20m during probe of Orbán-era minister",
-      "link": "https://www.bbc.co.uk/news/articles/ckjwj03w4w0qo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-14T10:42:20+00:00",
-      "summary_raw": "Prime Minister Péter Magyar promised a sweeping anti-corruption drive after ousting Orbán in April.",
-      "id": "fe54f537eb87"
+      "title": "Philippines wins first Eurovision Song Contest Asia",
+      "link": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-14T18:17:58+00:00",
+      "summary_raw": "Front-runner Carmelle emerges victorious with her women's empowerment anthem Sobra-Sobra.",
+      "id": "08008a5b7d35"
     },
     {
       "source": "Science Daily",
@@ -396,11 +404,11 @@
     },
     {
       "source": "WRAL Local",
-      "title": "Greene County deputy killed in chase, crash near Farmville",
-      "link": "https://www.wral.com/news/local/greene-county-deputy-killed-chase-crash-november-2026/",
-      "published_at": "2026-11-13T16:54:04+00:00",
-      "summary_raw": "A Greene County deputy was killed in a crash Thursday night.",
-      "id": "9ae06d8c06bc"
+      "title": "Chatham County deputies: Four juveniles hospitalized after shooting",
+      "link": "https://www.wral.com/news/local/four-juveniles-hospitalized-gunshot-wounds-chatham-county-november-2026/",
+      "published_at": "2026-11-14T04:07:01+00:00",
+      "summary_raw": "A shooting on Thursday afternoon in North Chatham County led to four juveniles being treated for gunshot wounds at UNC Hospitals.",
+      "id": "516418ec121e"
     },
     {
       "source": "Wired",
@@ -412,27 +420,27 @@
     },
     {
       "source": "NPR Politics",
-      "title": "GOP state officials push to revive Trump's mail voting restrictions for 2028 election",
-      "link": "https://www.npr.org/2026/11/13/nx-s1-6040409/trump-mail-in-voting",
-      "published_at": "2026-11-13T22:18:55+00:00",
-      "summary_raw": "Some Republican state officials are reviving a bid for mail-in voting restrictions for the 2028 election by appealing a court order blocking the Postal Service from carrying out a revised ballot rule.",
-      "id": "190337eb6423"
+      "title": "DHS head Markwayne Mullin says there is not a threat to the U.S. amid FAA ground stop",
+      "link": "https://www.npr.org/2026/11/13/nx-s1-6040418/dhs-head-markwayne-mullin-says-there-is-not-a-threat-to-the-u-s-amid-faa-ground-stop",
+      "published_at": "2026-11-13T22:36:46+00:00",
+      "summary_raw": "Department of Homeland Security Secretary Markwayne Mullin spoke to at the White House on Friday afternoon after the FAA issues a total ground stop. NPR was there for the briefing.",
+      "id": "9fcd846bc3c8"
     },
     {
       "source": "NPR National",
-      "title": "Old tech blamed for the ground stop that caused flight chaos: 'It got overloaded'",
-      "link": "https://www.npr.org/2026/11/13/nx-s1-6040403/faa-nationwide-groundstop-airports",
-      "published_at": "2026-11-13T21:55:13+00:00",
-      "summary_raw": "The nationwide ground stop that paralyzed the U.S. aviation system on Friday has ended, according to Federal Aviation Administration.",
-      "id": "a3f9d80f1310"
+      "title": "Stuck on the tarmac without information: Travelers share their ground stop experiences",
+      "link": "https://www.npr.org/2026/11/13/nx-s1-6040397/stuck-on-the-tarmac-without-information-travelers-share-their-ground-stop-experiences",
+      "published_at": "2026-11-13T22:36:45+00:00",
+      "summary_raw": "Passengers stuck on airplanes on tarmacs across the country during the FAA ground stop on Friday share their stories.",
+      "id": "0e47d73c65e4"
     },
     {
       "source": "BBC World",
-      "title": "Microsoft says services fully restored after day-long global outage",
-      "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-14T06:42:27+00:00",
-      "summary_raw": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
-      "id": "9e124143cd43"
+      "title": "Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress'",
+      "link": "https://www.bbc.co.uk/news/articles/cmwy05gg75lvo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-14T18:00:10+00:00",
+      "summary_raw": "Sotheby's says it will work with the heirs of a family who had previously owned the artwork to try and reach a solution.",
+      "id": "04d0ea60a18f"
     },
     {
       "source": "Science Daily",
@@ -444,11 +452,11 @@
     },
     {
       "source": "WRAL Local",
-      "title": "Two arrested in Apex drug trafficking, stolen gun investigation",
-      "link": "https://www.wral.com/news/local/two-arrested-in-apex-drug-trafficking-stolen-gun-investigation-november-26/",
-      "published_at": "2026-11-13T16:51:10+00:00",
-      "summary_raw": "This week, police in Apex arrested two men, after finding six guns, 2.5 ounces of fentanyl, an ounce of cocaine, and more than $20,000 cash. The amount of fentanyl seized equates to 70,000 lethal doses, according to investigators.",
-      "id": "8f766e5d6cd1"
+      "title": "NC State football coach Philip Rivers signs 5-year deal worth more than $18M",
+      "link": "https://www.wral.com/news/local/ncstate-football-philip-rivers-contract-terms-five-years-wolfpack-november-2026/",
+      "published_at": "2026-11-13T22:39:14+00:00",
+      "summary_raw": "Rivers, a former NC State quarterback legend, will make $3.25 million his first season with the Wolfpack.",
+      "id": "bd91523b501b"
     },
     {
       "source": "Wired",
@@ -460,27 +468,27 @@
     },
     {
       "source": "NPR Politics",
-      "title": "With his challenge to Schumer, Van Hollen forces a debate over Democrats' mandate",
-      "link": "https://www.npr.org/2026/11/13/nx-s1-6040044/dem-senate-leader-fight",
-      "published_at": "2026-11-13T21:06:09+00:00",
-      "summary_raw": "Democrats say they have a mandate to deliver change, but as the party gets ready to retake the majority in both the House and Senate, there are divides over who should lead it.",
-      "id": "b1c0300955a8"
+      "title": "GOP state officials push to revive Trump's mail voting restrictions for 2028 election",
+      "link": "https://www.npr.org/2026/11/13/nx-s1-6040409/trump-mail-in-voting",
+      "published_at": "2026-11-13T22:18:55+00:00",
+      "summary_raw": "Some Republican state officials are reviving a bid for mail-in voting restrictions for the 2028 election by appealing a court order blocking the Postal Service from carrying out a revised ballot rule.",
+      "id": "190337eb6423"
     },
     {
       "source": "NPR National",
-      "title": "The government says it will close a beloved D.C. park Sunday. Will a judge step in?",
-      "link": "https://www.npr.org/2026/11/13/nx-s1-6039273/east-po-hearing-nov-13",
-      "published_at": "2026-11-13T21:06:05+00:00",
-      "summary_raw": "Federal judge Ana Reyes grilled the government on Friday about its plans for East Potomac Park, and indicated she could order it to remain open despite President Trump's renovation wishes.",
-      "id": "024193fce330"
+      "title": "What we know about the FAA nationwide ground stop",
+      "link": "https://www.npr.org/2026/11/13/nx-s1-6040388/what-we-know-about-the-faa-nationwide-ground-stop",
+      "published_at": "2026-11-13T22:27:38+00:00",
+      "summary_raw": "The Federal Aviation Administration took an extraordinary step Friday afternoon by issuing a nationwide ground stop. No planes are taking off at any airport and millions of passengers are stranded.",
+      "id": "36d863f7157a"
     },
     {
       "source": "BBC World",
-      "title": "'We'll get home one day' - US travellers impacted by nationwide ground stop",
-      "link": "https://www.bbc.co.uk/news/videos/c893ryz7lw33o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-14T01:47:36+00:00",
-      "summary_raw": "Passengers throughout the country were impacted over what the Federal Aviation Administration (FAA) describes as “safety and communication issues”.",
-      "id": "9213375a62c2"
+      "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+      "link": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-14T15:53:55+00:00",
+      "summary_raw": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
+      "id": "35554783d728"
     },
     {
       "source": "Science Daily",
@@ -492,35 +500,11 @@
     },
     {
       "source": "WRAL Local",
-      "title": "SBI investigating after male inmate dies at Durham County jail",
-      "link": "https://www.wral.com/news/local/durham-county-jail-inmate-dies-sbi-investigating-november-2026/",
-      "published_at": "2026-11-13T16:40:47+00:00",
-      "summary_raw": "The Durham County Sheriff's Office said jail staff found an inmate in distress, and he later died in the jail.",
-      "id": "653aac47d0f2"
-    },
-    {
-      "source": "Wired",
-      "title": "Thanksgiving Meal Deals Roundup (2026): Walmart, Amazon, Target",
-      "link": "https://www.wired.com/story/thanksgiving-meal-deals-2026/",
-      "published_at": "2026-11-14T10:00:00+00:00",
-      "summary_raw": "Here’s how to get your bird and all the trimmings on a budget.",
-      "id": "7dc9a8fe9879"
-    },
-    {
-      "source": "BBC World",
-      "title": "Jojo the gorilla has spent his life alone. Can he finally find a companion?",
-      "link": "https://www.bbc.co.uk/news/articles/cwm2mn272nqlo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-14T00:03:56+00:00",
-      "summary_raw": "Jojo was poached as an infant and grew up in captivity. His keepers want to find him a friend - but it's not straightforward.",
-      "id": "4be7ef8b5459"
-    },
-    {
-      "source": "Science Daily",
-      "title": "AI supercharges laser physics with a stunning 250x speed boost",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261111005913.htm",
-      "published_at": "2026-11-13T23:41:08+00:00",
-      "summary_raw": "Researchers at Stanford, UCLA, and SLAC have developed an AI system that simulates complex laser interactions thousands of times faster than conventional methods. The breakthrough allows scientists to predict how laser pulses behave inside special crystals in just milliseconds, without sacrificing much accuracy. This could dramatically improve the precision and efficiency of powerful X-ray lasers used in cutting-edge scientific research.",
-      "id": "916f45b01bb0"
+      "title": "Fact check: Jon Stewart claims Chuck Schumer opposed 'half' of Democratic Senate winners",
+      "link": "https://www.wral.com/news/state/fact-check-jon-stewart-chuck-schumer-oppose-half-democrats-senate-november-13/",
+      "published_at": "2026-11-13T20:57:29+00:00",
+      "summary_raw": "Soon after Democrats retook the U.S. Senate, comedian Jon Stewart stirred the pot on his weekly podcast, criticizing Sen. Chuck Schumer, D-N.Y., who could become his party’s majority leader in the coming weeks.",
+      "id": "4d49f64535f2"
     },
     {
       "source": "Wired",
@@ -532,11 +516,35 @@
     },
     {
       "source": "BBC World",
-      "title": "Arrested generals and a threatened VP: President's son fuels Ugandan succession fever",
-      "link": "https://www.bbc.co.uk/news/articles/cmlydy0xw45wo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-14T00:03:52+00:00",
-      "summary_raw": "The 52-year-old general’s provocative posts and military threats have fuelled rumours of a dynastic succession.",
-      "id": "2f3abb340067"
+      "title": "Nigeria cautions against travel via Ethiopia's main airport due to altitude",
+      "link": "https://www.bbc.co.uk/news/articles/cmz6qjpdy2wqo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-14T15:42:54+00:00",
+      "summary_raw": "The foreign ministry in Abuja says 6 Nigerians with underlying health problems have died this year while transiting through Addis Ababa.",
+      "id": "478967131fcc"
+    },
+    {
+      "source": "Science Daily",
+      "title": "AI supercharges laser physics with a stunning 250x speed boost",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261111005913.htm",
+      "published_at": "2026-11-13T23:41:08+00:00",
+      "summary_raw": "Researchers at Stanford, UCLA, and SLAC have developed an AI system that simulates complex laser interactions thousands of times faster than conventional methods. The breakthrough allows scientists to predict how laser pulses behave inside special crystals in just milliseconds, without sacrificing much accuracy. This could dramatically improve the precision and efficiency of powerful X-ray lasers used in cutting-edge scientific research.",
+      "id": "916f45b01bb0"
+    },
+    {
+      "source": "Wired",
+      "title": "Thanksgiving Meal Deals Roundup (2026): Walmart, Amazon, Target",
+      "link": "https://www.wired.com/story/thanksgiving-meal-deals-2026/",
+      "published_at": "2026-11-14T10:00:00+00:00",
+      "summary_raw": "Here’s how to get your bird and all the trimmings on a budget.",
+      "id": "7dc9a8fe9879"
+    },
+    {
+      "source": "BBC World",
+      "title": "Hungarian authorities uncover $20m during probe of Orbán-era minister",
+      "link": "https://www.bbc.co.uk/news/articles/ckjwj03w4w0qo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-14T10:42:20+00:00",
+      "summary_raw": "Prime Minister Péter Magyar promised a sweeping anti-corruption drive after ousting Orbán in April.",
+      "id": "fe54f537eb87"
     },
     {
       "source": "Science Daily",
@@ -556,11 +564,11 @@
     },
     {
       "source": "BBC World",
-      "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
-      "link": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-13T23:40:45+00:00",
-      "summary_raw": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
-      "id": "5240bb9c5aec"
+      "title": "Microsoft says services fully restored after day-long global outage",
+      "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-14T06:42:27+00:00",
+      "summary_raw": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
+      "id": "9e124143cd43"
     },
     {
       "source": "Science Daily",
@@ -580,11 +588,11 @@
     },
     {
       "source": "BBC World",
-      "title": "After a summer win, India's Gen Z protesters face a winter of uncertainty",
-      "link": "https://www.bbc.co.uk/news/articles/cq99e0z4vg1eo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-13T23:11:51+00:00",
-      "summary_raw": "A new wave of youth dissent swept India this summer, fuelled by frustration and irreverent online satire.",
-      "id": "48341ab3529f"
+      "title": "'We'll get home one day' - US travellers impacted by nationwide ground stop",
+      "link": "https://www.bbc.co.uk/news/videos/c893ryz7lw33o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-14T01:47:36+00:00",
+      "summary_raw": "Passengers throughout the country were impacted over what the Federal Aviation Administration (FAA) describes as “safety and communication issues”.",
+      "id": "9213375a62c2"
     },
     {
       "source": "Science Daily",
@@ -604,11 +612,11 @@
     },
     {
       "source": "BBC World",
-      "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
-      "link": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-13T23:00:31+00:00",
-      "summary_raw": "The scandal has cast a spotlight on Singapore's success as a chip hub - and a location for alleged illicit trade.",
-      "id": "ef0a3edde757"
+      "title": "Jojo the gorilla has spent his life alone. Can he finally find a companion?",
+      "link": "https://www.bbc.co.uk/news/articles/cwm2mn272nqlo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-14T00:03:56+00:00",
+      "summary_raw": "Jojo was poached as an infant and grew up in captivity. His keepers want to find him a friend - but it's not straightforward.",
+      "id": "4be7ef8b5459"
     },
     {
       "source": "Science Daily",
@@ -628,19 +636,11 @@
     },
     {
       "source": "BBC World",
-      "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
-      "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-13T19:53:57+00:00",
-      "summary_raw": "Scott Bessent suggests Howard Lutnick’s commerce department failed to ban exports of Nvidia's chips to a firm thought to have links with China.",
-      "id": "ad3b557b3bf8"
-    },
-    {
-      "source": "Science Daily",
-      "title": "Dark energy may have flipped from negative to positive 9.5 billion years ago",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261111005901.htm",
-      "published_at": "2026-11-13T11:08:34+00:00",
-      "summary_raw": "A mysterious force driving the expansion of the Universe may have undergone a dramatic reversal billions of years ago. Scientists exploring an overlooked branch of an alternative gravity theory discovered that dark energy could have switched from negative to positive roughly 9.5 billion years ago, potentially changing how we understand cosmic history.",
-      "id": "bcd1b15318a8"
+      "title": "Arrested generals and a threatened VP: President's son fuels Ugandan succession fever",
+      "link": "https://www.bbc.co.uk/news/articles/cmlydy0xw45wo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-14T00:03:52+00:00",
+      "summary_raw": "The 52-year-old general’s provocative posts and military threats have fuelled rumours of a dynastic succession.",
+      "id": "36a5212fe336"
     }
   ]
 }

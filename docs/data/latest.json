@@ -1,14 +1,22 @@
 {
   "mode": "raw",
-  "generated_at": "2026-11-21T17:55:38.007419+00:00",
+  "generated_at": "2026-11-22T00:05:50.180384+00:00",
   "items": [
     {
       "source": "WRAL Local",
-      "title": "Santa and Mrs. Claus close out Raleigh Christmas Parade, WRAL and 120+ groups join the holiday magic",
-      "link": "https://www.wral.com/news/local/raleigh-christmas-parade-recap-photos-best-moments-november-2026/",
-      "published_at": "2026-11-21T15:32:10+00:00",
-      "summary_raw": "The 82nd Raleigh Christmas Parade concluded just after noon with a chorus of sirens and Santa and Mrs. Claus waving to the crowd. Happy holidays!",
-      "id": "5eb95b4b7318"
+      "title": "Hawk hit by truck, stuck in grill survives almost completely uninjured in Pennsylvania",
+      "link": "https://www.wral.com/news/local/hawk-survives-hit-by-truck-pennsylvania-november-2026/",
+      "published_at": "2026-11-21T20:58:51+00:00",
+      "summary_raw": "A hawk not only survived getting hit by a Ford F-150 truck, lodging him into the grill, but he was almost entirely uninjured.",
+      "id": "964d2b7d09d3"
+    },
+    {
+      "source": "WRAL Weather",
+      "title": "Is the \"Age of Aquarius\" dawning on Nov. 24?",
+      "link": "https://www.wral.com/weather/aquarius-nov-24/",
+      "published_at": "2026-11-21T21:57:56+00:00",
+      "summary_raw": "Information about Is the \"Age of Aquarius\" dawning on Nov. 24?",
+      "id": "537f22bc16dc"
     },
     {
       "source": "Wired",
@@ -17,6 +25,54 @@
       "published_at": "2026-11-21T13:00:00+00:00",
       "summary_raw": "AI is forcing companies to patch their systems faster as attackers race to exploit newly discovered vulnerabilities. Welcome to internet outage hell.",
       "id": "2a24eccd42fb"
+    },
+    {
+      "source": "NPR Politics",
+      "title": "Trump orders federal contractors to check with White House before responding to Congress",
+      "link": "https://www.npr.org/2026/11/21/g-s1-154966/trump-contractors-congress",
+      "published_at": "2026-11-21T22:40:36+00:00",
+      "summary_raw": "President Trump is directing federal contractors to consult the White House about inquiries from Congress and to withhold any communications that his administration considers privileged.",
+      "id": "460719117a50"
+    },
+    {
+      "source": "NPR National",
+      "title": "Storms expected on both coasts threatens Thanksgiving travel",
+      "link": "https://www.npr.org/2026/11/21/nx-s1-6047508/weather-thanksgiving-storm-elnino",
+      "published_at": "2026-11-21T18:22:46+00:00",
+      "summary_raw": "The mayor of San Francisco is asking people in the city not to travel unless \"absolutely essential.\" Meanwhile, a storm moving up the Eastern seaboard could also cause travel delays ahead of Thanksgiving.",
+      "id": "6c3af45b1395"
+    },
+    {
+      "source": "BBC World",
+      "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+      "link": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-21T23:31:17+00:00",
+      "summary_raw": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
+      "id": "8ac072404a98"
+    },
+    {
+      "source": "Science Daily",
+      "title": "AI may not work like the human brain after all, scientists discover",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261120075701.htm",
+      "published_at": "2026-11-21T15:24:58+00:00",
+      "summary_raw": "AI may not think like the human brain after all, according to a striking new discovery that challenges how scientists understand artificial intelligence. Researchers found that even AI models that closely predict brain activity may rely on internal processes the brain doesn't use, raising important questions about their reliability in neuroscience research.",
+      "id": "9a7d62160314"
+    },
+    {
+      "source": "WRAL Local",
+      "title": "One dead in fiery SUV crash in Wilson",
+      "link": "https://www.wral.com/news/local/one-dead-crash-wilson-november-2026/",
+      "published_at": "2026-11-21T20:42:09+00:00",
+      "summary_raw": "Wilson police said a driver died after a crash Saturday morning.",
+      "id": "b0845090b0b6"
+    },
+    {
+      "source": "Wired",
+      "title": "Best Power Banks (2026): My Picks After Testing Over 100",
+      "link": "https://www.wired.com/gallery/best-portable-chargers-power-banks/",
+      "published_at": "2026-11-21T12:01:00+00:00",
+      "summary_raw": "Keep your phone, laptop, handheld gaming console, and other electronics running with these travel-friendly power banks.",
+      "id": "f883c4875878"
     },
     {
       "source": "NPR Politics",
@@ -36,35 +92,35 @@
     },
     {
       "source": "BBC World",
-      "title": "FBI reportedly investigating apparent hack of its criminal database",
-      "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-21T16:35:15+00:00",
-      "summary_raw": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
-      "id": "8f8a4dee9819"
+      "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+      "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-21T22:19:43+00:00",
+      "summary_raw": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
+      "id": "656a797e465e"
     },
     {
       "source": "Science Daily",
-      "title": "AI may not work like the human brain after all, scientists discover",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261120075701.htm",
-      "published_at": "2026-11-21T15:24:58+00:00",
-      "summary_raw": "AI may not think like the human brain after all, according to a striking new discovery that challenges how scientists understand artificial intelligence. Researchers found that even AI models that closely predict brain activity may rely on internal processes the brain doesn't use, raising important questions about their reliability in neuroscience research.",
-      "id": "9a7d62160314"
+      "title": "Time may be far stranger than we realize. Scientists have a way to test it",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261120075558.htm",
+      "published_at": "2026-11-21T15:09:46+00:00",
+      "summary_raw": "Time may be far stranger than we realize, and scientists have proposed a way to detect clocks experiencing multiple flows of time simultaneously. Using atomic clocks with dramatically enhanced sensitivity, researchers hope to reveal a never-before-observed quantum effect that could transform our understanding of time and gravity.",
+      "id": "5c0487ac07a1"
     },
     {
       "source": "WRAL Local",
-      "title": "Water main break in Sanford impacts some customers, closes Poplar Springs Road",
-      "link": "https://www.wral.com/news/local/water-main-break-sanford-poplar-springs-church-road-closed-november-2026/",
-      "published_at": "2026-11-21T12:44:22+00:00",
-      "summary_raw": "Part of Lee County's water was shut off Saturday morning due to a water main break in Sanford.",
-      "id": "2b74b06b3700"
+      "title": "Motorcycle driver injured after crash in Johnston County",
+      "link": "https://www.wral.com/news/local/motorcycle-driver-injured-crash-selma-johnston-county-nov-2026/",
+      "published_at": "2026-11-21T18:40:32+00:00",
+      "summary_raw": "The North Carolina State Highway Patrol said the driver was riding east on Buffalo Road near U.S. 70 in Selma when he crossed the center line and hit a median guardrail.",
+      "id": "8fb2abe436fa"
     },
     {
       "source": "Wired",
-      "title": "Best Power Banks (2026): My Picks After Testing Over 100",
-      "link": "https://www.wired.com/gallery/best-portable-chargers-power-banks/",
-      "published_at": "2026-11-21T12:01:00+00:00",
-      "summary_raw": "Keep your phone, laptop, handheld gaming console, and other electronics running with these travel-friendly power banks.",
-      "id": "f883c4875878"
+      "title": "A Space Probe Returns to Asteroids Where NASA Tested Planetary Defense Systems",
+      "link": "https://www.wired.com/story/a-space-probe-returns-to-astroids-where-nasa-tested-planetary-defense-systems/",
+      "published_at": "2026-11-21T12:00:00+00:00",
+      "summary_raw": "Several years ago, NASA tested systems for deterring dangerous space rocks. Now, a probe from the European Space Agency is returning to the scene to investigate.",
+      "id": "a888349adbef"
     },
     {
       "source": "NPR Politics",
@@ -84,35 +140,35 @@
     },
     {
       "source": "BBC World",
-      "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-      "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-21T14:54:24+00:00",
-      "summary_raw": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
-      "id": "656a797e465e"
+      "title": "Lock of former US President George Washington's hair sells for $4,000",
+      "link": "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-21T22:01:19+00:00",
+      "summary_raw": "The hair was given as a sign of friendship shortly before Washington's death in 1799, according to a descendent of its former owner.",
+      "id": "6e4540b00137"
     },
     {
       "source": "Science Daily",
-      "title": "Time may be far stranger than we realize. Scientists have a way to test it",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261120075558.htm",
-      "published_at": "2026-11-21T15:09:46+00:00",
-      "summary_raw": "Time may be far stranger than we realize, and scientists have proposed a way to detect clocks experiencing multiple flows of time simultaneously. Using atomic clocks with dramatically enhanced sensitivity, researchers hope to reveal a never-before-observed quantum effect that could transform our understanding of time and gravity.",
-      "id": "5c0487ac07a1"
+      "title": "A giant star swallowed another star. James Webb reveals the aftermath",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261120075556.htm",
+      "published_at": "2026-11-21T14:53:40+00:00",
+      "summary_raw": "Astronomers have witnessed a spectacular cosmic collision in the Andromeda galaxy, where a small star spiraled into a giant star 18,000 times brighter than the Sun, triggering a violent eruption. NASA’s James Webb Space Telescope captured the aftermath just 47 days later, revealing new details about how two stars can merge into one.",
+      "id": "88875db0d172"
     },
     {
       "source": "WRAL Local",
-      "title": "Two schools unite to honor late Triangle basketball coach",
-      "link": "https://www.wral.com/news/local/two-schools-unite-honor-late-triangle-basketball-coach-november-2026/",
-      "published_at": "2026-11-21T02:36:16+00:00",
-      "summary_raw": "Sheremy Dillard, a longtime girls' basketball coach who was killed in a stabbing, was remembered by two schools where she previously coached.",
-      "id": "e5afe378bcb1"
+      "title": "Santa and Mrs. Claus close out Raleigh Christmas Parade, WRAL and 120+ groups join the holiday magic",
+      "link": "https://www.wral.com/news/local/raleigh-christmas-parade-recap-photos-best-moments-november-2026/",
+      "published_at": "2026-11-21T15:32:10+00:00",
+      "summary_raw": "The 82nd Raleigh Christmas Parade concluded just after noon with a chorus of sirens and Santa and Mrs. Claus waving to the crowd. Happy holidays!",
+      "id": "5eb95b4b7318"
     },
     {
       "source": "Wired",
-      "title": "A Space Probe Returns to Asteroids Where NASA Tested Planetary Defense Systems",
-      "link": "https://www.wired.com/story/a-space-probe-returns-to-astroids-where-nasa-tested-planetary-defense-systems/",
-      "published_at": "2026-11-21T12:00:00+00:00",
-      "summary_raw": "Several years ago, NASA tested systems for deterring dangerous space rocks. Now, a probe from the European Space Agency is returning to the scene to investigate.",
-      "id": "a888349adbef"
+      "title": "Sony Bravia 9 II Review (2026): Adjustable and Bright",
+      "link": "https://www.wired.com/review/sony-bravia-9-ii/",
+      "published_at": "2026-11-21T11:30:00+00:00",
+      "summary_raw": "The Bravia 9 II comes at a premium cost but offers great, highly customizable features.",
+      "id": "ceb7af02341f"
     },
     {
       "source": "NPR Politics",
@@ -132,35 +188,35 @@
     },
     {
       "source": "BBC World",
-      "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
-      "link": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-21T13:17:38+00:00",
-      "summary_raw": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
-      "id": "9fd2f0cf6830"
+      "title": "Russia-bound ship attacked in Gulf of Finland",
+      "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-21T19:20:22+00:00",
+      "summary_raw": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
+      "id": "8da11cc23990"
     },
     {
       "source": "Science Daily",
-      "title": "A giant star swallowed another star. James Webb reveals the aftermath",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261120075556.htm",
-      "published_at": "2026-11-21T14:53:40+00:00",
-      "summary_raw": "Astronomers have witnessed a spectacular cosmic collision in the Andromeda galaxy, where a small star spiraled into a giant star 18,000 times brighter than the Sun, triggering a violent eruption. NASA’s James Webb Space Telescope captured the aftermath just 47 days later, revealing new details about how two stars can merge into one.",
-      "id": "88875db0d172"
+      "title": "Who was buried in Westminster Abbey's Roman coffin? A 150-year mystery may be solved",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261119194553.htm",
+      "published_at": "2026-11-21T14:25:39+00:00",
+      "summary_raw": "A mysterious skeleton discovered in a Roman sarcophagus at Westminster Abbey may finally be identified after more than 150 years. New dating evidence suggests the remains belonged to a high-ranking medieval abbot who was buried inside a centuries-old recycled Roman coffin.",
+      "id": "7abc5bc9e674"
     },
     {
       "source": "WRAL Local",
-      "title": "Orange County school bus crashes into ditch, 3 people injured",
-      "link": "https://www.wral.com/news/local/orange-county-school-bus-crashes-into-ditch-november-2026/",
-      "published_at": "2026-11-21T01:21:13+00:00",
-      "summary_raw": "An Orange County Schools activity bus carrying twelve students ran off the road into a ditch Friday afternoon.",
-      "id": "1feb1f9ee9ce"
+      "title": "Water main break in Sanford impacts some customers, closes Poplar Springs Road",
+      "link": "https://www.wral.com/news/local/water-main-break-sanford-poplar-springs-church-road-closed-november-2026/",
+      "published_at": "2026-11-21T12:44:22+00:00",
+      "summary_raw": "Part of Lee County's water was shut off Saturday morning due to a water main break in Sanford.",
+      "id": "2b74b06b3700"
     },
     {
       "source": "Wired",
-      "title": "Sony Bravia 9 II Review (2026): Adjustable and Bright",
-      "link": "https://www.wired.com/review/sony-bravia-9-ii/",
+      "title": "Our Top Tested Picks From Tineco’s Black Friday Sale (2026)",
+      "link": "https://www.wired.com/story/tineco-black-friday-sale-2026/",
       "published_at": "2026-11-21T11:30:00+00:00",
-      "summary_raw": "The Bravia 9 II comes at a premium cost but offers great, highly customizable features.",
-      "id": "ceb7af02341f"
+      "summary_raw": "Get WIRED-tested vacuum cleaners, carpet cleaners, and steam mops for up to 60 percent off.",
+      "id": "f3bd7d61f2ea"
     },
     {
       "source": "NPR Politics",
@@ -180,35 +236,35 @@
     },
     {
       "source": "BBC World",
-      "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
-      "link": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-21T13:15:21+00:00",
-      "summary_raw": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
-      "id": "8ac072404a98"
+      "title": "FBI reportedly investigating apparent hack of its criminal database",
+      "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-21T16:35:15+00:00",
+      "summary_raw": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
+      "id": "8f8a4dee9819"
     },
     {
       "source": "Science Daily",
-      "title": "Who was buried in Westminster Abbey's Roman coffin? A 150-year mystery may be solved",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261119194553.htm",
-      "published_at": "2026-11-21T14:25:39+00:00",
-      "summary_raw": "A mysterious skeleton discovered in a Roman sarcophagus at Westminster Abbey may finally be identified after more than 150 years. New dating evidence suggests the remains belonged to a high-ranking medieval abbot who was buried inside a centuries-old recycled Roman coffin.",
-      "id": "7abc5bc9e674"
+      "title": "A 50-year-old theory about evolution may have been wrong all along",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261119194538.htm",
+      "published_at": "2026-11-21T14:06:15+00:00",
+      "summary_raw": "A decades-old theory suggesting that evolution protects its most important genes from mutations has been dealt a major blow. An extensive new analysis of mutations in bacteria and yeast found no evidence that essential genes mutate less frequently than other genes. Researchers say earlier studies may have been misled by harmful mutations that disappeared through natural selection before scientists could detect them.",
+      "id": "f025afeb57c9"
     },
     {
       "source": "WRAL Local",
-      "title": "Family: Teen who went missing from Seattle area found in North Carolina",
-      "link": "https://www.wral.com/news/local/missing-teen-fortnite-seattle-raleigh-search-november-2026/",
-      "published_at": "2026-11-21T01:18:06+00:00",
-      "summary_raw": "According to a Washington State Patrol press release, authorities had been searching for Alexandra 'Bella' Alvarez. Alvarez, 16. Authorities said she was last spotted around 1:07 p.m. Wednesday near the SeaTac Airport.",
-      "id": "8f7828ece838"
+      "title": "Two schools unite to honor late Triangle basketball coach",
+      "link": "https://www.wral.com/news/local/two-schools-unite-honor-late-triangle-basketball-coach-november-2026/",
+      "published_at": "2026-11-21T02:36:16+00:00",
+      "summary_raw": "Sheremy Dillard, a longtime girls' basketball coach who was killed in a stabbing, was remembered by two schools where she previously coached.",
+      "id": "e5afe378bcb1"
     },
     {
       "source": "Wired",
-      "title": "Our Top Tested Picks From Tineco’s Black Friday Sale (2026)",
-      "link": "https://www.wired.com/story/tineco-black-friday-sale-2026/",
-      "published_at": "2026-11-21T11:30:00+00:00",
-      "summary_raw": "Get WIRED-tested vacuum cleaners, carpet cleaners, and steam mops for up to 60 percent off.",
-      "id": "f3bd7d61f2ea"
+      "title": "Best Laptops for Travel (2026): Which to Take on the Road",
+      "link": "https://www.wired.com/story/best-laptops-for-travel/",
+      "published_at": "2026-11-21T11:00:00+00:00",
+      "summary_raw": "Having brought many different laptops on work trips, I can say these are the best portable computers for travel, based on my personal testing.",
+      "id": "e2c3a2df894d"
     },
     {
       "source": "NPR Politics",
@@ -228,35 +284,35 @@
     },
     {
       "source": "BBC World",
-      "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
-      "link": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-21T10:26:36+00:00",
-      "summary_raw": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled.",
-      "id": "e0349eff1bd3"
+      "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+      "link": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-21T13:17:38+00:00",
+      "summary_raw": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
+      "id": "9fd2f0cf6830"
     },
     {
       "source": "Science Daily",
-      "title": "A 50-year-old theory about evolution may have been wrong all along",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261119194538.htm",
-      "published_at": "2026-11-21T14:06:15+00:00",
-      "summary_raw": "A decades-old theory suggesting that evolution protects its most important genes from mutations has been dealt a major blow. An extensive new analysis of mutations in bacteria and yeast found no evidence that essential genes mutate less frequently than other genes. Researchers say earlier studies may have been misled by harmful mutations that disappeared through natural selection before scientists could detect them.",
-      "id": "f025afeb57c9"
+      "title": "Even scientists can't agree on what science actually is",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261119194541.htm",
+      "published_at": "2026-11-21T13:55:11+00:00",
+      "summary_raw": "Scientists cannot agree on what science actually is, and a new study finds their views are surprisingly more divided than those of the general public. The findings could help explain public frustration with scientific uncertainty and raise questions about how artificial intelligence might reshape future discoveries.",
+      "id": "be7efb155272"
     },
     {
       "source": "WRAL Local",
-      "title": "Principal: Juvenile used AI to make nude images of Chatham Co. charter school students & staff",
-      "link": "https://www.wral.com/news/local/juvenile-used-ai-make-nude-images-chatham-county-woods-charter-students-staff-november-2026/",
-      "published_at": "2026-11-20T23:51:00+00:00",
-      "summary_raw": "A minor is accused of using artificial intelligence to create nude images of students and staff at a Chatham County charter school, the school's principal wrote in a letter sent to parents.",
-      "id": "712920662542"
+      "title": "Orange County school bus crashes into ditch, 3 people injured",
+      "link": "https://www.wral.com/news/local/orange-county-school-bus-crashes-into-ditch-november-2026/",
+      "published_at": "2026-11-21T01:21:13+00:00",
+      "summary_raw": "An Orange County Schools activity bus carrying twelve students ran off the road into a ditch Friday afternoon.",
+      "id": "1feb1f9ee9ce"
     },
     {
       "source": "Wired",
-      "title": "Best Laptops for Travel (2026): Which to Take on the Road",
-      "link": "https://www.wired.com/story/best-laptops-for-travel/",
-      "published_at": "2026-11-21T11:00:00+00:00",
-      "summary_raw": "Having brought many different laptops on work trips, I can say these are the best portable computers for travel, based on my personal testing.",
-      "id": "e2c3a2df894d"
+      "title": "17 Best Gifts for Women in the Enshittocene (2026)",
+      "link": "https://www.wired.com/story/best-gifts-for-women/",
+      "published_at": "2026-11-21T10:02:00+00:00",
+      "summary_raw": "The least you can do is buy her something nice.",
+      "id": "49ca1062cc10"
     },
     {
       "source": "NPR Politics",
@@ -276,35 +332,35 @@
     },
     {
       "source": "BBC World",
-      "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
-      "link": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-21T09:40:55+00:00",
-      "summary_raw": "Brussels sources had previously suggested the bloc might not apply the wider deal until fees were lowered for EU students in Britain.",
-      "id": "0cdae16820ab"
+      "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+      "link": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-21T10:26:36+00:00",
+      "summary_raw": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled.",
+      "id": "e0349eff1bd3"
     },
     {
       "source": "Science Daily",
-      "title": "Even scientists can't agree on what science actually is",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261119194541.htm",
-      "published_at": "2026-11-21T13:55:11+00:00",
-      "summary_raw": "Scientists cannot agree on what science actually is, and a new study finds their views are surprisingly more divided than those of the general public. The findings could help explain public frustration with scientific uncertainty and raise questions about how artificial intelligence might reshape future discoveries.",
-      "id": "be7efb155272"
+      "title": "Scientists say the human family tree may need a radical rewrite",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261118074039.htm",
+      "published_at": "2026-11-21T13:44:55+00:00",
+      "summary_raw": "The human family tree may need a major overhaul. New research from Monash University challenges the traditional classification of our ancient ancestors, arguing that species such as Australopithecus and Paranthropus should be grouped within our own genus, Homo. As scientists uncover more fossils and analyze evolutionary relationships, the boundaries that once separated these ancient relatives are becoming increasingly difficult to defend.",
+      "id": "42f91793f3ba"
     },
     {
       "source": "WRAL Local",
-      "title": "'Felt like it was really silencing': Wake students weigh in on draft memorial policy",
-      "link": "https://www.wral.com/news/local/wake-students-weigh-in-on-draft-memorial-policy-nov-2026/",
-      "published_at": "2026-11-20T23:07:55+00:00",
-      "summary_raw": "Two Holly Springs students say they experienced a similar situation to the Leesville Road dispute over memorializing a student who died.",
-      "id": "e44bf375d183"
+      "title": "Family: Teen who went missing from Seattle area found in North Carolina",
+      "link": "https://www.wral.com/news/local/missing-teen-fortnite-seattle-raleigh-search-november-2026/",
+      "published_at": "2026-11-21T01:18:06+00:00",
+      "summary_raw": "According to a Washington State Patrol press release, authorities had been searching for Alexandra 'Bella' Alvarez. Alvarez, 16. Authorities said she was last spotted around 1:07 p.m. Wednesday near the SeaTac Airport.",
+      "id": "8f7828ece838"
     },
     {
       "source": "Wired",
-      "title": "17 Best Gifts for Women in the Enshittocene (2026)",
-      "link": "https://www.wired.com/story/best-gifts-for-women/",
-      "published_at": "2026-11-21T10:02:00+00:00",
-      "summary_raw": "The least you can do is buy her something nice.",
-      "id": "49ca1062cc10"
+      "title": "The Manosphere Isn’t Ready for Brothercore",
+      "link": "https://www.wired.com/story/hey-brother-house-manosphere-content/",
+      "published_at": "2026-11-21T10:00:00+00:00",
+      "summary_raw": "Vulnerable, huggable, affirming, chiseled: Welcome to Hey Brother House, a content incubator for bros who just want to trauma-dump and play Mario Kart.",
+      "id": "498b91a9f6aa"
     },
     {
       "source": "NPR Politics",
@@ -324,35 +380,35 @@
     },
     {
       "source": "BBC World",
-      "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
-      "link": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-21T08:10:25+00:00",
-      "summary_raw": "Earlier this week, Trump greeted Putin ahead of a meeting in China and said the pair have a \"great relationship\".",
-      "id": "4d00a63bb861"
+      "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
+      "link": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-21T09:40:55+00:00",
+      "summary_raw": "Brussels sources had previously suggested the bloc might not apply the wider deal until fees were lowered for EU students in Britain.",
+      "id": "0cdae16820ab"
     },
     {
       "source": "Science Daily",
-      "title": "Scientists say the human family tree may need a radical rewrite",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261118074039.htm",
-      "published_at": "2026-11-21T13:44:55+00:00",
-      "summary_raw": "The human family tree may need a major overhaul. New research from Monash University challenges the traditional classification of our ancient ancestors, arguing that species such as Australopithecus and Paranthropus should be grouped within our own genus, Homo. As scientists uncover more fossils and analyze evolutionary relationships, the boundaries that once separated these ancient relatives are becoming increasingly difficult to defend.",
-      "id": "42f91793f3ba"
+      "title": "Microplastics may be more dangerous than we thought. Scientists just discovered why",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261120075549.htm",
+      "published_at": "2026-11-21T02:35:26+00:00",
+      "summary_raw": "Microplastics may be doing something far more dangerous than simply accumulating in our bodies. Scientists have discovered that tiny plastic particles can interact with water to generate highly reactive molecules capable of damaging cells and tissues. This unexpected chemical activity could help explain growing evidence linking microplastic exposure to serious health problems, including heart attacks, strokes, and neurological disorders.",
+      "id": "6c107b5d2c92"
     },
     {
       "source": "WRAL Local",
-      "title": "Hillsborough unveils upgraded facility after Chantal flooding damaged crucial town vehicles",
-      "link": "https://www.wral.com/news/local/hillsborough-highway-86-north-facility-unveiling-november-2026/",
-      "published_at": "2026-11-20T22:59:15+00:00",
-      "summary_raw": "The $4 million in renovations and expansion of Hillsborough's Highway 86 North Facility was on display Friday, more than a year after Tropical Depression Chantal damaged the old space.",
-      "id": "76da3d1bffb8"
+      "title": "Principal: Juvenile used AI to make nude images of Chatham Co. charter school students & staff",
+      "link": "https://www.wral.com/news/local/juvenile-used-ai-make-nude-images-chatham-county-woods-charter-students-staff-november-2026/",
+      "published_at": "2026-11-20T23:51:00+00:00",
+      "summary_raw": "A minor is accused of using artificial intelligence to create nude images of students and staff at a Chatham County charter school, the school's principal wrote in a letter sent to parents.",
+      "id": "712920662542"
     },
     {
       "source": "Wired",
-      "title": "The Manosphere Isn’t Ready for Brothercore",
-      "link": "https://www.wired.com/story/hey-brother-house-manosphere-content/",
-      "published_at": "2026-11-21T10:00:00+00:00",
-      "summary_raw": "Vulnerable, huggable, affirming, chiseled: Welcome to Hey Brother House, a content incubator for bros who just want to trauma-dump and play Mario Kart.",
-      "id": "498b91a9f6aa"
+      "title": "Mint Mobile Discounts for November 2026",
+      "link": "https://www.wired.com/story/mint-mobile-promo-code/",
+      "published_at": "2026-11-21T06:00:00+00:00",
+      "summary_raw": "Reduce your monthly cell phone bill with these active Mint Mobile coupons and promos, limited-time promotions, and 5G plan savings.",
+      "id": "a30dc9ced409"
     },
     {
       "source": "NPR Politics",
@@ -372,59 +428,11 @@
     },
     {
       "source": "BBC World",
-      "title": "Trafalgar Square Christmas tree felled in Norway",
-      "link": "https://www.bbc.co.uk/news/articles/cx8dv4327dnpo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-21T08:10:03+00:00",
-      "summary_raw": "The 21m tree is Oslo’s annual thank you for Britain’s support during World War Two.",
-      "id": "21d573842a55"
-    },
-    {
-      "source": "Science Daily",
-      "title": "Microplastics may be more dangerous than we thought. Scientists just discovered why",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261120075549.htm",
-      "published_at": "2026-11-21T02:35:26+00:00",
-      "summary_raw": "Microplastics may be doing something far more dangerous than simply accumulating in our bodies. Scientists have discovered that tiny plastic particles can interact with water to generate highly reactive molecules capable of damaging cells and tissues. This unexpected chemical activity could help explain growing evidence linking microplastic exposure to serious health problems, including heart attacks, strokes, and neurological disorders.",
-      "id": "6c107b5d2c92"
-    },
-    {
-      "source": "WRAL Local",
-      "title": "Durham Violence Reduction Plan proposes focused deterrence model",
-      "link": "https://www.wral.com/news/local/durham-violence-reduction-plan-funding-november-2026/",
-      "published_at": "2026-11-20T22:08:51+00:00",
-      "summary_raw": "City and County leaders will soon decide on funding for the new Violence Reduction Plan, after a violent week in Durham.",
-      "id": "30d94a02d559"
-    },
-    {
-      "source": "Wired",
-      "title": "Therabody Promo Codes: 15% Off November 2026",
-      "link": "https://www.wired.com/story/therabody-promo-code/",
-      "published_at": "2026-11-21T06:00:00+00:00",
-      "summary_raw": "Save on the science-backed devices you’ve been eyeing with 15% off Theragun discount code and 30% off other great deals.",
-      "id": "f861b2863c17"
-    },
-    {
-      "source": "NPR Politics",
-      "title": "Texas execution took over an hour as staff struggled to find vein; Reinaldo Dennes moaned about pain",
-      "link": "https://www.npr.org/2026/11/20/nx-s1-6048461/texas-execution-dennes-moaned-pain",
-      "published_at": "2026-11-20T12:24:40+00:00",
-      "summary_raw": "The same day Dennes was given lethal injection, Florida carried out a record-breaking 20th execution of the year.",
-      "id": "8e544d08ae6a"
-    },
-    {
-      "source": "NPR National",
-      "title": "Texas execution took over an hour as staff struggled to find vein; Reinaldo Dennes moaned about pain",
-      "link": "https://www.npr.org/2026/11/20/nx-s1-6048461/texas-execution-dennes-moaned-pain",
-      "published_at": "2026-11-20T12:24:40+00:00",
-      "summary_raw": "The same day Dennes was given lethal injection, Florida carried out a record-breaking 20th execution of the year.",
-      "id": "8e544d08ae6a"
-    },
-    {
-      "source": "BBC World",
-      "title": "Man convicted of starting Palisades fire in Los Angeles",
-      "link": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-21T04:34:00+00:00",
-      "summary_raw": "The 30-year-old LA resident was convicted of arson leading to wildfires that killed 12 people and destroyed more than 6,800 buildings.",
-      "id": "0ab927dc3349"
+      "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
+      "link": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-21T08:10:25+00:00",
+      "summary_raw": "Earlier this week, Trump greeted Putin ahead of a meeting in China and said the pair have a \"great relationship\".",
+      "id": "4d00a63bb861"
     },
     {
       "source": "Science Daily",
@@ -436,11 +444,11 @@
     },
     {
       "source": "WRAL Local",
-      "title": "Sponsor steps in to host Sensory Santa event for kids with autism",
-      "link": "https://www.wral.com/news/local/sponsor-steps-in-to-host-sensory-santa-event-for-autistic-kids/",
-      "published_at": "2026-11-20T20:35:01+00:00",
-      "summary_raw": "Coastal Credit Union stepped in to give Spare Some for Autism a place to host its event.",
-      "id": "75b01dd8746f"
+      "title": "'Felt like it was really silencing': Wake students weigh in on draft memorial policy",
+      "link": "https://www.wral.com/news/local/wake-students-weigh-in-on-draft-memorial-policy-nov-2026/",
+      "published_at": "2026-11-20T23:07:55+00:00",
+      "summary_raw": "Two Holly Springs students say they experienced a similar situation to the Leesville Road dispute over memorializing a student who died.",
+      "id": "e44bf375d183"
     },
     {
       "source": "Wired",
@@ -452,27 +460,27 @@
     },
     {
       "source": "NPR Politics",
-      "title": "Dems aim to block Iran war funding. And, Army delays lead azide detonation in Iowa",
-      "link": "https://www.npr.org/2026/11/20/g-s1-154582/up-first-newsletter-democrats-iran-war-trump-xi-jinping-iowa-army",
-      "published_at": "2026-11-20T12:04:57+00:00",
-      "summary_raw": "Congress needs to pass a funding measure to avoid a shutdown next month, providing Dems an opportunity to leverage power. And, the Army says waiting to detonate lead azide could become dangerous.",
-      "id": "b838cca1a5c3"
+      "title": "Texas execution took over an hour as staff struggled to find vein; Reinaldo Dennes moaned about pain",
+      "link": "https://www.npr.org/2026/11/20/nx-s1-6048461/texas-execution-dennes-moaned-pain",
+      "published_at": "2026-11-20T12:24:40+00:00",
+      "summary_raw": "The same day Dennes was given lethal injection, Florida carried out a record-breaking 20th execution of the year.",
+      "id": "8e544d08ae6a"
     },
     {
       "source": "NPR National",
-      "title": "GOP Sen. Johnson rejects tying government funding to an end to the Iran war",
-      "link": "https://www.npr.org/2026/11/20/nx-s1-6047473/iran-war-funding-congress",
-      "published_at": "2026-11-20T11:37:35+00:00",
-      "summary_raw": "\"We're not going to shut down the war,\" Sen. Ron Johnson said as Republicans and Democrats struggle to reach a government funding deal.",
-      "id": "74a7d26ec2b9"
+      "title": "Texas execution took over an hour as staff struggled to find vein; Reinaldo Dennes moaned about pain",
+      "link": "https://www.npr.org/2026/11/20/nx-s1-6048461/texas-execution-dennes-moaned-pain",
+      "published_at": "2026-11-20T12:24:40+00:00",
+      "summary_raw": "The same day Dennes was given lethal injection, Florida carried out a record-breaking 20th execution of the year.",
+      "id": "8e544d08ae6a"
     },
     {
       "source": "BBC World",
-      "title": "They were fined $811m for conning detained migrants, but the scams didn't stop",
-      "link": "https://www.bbc.co.uk/news/articles/cqgm0zlkgrm2o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-21T01:02:39+00:00",
-      "summary_raw": "How convicted fraudsters made millions from detained immigrants, evaded efforts to shut down their bail business and left migrants behind bars.",
-      "id": "eea8d4eed97a"
+      "title": "Trafalgar Square Christmas tree felled in Norway",
+      "link": "https://www.bbc.co.uk/news/articles/cx8dv4327dnpo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-21T08:10:03+00:00",
+      "summary_raw": "The 21m tree is Oslo’s annual thank you for Britain’s support during World War Two.",
+      "id": "21d573842a55"
     },
     {
       "source": "Science Daily",
@@ -484,11 +492,11 @@
     },
     {
       "source": "WRAL Local",
-      "title": "Christmas markets in the Triangle and beyond",
-      "link": "https://www.wral.com/news/local/christmas-markets-in-the-triangle-and-beyond-november-2026/",
-      "published_at": "2026-11-20T18:44:51+00:00",
-      "summary_raw": "Looking for handmade gifts off the beaten path? Look no further than the many craft fairs and markets throughout the Triangle and beyond this season.",
-      "id": "f54485337643"
+      "title": "Hillsborough unveils upgraded facility after Chantal flooding damaged crucial town vehicles",
+      "link": "https://www.wral.com/news/local/hillsborough-highway-86-north-facility-unveiling-november-2026/",
+      "published_at": "2026-11-20T22:59:15+00:00",
+      "summary_raw": "The $4 million in renovations and expansion of Hillsborough's Highway 86 North Facility was on display Friday, more than a year after Tropical Depression Chantal damaged the old space.",
+      "id": "76da3d1bffb8"
     },
     {
       "source": "Wired",
@@ -500,11 +508,11 @@
     },
     {
       "source": "BBC World",
-      "title": "ANC fights to keep control of South Africa's key cities after election setback",
-      "link": "https://www.bbc.co.uk/news/articles/cqpv94d10rwpo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-21T00:34:51+00:00",
-      "summary_raw": "The ANC appears reluctant to replicate its national power-sharing deal with the pro-business DA at the local level.",
-      "id": "1305637f5634"
+      "title": "Man convicted of starting Palisades fire in Los Angeles",
+      "link": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-21T04:34:00+00:00",
+      "summary_raw": "The 30-year-old LA resident was convicted of arson leading to wildfires that killed 12 people and destroyed more than 6,800 buildings.",
+      "id": "7eb828c92319"
     },
     {
       "source": "Science Daily",
@@ -524,11 +532,11 @@
     },
     {
       "source": "BBC World",
-      "title": "Mamdani announces plan to close New York's Rikers Island jail by 2032",
-      "link": "https://www.bbc.co.uk/news/articles/cmjeqv89egylo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-21T00:01:39+00:00",
-      "summary_raw": "Plans to shutter the troubled facility date back to 2019, when the city council first voted to close it but delays arose over where to place inmates.",
-      "id": "a0bf7b3288d8"
+      "title": "They were fined $811m for conning detained migrants, but the scams didn't stop",
+      "link": "https://www.bbc.co.uk/news/articles/cqgm0zlkgrm2o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-21T01:02:39+00:00",
+      "summary_raw": "How convicted fraudsters made millions from detained immigrants, evaded efforts to shut down their bail business and left migrants behind bars.",
+      "id": "eea8d4eed97a"
     },
     {
       "source": "Science Daily",
@@ -548,11 +556,11 @@
     },
     {
       "source": "BBC World",
-      "title": "A new Nepal, an old neighbour - Balendra Shah's India test on first visit",
-      "link": "https://www.bbc.co.uk/news/articles/c6jre8xd83qgo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-20T23:28:17+00:00",
-      "summary_raw": "Trade, connectivity and regional cooperation will be on top of the agenda when Nepal's PM meets his India counterpart.",
-      "id": "941400f97623"
+      "title": "ANC fights to keep control of South Africa's key cities after election setback",
+      "link": "https://www.bbc.co.uk/news/articles/cqpv94d10rwpo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-21T00:34:51+00:00",
+      "summary_raw": "The ANC appears reluctant to replicate its national power-sharing deal with the pro-business DA at the local level.",
+      "id": "1305637f5634"
     },
     {
       "source": "Science Daily",
@@ -572,11 +580,11 @@
     },
     {
       "source": "BBC World",
-      "title": "These dead pets were meant to be cremated - then their bodies appeared on a livestream",
-      "link": "https://www.bbc.co.uk/news/articles/cmn502ek17yvo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-20T23:20:33+00:00",
-      "summary_raw": "Grieving Filipinos confront a distressing reality: their dogs and cats may not have received the send-off they paid for.",
-      "id": "1bbd4e5bb24a"
+      "title": "Mamdani announces plan to close New York's Rikers Island jail by 2032",
+      "link": "https://www.bbc.co.uk/news/articles/cmjeqv89egylo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-21T00:01:39+00:00",
+      "summary_raw": "Plans to shutter the troubled facility date back to 2019, when the city council first voted to close it but delays arose over where to place inmates.",
+      "id": "a0bf7b3288d8"
     },
     {
       "source": "Science Daily",
@@ -596,11 +604,11 @@
     },
     {
       "source": "BBC World",
-      "title": "US declassifies more UFO footage filmed in the Middle East",
-      "link": "https://www.bbc.co.uk/news/videos/cqdr1x8mypnko?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-20T23:15:20+00:00",
-      "summary_raw": "The Pentagon has released an eighth tranche of UFO records, which includes three video clips recorded in 2020, 2023 and 2026.",
-      "id": "67c135df55ff"
+      "title": "A new Nepal, an old neighbour - Balendra Shah's India test on first visit",
+      "link": "https://www.bbc.co.uk/news/articles/c6jre8xd83qgo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-20T23:28:17+00:00",
+      "summary_raw": "Trade, connectivity and regional cooperation will be on top of the agenda when Nepal's PM meets his India counterpart.",
+      "id": "941400f97623"
     },
     {
       "source": "Science Daily",
@@ -612,19 +620,19 @@
     },
     {
       "source": "Wired",
-      "title": "Mint Mobile Discounts for November 2026",
-      "link": "https://www.wired.com/story/mint-mobile-promo-code/",
+      "title": "Therabody Promo Codes: 15% Off November 2026",
+      "link": "https://www.wired.com/story/therabody-promo-code/",
       "published_at": "2026-11-21T06:00:00+00:00",
-      "summary_raw": "Reduce your monthly cell phone bill with these active Mint Mobile coupons and promos, limited-time promotions, and 5G plan savings.",
-      "id": "a30dc9ced409"
+      "summary_raw": "Save on the science-backed devices you’ve been eyeing with 15% off Theragun discount code and 30% off other great deals.",
+      "id": "f861b2863c17"
     },
     {
       "source": "BBC World",
-      "title": "In a year of AI solving maths problems, an Anthropic worker says he may have cracked the biggest",
-      "link": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-20T23:08:57+00:00",
-      "summary_raw": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
-      "id": "e9776455f369"
+      "title": "These dead pets were meant to be cremated - then their bodies appeared on a livestream",
+      "link": "https://www.bbc.co.uk/news/articles/cmn502ek17yvo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-20T23:20:33+00:00",
+      "summary_raw": "Grieving Filipinos confront a distressing reality: their dogs and cats may not have received the send-off they paid for.",
+      "id": "1bbd4e5bb24a"
     },
     {
       "source": "Science Daily",
@@ -633,14 +641,6 @@
       "published_at": "2026-11-20T12:06:07+00:00",
       "summary_raw": "Reading for pleasure may have surprisingly powerful benefits for the brain, with studies linking it to better memory, reduced stress, improved mental health, and a lower risk of dementia. Researchers highlight findings that just five minutes of fiction can reduce stress by up to 20%, while reading has also been associated with a 33% lower risk of Alzheimer's disease.",
       "id": "3476eae0217c"
-    },
-    {
-      "source": "Wired",
-      "title": "20% Off Brooks Promo Code | November 2026",
-      "link": "https://www.wired.com/story/brooks-promo-code/",
-      "published_at": "2026-11-21T06:00:00+00:00",
-      "summary_raw": "Enjoy 20% off your first order with a Brooks coupon code, plus top discounts and deals on our favorite Brooks running shoes.",
-      "id": "79ac0ad571d4"
     }
   ]
 }

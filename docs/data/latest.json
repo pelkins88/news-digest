@@ -1,70 +1,126 @@
 {
   "mode": "raw",
-  "generated_at": "2026-11-25T03:22:19.813517+00:00",
+  "generated_at": "2026-11-25T20:25:37.703808+00:00",
   "items": [
     {
       "source": "WRAL Local",
-      "title": "Morrisville expands rental assistance eligibility following debate over who should benefit",
-      "link": "https://www.wral.com/news/local/morrisville-expands-rental-assistance-eligibility-following-debate-november-2026/",
-      "published_at": "2026-11-25T02:48:24+00:00",
-      "summary_raw": "After nearly an hour of discussion, Morrisville town council decided to move forward with upping the eligible income for public-sector workers to receive financial assistance. The change will allow more teachers, town employees and other public-sector workers to qualify for rental subsidies.",
-      "id": "b55f898fd03d"
+      "title": "NC gas-tax pause set to end after Monday. Here's what drivers are paying in NC and nearby states",
+      "link": "https://www.wral.com/news/local/nc-gas-tax-returns-dec1-what-drivers-are-paying-in-nearby-states-november-2026/",
+      "published_at": "2026-11-25T18:10:07+00:00",
+      "summary_raw": "North Carolina drivers are expected to see gas prices rise if lawmakers don’t extend the state's gas tax suspension beyond Monday. Here's how North Carolina prices compare with neighboring states and what experts expect in the weeks ahead.",
+      "id": "3b84edfc9816"
     },
     {
       "source": "WRAL Weather",
-      "title": "Traveling for Thanksgiving? Prepare for wet roads, intense gusts Wednesday night, Thursday",
+      "title": "New NASA documentary tells the story behind a mission's long road to Jupiter",
+      "link": "https://www.wral.com/weather/europa-concept-nov-2026/",
+      "published_at": "2026-11-25T16:32:00+00:00",
+      "summary_raw": "The film follows three decades of planning, engineering challenges and unexpected obstacles that brought NASA's Europa Clipper mission from an ambitious idea to a spacecraft headed for one of Jupiter's most interesting moons.",
+      "id": "65110bbd4da4"
+    },
+    {
+      "source": "Wired",
+      "title": "The Iowa Lead Detonation Happened. Now the Real Work Begins to Study It",
+      "link": "https://www.wired.com/story/iowa-lead-detonation-real-monitoring-work-begins/",
+      "published_at": "2026-11-25T18:38:12+00:00",
+      "summary_raw": "Early results indicate minimal signs of lead in the environment, though it will take days for more rigorous testing.",
+      "id": "07e159653d94"
+    },
+    {
+      "source": "NPR Politics",
+      "title": "Group of Senate Democrats push to add freshman to leadership",
+      "link": "https://www.npr.org/2026/11/25/g-s1-155518/senate-democrats-freshman-leadership-schumer-van-hollen",
+      "published_at": "2026-11-25T17:30:47+00:00",
+      "summary_raw": "Several Democratic senators have been signaling this move, saying the party needs to acknowledge the diverse class of incoming freshman that catapulted the party to victory in November.",
+      "id": "38f98bf868f6"
+    },
+    {
+      "source": "NPR National",
+      "title": "Republican wants FBI and CIA answers before questioning Nvidia chief",
+      "link": "https://www.npr.org/2026/11/25/nx-s1-6052417/nvidia-jensen-huang-reaction-republicans-congress-investigation",
+      "published_at": "2026-11-25T11:50:05+00:00",
+      "summary_raw": "\"The public is rightly concerned,\" says the Republican lawmaker, who wants to know what the FBI and CIA knew about potential national security threats and whether Jensen Huang was warned.",
+      "id": "c1e6355cdda9"
+    },
+    {
+      "source": "BBC World",
+      "title": "US Army says controlled blast of explosives in Iowa was 'huge success'",
+      "link": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-25T19:54:52+00:00",
+      "summary_raw": "Despite widespread concern from residents ahead of the blast, officials say that lead readings in the area so far have been promising.",
+      "id": "8333e3d83828"
+    },
+    {
+      "source": "Science Daily",
+      "title": "Common sleep and anxiety drugs could be harming aging brains",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261124055854.htm",
+      "published_at": "2026-11-25T11:13:47+00:00",
+      "summary_raw": "Nearly one in three older adults with dementia or other cognitive disorders takes potentially harmful medications that can worsen brain function and increase the risk of hospitalization and premature death. Despite encouraging progress over the past decade, researchers warn that medication-related harm remains a major and potentially preventable threat to healthy aging.",
+      "id": "4f9bed7a361b"
+    },
+    {
+      "source": "WRAL Local",
+      "title": "In Depth: 'Sheer terror.' Hemp ban looms over North Carolina businesses. Will they survive?",
+      "link": "https://www.wral.com/news/local/hemp-ban-raleigh-business-north-carolina-in-depth-november-2026/",
+      "published_at": "2026-11-25T17:43:30+00:00",
+      "summary_raw": "Hemp has become big business in North Carolina in just a few years. A federal ban on hemp-derived THC products is set to take effect soon, and that could cripple the growing industry.",
+      "id": "a02617abc347"
+    },
+    {
+      "source": "WRAL Weather",
+      "title": "Holiday storm could create dangerous driving conditions; when we'll see the heaviest rain",
       "link": "https://www.wral.com/weather/thanksgiving-travel-forecast-raleigh-november-2026/",
       "published_at": "2026-11-24T21:55:20+00:00",
-      "summary_raw": "Stay weather-aware if you are traveling for the holiday. Wet roads and gusty winds could create challenging driving conditions, particularly on Wednesday night and Thursday morning.",
+      "summary_raw": "Rain and gusty winds could make Thanksgiving travel messy across central North Carolina Wednesday night and Thursday morning, with wet roads and reduced visibility challenging for drivers. Conditions are expected to improve by midday Thanksgiving as rain tapers off.",
       "id": "5854368fef35"
     },
     {
       "source": "Wired",
-      "title": "Jensen Huang’s Return Shows Nvidia Is Too Big to Police",
-      "link": "https://www.wired.com/story/jensen-huang-nvidia-us-national-security-risks/",
-      "published_at": "2026-11-24T23:39:04+00:00",
-      "summary_raw": "Nvidia’s place at the center of the US economy may have outweighed concerns about its CEO’s ties to a suspected Chinese intelligence asset, national security and foreign policy experts say.",
-      "id": "9c4024fd060d"
+      "title": "The 30 Best Early Black Friday Deals: Our Ultimate Picks (2026)",
+      "link": "https://www.wired.com/story/best-black-friday-deals-11-25-2026/",
+      "published_at": "2026-11-25T15:03:16+00:00",
+      "summary_raw": "The early bird gets the worm. Here are the best Black Friday deals for 2026 you can get right now.",
+      "id": "fb6a4d48857b"
     },
     {
       "source": "NPR Politics",
-      "title": "Moving to Florida may become a choice of some Republicans after midterms",
-      "link": "https://www.npr.org/2026/11/24/nx-s1-6050930/moving-to-florida-may-become-a-choice-of-some-republicans-after-midterms",
-      "published_at": "2026-11-24T22:54:01+00:00",
-      "summary_raw": "In Florida, Republicans kept power of state government after the midterms. It's now the largest state where the GOP is still in charge.",
-      "id": "b7bf1ecd4d0a"
+      "title": "Republican wants FBI and CIA answers before questioning Nvidia chief",
+      "link": "https://www.npr.org/2026/11/25/nx-s1-6052417/nvidia-jensen-huang-reaction-republicans-congress-investigation",
+      "published_at": "2026-11-25T11:50:05+00:00",
+      "summary_raw": "\"The public is rightly concerned,\" says the Republican lawmaker, who wants to know what the FBI and CIA knew about potential national security threats and whether Jensen Huang was warned.",
+      "id": "c1e6355cdda9"
     },
     {
       "source": "NPR National",
-      "title": "The Army says there's no reason to panic over controlled ammunition detonation in Iowa",
-      "link": "https://www.npr.org/2026/11/24/nx-s1-6053004/the-army-says-theres-no-reason-to-panic-over-controlled-ammunition-detonation-in-iowa",
-      "published_at": "2026-11-24T22:42:19+00:00",
-      "summary_raw": "The U.S. Army says it has taken precautions and there's no reason to panic about its' plan to detonate unusable bomb making material at its ammunition plant in Iowa, scheduled for Wednesday morning.",
-      "id": "84b540bb50ae"
+      "title": "A quintessential Route 66 diner has been serving up Americana for nearly 100 years",
+      "link": "https://www.npr.org/2026/11/25/nx-s1-5983717/ariston-cafe-route-66-diner-litchfield-illinois",
+      "published_at": "2026-11-25T10:00:00+00:00",
+      "summary_raw": "The Ariston Cafe opened its doors in 1924 to serve travelers along Route 66 and has dished up classic American road fare ever since.",
+      "id": "a1c42564b6fc"
     },
     {
       "source": "BBC World",
-      "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
-      "link": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-25T02:59:27+00:00",
-      "summary_raw": "The verdict follows a months-long trial in New York.",
-      "id": "c980208310be"
+      "title": "Israeli judges recommend dropping most serious charges against Netanyahu",
+      "link": "https://www.bbc.co.uk/news/articles/cxj05mv723r2o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-25T19:47:39+00:00",
+      "summary_raw": "The Israeli PM says his trial should end after judges said there was little chance of conviction in one of three cases.",
+      "id": "e576b5e4056c"
     },
     {
       "source": "Science Daily",
-      "title": "New nose drops restore youthful memory and fight Alzheimer’s in aging mice",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261123005337.htm",
-      "published_at": "2026-11-24T23:31:52+00:00",
-      "summary_raw": "A revolutionary new nasal treatment has restored youthful learning and memory performance in aging mice while preventing severe cognitive decline in mice with Alzheimer’s-like disease. Developed using technology similar to COVID-19 mRNA vaccines, the nose drops stimulate production of a brain-protecting protein that strengthens neurons and supports memory. Remarkably, the treatment preserved brain function without removing Alzheimer’s-associated plaques, suggesting a completely different way to combat cognitive decline.",
-      "id": "082cb587f7e8"
+      "title": "Peppermint oil significantly lowers blood pressure in just 20 days",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261123231553.htm",
+      "published_at": "2026-11-25T10:53:00+00:00",
+      "summary_raw": "Peppermint oil may have a surprisingly powerful effect on blood pressure. In a randomized study of 40 adults, researchers found that taking small doses twice daily for 20 days lowered systolic blood pressure by an average of 8.5 mmHg. Those receiving a placebo experienced no significant improvement. The discovery points to a promising, low-cost natural approach to managing mildly elevated blood pressure.",
+      "id": "1a11b69c61df"
     },
     {
       "source": "WRAL Local",
-      "title": "Durham police: Man charged with kidnapping, assault & other felonies arrested after chase",
-      "link": "https://www.wral.com/news/local/durham-robbery-suspect-arrested-chase-november-2026/",
-      "published_at": "2026-11-25T02:43:17+00:00",
-      "summary_raw": "According to the Durham Police Department, officers tried stopping a vehicle around 2:36 p.m. near the intersection of East Main Street and South Alston Avenue. Police said they had confirmed the driver, 25-year-old Shyree McCrea, had several warrants out.",
-      "id": "e102565e482d"
+      "title": "Rosewood Road in Wayne County closed due to suspicious package investigation",
+      "link": "https://www.wral.com/news/local/rosewood-road-closed-suspicious-package-investigation-november-2026/",
+      "published_at": "2026-11-25T17:31:46+00:00",
+      "summary_raw": "The Wayne County Sheriff's Office is investigating a report of a suspicious package on Rosewood Road near Goldsboro.",
+      "id": "66feac408864"
     },
     {
       "source": "WRAL Weather",
@@ -76,51 +132,51 @@
     },
     {
       "source": "Wired",
-      "title": "16 Best Black Friday Headphone Deals (2026): Up to 57% Off",
-      "link": "https://www.wired.com/story/best-black-friday-headphone-deals-11-24-26/",
-      "published_at": "2026-11-24T22:22:20+00:00",
-      "summary_raw": "Get up to 57 percent off some of my favorite headphones and earbuds from Apple, Sony, Nothing, and more.",
-      "id": "9be79ef9881a"
+      "title": "How Jump-Roping Toy Soldiers Accidentally Took Over Your FYP",
+      "link": "https://www.wired.com/story/hot-jump-roping-toy-soldiers-accidentally-made-their-own-psyop/",
+      "published_at": "2026-11-25T12:00:00+00:00",
+      "summary_raw": "The holiday theme park performers started posting their own AI fan videos as an inside joke. They didn’t expect it to actually catch on.",
+      "id": "0e61d84c011f"
     },
     {
       "source": "NPR Politics",
-      "title": "The U.S. government is investigating Iranian ties to as many as 50 hacked commercial vessels",
-      "link": "https://www.npr.org/2026/11/24/nx-s1-6052994/hack-commercial-vessels-iran",
-      "published_at": "2026-11-24T21:04:50+00:00",
-      "summary_raw": "The attacks, if officials who spoke to NPR are correct, may be the latest example of Iranian cyberattacks against global critical infrastructure during the war with the U.S.",
-      "id": "c88fba62507e"
+      "title": "Moving to Florida may become a choice of some Republicans after midterms",
+      "link": "https://www.npr.org/2026/11/24/nx-s1-6050930/moving-to-florida-may-become-a-choice-of-some-republicans-after-midterms",
+      "published_at": "2026-11-24T22:54:01+00:00",
+      "summary_raw": "In Florida, Republicans kept power of state government after the midterms. It's now the largest state where the GOP is still in charge.",
+      "id": "b7bf1ecd4d0a"
     },
     {
       "source": "NPR National",
-      "title": "How tariffs, fuel and fertilizer costs are squeezing the U.S.'s biggest apple region",
-      "link": "https://www.npr.org/sections/the-picture-show/2026/11/24/g-s1-154620/how-high-costs-are-squeezing-apple-producers",
-      "published_at": "2026-11-24T21:09:29+00:00",
-      "summary_raw": "Washington's $9 billion industry grows more than 70% of the nation's fresh apples. Farmers are being pressed by high costs, tariffs and a strong dollar that diminishes foreign purchasing power.",
-      "id": "b5cd0a714d58"
+      "title": "In a time of rising costs, one Thanksgiving commodity is cheaper: cannabis",
+      "link": "https://www.npr.org/2026/11/25/nx-s1-6046173/cannabis-marijuana-prices-retailers-discounts",
+      "published_at": "2026-11-25T10:00:00+00:00",
+      "summary_raw": "Steep discounts for \"Green Wednesday,\" one of the highest-selling days for cannabis, help customers keep costs down. But experts say retailers are feeling the pinch.",
+      "id": "0c20c7905a17"
     },
     {
       "source": "BBC World",
-      "title": "US attorney general dodges questions about Nvidia investigation",
-      "link": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-24T21:19:42+00:00",
-      "summary_raw": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
-      "id": "4708b2ad009b"
+      "title": "Two children among six dead after plane crash off Mississippi coast",
+      "link": "https://www.bbc.co.uk/news/articles/c6z74l1017zpo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-25T19:26:44+00:00",
+      "summary_raw": "Divers found the bodies of three adult, one teenager aged 16, and two boys, aged 12 and 10, in the wreckage.",
+      "id": "45f8bd3d856e"
     },
     {
       "source": "Science Daily",
-      "title": "A black hole the size of an atom could destroy an entire star",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261122060332.htm",
-      "published_at": "2026-11-24T20:58:15+00:00",
-      "summary_raw": "MIT scientists have discovered that tiny black holes left over from the Big Bang could slowly devour stars from within, eventually triggering spectacular explosions visible across galaxies. Detecting these unusual cosmic events could reveal the existence of primordial black holes and help solve the mystery of dark matter.",
-      "id": "d97b36890430"
+      "title": "A space telescope hunting for dark matter just discovered something unexpected",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261124055852.htm",
+      "published_at": "2026-11-25T10:35:04+00:00",
+      "summary_raw": "ESA’s Euclid space telescope has discovered its first previously unknown comet, despite being designed to study distant galaxies and the mysteries of the dark Universe. The icy object is approximately 1.3 billion kilometers from Earth and follows an unusual orbit that takes thousands of years to complete.",
+      "id": "8f5e714b16e1"
     },
     {
       "source": "WRAL Local",
-      "title": "Motion aims to move murder suspect out of Franklin jail after sheriff's posts",
-      "link": "https://www.wral.com/news/local/motion-murder-suspect-jail-franklin-sheriff-november-2026/",
-      "published_at": "2026-11-24T23:04:20+00:00",
-      "summary_raw": "The attorney for Devon Whaley, accused of killing a Franklin County mother in October, is seeking to have him transferred to another jail, citing safety concerns and social media posts by Franklin County Sheriff Kevin White.",
-      "id": "f921a1f0a6a2"
+      "title": "Thanksgiving food waste: How to save money and keep leftovers out of landfills",
+      "link": "https://www.wral.com/news/local/thanksgiving-food-waste-how-to-save-money-and-keep-leftovers-out-of-landfills-november-2026/",
+      "published_at": "2026-11-25T16:32:16+00:00",
+      "summary_raw": "Nearly nine in 10 Thanksgiving hosts intentionally prepare more food than they need, according to a new survey. As the South Wake Landfill fills up, free composting programs across the Triangle offer an alternative to the trash.",
+      "id": "0b928d0409d1"
     },
     {
       "source": "WRAL Weather",
@@ -132,51 +188,51 @@
     },
     {
       "source": "Wired",
-      "title": "11 Things Jensen Huang Actually Said at His First All-Hands Back at Nvidia",
-      "link": "https://www.wired.com/story/11-things-jensen-huang-actually-said-at-his-first-all-hands-back-at-nvidia/",
-      "published_at": "2026-11-24T19:33:23+00:00",
-      "summary_raw": "The newly reinstated CEO discussed his daily therapy sessions, his reputation as a “tech bro,” his disdain for succession planning, and his relationship with President Trump.",
-      "id": "ca8cfbe170cc"
+      "title": "The 36 Best Gifts for Dads (2026)",
+      "link": "https://www.wired.com/story/best-gifts-for-dads-2026/",
+      "published_at": "2026-11-25T11:49:00+00:00",
+      "summary_raw": "Dads are typically tough to shop for. Let me help with these WIRED-tested gift ideas.",
+      "id": "f45b9875794f"
     },
     {
       "source": "NPR Politics",
-      "title": "Jensen Huang returns to Nvidia. And, Rep. Gomez resigns amid alleged sexual misconduct",
-      "link": "https://www.npr.org/2026/11/24/g-s1-155227/up-first-newsletter-nvidia-jensen-huang-trump-ukraine-russia-jimmy-gomez",
-      "published_at": "2026-11-24T12:12:25+00:00",
-      "summary_raw": "President Trump took credit for negotiating Jensen Huang's return as CEO of Nvidia. And, Rep. Jimmy Gomez, D-Calif., says his resignation will be effective Dec. 1.",
-      "id": "a64217797322"
+      "title": "The U.S. government is investigating Iranian ties to as many as 50 hacked commercial vessels",
+      "link": "https://www.npr.org/2026/11/24/nx-s1-6052994/hack-commercial-vessels-iran",
+      "published_at": "2026-11-24T21:04:50+00:00",
+      "summary_raw": "The attacks, if officials who spoke to NPR are correct, may be the latest example of Iranian cyberattacks against global critical infrastructure during the war with the U.S.",
+      "id": "c88fba62507e"
     },
     {
       "source": "NPR National",
-      "title": "Court lifts administrative stay, allowing lead azide detonation to move forward",
-      "link": "https://www.npr.org/2026/11/24/nx-s1-6051547/court-lifts-administrative-stay-allowing-lead-azide-detonation-to-move-forward",
-      "published_at": "2026-11-24T11:42:15+00:00",
-      "summary_raw": "It's been an on-off-and-on again schedule for the Army's plan to detonate tons of unusable bomb-making material in Iowa with even President Trump weighing in on what should happen.",
-      "id": "f81ff4967578"
+      "title": "Morning news brief",
+      "link": "https://www.npr.org/2026/11/25/nx-s1-6047115/morning-news-brief",
+      "published_at": "2026-11-25T09:44:37+00:00",
+      "summary_raw": "The Army plans to destroy nearly five tons of lead-based explosives in Iowa, Kilmar Ábrego García has voluntarily left the U.S., Lawmakers raise concerns as Jensen Huang returns as Nvidia's CEO.",
+      "id": "1e19a9f55ef7"
     },
     {
       "source": "BBC World",
-      "title": "DR Congo says military aircraft missing as rebels claim to shoot down plane",
-      "link": "https://www.bbc.co.uk/news/articles/cwy7r5z8gg65o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-24T19:27:23+00:00",
-      "summary_raw": "A South African fighter pilot and a Ugandan officer are reportedly among those aboard the downed plane.",
-      "id": "7aa099388947"
+      "title": "North Korea expels Swiss diplomat in sanctions row",
+      "link": "https://www.bbc.co.uk/news/articles/cq0l34e4kkr5o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-25T19:19:06+00:00",
+      "summary_raw": "Swiss officials said relations would be kept through North Korea's embassy in Bern, and its own embassy in Beijing.",
+      "id": "698f3db2b9ff"
     },
     {
       "source": "Science Daily",
-      "title": "A simple metal is hiding a strange new form of magnetism",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261123005341.htm",
-      "published_at": "2026-11-24T11:18:20+00:00",
-      "summary_raw": "Scientists have discovered a strange form of magnetism in an ordinary-looking metal that has no overall magnetization yet profoundly changes how electrons behave. The breakthrough offers a promising new path toward understanding exotic quantum materials and developing future electronic technologies.",
-      "id": "9c3ea9093e72"
+      "title": "Physicists trap antimatter in a breakthrough that could explain why the universe exists",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261124055849.htm",
+      "published_at": "2026-11-25T10:06:22+00:00",
+      "summary_raw": "Positrons are the antimatter counterpart of an electron. Physicists trapped a positron and cooled it to temperatures near absolute zero. Positron is suspended in a wall-free trap, safely separated from ordinary matter. Team will conduct most precise comparison yet between matter and antimatter. Any difference between the electron and positron could expose cracks in the Standard Model of particle physics.",
+      "id": "16dfb72df17e"
     },
     {
       "source": "WRAL Local",
-      "title": "Deputies ask for helping finding suspect in deadly shooting that involved crash at Johnston Co. home",
-      "link": "https://www.wral.com/news/local/deputies-ask-for-help-shooting-suspect-crash-johnston-county-home-nov-2026/",
-      "published_at": "2026-11-24T22:36:13+00:00",
-      "summary_raw": "According to the Johnston County Sheriff's Office, deputies identified 20-year-old Kaseem Nijil Jones as a suspect in a shooting on Nov. 20 at a home on Ravensworth Drive. Part of the home was also damaged in a crash.",
-      "id": "dc73192ae9f8"
+      "title": "Cary teen uses AI to study kidney cancer, presents research at national conference",
+      "link": "https://www.wral.com/news/local/cary-teen-ai-study-kidney-cancer-national-conference-november-2026/",
+      "published_at": "2026-11-25T16:29:36+00:00",
+      "summary_raw": "A 15-year-old Green Level High School sophomore presented his research at a national conference, exploring how artificial intelligence could help doctors determine whether a patient's kidney cancer has already spread.",
+      "id": "7be77c310991"
     },
     {
       "source": "WRAL Weather",
@@ -188,51 +244,51 @@
     },
     {
       "source": "Wired",
-      "title": "iRestore Elite Laser Hair Growth System Review: Husband-Approved",
-      "link": "https://www.wired.com/review/irestore-elite-laser-hair-growth-system/",
-      "published_at": "2026-11-24T19:00:00+00:00",
-      "summary_raw": "Here’s how his scalp fared after several months of using the iRestore Elite Laser Hair Growth System.",
-      "id": "86c333d22d7b"
+      "title": "The Best TVs We’ve Tested (2026): Samsung, LG, TCL, Sony, and More.",
+      "link": "https://www.wired.com/story/best-tvs/",
+      "published_at": "2026-11-25T11:30:00+00:00",
+      "summary_raw": "Affordable QLEDs, glorious RGB, premium OLEDs—these are our favorite televisions across every category.",
+      "id": "404b88dc67de"
     },
     {
       "source": "NPR Politics",
-      "title": "Trump takes credit for Jensen Huang returns to Nvidia, says its good for the economy",
-      "link": "https://www.npr.org/2026/11/24/nx-s1-6051045/trump-takes-credit-for-jensen-huang-returns-to-nvidia-says-its-good-for-the-economy",
-      "published_at": "2026-11-24T11:42:24+00:00",
-      "summary_raw": "President Trump touted the return of Jensen Huang to Nvidia's C-suite as good for the company -- and good for the United States economy.",
-      "id": "ecd26f985ffd"
+      "title": "Jensen Huang returns to Nvidia. And, Rep. Gomez resigns amid alleged sexual misconduct",
+      "link": "https://www.npr.org/2026/11/24/g-s1-155227/up-first-newsletter-nvidia-jensen-huang-trump-ukraine-russia-jimmy-gomez",
+      "published_at": "2026-11-24T12:12:25+00:00",
+      "summary_raw": "President Trump took credit for negotiating Jensen Huang's return as CEO of Nvidia. And, Rep. Jimmy Gomez, D-Calif., says his resignation will be effective Dec. 1.",
+      "id": "a64217797322"
     },
     {
       "source": "NPR National",
-      "title": "Black travelers on Route 66 weren't welcome at most gas stations — except this one",
-      "link": "https://www.npr.org/2026/11/24/nx-s1-5928337/threatt-filling-station-oklahoma-route-66",
-      "published_at": "2026-11-24T10:00:00+00:00",
-      "summary_raw": "Threatt Filling Station in Luther, Okla., was the first Black-owned gas station on Route 66. At a time when Black families needed the Green Book to find places to stay, eat, use the bathroom, it provided fuel and respite.",
-      "id": "06495187e832"
+      "title": "Army detonates nearly five tons of lead-based explosives in Iowa",
+      "link": "https://www.npr.org/2026/11/25/nx-s1-6052338/army-detonation-lead-explosives-iowa",
+      "published_at": "2026-11-25T09:41:05+00:00",
+      "summary_raw": "The controlled detonation of more than 60 barrels — roughly five tons — of unstable lead azide at the Iowa Army Ammunition Plant in Middletown, Iowa is complete.",
+      "id": "4aeb055c2aeb"
     },
     {
       "source": "BBC World",
-      "title": "Nigerian monarch, 92, suspended after sexual assault claims",
-      "link": "https://www.bbc.co.uk/news/articles/cmglrz462nn6o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-24T19:10:31+00:00",
-      "summary_raw": "The Emir of Daura is one of Nigeria's best-known monarchs, with politicians often trying to gain his support.",
-      "id": "32f5991ae60e"
+      "title": "Colombian police storm supermarket to free 76 held hostage for 17 hours",
+      "link": "https://www.bbc.co.uk/news/articles/ckp80mjr9emyo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-25T18:41:33+00:00",
+      "summary_raw": "One gunman was killed after what the country's president described as a robbery of a cash-laden armoured car gone wrong.",
+      "id": "3e6352448737"
     },
     {
       "source": "Science Daily",
-      "title": "2,200-year-old Roman shipwreck reveals an ingenious waterproofing trick",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261123232342.htm",
-      "published_at": "2026-11-24T11:09:06+00:00",
-      "summary_raw": "A 2,200-year-old Roman shipwreck has revealed sophisticated waterproofing techniques involving pine tar and beeswax. Microscopic pollen grains trapped in the ancient coatings are now helping scientists reconstruct where the vessel may have traveled and undergone repairs more than two millennia ago.",
-      "id": "f423ade633ad"
+      "title": "What is a thought made of? Why human consciousness may be beyond AI’s reach",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261124055712.htm",
+      "published_at": "2026-11-25T09:30:54+00:00",
+      "summary_raw": "A new theory suggests that the brain may chemically encode and retrieve memories rather than relying solely on electrical signals. Researchers propose that interactions between brain cells and their molecular surroundings could help explain the intimate connection between memory, emotion, and thought. Their findings challenge the assumption that increasingly powerful computers could eventually develop human-like consciousness.",
+      "id": "9226f0797834"
     },
     {
       "source": "WRAL Local",
-      "title": "Raleigh-area family relishes chance to appear on Family Feud",
-      "link": "https://www.wral.com/news/local/triangle-family-takes-on-family-feud-november-2026/",
-      "published_at": "2026-11-24T22:29:04+00:00",
-      "summary_raw": "Ashley Gaddy Robbins, who grew up south of Raleigh, said competing with her family on the trivia classic this week was an intergenerational experience",
-      "id": "7a20817ff8b0"
+      "title": "Raleigh house fire displaces 6, injures firefighter",
+      "link": "https://www.wral.com/news/local/raleigh-house-fire-futura-lane-november-2026/",
+      "published_at": "2026-11-25T15:30:40+00:00",
+      "summary_raw": "Raleigh firefighters extinguished a fire at a house on Futura Lane Wednesday morning. Six people were displaced and a firefighter suffered minor injuries.",
+      "id": "de03f10a22e1"
     },
     {
       "source": "WRAL Weather",
@@ -244,11 +300,59 @@
     },
     {
       "source": "Wired",
-      "title": "Jensen Huang Apologizes to Nvidia Employees in First All-Hands Since His Return",
-      "link": "https://www.wired.com/story/jensen-huang-apologizes-to-nvidia-employees-in-first-all-hands-since-his-return/",
-      "published_at": "2026-11-24T17:44:53+00:00",
-      "summary_raw": "The Nvidia CEO opened up about his personal life, defended his reinstatement, and acknowledged that his intense management style had hurt his staff.",
-      "id": "cdbba97256f8"
+      "title": "Airplane Turbulence Is Extremely Hard to Predict, but Maybe Not for Long",
+      "link": "https://www.wired.com/story/airplane-turbulence-is-extremely-hard-to-predict-and-avoid/",
+      "published_at": "2026-11-25T11:30:00+00:00",
+      "summary_raw": "The “hardest remaining problem in classical physics” gets a boost from terabytes of crowdsourced data and new ways of using machine learning and AI.",
+      "id": "060922a73e08"
+    },
+    {
+      "source": "NPR Politics",
+      "title": "Trump takes credit for Jensen Huang returns to Nvidia, says its good for the economy",
+      "link": "https://www.npr.org/2026/11/24/nx-s1-6051045/trump-takes-credit-for-jensen-huang-returns-to-nvidia-says-its-good-for-the-economy",
+      "published_at": "2026-11-24T11:42:24+00:00",
+      "summary_raw": "President Trump touted the return of Jensen Huang to Nvidia's C-suite as good for the company -- and good for the United States economy.",
+      "id": "ecd26f985ffd"
+    },
+    {
+      "source": "NPR National",
+      "title": "Iowans are worried about toxic fallout from a planned detonation. A look at the risks",
+      "link": "https://www.npr.org/2026/11/25/nx-s1-6052432/what-are-the-environmental-risks-of-the-lead-azide-detonation-in-iowa",
+      "published_at": "2026-11-25T09:40:28+00:00",
+      "summary_raw": "NPR's Michel Martin speaks with Kerri Johannsen, policy director with the Iowa Environmental Council, about the environmental risks of the planned lead azide detonation.",
+      "id": "e01eb216da8c"
+    },
+    {
+      "source": "BBC World",
+      "title": "US stocks fall further as fears over AI intensify",
+      "link": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-25T17:48:09+00:00",
+      "summary_raw": "All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%.",
+      "id": "b0a4bca125be"
+    },
+    {
+      "source": "Science Daily",
+      "title": "Stanford scientists discover 3 hidden brain types behind ADHD and anxiety",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261124055713.htm",
+      "published_at": "2026-11-25T04:11:59+00:00",
+      "summary_raw": "An AI-powered analysis of thousands of children's brain scans has revealed three distinct brain types underlying ADHD and anxiety that do not neatly fit traditional diagnoses. These hidden biological patterns can appear before a diagnosis is made, potentially enabling earlier detection and more effective, personalized treatments.",
+      "id": "8a3840a9274a"
+    },
+    {
+      "source": "WRAL Local",
+      "title": "Report: Man accused of killing 2 people in Wilson e-bike crash was driving over the legal limit",
+      "link": "https://www.wral.com/news/local/wilson-e-bike-crash-collin-mclaughlin-blood-test-results-alcohol-november-2026/",
+      "published_at": "2026-11-25T14:58:50+00:00",
+      "summary_raw": "According to the North Carolina State Crime Laboratory's blood test report, Collin McLaughlin's blood ethanol concentration was 0.086.",
+      "id": "203f2733876b"
+    },
+    {
+      "source": "Wired",
+      "title": "The ‘True Crime Community’ Is Inspiring Violent Attacks Through TikTok",
+      "link": "https://www.wired.com/story/the-true-crime-community-is-inspiring-violent-attacks-through-tiktok/",
+      "published_at": "2026-11-25T11:00:00+00:00",
+      "summary_raw": "Attacks linked to a network of young people obsessed with mass shooters are greatly increasing, research shared with WIRED shows, as the nihilistic group uses TikTok and AI to spread its message.",
+      "id": "d3060987aebe"
     },
     {
       "source": "NPR Politics",
@@ -260,51 +364,43 @@
     },
     {
       "source": "NPR National",
-      "title": "Meet Colombia's fuzzy 'water guardians'",
-      "link": "https://www.npr.org/2026/11/24/nx-s1-6038806/colombia-water-plants-frailejons",
-      "published_at": "2026-11-24T10:00:00+00:00",
-      "summary_raw": "High in the Colombian Andes, a growing number of volunteers are racing to save an unusual plant that helps supply water to millions — one tiny seedling at a time.",
-      "id": "b0b220d96156"
+      "title": "Kilmar Abrego Garcia leaves U.S. voluntarily for Spain",
+      "link": "https://www.npr.org/2026/11/25/nx-s1-6053203/abrego-garcia-leaves-us",
+      "published_at": "2026-11-25T09:19:50+00:00",
+      "summary_raw": "Abrego Garcia, a Salvadoran immigrant who became a symbol of Trump's mass deportation campaign, voluntarily left the country on Tuesday after nearly two years of legal battles.",
+      "id": "3d49b100bd90"
     },
     {
       "source": "BBC World",
-      "title": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight",
-      "link": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-24T18:07:46+00:00",
-      "summary_raw": "Saurav Das says immigration authorities at Delhi airport told him his passport had been flagged.",
-      "id": "a89fd41ccff6"
+      "title": "Images of asteroid targeted to test Earth's defences reveal stadium-sized crater",
+      "link": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-25T17:30:16+00:00",
+      "summary_raw": "The asteroid's surface was transformed after a spacecraft was deliberately crashed into it four years ago",
+      "id": "d544dfc5c122"
     },
     {
       "source": "Science Daily",
-      "title": "Cannabis users develop psychosis years earlier, and the gap grows with age",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261123005346.htm",
-      "published_at": "2026-11-24T10:57:44+00:00",
-      "summary_raw": "A major analysis of 149 studies found that cannabis users develop psychosis an average of 2.5 years earlier than non-users, with the difference growing to more than six years among adults 30 and older. Researchers warn that cannabis-related psychiatric risks may accumulate over time, challenging the belief that using marijuana after adolescence is relatively safe.",
-      "id": "4207b01bfb1d"
+      "title": "Physicists just sent an unblockable message through a brick wall using gravity",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261123005343.htm",
+      "published_at": "2026-11-25T02:29:38+00:00",
+      "summary_raw": "Scientists have successfully transmitted a message through a brick wall using nothing but gravity, an old elevator, and an incredibly sensitive detector. By moving a massive counterweight between two positions, researchers encoded the word \"Gravity\" into tiny changes in gravitational pull. Unlike Wi-Fi or radio signals, gravity passes through ordinary barriers without being blocked, offering a potentially revolutionary way to communicate.",
+      "id": "48e6eb0f71e2"
     },
     {
       "source": "WRAL Local",
-      "title": "It's turkey time! How to keep your Thanksgiving feast safe",
-      "link": "https://www.wral.com/news/local/turkey-time-safety-tips-november-2026/",
-      "published_at": "2026-11-24T21:16:48+00:00",
-      "summary_raw": "You can’t see, smell, or taste harmful bacteria that could cause sickness. Following these Thanksgiving safety tips will keep your family healthy and full.",
-      "id": "4acb769f5e9e"
-    },
-    {
-      "source": "WRAL Weather",
-      "title": "BepiColombo orbits Mercury after eight-year journey. The science is just beginning",
-      "link": "https://www.wral.com/weather/bepicolombo-nov-2026/",
-      "published_at": "2026-11-22T16:02:11+00:00",
-      "summary_raw": "The European-Japanese mission will soon deploy two spacecraft to investigate Mercury's interior, magnetic field and mysterious polar ice deposits.",
-      "id": "90903d4bb85a"
+      "title": "Run like a beast before you feast: Raleigh turkey trots",
+      "link": "https://www.wral.com/news/local/raleigh-turkey-trots-thanksgiving-november-2026/",
+      "published_at": "2026-11-25T14:39:03+00:00",
+      "summary_raw": "There are two major turkey trots in Raleigh on Thanksgiving. Wear your favorite Thanksgiving hat, tutu, or turkey costume and run around the city to raise money for charity.",
+      "id": "5346f6fe96b7"
     },
     {
       "source": "Wired",
-      "title": "The 24 Very Best Amazon Black Friday Deals to Get Now (2026)",
-      "link": "https://www.wired.com/story/amazon-black-friday-deals-11-24-2026/",
-      "published_at": "2026-11-24T16:44:25+00:00",
-      "summary_raw": "For die-hard Amazon shoppers, the retailer’s “Black Friday Week” sale is now live. Grab these deals on our favorite (and tested) products through November 30.",
-      "id": "1026a1bec81f"
+      "title": "A Journey Through the Absurd Hell of Trump’s Third-Country Deportations",
+      "link": "https://www.wired.com/story/journey-through-the-pathetic-absurd-hell-of-trumps-third-country-deportations/",
+      "published_at": "2026-11-25T11:00:00+00:00",
+      "summary_raw": "How a Thai-born, US-raised Cambodian refugee ended up a prisoner of Africa’s last absolute monarch.",
+      "id": "dcdafdf141e7"
     },
     {
       "source": "NPR Politics",
@@ -316,43 +412,43 @@
     },
     {
       "source": "NPR National",
-      "title": "This group of seamstresses mends shirts to make chemo easier for cancer patients",
-      "link": "https://www.npr.org/2026/11/24/nx-s1-6044239/this-group-of-seamstresses-mends-shirts-to-make-dressing-easier-for-cancer-patients",
-      "published_at": "2026-11-24T09:52:48+00:00",
-      "summary_raw": "Seamstresses in Ohio and other states are making zippered shirts for cancer patients so they can more comfortably undergo chemotherapy treatments.",
-      "id": "f9c6333989a7"
+      "title": "These deer walk 300 miles a year. The race is on to save their migration",
+      "link": "https://www.npr.org/2026/11/24/nx-s1-6022517/wildlife-migration-wyoming-deer-yellowstone",
+      "published_at": "2026-11-24T22:52:44+00:00",
+      "summary_raw": "Mule deer in Wyoming make some of the longest land migrations in the lower 48 states. They're trying to adapt to a changing climate, but growing development could stand in their way.",
+      "id": "6c5b264a92c5"
     },
     {
       "source": "BBC World",
-      "title": "Zimbabwean convicted in South Africa of trying to fight in Ukraine",
-      "link": "https://www.bbc.co.uk/news/articles/cmqj5qlj5yz9o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-24T17:04:00+00:00",
-      "summary_raw": "Hundreds of people from different African countries have been recruited to fight for Russia, according to Ukraine.",
-      "id": "3c3424d48cb2"
+      "title": "US announces new tariffs on host of countries including China",
+      "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-25T16:21:34+00:00",
+      "summary_raw": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
+      "id": "46f59a81253d"
     },
     {
       "source": "Science Daily",
-      "title": "Scientists discover a new type of depression that common antidepressants struggle to treat",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261123005352.htm",
-      "published_at": "2026-11-24T10:47:51+00:00",
-      "summary_raw": "Researchers have discovered a new subtype of depression that may affect nearly one in four people with severe, recurrent, or persistent depression. Known as \"circadian depression,\" it is linked to the body's internal clock and is associated with night owl tendencies, excessive sleep, persistent exhaustion, and more severe symptoms. Traditional antidepressants often work less effectively for these individuals, potentially explaining why some people struggle to find relief.",
-      "id": "d4d9fd50205b"
+      "title": "Einstein’s 120-year-old theory may be missing something big about the Big Bang",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261121221119.htm",
+      "published_at": "2026-11-25T01:35:04+00:00",
+      "summary_raw": "A surprising discovery by MIT and UC Santa Barbara physicists reveals that Einstein’s famous theory of particle motion misses something important when particles travel near the speed of light. Their new calculations show that heavy quarks moving through an ultra-hot plasma experience rare but unusually powerful jolts that Einstein’s traditional model cannot fully explain.",
+      "id": "45a8edf6953e"
     },
     {
       "source": "WRAL Local",
-      "title": "Charges dropped against Democratic NC congresswoman-elect LaKesha Womack in rental car case",
-      "link": "https://www.wral.com/news/local/charges-dropped-against-democratic-nc-congresswoman-elect-lakesha-womack-rental-car-november-2026/",
-      "published_at": "2026-11-24T21:09:35+00:00",
-      "summary_raw": "LaKesha Womack, the newly elected congresswoman in North Carolina's 14th Congressional District, is no longer facing criminal charges for failure to return a rented motor vehicle.",
-      "id": "5a1b3fd6dce0"
+      "title": "Pedestrian hit and killed along Ramsey Street in Fayetteville",
+      "link": "https://www.wral.com/news/local/fayetteville-pedestrian-hit-and-killed-ramsey-street-november-2026/",
+      "published_at": "2026-11-25T13:58:19+00:00",
+      "summary_raw": "Police said the victim was pronounced dead at the scene. It happened around 6:20 a.m. on Ramsey Street near Facility Drive.",
+      "id": "edfb6ddb2ab6"
     },
     {
       "source": "Wired",
-      "title": "Best Black Friday Nintendo Switch 2 Deals (2026): Bundles, Games",
-      "link": "https://www.wired.com/story/best-black-friday-nintendo-switch-deals-11-24-26/",
-      "published_at": "2026-11-24T16:28:01+00:00",
-      "summary_raw": "Get your game on for less with these Black Friday deals on official Nintendo Switch 2 bundles and games.",
-      "id": "d7379a0c833e"
+      "title": "The Best iPhone Duo Cases and Accessories (2026)",
+      "link": "https://www.wired.com/story/best-iphone-duo-cases-and-accessories/",
+      "published_at": "2026-11-25T10:45:00+00:00",
+      "summary_raw": "Protect and enhance your iPhone Duo with one of our favorite cases or accessories.",
+      "id": "d5d86242a37d"
     },
     {
       "source": "NPR Politics",
@@ -364,43 +460,43 @@
     },
     {
       "source": "NPR National",
-      "title": "Residents of Berkeley, California, vote to double their soda tax",
-      "link": "https://www.npr.org/2026/11/24/nx-s1-6049118/residents-of-berkeley-california-vote-to-double-their-soda-tax",
-      "published_at": "2026-11-24T09:51:52+00:00",
-      "summary_raw": "Since 2014, Berkeley, California has had an extra tax on soda and sugary drinks. During the midterms, residents voted to double that tax.",
-      "id": "320ae8b29e00"
+      "title": "The Army says there's no reason to panic over controlled ammunition detonation in Iowa",
+      "link": "https://www.npr.org/2026/11/24/nx-s1-6053004/the-army-says-theres-no-reason-to-panic-over-controlled-ammunition-detonation-in-iowa",
+      "published_at": "2026-11-24T22:42:19+00:00",
+      "summary_raw": "The U.S. Army says it has taken precautions and there's no reason to panic about its' plan to detonate unusable bomb making material at its ammunition plant in Iowa, scheduled for Wednesday morning.",
+      "id": "84b540bb50ae"
     },
     {
       "source": "BBC World",
-      "title": "French ex-President Sarkozy and wife Carla Bruni to face trial",
-      "link": "https://www.bbc.co.uk/news/articles/c65y17pwv1z7o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-24T16:49:07+00:00",
-      "summary_raw": "It is the latest case involving Nicolas Sarkozy who became the first French ex-president to go to jail last year.",
-      "id": "7d28aadd3668"
+      "title": "South Africa's Ramaphosa wins court battle over impeachment threat",
+      "link": "https://www.bbc.co.uk/news/articles/cq4gn6gj3z37o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-25T15:42:50+00:00",
+      "summary_raw": "The break-in happened in 2020, when thieves allegedly stole bundles of US dollar bills hidden inside a sofa at the farm.",
+      "id": "0ceb93550e24"
     },
     {
       "source": "Science Daily",
-      "title": "Ancient rocks from the Moon’s far side rewrite the Solar System’s violent past",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261121221136.htm",
-      "published_at": "2026-11-24T10:24:43+00:00",
-      "summary_raw": "Scientists studying ancient rocks from the Moon’s far side have uncovered surprising evidence that challenges decades of thinking about the Solar System’s violent past. Instead of a single catastrophic bombardment, asteroid impacts appear to have declined gradually over billions of years, revealing new clues about Earth's early evolution and the origins of life.",
-      "id": "d9e86a5d1c27"
+      "title": "Scientists discover a hidden gut defense that could prevent colon cancer",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261123005348.htm",
+      "published_at": "2026-11-25T01:09:43+00:00",
+      "summary_raw": "A common antibody in the gut may be a powerful natural defense against colon cancer, with researchers finding that mice lacking it developed more than twice as many tumors. Restoring the antibody eliminated the increased risk, revealing a promising new avenue for preventing cancer before it starts.",
+      "id": "4bd195cd2c61"
     },
     {
       "source": "WRAL Local",
-      "title": "Airlines brace for impact, offer travel waivers ahead of a stormy Thanksgiving holiday",
-      "link": "https://www.wral.com/news/local/thanksgiving-travel-airlines-waivers-november-2026/",
-      "published_at": "2026-11-24T20:59:52+00:00",
-      "summary_raw": "Delta is allowing passengers traveling to, from, and through several cities across the Northeast to change their flight at no extra cost",
-      "id": "be79160c21da"
+      "title": "Baby watch: Kat Campbell is forecasting a baby girl in the weeks ahead",
+      "link": "https://www.wral.com/news/local/kat-campbell-baby-watch-wral-november-2026/",
+      "published_at": "2026-11-25T13:42:29+00:00",
+      "summary_raw": "WRAL meteorologist Kat Campbell and husband Jack are expecting their first child in December.",
+      "id": "25875da95643"
     },
     {
       "source": "Wired",
-      "title": "Anthropic Created a Honeypot to Lure AI Agents Into Misbehaving",
-      "link": "https://www.wired.com/story/ai-agents-can-get-honeypotted-too-aw/",
-      "published_at": "2026-11-24T16:00:00+00:00",
-      "summary_raw": "A new test assumes AI agents can go rogue—and asks whether they can resist temptation.",
-      "id": "505d7d1b345a"
+      "title": "Shop Small: Our Favorite Gifts From Independent Businesses (2026)",
+      "link": "https://www.wired.com/story/shop-small-gift-guide-2026/",
+      "published_at": "2026-11-25T10:32:00+00:00",
+      "summary_raw": "Here are 11 independent stores WIRED editors love and the gifts we’d order from them on Shop.com.",
+      "id": "98857d2db122"
     },
     {
       "source": "NPR Politics",
@@ -412,235 +508,139 @@
     },
     {
       "source": "NPR National",
-      "title": "Chicago now has the worst traffic in the U.S. — here's why",
-      "link": "https://www.npr.org/2026/11/23/nx-s1-6038839-e1/chicago-now-has-the-worst-traffic-in-the-u-s-heres-why",
-      "published_at": "2026-11-23T22:05:12+00:00",
-      "summary_raw": "Chicago takes the top ranking for traffic jams according to a pair of new analyses, and according to its many, many frustrated drivers who waste hours of their lives stuck in them.",
-      "id": "732bee84d10a"
+      "title": "How tariffs, fuel and fertilizer costs are squeezing the U.S.'s biggest apple region",
+      "link": "https://www.npr.org/sections/the-picture-show/2026/11/24/g-s1-154620/how-high-costs-are-squeezing-apple-producers",
+      "published_at": "2026-11-24T21:09:29+00:00",
+      "summary_raw": "Washington's $9 billion industry grows more than 70% of the nation's fresh apples. Farmers are being pressed by high costs, tariffs and a strong dollar that diminishes foreign purchasing power.",
+      "id": "b5cd0a714d58"
     },
     {
       "source": "BBC World",
-      "title": "Israeli air strike kills Hamas internal security chief in Gaza",
-      "link": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-24T15:35:53+00:00",
-      "summary_raw": "Naeem Abu Nahel, who had been in the post for two months, is among seven Palestinians reportedly killed in Israeli strikes on Tuesday.",
-      "id": "166a59f8656d"
+      "title": "Canadian astronaut welcomes baby girl from space station",
+      "link": "https://www.bbc.co.uk/news/articles/ckx283y8wwwgo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-25T15:41:39+00:00",
+      "summary_raw": "Joshua Kutryk, currently on his first space mission, is just the fourth astronaut in history to miss the birth of a child while aboard the International Space Station.",
+      "id": "c6bbe64577d4"
     },
     {
       "source": "Science Daily",
-      "title": "Earth's next ice age may have already begun. Global warming stopped it",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261123005350.htm",
-      "published_at": "2026-11-24T09:29:15+00:00",
-      "summary_raw": "Scientists have uncovered surprising evidence that Earth’s next ice age may have already begun, only to be stopped by global warming. By studying ancient plants preserved beneath the Barnes Ice Cap in the Canadian Arctic, researchers discovered that the remnants of a massive ice sheet began expanding again about 2,000 years ago, signaling the possible start of a new glacial period. But by the 1960s, rising temperatures had reversed that growth, causing the ice to shrink instead.",
-      "id": "c871e71d7349"
+      "title": "New nose drops restore youthful memory and fight Alzheimer’s in aging mice",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261123005337.htm",
+      "published_at": "2026-11-24T23:31:52+00:00",
+      "summary_raw": "A revolutionary new nasal treatment has restored youthful learning and memory performance in aging mice while preventing severe cognitive decline in mice with Alzheimer’s-like disease. Developed using technology similar to COVID-19 mRNA vaccines, the nose drops stimulate production of a brain-protecting protein that strengthens neurons and supports memory. Remarkably, the treatment preserved brain function without removing Alzheimer’s-associated plaques, suggesting a completely different way to combat cognitive decline.",
+      "id": "082cb587f7e8"
     },
     {
       "source": "WRAL Local",
-      "title": "Fact-checking claims tying the FAA ground stop to AI company that donated to Duffy's son-in-law",
-      "link": "https://www.wral.com/news/state/fact-check-faa-ground-stop-ai-company-duffy-alfonso-november-24/",
-      "published_at": "2026-11-24T20:47:57+00:00",
-      "summary_raw": "After a Nov. 13 nationwide ground stop affected thousands of flights and left about 1.5 million people stranded, social media observers noted the recent launch of a new artificial intelligence system deployed across air route traffic control centers.",
-      "id": "f91bf4ef3934"
+      "title": "Multiple crashes close parts of I-95 in Robeson County near Parkton and Lumberton",
+      "link": "https://www.wral.com/news/local/i-95-south-closed-robeson-county-fayetteville-lumberton-november-2026/",
+      "published_at": "2026-11-25T13:33:37+00:00",
+      "summary_raw": "The North Carolina Department of Transportation said one of the crashes happened near the exit to I-295. The other happened in Lumberton, closing the right lane on the northbound side.",
+      "id": "a5f6259789a7"
     },
     {
       "source": "Wired",
-      "title": "Thanksgiving Travel Will Be a Stormy Mess",
-      "link": "https://www.wired.com/story/thanksgiving-travel-will-be-stormy-mess/",
-      "published_at": "2026-11-24T15:12:31+00:00",
-      "summary_raw": "Snow, wind, rain, flooding. Storms on both coasts mean the holiday travel week will have it all—and it could wreak havoc at airports across the US.",
-      "id": "4d7d80b64b22"
-    },
-    {
-      "source": "NPR Politics",
-      "title": "Democrats win House by largest margin in 50 years. And, COP31 ends with no deal",
-      "link": "https://www.npr.org/2026/11/23/g-s1-155021/up-first-newsletter-midterms-house-ai-stocks-poland-nato-cop31",
-      "published_at": "2026-11-23T12:42:03+00:00",
-      "summary_raw": "Democrats have currently flipped 47 House seats and could flip 49 total. And, climate change talks at COP31 ran two days longer than expected, becoming the longest conference in the summit's history.",
-      "id": "97e4769547f8"
-    },
-    {
-      "source": "NPR National",
-      "title": "Seniors embrace Tesla automated driving technology despite questions about safety",
-      "link": "https://www.npr.org/2026/11/23/nx-s1-6020559/senior-drivers-tesla-automated-driving-safety",
-      "published_at": "2026-11-23T10:00:00+00:00",
-      "summary_raw": "Older drivers are using Tesla's automated driving technology to stay on the road longer. But safety experts warn the company may be over-selling what its cars can do.",
-      "id": "cb88e1b28dca"
+      "title": "The 6 Best Latte Machines for Automatic Espresso Drinks (2026)",
+      "link": "https://www.wired.com/story/best-latte-and-cappuccino-machines/",
+      "published_at": "2026-11-25T10:17:00+00:00",
+      "summary_raw": "Whether you want a cappuccino at the push of a button or an iced latte with cold foam, we found a machine that makes it easy.",
+      "id": "48583d6eea94"
     },
     {
       "source": "BBC World",
-      "title": "Land mine casualties soar in Syria, two years after war",
-      "link": "https://www.bbc.co.uk/news/articles/c893rl37ywdgo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-24T15:17:28+00:00",
-      "summary_raw": "Nearly 1,000 children are among those killed or injured by explosives left over from the conflict, figures show.",
-      "id": "63b5a4aa3f69"
+      "title": "Five Russian military jets hit in airfield strike, says Ukraine",
+      "link": "https://www.bbc.co.uk/news/articles/ck9q8xp5r5pgo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-25T14:46:41+00:00",
+      "summary_raw": "The Savasleyka airfield hosts aircraft used by Russia to launch hypersonic missiles and glide bombs at Ukraine.",
+      "id": "b1c1b672a57f"
     },
     {
       "source": "Science Daily",
-      "title": "IBM quantum computer solves problem classical computers can’t in just 15 minutes",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261123231244.htm",
-      "published_at": "2026-11-24T04:46:12+00:00",
-      "summary_raw": "IBM and University of Chicago researchers have demonstrated that a quantum computer can complete an extraordinarily complex calculation in just 15 minutes, beyond the practical reach of leading classical computing methods. A novel error-detection technique also allows scientists to establish confidence in the accuracy of the results, overcoming a major hurdle in quantum computing.",
-      "id": "3ab016542103"
-    },
-    {
-      "source": "WRAL Local",
-      "title": "Triangle performers to take center stage in 100th Macy’s Thanksgiving Day Parade",
-      "link": "https://www.wral.com/news/local/triangle-performers-take-stage-in-100th-macys-thanksgiving-day-parade-november-2026/",
-      "published_at": "2026-11-24T19:57:34+00:00",
-      "summary_raw": "An Athens Drive Magnet High School student and four Fuquay-Varina dancers will represent the Triangle in New York City as the Macy’s Thanksgiving Day Parade celebrates its 100th parade.",
-      "id": "bc6645ec7a4d"
+      "title": "A black hole the size of an atom could destroy an entire star",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261122060332.htm",
+      "published_at": "2026-11-24T20:58:15+00:00",
+      "summary_raw": "MIT scientists have discovered that tiny black holes left over from the Big Bang could slowly devour stars from within, eventually triggering spectacular explosions visible across galaxies. Detecting these unusual cosmic events could reveal the existence of primordial black holes and help solve the mystery of dark matter.",
+      "id": "d97b36890430"
     },
     {
       "source": "Wired",
-      "title": "8 Best Espresso Machines for Home (2026), Tested by Coffee Pros",
-      "link": "https://www.wired.com/gallery/best-espresso-machines/",
-      "published_at": "2026-11-24T12:32:00+00:00",
-      "summary_raw": "The best espresso makers can turn your kitchen into a café and help you hone the art of the perfect shot.",
-      "id": "305a03662579"
-    },
-    {
-      "source": "NPR Politics",
-      "title": "After midterm losses, Republicans debate what's next for the party",
-      "link": "https://www.npr.org/2026/11/23/nx-s1-6044259/after-midterm-losses-republicans-debate-whats-next-for-the-party",
-      "published_at": "2026-11-23T09:45:06+00:00",
-      "summary_raw": "In the wake of their midterm election losses, Republicans are discussing what happened and what the future might be for their party.",
-      "id": "a6168390bde6"
-    },
-    {
-      "source": "NPR National",
-      "title": "Let's talk turkey: Here's how Thanksgiving meal costs have changed this year",
-      "link": "https://www.npr.org/2026/11/23/nx-s1-6044207/thanksgiving-meal-costs",
-      "published_at": "2026-11-23T10:00:00+00:00",
-      "summary_raw": "Grocery costs have been on the rise, but food-price analysts say it's unclear if you'll spend more on the Thanksgiving meal this year. Some people are deciding not to host or are hosting fewer guests.",
-      "id": "dae74464c643"
+      "title": "Best Red-Light Therapy for Hair Growth and Restoration (2026)",
+      "link": "https://www.wired.com/story/best-red-light-therapy-for-hair-growth/",
+      "published_at": "2026-11-25T10:01:00+00:00",
+      "summary_raw": "Don’t fly to Turkey just yet. Our WIRED testers saw visible hair regrowth with these red-light therapy devices.",
+      "id": "769b185dccfc"
     },
     {
       "source": "BBC World",
-      "title": "Russian governor detained in rare criminal case against regional leader",
-      "link": "https://www.bbc.co.uk/news/articles/cmwy868v3nneo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-24T12:45:43+00:00",
-      "summary_raw": "Andrei Chibis, head of Russia's northern Murmansk region, is the first governor to be detained for five years.",
-      "id": "d30ce7187491"
+      "title": "Israeli strike kills senior Hamas security official and family in Gaza City",
+      "link": "https://www.bbc.co.uk/news/articles/cmd718zydz9qo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-25T14:06:13+00:00",
+      "summary_raw": "Mohammed Abu al-Ouf, head of Hamas's internal security service in northern Gaza, was killed with his wife and two teenage daughters, doctors say.",
+      "id": "3cf0ff09b047"
     },
     {
       "source": "Science Daily",
-      "title": "America is building just 10% of the power lines it needs, experts warn",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261123005339.htm",
-      "published_at": "2026-11-24T04:30:23+00:00",
-      "summary_raw": "America’s power grid is falling dangerously behind as electricity demand skyrockets, fueled by data centers, electric vehicles, and industry. The U.S. is building only 10% of the new high-voltage transmission lines experts say it needs, threatening higher energy prices and greater blackout risks. Researchers argue that political obstacles and outdated regulations, rather than technological limitations, are the real problem.",
-      "id": "1172f128174d"
-    },
-    {
-      "source": "WRAL Local",
-      "title": "Duke Energy's merger could save customers $2.3 billion. So why are rates going up?",
-      "link": "https://www.wral.com/news/local/duke-energy-merger-could-save-customers-money-electricity-rates-november-2026/",
-      "published_at": "2026-11-24T18:21:06+00:00",
-      "summary_raw": "Duke Energy's merger and rate increases take effect Jan. 1. Here's when customers could see savings, why rates will remain separate and how regulators plan to hold Duke accountable.",
-      "id": "6b3d9cee4eca"
+      "title": "A simple metal is hiding a strange new form of magnetism",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261123005341.htm",
+      "published_at": "2026-11-24T11:18:20+00:00",
+      "summary_raw": "Scientists have discovered a strange form of magnetism in an ordinary-looking metal that has no overall magnetization yet profoundly changes how electrons behave. The breakthrough offers a promising new path toward understanding exotic quantum materials and developing future electronic technologies.",
+      "id": "9c3ea9093e72"
     },
     {
       "source": "Wired",
-      "title": "Gift Ideas for Friends (2026): Wellness Tech, Kitchen Essentials",
-      "link": "https://www.wired.com/story/gifts-for-friends/",
-      "published_at": "2026-11-24T12:03:00+00:00",
-      "summary_raw": "These are the WIRED-tested gadgets, kitchen tools, and cozy comforts I’d actually buy for my own inner circle.",
-      "id": "1e23240ef7d9"
+      "title": "Not Just Nvidia: Inside Team Trump’s Takeover of Intel",
+      "link": "https://www.wired.com/story/inside-trumps-demands-to-another-chips-ceo/",
+      "published_at": "2026-11-25T10:00:00+00:00",
+      "summary_raw": "Donald Trump’s dealings with Intel reveal yet another government-led pressure campaign involving a private company, court documents show.",
+      "id": "d9aa103cea70"
     },
     {
       "source": "BBC World",
-      "title": "Car bomb tears through Colombian city wounding more than 20",
-      "link": "https://www.bbc.co.uk/news/articles/cjqlq2n4np7do?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-24T11:45:52+00:00",
-      "summary_raw": "The explosion is the latest in a string of attacks on buildings housing the security forces and government offices.",
-      "id": "d34a28e82727"
+      "title": "Veteran Nigerian Nollywood actor Pete Edochie dies aged 79",
+      "link": "https://www.bbc.co.uk/news/articles/cqwy0rr4rr4yo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-25T12:24:12+00:00",
+      "summary_raw": "Odochie rose to prominence in 1987 after starring in a television adaptation of Chinua Achebe's acclaimed novel Things Fall Apart.",
+      "id": "b7c528b88495"
     },
     {
       "source": "Science Daily",
-      "title": "Earth’s ancient oceans may have fooled scientists about its oxygen history",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261122060340.htm",
-      "published_at": "2026-11-24T01:36:51+00:00",
-      "summary_raw": "Earth’s journey from an oxygen-starved world to a planet capable of supporting complex life may have unfolded very differently than scientists once believed. A new analysis suggests that oxygen accumulated in the atmosphere in three major stages, with the oceans taking millions or even hundreds of millions of years to catch up.",
-      "id": "b5b507248c53"
+      "title": "2,200-year-old Roman shipwreck reveals an ingenious waterproofing trick",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261123232342.htm",
+      "published_at": "2026-11-24T11:09:06+00:00",
+      "summary_raw": "A 2,200-year-old Roman shipwreck has revealed sophisticated waterproofing techniques involving pine tar and beeswax. Microscopic pollen grains trapped in the ancient coatings are now helping scientists reconstruct where the vessel may have traveled and undergone repairs more than two millennia ago.",
+      "id": "f423ade633ad"
     },
     {
       "source": "Wired",
-      "title": "This Hollywood Star Took on Crypto. Now He’s Got a New Target",
-      "link": "https://www.wired.com/story/this-hollywood-star-took-on-crypto-now-hes-got-a-new-target/",
-      "published_at": "2026-11-24T12:00:00+00:00",
-      "summary_raw": "Ben McKenzie is launching a nonprofit to take on prediction markets. “There’s a real, real problem here,” he says.",
-      "id": "f5a62bd4deb9"
+      "title": "NordVPN Coupons: 75% Off + 3 Months Free",
+      "link": "https://www.wired.com/story/nordvpn-coupon/",
+      "published_at": "2026-11-25T06:00:00+00:00",
+      "summary_raw": "Save up to 77% on 2-year plans and get 3 free months with our NordVPN discount codes.",
+      "id": "76d7b35adeb9"
     },
     {
       "source": "BBC World",
-      "title": "Pope Francis' diary reveals claims he saw the devil three times",
-      "link": "https://www.bbc.co.uk/news/articles/cm78270l4z7no?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-24T11:10:57+00:00",
-      "summary_raw": "Published extracts from the late pontiff's diary claim one of the visions happened \"in the choir loft\" during Mass.",
-      "id": "c9f4372ea671"
+      "title": "Russia's own figures show it has lost nearly 500,000 people in Ukraine war",
+      "link": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-25T12:21:49+00:00",
+      "summary_raw": "Leaked data reveal how the full-scale invasion of Ukraine has fundamentally changed mortality patterns in Russia.",
+      "id": "7e72f32e3a5d"
     },
     {
       "source": "Science Daily",
-      "title": "Depression may be an early warning sign of Alzheimer's disease",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261121221134.htm",
-      "published_at": "2026-11-24T00:31:03+00:00",
-      "summary_raw": "Depression in older adults may be more than a mental health concern. Scientists discovered that accumulating tau protein, a hallmark of Alzheimer's disease, was linked to worsening depressive symptoms in people who still had normal memory and thinking abilities. The faster tau built up in the brain, the faster depressive symptoms increased, suggesting that mood changes could emerge before cognitive decline.",
-      "id": "35d9967650b3"
+      "title": "Cannabis users develop psychosis years earlier, and the gap grows with age",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261123005346.htm",
+      "published_at": "2026-11-24T10:57:44+00:00",
+      "summary_raw": "A major analysis of 149 studies found that cannabis users develop psychosis an average of 2.5 years earlier than non-users, with the difference growing to more than six years among adults 30 and older. Researchers warn that cannabis-related psychiatric risks may accumulate over time, challenging the belief that using marijuana after adolescence is relatively safe.",
+      "id": "4207b01bfb1d"
     },
     {
       "source": "Wired",
-      "title": "Best Early Black Friday AirPods Deals (2026)",
-      "link": "https://www.wired.com/story/best-early-black-friday-airpods-deals-11-24-2026/",
-      "published_at": "2026-11-24T11:45:00+00:00",
-      "summary_raw": "Black Friday is just days away, but AirPods discounts are dropping early.",
-      "id": "1604b901b2c4"
-    },
-    {
-      "source": "BBC World",
-      "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
-      "link": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-24T10:58:51+00:00",
-      "summary_raw": "German media said Russia planned to launch a satellite with a nuclear warhead into space in coming weeks.",
-      "id": "02260ed06ed2"
-    },
-    {
-      "source": "Science Daily",
-      "title": "Strange new materials can crawl, walk, and dig like living creatures",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261121221137.htm",
-      "published_at": "2026-11-24T00:05:29+00:00",
-      "summary_raw": "Scientists have developed remarkable materials that can crawl, walk, and dig using their own internal energy, potentially paving the way for a new generation of autonomous soft robots. They also discovered that making individual components more active can paradoxically make the entire material less responsive, challenging a long-standing principle of engineering.",
-      "id": "796cfad3d89f"
-    },
-    {
-      "source": "Wired",
-      "title": "‘GTA 6’ Is a Birder’s Paradise",
-      "link": "https://www.wired.com/story/gta-vi-birders-paradise/",
-      "published_at": "2026-11-24T11:45:00+00:00",
-      "summary_raw": "Here’s what it’s like to grab a pair of binoculars and go in search of the 62 species of birds that populate the game.",
-      "id": "c2c8a5074201"
-    },
-    {
-      "source": "BBC World",
-      "title": "Watch: Moment troops raid home and capture Mexican drug lord",
-      "link": "https://www.bbc.co.uk/news/videos/cm62p9y3y04qo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-24T09:09:41+00:00",
-      "summary_raw": "Newly-released bodycam footage shows the moment troops detained 'El Chapo Isidro', who had managed to evade capture for years.",
-      "id": "070b1238e170"
-    },
-    {
-      "source": "Science Daily",
-      "title": "New gum disease treatment kills bad bacteria while sparing the good",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261123005356.htm",
-      "published_at": "2026-11-23T11:55:17+00:00",
-      "summary_raw": "Researchers in Japan have developed an innovative gum disease treatment that uses egg yolk antibodies and near-infrared light to destroy harmful bacteria without harming beneficial microbes. Unlike conventional treatments, the approach preserves the mouth's natural bacterial balance and protects healthy gum cells. In mice, it significantly reduced the bone loss associated with periodontitis, a major cause of tooth loss.",
-      "id": "c9fd8a00c954"
-    },
-    {
-      "source": "Wired",
-      "title": "Now There’s a GLP-1 in Chocolate Form",
-      "link": "https://www.wired.com/story/now-theres-a-glp-1-in-chocolate-form/",
-      "published_at": "2026-11-24T11:30:00+00:00",
-      "summary_raw": "A telehealth clinic is offering orforglipron, the active ingredient in Eli Lilly’s prescription weight-loss pill Foundayo, in edible chocolate squares. Lilly is not amused.",
-      "id": "b10002b262e9"
+      "title": "Wayfair Coupons: Up to 80% Off November 2026",
+      "link": "https://www.wired.com/story/wayfair-promo-code/",
+      "published_at": "2026-11-25T06:00:00+00:00",
+      "summary_raw": "Get 10% off with Wayfair promo code, up to 80% off furniture, and more top coupons.",
+      "id": "26a96af05561"
     }
   ]
 }

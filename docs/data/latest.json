@@ -1,14 +1,70 @@
 {
   "mode": "raw",
-  "generated_at": "2026-11-24T21:03:32.590618+00:00",
+  "generated_at": "2026-11-25T03:22:19.813517+00:00",
   "items": [
     {
       "source": "WRAL Local",
-      "title": "Fact-checking claims tying the FAA ground stop to AI company that donated to Duffy's son-in-law",
-      "link": "https://www.wral.com/news/state/fact-check-faa-ground-stop-ai-company-duffy-alfonso-november-24/",
-      "published_at": "2026-11-24T20:47:57+00:00",
-      "summary_raw": "After a Nov. 13 nationwide ground stop affected thousands of flights and left about 1.5 million people stranded, social media observers noted the recent launch of a new artificial intelligence system deployed across air route traffic control centers.",
-      "id": "f91bf4ef3934"
+      "title": "Morrisville expands rental assistance eligibility following debate over who should benefit",
+      "link": "https://www.wral.com/news/local/morrisville-expands-rental-assistance-eligibility-following-debate-november-2026/",
+      "published_at": "2026-11-25T02:48:24+00:00",
+      "summary_raw": "After nearly an hour of discussion, Morrisville town council decided to move forward with upping the eligible income for public-sector workers to receive financial assistance. The change will allow more teachers, town employees and other public-sector workers to qualify for rental subsidies.",
+      "id": "b55f898fd03d"
+    },
+    {
+      "source": "WRAL Weather",
+      "title": "Traveling for Thanksgiving? Prepare for wet roads, intense gusts Wednesday night, Thursday",
+      "link": "https://www.wral.com/weather/thanksgiving-travel-forecast-raleigh-november-2026/",
+      "published_at": "2026-11-24T21:55:20+00:00",
+      "summary_raw": "Stay weather-aware if you are traveling for the holiday. Wet roads and gusty winds could create challenging driving conditions, particularly on Wednesday night and Thursday morning.",
+      "id": "5854368fef35"
+    },
+    {
+      "source": "Wired",
+      "title": "Jensen Huang’s Return Shows Nvidia Is Too Big to Police",
+      "link": "https://www.wired.com/story/jensen-huang-nvidia-us-national-security-risks/",
+      "published_at": "2026-11-24T23:39:04+00:00",
+      "summary_raw": "Nvidia’s place at the center of the US economy may have outweighed concerns about its CEO’s ties to a suspected Chinese intelligence asset, national security and foreign policy experts say.",
+      "id": "9c4024fd060d"
+    },
+    {
+      "source": "NPR Politics",
+      "title": "Moving to Florida may become a choice of some Republicans after midterms",
+      "link": "https://www.npr.org/2026/11/24/nx-s1-6050930/moving-to-florida-may-become-a-choice-of-some-republicans-after-midterms",
+      "published_at": "2026-11-24T22:54:01+00:00",
+      "summary_raw": "In Florida, Republicans kept power of state government after the midterms. It's now the largest state where the GOP is still in charge.",
+      "id": "b7bf1ecd4d0a"
+    },
+    {
+      "source": "NPR National",
+      "title": "The Army says there's no reason to panic over controlled ammunition detonation in Iowa",
+      "link": "https://www.npr.org/2026/11/24/nx-s1-6053004/the-army-says-theres-no-reason-to-panic-over-controlled-ammunition-detonation-in-iowa",
+      "published_at": "2026-11-24T22:42:19+00:00",
+      "summary_raw": "The U.S. Army says it has taken precautions and there's no reason to panic about its' plan to detonate unusable bomb making material at its ammunition plant in Iowa, scheduled for Wednesday morning.",
+      "id": "84b540bb50ae"
+    },
+    {
+      "source": "BBC World",
+      "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+      "link": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-25T02:59:27+00:00",
+      "summary_raw": "The verdict follows a months-long trial in New York.",
+      "id": "c980208310be"
+    },
+    {
+      "source": "Science Daily",
+      "title": "New nose drops restore youthful memory and fight Alzheimer’s in aging mice",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261123005337.htm",
+      "published_at": "2026-11-24T23:31:52+00:00",
+      "summary_raw": "A revolutionary new nasal treatment has restored youthful learning and memory performance in aging mice while preventing severe cognitive decline in mice with Alzheimer’s-like disease. Developed using technology similar to COVID-19 mRNA vaccines, the nose drops stimulate production of a brain-protecting protein that strengthens neurons and supports memory. Remarkably, the treatment preserved brain function without removing Alzheimer’s-associated plaques, suggesting a completely different way to combat cognitive decline.",
+      "id": "082cb587f7e8"
+    },
+    {
+      "source": "WRAL Local",
+      "title": "Durham police: Man charged with kidnapping, assault & other felonies arrested after chase",
+      "link": "https://www.wral.com/news/local/durham-robbery-suspect-arrested-chase-november-2026/",
+      "published_at": "2026-11-25T02:43:17+00:00",
+      "summary_raw": "According to the Durham Police Department, officers tried stopping a vehicle around 2:36 p.m. near the intersection of East Main Street and South Alston Avenue. Police said they had confirmed the driver, 25-year-old Shyree McCrea, had several warrants out.",
+      "id": "e102565e482d"
     },
     {
       "source": "WRAL Weather",
@@ -17,6 +73,62 @@
       "published_at": "2026-11-24T10:10:55+00:00",
       "summary_raw": "This Thanksgiving nor'easter could set the stage for a wetter winter in North Carolina.",
       "id": "e061f7009875"
+    },
+    {
+      "source": "Wired",
+      "title": "16 Best Black Friday Headphone Deals (2026): Up to 57% Off",
+      "link": "https://www.wired.com/story/best-black-friday-headphone-deals-11-24-26/",
+      "published_at": "2026-11-24T22:22:20+00:00",
+      "summary_raw": "Get up to 57 percent off some of my favorite headphones and earbuds from Apple, Sony, Nothing, and more.",
+      "id": "9be79ef9881a"
+    },
+    {
+      "source": "NPR Politics",
+      "title": "The U.S. government is investigating Iranian ties to as many as 50 hacked commercial vessels",
+      "link": "https://www.npr.org/2026/11/24/nx-s1-6052994/hack-commercial-vessels-iran",
+      "published_at": "2026-11-24T21:04:50+00:00",
+      "summary_raw": "The attacks, if officials who spoke to NPR are correct, may be the latest example of Iranian cyberattacks against global critical infrastructure during the war with the U.S.",
+      "id": "c88fba62507e"
+    },
+    {
+      "source": "NPR National",
+      "title": "How tariffs, fuel and fertilizer costs are squeezing the U.S.'s biggest apple region",
+      "link": "https://www.npr.org/sections/the-picture-show/2026/11/24/g-s1-154620/how-high-costs-are-squeezing-apple-producers",
+      "published_at": "2026-11-24T21:09:29+00:00",
+      "summary_raw": "Washington's $9 billion industry grows more than 70% of the nation's fresh apples. Farmers are being pressed by high costs, tariffs and a strong dollar that diminishes foreign purchasing power.",
+      "id": "b5cd0a714d58"
+    },
+    {
+      "source": "BBC World",
+      "title": "US attorney general dodges questions about Nvidia investigation",
+      "link": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-24T21:19:42+00:00",
+      "summary_raw": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
+      "id": "4708b2ad009b"
+    },
+    {
+      "source": "Science Daily",
+      "title": "A black hole the size of an atom could destroy an entire star",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261122060332.htm",
+      "published_at": "2026-11-24T20:58:15+00:00",
+      "summary_raw": "MIT scientists have discovered that tiny black holes left over from the Big Bang could slowly devour stars from within, eventually triggering spectacular explosions visible across galaxies. Detecting these unusual cosmic events could reveal the existence of primordial black holes and help solve the mystery of dark matter.",
+      "id": "d97b36890430"
+    },
+    {
+      "source": "WRAL Local",
+      "title": "Motion aims to move murder suspect out of Franklin jail after sheriff's posts",
+      "link": "https://www.wral.com/news/local/motion-murder-suspect-jail-franklin-sheriff-november-2026/",
+      "published_at": "2026-11-24T23:04:20+00:00",
+      "summary_raw": "The attorney for Devon Whaley, accused of killing a Franklin County mother in October, is seeking to have him transferred to another jail, citing safety concerns and social media posts by Franklin County Sheriff Kevin White.",
+      "id": "f921a1f0a6a2"
+    },
+    {
+      "source": "WRAL Weather",
+      "title": "How the supermoon and El Niño could push San Francisco Bay tides even higher",
+      "link": "https://www.wral.com/weather/sfo-king-tides-nov-2026/",
+      "published_at": "2026-11-23T22:28:05+00:00",
+      "summary_raw": "The sun and moon will pull the Pacific higher than it has been in nearly two decades",
+      "id": "165da33f8c06"
     },
     {
       "source": "Wired",
@@ -44,11 +156,11 @@
     },
     {
       "source": "BBC World",
-      "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
-      "link": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-24T20:59:21+00:00",
-      "summary_raw": "The verdict follows a months-long trial in New York.",
-      "id": "c980208310be"
+      "title": "DR Congo says military aircraft missing as rebels claim to shoot down plane",
+      "link": "https://www.bbc.co.uk/news/articles/cwy7r5z8gg65o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-24T19:27:23+00:00",
+      "summary_raw": "A South African fighter pilot and a Ugandan officer are reportedly among those aboard the downed plane.",
+      "id": "7aa099388947"
     },
     {
       "source": "Science Daily",
@@ -60,19 +172,19 @@
     },
     {
       "source": "WRAL Local",
-      "title": "Triangle performers to take center stage in 100th Macy’s Thanksgiving Day Parade",
-      "link": "https://www.wral.com/news/local/triangle-performers-take-stage-in-100th-macys-thanksgiving-day-parade-november-2026/",
-      "published_at": "2026-11-24T19:57:34+00:00",
-      "summary_raw": "An Athens Drive Magnet High School student and four Fuquay-Varina dancers will represent the Triangle in New York City as the Macy’s Thanksgiving Day Parade celebrates its 100th parade.",
-      "id": "bc6645ec7a4d"
+      "title": "Deputies ask for helping finding suspect in deadly shooting that involved crash at Johnston Co. home",
+      "link": "https://www.wral.com/news/local/deputies-ask-for-help-shooting-suspect-crash-johnston-county-home-nov-2026/",
+      "published_at": "2026-11-24T22:36:13+00:00",
+      "summary_raw": "According to the Johnston County Sheriff's Office, deputies identified 20-year-old Kaseem Nijil Jones as a suspect in a shooting on Nov. 20 at a home on Ravensworth Drive. Part of the home was also damaged in a crash.",
+      "id": "dc73192ae9f8"
     },
     {
       "source": "WRAL Weather",
-      "title": "How the supermoon and El Niño could push San Francisco Bay tides even higher",
-      "link": "https://www.wral.com/weather/sfo-king-tides-nov-2026/",
-      "published_at": "2026-11-23T22:28:05+00:00",
-      "summary_raw": "The sun and moon will pull the Pacific higher than it has been in nearly two decades",
-      "id": "165da33f8c06"
+      "title": "WRAL Winter Outlook: More rain, less snow? What a strong El Niño could mean",
+      "link": "https://www.wral.com/weather/winter-outlook-north-carolina-el-nino-2026/",
+      "published_at": "2026-11-23T11:00:00+00:00",
+      "summary_raw": "A potentially historic El Niño could be exactly what we need to help with the drought over the winter.",
+      "id": "cc0b3f05a377"
     },
     {
       "source": "Wired",
@@ -100,11 +212,11 @@
     },
     {
       "source": "BBC World",
-      "title": "DR Congo says military aircraft missing as rebels claim to shoot down plane",
-      "link": "https://www.bbc.co.uk/news/articles/cwy7r5z8gg65o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-24T19:27:23+00:00",
-      "summary_raw": "A South African fighter pilot and a Ugandan officer are reportedly among those aboard the downed plane.",
-      "id": "7aa099388947"
+      "title": "Nigerian monarch, 92, suspended after sexual assault claims",
+      "link": "https://www.bbc.co.uk/news/articles/cmglrz462nn6o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-24T19:10:31+00:00",
+      "summary_raw": "The Emir of Daura is one of Nigeria's best-known monarchs, with politicians often trying to gain his support.",
+      "id": "32f5991ae60e"
     },
     {
       "source": "Science Daily",
@@ -116,19 +228,19 @@
     },
     {
       "source": "WRAL Local",
-      "title": "Duke Energy's merger could save customers $2.3 billion. So why are rates going up?",
-      "link": "https://www.wral.com/news/local/duke-energy-merger-could-save-customers-money-electricity-rates-november-2026/",
-      "published_at": "2026-11-24T18:21:06+00:00",
-      "summary_raw": "Duke Energy's merger and rate increases take effect Jan. 1. Here's when customers could see savings, why rates will remain separate and how regulators plan to hold Duke accountable.",
-      "id": "6b3d9cee4eca"
+      "title": "Raleigh-area family relishes chance to appear on Family Feud",
+      "link": "https://www.wral.com/news/local/triangle-family-takes-on-family-feud-november-2026/",
+      "published_at": "2026-11-24T22:29:04+00:00",
+      "summary_raw": "Ashley Gaddy Robbins, who grew up south of Raleigh, said competing with her family on the trivia classic this week was an intergenerational experience",
+      "id": "7a20817ff8b0"
     },
     {
       "source": "WRAL Weather",
-      "title": "WRAL Winter Outlook: More rain, less snow? What a strong El Niño could mean",
-      "link": "https://www.wral.com/weather/winter-outlook-north-carolina-el-nino-2026/",
-      "published_at": "2026-11-23T11:00:00+00:00",
-      "summary_raw": "A potentially historic El Niño could be exactly what we need to help with the drought over the winter.",
-      "id": "cc0b3f05a377"
+      "title": "Ask the Meteorologist: Will wind ground balloons at 100th Macy's Thanksgiving Day Parade?",
+      "link": "https://www.wral.com/weather/ask-the-meteorologist-macys-thanksgiving-day-parade/",
+      "published_at": "2026-11-23T09:53:02+00:00",
+      "summary_raw": "If sustained winds are 23 mph and if gusts are 34 mph, the balloons at the Macy's Thanksgiving Day Parade would be grounded.",
+      "id": "1d5ecb4bf0b7"
     },
     {
       "source": "Wired",
@@ -156,11 +268,11 @@
     },
     {
       "source": "BBC World",
-      "title": "Nigerian monarch, 92, suspended after sexual assault claims",
-      "link": "https://www.bbc.co.uk/news/articles/cmglrz462nn6o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-24T19:10:31+00:00",
-      "summary_raw": "The Emir of Daura is one of Nigeria's best-known monarchs, with politicians often trying to gain his support.",
-      "id": "32f5991ae60e"
+      "title": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight",
+      "link": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-24T18:07:46+00:00",
+      "summary_raw": "Saurav Das says immigration authorities at Delhi airport told him his passport had been flagged.",
+      "id": "a89fd41ccff6"
     },
     {
       "source": "Science Daily",
@@ -172,19 +284,19 @@
     },
     {
       "source": "WRAL Local",
-      "title": "Water main break closes Five Points road",
-      "link": "https://www.wral.com/news/local/water-main-break-five-points-november-2026/",
-      "published_at": "2026-11-24T17:38:29+00:00",
-      "summary_raw": "The 2100 block of Noble Road is closed due to a water main break.",
-      "id": "e9e665f524d1"
+      "title": "It's turkey time! How to keep your Thanksgiving feast safe",
+      "link": "https://www.wral.com/news/local/turkey-time-safety-tips-november-2026/",
+      "published_at": "2026-11-24T21:16:48+00:00",
+      "summary_raw": "You can’t see, smell, or taste harmful bacteria that could cause sickness. Following these Thanksgiving safety tips will keep your family healthy and full.",
+      "id": "4acb769f5e9e"
     },
     {
       "source": "WRAL Weather",
-      "title": "Ask the Meteorologist: Will wind ground balloons at 100th Macy's Thanksgiving Day Parade?",
-      "link": "https://www.wral.com/weather/ask-the-meteorologist-macys-thanksgiving-day-parade/",
-      "published_at": "2026-11-23T09:53:02+00:00",
-      "summary_raw": "If sustained winds are 23 mph and if gusts are 34 mph, the balloons at the Macy's Thanksgiving Day Parade would be grounded.",
-      "id": "1d5ecb4bf0b7"
+      "title": "BepiColombo orbits Mercury after eight-year journey. The science is just beginning",
+      "link": "https://www.wral.com/weather/bepicolombo-nov-2026/",
+      "published_at": "2026-11-22T16:02:11+00:00",
+      "summary_raw": "The European-Japanese mission will soon deploy two spacecraft to investigate Mercury's interior, magnetic field and mysterious polar ice deposits.",
+      "id": "90903d4bb85a"
     },
     {
       "source": "Wired",
@@ -212,11 +324,11 @@
     },
     {
       "source": "BBC World",
-      "title": "US attorney general dodges questions about Nvidia investigation",
-      "link": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-24T18:55:59+00:00",
-      "summary_raw": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
-      "id": "4708b2ad009b"
+      "title": "Zimbabwean convicted in South Africa of trying to fight in Ukraine",
+      "link": "https://www.bbc.co.uk/news/articles/cmqj5qlj5yz9o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-24T17:04:00+00:00",
+      "summary_raw": "Hundreds of people from different African countries have been recruited to fight for Russia, according to Ukraine.",
+      "id": "3c3424d48cb2"
     },
     {
       "source": "Science Daily",
@@ -228,19 +340,11 @@
     },
     {
       "source": "WRAL Local",
-      "title": "National Seashore issues warning to Outer Banks ahead of the storm",
-      "link": "https://www.wral.com/news/state/national-seashore-warning-outer-banks-storm-november-2026/",
-      "published_at": "2026-11-24T17:07:18+00:00",
-      "summary_raw": "A nor’easter is expected to hit the Outer Banks on Nov. 25 and 26. It will bring strong winds and cause possible flooding. The threat to oceanfront structure damage and collapse in Rodanthe is high.",
-      "id": "43e10490d151"
-    },
-    {
-      "source": "WRAL Weather",
-      "title": "BepiColombo orbits Mercury after eight-year journey. The science is just beginning",
-      "link": "https://www.wral.com/weather/bepicolombo-nov-2026/",
-      "published_at": "2026-11-22T16:02:11+00:00",
-      "summary_raw": "The European-Japanese mission will soon deploy two spacecraft to investigate Mercury's interior, magnetic field and mysterious polar ice deposits.",
-      "id": "90903d4bb85a"
+      "title": "Charges dropped against Democratic NC congresswoman-elect LaKesha Womack in rental car case",
+      "link": "https://www.wral.com/news/local/charges-dropped-against-democratic-nc-congresswoman-elect-lakesha-womack-rental-car-november-2026/",
+      "published_at": "2026-11-24T21:09:35+00:00",
+      "summary_raw": "LaKesha Womack, the newly elected congresswoman in North Carolina's 14th Congressional District, is no longer facing criminal charges for failure to return a rented motor vehicle.",
+      "id": "5a1b3fd6dce0"
     },
     {
       "source": "Wired",
@@ -268,11 +372,11 @@
     },
     {
       "source": "BBC World",
-      "title": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight",
-      "link": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-24T18:07:46+00:00",
-      "summary_raw": "Saurav Das says immigration authorities at Delhi airport told him his passport had been flagged.",
-      "id": "a89fd41ccff6"
+      "title": "French ex-President Sarkozy and wife Carla Bruni to face trial",
+      "link": "https://www.bbc.co.uk/news/articles/c65y17pwv1z7o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-24T16:49:07+00:00",
+      "summary_raw": "It is the latest case involving Nicolas Sarkozy who became the first French ex-president to go to jail last year.",
+      "id": "7d28aadd3668"
     },
     {
       "source": "Science Daily",
@@ -284,19 +388,11 @@
     },
     {
       "source": "WRAL Local",
-      "title": "5 On Your Side: Professional holiday decorations can cost thousands. How to protect your investment",
-      "link": "https://www.wral.com/news/local/professional-holiday-decorations-christmas-protect-consumers-november-2026/",
-      "published_at": "2026-11-24T17:05:42+00:00",
-      "summary_raw": "Ahead of the holiday season, the Better Business Bureau of the Eastern Carolinas is warning consumers to be cautious before paying for professional holiday decorations.",
-      "id": "354688f207cf"
-    },
-    {
-      "source": "WRAL Weather",
-      "title": "Is the 'Age of Aquarius' dawning on Nov. 24?",
-      "link": "https://www.wral.com/weather/aquarius-nov-24/",
-      "published_at": "2026-11-21T21:57:56+00:00",
-      "summary_raw": "A planetary alignment on Nov. 24 has sparked social media speculation about the dawning of the Age of Aquarius, highlighting the historical relationship between astronomy and astrology.",
-      "id": "537f22bc16dc"
+      "title": "Airlines brace for impact, offer travel waivers ahead of a stormy Thanksgiving holiday",
+      "link": "https://www.wral.com/news/local/thanksgiving-travel-airlines-waivers-november-2026/",
+      "published_at": "2026-11-24T20:59:52+00:00",
+      "summary_raw": "Delta is allowing passengers traveling to, from, and through several cities across the Northeast to change their flight at no extra cost",
+      "id": "be79160c21da"
     },
     {
       "source": "Wired",
@@ -308,11 +404,11 @@
     },
     {
       "source": "NPR Politics",
-      "title": "Democrats win House by largest margin in 50 years. And, COP31 ends with no deal",
-      "link": "https://www.npr.org/2026/11/23/g-s1-155021/up-first-newsletter-midterms-house-ai-stocks-poland-nato-cop31",
-      "published_at": "2026-11-23T12:42:03+00:00",
-      "summary_raw": "Democrats have currently flipped 47 House seats and could flip 49 total. And, climate change talks at COP31 ran two days longer than expected, becoming the longest conference in the summit's history.",
-      "id": "97e4769547f8"
+      "title": "Ex-White House AI adviser weighs in on national security as Huang is back as Nvidia CEO",
+      "link": "https://www.npr.org/2026/11/23/nx-s1-6050936/ex-white-house-ai-advisor-weighs-in-on-national-security-as-huang-is-back-as-nvidia-ceo",
+      "published_at": "2026-11-23T22:23:29+00:00",
+      "summary_raw": "Nvidia CEO Jensen Huang is back in leadership after resigning recently. Ben Buchanan, a Biden administration AI adviser, discusses what that means for U.S. national security and chip exports.",
+      "id": "d27bd2dbe52c"
     },
     {
       "source": "NPR National",
@@ -324,11 +420,11 @@
     },
     {
       "source": "BBC World",
-      "title": "Zimbabwean convicted in South Africa of trying to fight in Ukraine",
-      "link": "https://www.bbc.co.uk/news/articles/cmqj5qlj5yz9o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-24T17:04:00+00:00",
-      "summary_raw": "Hundreds of people from different African countries have been recruited to fight for Russia, according to Ukraine.",
-      "id": "3c3424d48cb2"
+      "title": "Israeli air strike kills Hamas internal security chief in Gaza",
+      "link": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-24T15:35:53+00:00",
+      "summary_raw": "Naeem Abu Nahel, who had been in the post for two months, is among seven Palestinians reportedly killed in Israeli strikes on Tuesday.",
+      "id": "166a59f8656d"
     },
     {
       "source": "Science Daily",
@@ -340,11 +436,11 @@
     },
     {
       "source": "WRAL Local",
-      "title": "NC State vets working to save puppy found shot in Lee County",
-      "link": "https://www.wral.com/news/local/puppy-shot-recovery-lee-county-nc-state-november-2026/",
-      "published_at": "2026-11-24T15:39:49+00:00",
-      "summary_raw": "Veterinarians at NC State are working to save a 6-month-old puppy found severely injured in a Lee County ditch, with medical expenses mounting and his chances of walking again uncertain.",
-      "id": "fa86c6590479"
+      "title": "Fact-checking claims tying the FAA ground stop to AI company that donated to Duffy's son-in-law",
+      "link": "https://www.wral.com/news/state/fact-check-faa-ground-stop-ai-company-duffy-alfonso-november-24/",
+      "published_at": "2026-11-24T20:47:57+00:00",
+      "summary_raw": "After a Nov. 13 nationwide ground stop affected thousands of flights and left about 1.5 million people stranded, social media observers noted the recent launch of a new artificial intelligence system deployed across air route traffic control centers.",
+      "id": "f91bf4ef3934"
     },
     {
       "source": "Wired",
@@ -356,11 +452,11 @@
     },
     {
       "source": "NPR Politics",
-      "title": "After midterm losses, Republicans debate what's next for the party",
-      "link": "https://www.npr.org/2026/11/23/nx-s1-6044259/after-midterm-losses-republicans-debate-whats-next-for-the-party",
-      "published_at": "2026-11-23T09:45:06+00:00",
-      "summary_raw": "In the wake of their midterm election losses, Republicans are discussing what happened and what the future might be for their party.",
-      "id": "a6168390bde6"
+      "title": "Democrats win House by largest margin in 50 years. And, COP31 ends with no deal",
+      "link": "https://www.npr.org/2026/11/23/g-s1-155021/up-first-newsletter-midterms-house-ai-stocks-poland-nato-cop31",
+      "published_at": "2026-11-23T12:42:03+00:00",
+      "summary_raw": "Democrats have currently flipped 47 House seats and could flip 49 total. And, climate change talks at COP31 ran two days longer than expected, becoming the longest conference in the summit's history.",
+      "id": "97e4769547f8"
     },
     {
       "source": "NPR National",
@@ -372,11 +468,11 @@
     },
     {
       "source": "BBC World",
-      "title": "French ex-President Sarkozy and wife Carla Bruni to face trial",
-      "link": "https://www.bbc.co.uk/news/articles/c65y17pwv1z7o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-24T16:49:07+00:00",
-      "summary_raw": "It is the latest case involving Nicolas Sarkozy who became the first French ex-president to go to jail last year.",
-      "id": "7d28aadd3668"
+      "title": "Land mine casualties soar in Syria, two years after war",
+      "link": "https://www.bbc.co.uk/news/articles/c893rl37ywdgo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-24T15:17:28+00:00",
+      "summary_raw": "Nearly 1,000 children are among those killed or injured by explosives left over from the conflict, figures show.",
+      "id": "63b5a4aa3f69"
     },
     {
       "source": "Science Daily",
@@ -388,11 +484,11 @@
     },
     {
       "source": "WRAL Local",
-      "title": "Last-minute holiday needs? These stores are open on Thanksgiving",
-      "link": "https://www.wral.com/news/local/stores-open-on-thanksgiving-november-2026/",
-      "published_at": "2026-11-24T13:39:30+00:00",
-      "summary_raw": "If you still have last-minute shopping to do, these stores are open on Thanksgiving Day.",
-      "id": "44051998c857"
+      "title": "Triangle performers to take center stage in 100th Macy’s Thanksgiving Day Parade",
+      "link": "https://www.wral.com/news/local/triangle-performers-take-stage-in-100th-macys-thanksgiving-day-parade-november-2026/",
+      "published_at": "2026-11-24T19:57:34+00:00",
+      "summary_raw": "An Athens Drive Magnet High School student and four Fuquay-Varina dancers will represent the Triangle in New York City as the Macy’s Thanksgiving Day Parade celebrates its 100th parade.",
+      "id": "bc6645ec7a4d"
     },
     {
       "source": "Wired",
@@ -404,11 +500,11 @@
     },
     {
       "source": "NPR Politics",
-      "title": "Politics chat: Lawmakers step up with only weeks to Democrats' control of Congress",
-      "link": "https://www.npr.org/2026/11/22/nx-s1-6045787/politics-chat-lawmakers-step-up-with-only-weeks-to-democrats-control-of-congress",
-      "published_at": "2026-11-22T13:12:09+00:00",
-      "summary_raw": "A funding deadline for Congress weeks before Democrats take control. President Trump signs an executive order requiring contractors to get approval before sharing with Congressional investigations.",
-      "id": "f613037f3871"
+      "title": "After midterm losses, Republicans debate what's next for the party",
+      "link": "https://www.npr.org/2026/11/23/nx-s1-6044259/after-midterm-losses-republicans-debate-whats-next-for-the-party",
+      "published_at": "2026-11-23T09:45:06+00:00",
+      "summary_raw": "In the wake of their midterm election losses, Republicans are discussing what happened and what the future might be for their party.",
+      "id": "a6168390bde6"
     },
     {
       "source": "NPR National",
@@ -420,11 +516,11 @@
     },
     {
       "source": "BBC World",
-      "title": "Israeli air strike kills Hamas internal security chief in Gaza",
-      "link": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-24T15:35:53+00:00",
-      "summary_raw": "Naeem Abu Nahel, who had been in the post for two months, is among seven Palestinians reportedly killed in Israeli strikes on Tuesday.",
-      "id": "166a59f8656d"
+      "title": "Russian governor detained in rare criminal case against regional leader",
+      "link": "https://www.bbc.co.uk/news/articles/cmwy868v3nneo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-24T12:45:43+00:00",
+      "summary_raw": "Andrei Chibis, head of Russia's northern Murmansk region, is the first governor to be detained for five years.",
+      "id": "d30ce7187491"
     },
     {
       "source": "Science Daily",
@@ -436,11 +532,11 @@
     },
     {
       "source": "WRAL Local",
-      "title": "Young person shot near Fuquay-Varina",
-      "link": "https://www.wral.com/news/local/young-person-shot-fleming-road-fuquay-varina-november-2026/",
-      "published_at": "2026-11-24T12:13:24+00:00",
-      "summary_raw": "A juvenile showed up at the hospital Tuesday morning in connection with a shooting near Fuquay-Varina. Wake County deputies believe the shooting happened along Fleming Road.",
-      "id": "f95521a1e300"
+      "title": "Duke Energy's merger could save customers $2.3 billion. So why are rates going up?",
+      "link": "https://www.wral.com/news/local/duke-energy-merger-could-save-customers-money-electricity-rates-november-2026/",
+      "published_at": "2026-11-24T18:21:06+00:00",
+      "summary_raw": "Duke Energy's merger and rate increases take effect Jan. 1. Here's when customers could see savings, why rates will remain separate and how regulators plan to hold Duke accountable.",
+      "id": "6b3d9cee4eca"
     },
     {
       "source": "Wired",
@@ -451,28 +547,12 @@
       "id": "1e23240ef7d9"
     },
     {
-      "source": "NPR Politics",
-      "title": "Christian nationalist conference hosts Nick Fuentes, vows to keep pushing MAGA agenda",
-      "link": "https://www.npr.org/2026/11/22/nx-s1-6040018/christian-nationalist-conference-hosts-nick-fuentes-vows-to-keep-pushing-maga-agenda",
-      "published_at": "2026-11-22T13:12:08+00:00",
-      "summary_raw": "A particular group of Christian nationalists met in Texas last weekend and vowed to push what remains of MAGA as far to the right as possible. They hosted antisemitic streamer Nick Fuentes.",
-      "id": "534ee5ac501a"
-    },
-    {
-      "source": "NPR National",
-      "title": "As holidays approach, food banks face increased demand",
-      "link": "https://www.npr.org/2026/11/23/nx-s1-6048664/as-holidays-approach-food-banks-face-increased-demand",
-      "published_at": "2026-11-23T09:44:39+00:00",
-      "summary_raw": "Under pressure from higher grocery prices, more people turn to food banks. NPR's Steve Inskeep speaks with Linda Nageotte of Feeding America, a nonprofit running a network of food banks.",
-      "id": "494517a675e2"
-    },
-    {
       "source": "BBC World",
-      "title": "Land mine casualties soar in Syria, two years after war",
-      "link": "https://www.bbc.co.uk/news/articles/c893rl37ywdgo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-24T15:17:28+00:00",
-      "summary_raw": "Nearly 1,000 children are among those killed or injured by explosives left over from the conflict, figures show.",
-      "id": "63b5a4aa3f69"
+      "title": "Car bomb tears through Colombian city wounding more than 20",
+      "link": "https://www.bbc.co.uk/news/articles/cjqlq2n4np7do?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-24T11:45:52+00:00",
+      "summary_raw": "The explosion is the latest in a string of attacks on buildings housing the security forces and government offices.",
+      "id": "d34a28e82727"
     },
     {
       "source": "Science Daily",
@@ -483,14 +563,6 @@
       "id": "b5b507248c53"
     },
     {
-      "source": "WRAL Local",
-      "title": "Two Triad students will perform in Macy's Thanksgiving Day Parade",
-      "link": "https://www.wral.com/news/state/two-triad-students-perform-macys-day-parade-november-2026/",
-      "published_at": "2026-11-24T11:56:49+00:00",
-      "summary_raw": "Two students from the Triad, a high school senior and a college freshman, will showcase their talents in the Macy’s Thanksgiving Day Parade in New York City.",
-      "id": "0f62c31dfdae"
-    },
-    {
       "source": "Wired",
       "title": "This Hollywood Star Took on Crypto. Now He’s Got a New Target",
       "link": "https://www.wired.com/story/this-hollywood-star-took-on-crypto-now-hes-got-a-new-target/",
@@ -499,28 +571,12 @@
       "id": "f5a62bd4deb9"
     },
     {
-      "source": "NPR Politics",
-      "title": "Medicare looks a bit different in 2027, so don't miss open enrollment",
-      "link": "https://www.npr.org/2026/11/22/nx-s1-6036735/medicare-open-enrollment-2027",
-      "published_at": "2026-11-22T13:11:04+00:00",
-      "summary_raw": "Open enrollment for Medicare runs through Dec. 7, and there are a few different pitfalls people should watch out for this year. Your drug plan or Medicare Advantage plan could be changing a lot.",
-      "id": "7b306ae35bb3"
-    },
-    {
-      "source": "NPR National",
-      "title": "Army reschedules detonation of toxic explosives in Iowa for Wednesday",
-      "link": "https://www.npr.org/2026/11/23/nx-s1-6048731/army-reschedules-detonation-of-toxic-explosives-in-iowa-for-wednesday",
-      "published_at": "2026-11-23T09:43:33+00:00",
-      "summary_raw": "The U.S. Army has rescheduled the detonation of about five tons of bomb-making material in Iowa to Wednesday to accommodate weather and \"mitigation measures.\"",
-      "id": "df5080113f1e"
-    },
-    {
       "source": "BBC World",
-      "title": "Russian governor detained in rare criminal case against regional leader",
-      "link": "https://www.bbc.co.uk/news/articles/cmwy868v3nneo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-24T12:45:43+00:00",
-      "summary_raw": "Andrei Chibis, head of Russia's northern Murmansk region, is the first governor to be detained for five years.",
-      "id": "d30ce7187491"
+      "title": "Pope Francis' diary reveals claims he saw the devil three times",
+      "link": "https://www.bbc.co.uk/news/articles/cm78270l4z7no?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-24T11:10:57+00:00",
+      "summary_raw": "Published extracts from the late pontiff's diary claim one of the visions happened \"in the choir loft\" during Mass.",
+      "id": "c9f4372ea671"
     },
     {
       "source": "Science Daily",
@@ -529,14 +585,6 @@
       "published_at": "2026-11-24T00:31:03+00:00",
       "summary_raw": "Depression in older adults may be more than a mental health concern. Scientists discovered that accumulating tau protein, a hallmark of Alzheimer's disease, was linked to worsening depressive symptoms in people who still had normal memory and thinking abilities. The faster tau built up in the brain, the faster depressive symptoms increased, suggesting that mood changes could emerge before cognitive decline.",
       "id": "35d9967650b3"
-    },
-    {
-      "source": "WRAL Local",
-      "title": "Best times to travel for Thanksgiving: 72 million people expected to hit the road this week",
-      "link": "https://www.wral.com/news/local/aaa-thanksgiving-drivers-best-worst-times-travel-november-2026/",
-      "published_at": "2026-11-24T11:47:11+00:00",
-      "summary_raw": "AAA projects more than 72 million people will travel for Thanksgiving. The worst times to travel are Tuesday between 2 p.m. and 8 p.m. and Wednesday between noon and 7 p.m.",
-      "id": "971c95dbac97"
     },
     {
       "source": "Wired",
@@ -548,11 +596,11 @@
     },
     {
       "source": "BBC World",
-      "title": "Car bomb tears through Colombian city wounding more than 20",
-      "link": "https://www.bbc.co.uk/news/articles/cjqlq2n4np7do?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-24T11:45:52+00:00",
-      "summary_raw": "The explosion is the latest in a string of attacks on buildings housing the security forces and government offices.",
-      "id": "d34a28e82727"
+      "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
+      "link": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-24T10:58:51+00:00",
+      "summary_raw": "German media said Russia planned to launch a satellite with a nuclear warhead into space in coming weeks.",
+      "id": "02260ed06ed2"
     },
     {
       "source": "Science Daily",
@@ -572,11 +620,11 @@
     },
     {
       "source": "BBC World",
-      "title": "Pope Francis' diary reveals claims he saw the devil three times",
-      "link": "https://www.bbc.co.uk/news/articles/cm78270l4z7no?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-24T11:10:57+00:00",
-      "summary_raw": "Published extracts from the late pontiff's diary claim one of the visions happened \"in the choir loft\" during Mass.",
-      "id": "c9f4372ea671"
+      "title": "Watch: Moment troops raid home and capture Mexican drug lord",
+      "link": "https://www.bbc.co.uk/news/videos/cm62p9y3y04qo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-24T09:09:41+00:00",
+      "summary_raw": "Newly-released bodycam footage shows the moment troops detained 'El Chapo Isidro', who had managed to evade capture for years.",
+      "id": "070b1238e170"
     },
     {
       "source": "Science Daily",
@@ -593,54 +641,6 @@
       "published_at": "2026-11-24T11:30:00+00:00",
       "summary_raw": "A telehealth clinic is offering orforglipron, the active ingredient in Eli Lilly’s prescription weight-loss pill Foundayo, in edible chocolate squares. Lilly is not amused.",
       "id": "b10002b262e9"
-    },
-    {
-      "source": "BBC World",
-      "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
-      "link": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-24T10:58:51+00:00",
-      "summary_raw": "German media said Russia planned to launch a satellite with a nuclear warhead into space in coming weeks.",
-      "id": "02260ed06ed2"
-    },
-    {
-      "source": "Science Daily",
-      "title": "A galactic shock wave could rewrite the map of the Milky Way",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261122060329.htm",
-      "published_at": "2026-11-23T11:41:39+00:00",
-      "summary_raw": "A surprising discovery suggests the Milky Way may be making stars in places where most galaxies cannot. Scientists found evidence that a massive rotating structure near the galactic center is creating powerful shock waves that trigger star formation rather than suppress it. Even more unexpectedly, part of the Norma spiral arm may not be a spiral arm at all, but a vast region where new stars are being born.",
-      "id": "75275dfbd530"
-    },
-    {
-      "source": "Wired",
-      "title": "The Best Early Black Friday MacBook Deals (2026)",
-      "link": "https://www.wired.com/story/best-black-friday-macbook-deals-2026/",
-      "published_at": "2026-11-24T11:30:00+00:00",
-      "summary_raw": "Many of the best laptops in Apple’s MacBook lineup are on sale ahead of Black Friday, including great discounts on the MacBook Air and MacBook Neo.",
-      "id": "6f027a22f55e"
-    },
-    {
-      "source": "BBC World",
-      "title": "Watch: Moment troops raid home and capture Mexican drug lord",
-      "link": "https://www.bbc.co.uk/news/videos/cm62p9y3y04qo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-24T09:09:41+00:00",
-      "summary_raw": "Newly-released bodycam footage shows the moment troops detained 'El Chapo Isidro', who had managed to evade capture for years.",
-      "id": "070b1238e170"
-    },
-    {
-      "source": "Science Daily",
-      "title": "Two monster black holes from the dawn of time defy explanation",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261122060342.htm",
-      "published_at": "2026-11-23T11:21:06+00:00",
-      "summary_raw": "Astronomers have discovered the oldest known compact pair of quasars, powered by two enormous black holes that existed just 900 million years after the Big Bang. Weighing an astonishing 1.5 billion and 400 million times the mass of the Sun, these cosmic giants somehow grew to incredible sizes far earlier than current theories can explain.",
-      "id": "478879921c05"
-    },
-    {
-      "source": "Wired",
-      "title": "GPS Dog Collar for Less: Fi Black Friday Sale (2026)",
-      "link": "https://www.wired.com/story/fi-pet-trackers-deal-11-2026/",
-      "published_at": "2026-11-24T11:15:00+00:00",
-      "summary_raw": "Get Fi’s lineup of GPS and health trackers for cats and dogs at 50 percent off right now for Black Friday.",
-      "id": "0c5dd0acfb52"
     }
   ]
 }
